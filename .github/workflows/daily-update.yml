@@ -1,0 +1,37 @@
+name: Daily Market Data Update
+
+on:
+  schedule:
+    # 毎日 UTC 23:00（日本時間 08:00 翌日）に実行
+    - cron: '0 23 * * *'
+  # 手動トリガーも有効化
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+      
+      - name: Run data fetch script
+        run: python scripts/fetch_data.py
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/market.db
+          git commit -m "Daily update: $(date)" || echo "No changes to commit"
+          git push

@@ -141,43 +141,25 @@ def fetch_news_from_api():
         print(f"ニュース取得エラー: {e}")
         return []
 
-def save_to_db(stocks, bonds, bitcoin, news):
-    """データをSQLiteに保存"""
-    conn = sqlite3.connect(DB_PATH)
-    cursor = conn.cursor()
+def save_to_json(stocks, bonds, bitcoin, news):
+    """ニュースをJSONファイルに保存"""
+    import json
     
-    cursor.execute('DELETE FROM stocks')
-    cursor.execute('DELETE FROM bonds')
-    cursor.execute('DELETE FROM bitcoin')
-    cursor.execute('DELETE FROM news')
+    data = {
+        'stocks': stocks,
+        'bonds': bonds,
+        'bitcoin': bitcoin,
+        'news': news
+    }
     
-    for stock in stocks:
-        cursor.execute('''
-            INSERT INTO stocks (symbol, price, change, date)
-            VALUES (?, ?, ?, ?)
-        ''', (stock['symbol'], stock['price'], stock['change'], stock['date']))
+    # data/news.json に保存
+    json_path = 'data/news.json'
+    os.makedirs(os.path.dirname(json_path), exist_ok=True)
     
-    for bond in bonds:
-        cursor.execute('''
-            INSERT INTO bonds (name, yield, date)
-            VALUES (?, ?, ?)
-        ''', (bond['name'], bond['yield'], bond['date']))
+    with open(json_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
     
-    if bitcoin:
-        cursor.execute('''
-            INSERT INTO bitcoin (price, date)
-            VALUES (?, ?)
-        ''', (bitcoin['price'], bitcoin['date']))
-    
-    for i, article in enumerate(news, 1):
-        cursor.execute('''
-            INSERT INTO news (id, title, source, url, date)
-            VALUES (?, ?, ?, ?, ?)
-        ''', (i, article['title'], article['source'], article['url'], article['date']))
-    
-    conn.commit()
-    conn.close()
-    print("データをSQLiteに保存しました")
+    print("データをJSONファイルに保存しました")
 
 def main():
     """メイン処理"""

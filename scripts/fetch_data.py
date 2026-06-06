@@ -5,6 +5,10 @@ from datetime import datetime
 
 DB_PATH = 'data/market.db'
 
+# データディレクトリを作成
+import os
+os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
+
 def init_db():
     """SQLiteデータベースを初期化"""
     conn = sqlite3.connect(DB_PATH)

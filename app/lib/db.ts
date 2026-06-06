@@ -41,7 +41,6 @@ export const getMockData = () => ({
     { id: 1, price: 62500, date: new Date().toISOString() },
   ],
   news: [
-news: [
     { id: 1, title: 'Apple reports strong Q1 earnings', source: 'Bloomberg', url: '#', date: new Date().toISOString() },
     { id: 2, title: 'Fed signals pause on rate hikes', source: 'Reuters', url: '#', date: new Date().toISOString() },
     { id: 3, title: 'Bitcoin reaches new ATH', source: 'CNBC', url: '#', date: new Date().toISOString() },

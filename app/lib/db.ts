@@ -71,6 +71,5 @@ export const getMockData = () => ({
     { id: 28, title: 'Electric vehicle sales accelerate', source: 'Bloomberg', url: '#', date: new Date().toISOString() },
     { id: 29, title: 'Renewable energy investments hit record', source: 'Reuters', url: '#', date: new Date().toISOString() },
     { id: 30, title: 'Financial sector embraces blockchain technology', source: 'CNBC', url: '#', date: new Date().toISOString() },
-],
   ],
 });

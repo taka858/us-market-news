@@ -1,9 +1,8 @@
 import sqlite3
-import json
 import requests
+import os
 from datetime import datetime
 
-# SQLiteデータベース接続
 DB_PATH = 'data/market.db'
 
 def init_db():
@@ -11,7 +10,6 @@ def init_db():
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     
-    # テーブル作成
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS stocks (
             id INTEGER PRIMARY KEY,
@@ -59,7 +57,6 @@ def fetch_stock_data():
         stocks = []
         
         for symbol in symbols:
-            # Yahoo Finance API（簡易版）
             url = f'https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range=1d'
             response = requests.get(url, timeout=5)
             data = response.json()
@@ -88,7 +85,6 @@ def fetch_bitcoin_data():
         url = 'https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd'
         response = requests.get(url, timeout=5)
         data = response.json()
-        
         btc_price = data['bitcoin']['usd']
         return {
             'price': btc_price,
@@ -99,10 +95,8 @@ def fetch_bitcoin_data():
         return None
 
 def fetch_bonds_data():
-    """米国債データを取得（簡易版）"""
+    """米国債データを取得"""
     try:
-        # 実際の債券データはAPIで取得することを推奨
-        # ここではダミーデータを使用
         bonds = [
             {'name': '10Y Treasury', 'yield': 4.25},
             {'name': '2Y Treasury', 'yield': 4.75},
@@ -116,36 +110,66 @@ def fetch_bonds_data():
         print(f"債券データ取得エラー: {e}")
         return []
 
-def save_to_db(stocks, bonds, bitcoin):
+def fetch_news_from_api():
+    """NewsAPI から最新ニュースを取得"""
+    try:
+        api_key = os.getenv('NEWS_API_KEY')
+        if not api_key:
+            print("NEWS_API_KEY が設定されていません")
+            return []
+        
+        url = f'https://newsapi.org/v2/everything?q=stocks+OR+bonds+OR+bitcoin&sortBy=publishedAt&language=en&pageSize=30&apiKey={api_key}'
+        response = requests.get(url, timeout=10)
+        data = response.json()
+        
+        news_list = []
+        if 'articles' in data:
+            for article in data['articles'][:30]:
+                news_list.append({
+                    'title': article['title'][:200],
+                    'source': article['source']['name'][:50],
+                    'url': article['url'],
+                    'date': article['publishedAt']
+                })
+        
+        return news_list
+    except Exception as e:
+        print(f"ニュース取得エラー: {e}")
+        return []
+
+def save_to_db(stocks, bonds, bitcoin, news):
     """データをSQLiteに保存"""
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     
-    # 既存データを削除
     cursor.execute('DELETE FROM stocks')
     cursor.execute('DELETE FROM bonds')
     cursor.execute('DELETE FROM bitcoin')
+    cursor.execute('DELETE FROM news')
     
-    # 株価を保存
     for stock in stocks:
         cursor.execute('''
             INSERT INTO stocks (symbol, price, change, date)
             VALUES (?, ?, ?, ?)
         ''', (stock['symbol'], stock['price'], stock['change'], stock['date']))
     
-    # 債券を保存
     for bond in bonds:
         cursor.execute('''
             INSERT INTO bonds (name, yield, date)
             VALUES (?, ?, ?)
         ''', (bond['name'], bond['yield'], bond['date']))
     
-    # ビットコイン保存
     if bitcoin:
         cursor.execute('''
             INSERT INTO bitcoin (price, date)
             VALUES (?, ?)
         ''', (bitcoin['price'], bitcoin['date']))
+    
+    for i, article in enumerate(news, 1):
+        cursor.execute('''
+            INSERT INTO news (id, title, source, url, date)
+            VALUES (?, ?, ?, ?, ?)
+        ''', (i, article['title'], article['source'], article['url'], article['date']))
     
     conn.commit()
     conn.close()
@@ -159,9 +183,10 @@ def main():
     stocks = fetch_stock_data()
     bonds = fetch_bonds_data()
     bitcoin = fetch_bitcoin_data()
+    news = fetch_news_from_api()
     
-    if stocks or bonds or bitcoin:
-        save_to_db(stocks, bonds, bitcoin)
+    if stocks or bonds or bitcoin or news:
+        save_to_db(stocks, bonds, bitcoin, news)
         print("完了！")
     else:
         print("データ取得に失敗しました")

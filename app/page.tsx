@@ -1,4 +1,4 @@
-import { getMockData } from '@/app/lib/db';
+import { getMockData } from './lib/db';
 
 export default function Home() {
   const data = getMockData();

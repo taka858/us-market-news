@@ -55,23 +55,19 @@ export default function Home() {
           </div>
         </section>
 
-        {/* News Section */}
-        <section>
-          <h2 className="text-2xl font-bold mb-6">Latest News</h2>
-          <div className="space-y-4">
-            {data.news.map((item) => (
-              <div key={item.id} className="bg-gray-800 p-4 rounded-lg border border-gray-700 hover:bg-gray-700 transition">
-                <div className="flex justify-between items-start">
-                  <h3 className="text-lg font-semibold">{item.title}</h3>
-                  <span className="text-xs bg-blue-600 px-2 py-1 rounded">{item.source}</span>
-                </div>
-                <p className="text-gray-400 text-sm mt-2">
-                  {new Date(item.date).toLocaleDateString()}
-                </p>
-              </div>
-            ))}
-          </div>
-        </section>
+{/* News Section */}
+<section>
+  <h2 className="text-2xl font-bold mb-6">Latest News</h2>
+  <div className="space-y-2">
+    {data.news.map((item) => (
+      <div key={item.id} className="flex items-center gap-4 p-2 border-b border-gray-700 hover:bg-gray-800 transition">
+        <span className="text-sm text-gray-500 min-w-fit">{new Date(item.date).toLocaleDateString()} {new Date(item.date).toLocaleTimeString()}</span>
+        <span className="text-gray-300 flex-1">{item.title}</span>
+        <span className="text-xs bg-blue-600 px-2 py-1 rounded min-w-fit">{item.source}</span>
+      </div>
+    ))}
+  </div>
+</section>
       </main>
     </div>
   );

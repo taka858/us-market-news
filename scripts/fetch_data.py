@@ -172,7 +172,7 @@ def main():
     news = fetch_news_from_api()
     
     if stocks or bonds or bitcoin or news:
-        save_to_db(stocks, bonds, bitcoin, news)
+        save_to_json(stocks, bonds, bitcoin, news)
         print("完了！")
     else:
         print("データ取得に失敗しました")

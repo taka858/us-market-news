@@ -4,17 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-06-07T00:23:52.010677"
+      "date": "2026-06-07T00:26:54.006825"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-06-07T00:23:52.010684"
+      "date": "2026-06-07T00:26:54.006834"
     }
   ],
   "bitcoin": {
-    "price": 60808,
-    "date": "2026-06-07T00:23:52.056277"
+    "price": 60803,
+    "date": "2026-06-07T00:26:54.135889"
   },
-  "news": []
+  "news": [
+    {
+      "title": "Binance Research projects crypto users could funnel $5T into equity markets by 2031",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/binance-research-crypto-equity-capital-2031/",
+      "date": "2026-06-06T00:15:30Z"
+    },
+    {
+      "title": "Breitbart Business Digest: Trump’s Economy Is Cooking—188,000 Jobs, Factories Roaring, Pay Checks Singing",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/economy/2026/06/05/breitbart-business-digest-trumps-economy-is-cooking-188000-jobs-factories-roaring-pay-checks-singing/",
+      "date": "2026-06-06T00:09:17Z"
+    },
+    {
+      "title": "Bitcoin’s Market Structure Reflects The Influence Of Major Investors",
+      "source": "newsBTC",
+      "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-major-investors-influence/",
+      "date": "2026-06-06T00:00:00Z"
+    },
+    {
+      "title": "Quiet streets in Kelvin Heights reflect Queenstown housing divide",
+      "source": "New Zealand Herald",
+      "url": "https://www.nzherald.co.nz/nz/quiet-streets-in-kelvin-heights-reflect-queenstown-housing-divide/premium/VE7RAEFBB5CIRMQERIP5242SYA/",
+      "date": "2026-06-06T00:00:00Z"
+    },
+    {
+      "title": "Central bank turns piper to draw in foreign capital; leaves repo rate at 5.25, keeps stance neutral",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/central-bank-turns-piper-to-draw-in-foreign-capital-leaves-repo-rate-at-5-25-keeps-stance-neutral/articleshow/131540001.cms",
+      "date": "2026-06-06T00:00:00Z"
+    },
+    {
+      "title": "Bitcoin Falls Below $60,000 for First Time Since 2024 Trump Win - Yahoo Finance",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183614976",
+      "date": "2026-06-05T23:52:14Z"
+    },
+    {
+      "title": "Venezuela Seeks Financial Reintegration Amid Easing Inflation | Business",
+      "source": "Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/business/3931053-venezuela-seeks-financial-reintegration-amid-easing-inflation",
+      "date": "2026-06-05T23:49:46Z"
+    },
+    {
+      "title": "Trump directs $500M in Defense Production Act funds to revive US coal industry",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-coal-industry-emergency-powers/",
+      "date": "2026-06-05T23:28:06Z"
+    },
+    {
+      "title": "Nescafé Coffee Sachets 10 Pack Selected Varieties $4 & $5 Cashback (IGA Rewards & App Required) @ Participating IGA",
+      "source": "Ozbargain.com.au",
+      "url": "https://www.ozbargain.com.au/node/962288",
+      "date": "2026-06-05T23:27:20Z"
+    },
+    {
+      "title": "Markets have worst day since October as tech stocks lead the way down, traders lose hope of rate cut",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/05/auto-draft-5/",
+      "date": "2026-06-05T23:10:12Z"
+    },
+    {
+      "title": "Hezbollah approaches Trump to discuss halting fighting in Lebanon",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/hezbollah-trump-lebanon-ceasefire-talks/",
+      "date": "2026-06-05T23:04:13Z"
+    },
+    {
+      "title": "New York bill would replace 'mother' and 'father' with gender-neutral terms in family law",
+      "source": "Snopes.com",
+      "url": "https://www.snopes.com//fact-check/new-york-mother-father-gestating/",
+      "date": "2026-06-05T22:52:00Z"
+    },
+    {
+      "title": "Street Fighter 6 Year 4 DLC characters Yasmine, Arjun, Tifa, and Bosch announced",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/street-fighter-6-year-4-dlc-characters-yasmine-arjun-tifa-and-bosch-announced",
+      "date": "2026-06-05T22:45:18Z"
+    },
+    {
+      "title": "House passes $8B security aid bill for Ukraine amid GOP objections",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/house-passes-8b-ukraine-aid-bill/",
+      "date": "2026-06-05T22:41:24Z"
+    },
+    {
+      "title": "China’s semiconductor stocks rally on IPOs, Huawei chip breakthroughs",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/china-semiconductor-stocks-rally-huawei-chip/",
+      "date": "2026-06-05T22:41:03Z"
+    },
+    {
+      "title": "Trump takes victory lap on hiring surge and stock rally— vows gas will drop in 90 days when we ‘come out of Iran’",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/05/us-news/trump-takes-victory-lap-on-hiring-surge-vows-gas-will-drop-in-90-days-when-we-come-out-of-iran/",
+      "date": "2026-06-05T22:36:13Z"
+    },
+    {
+      "title": "Bitcoin Price Hits Lowest Level Since Before Trump’s 2024 Election Win",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/bitcoin-price-hits-lowest-level-since-before-trumps-2024-election-win-2000768314",
+      "date": "2026-06-05T22:35:53Z"
+    },
+    {
+      "title": "Sea of Remnants ‘Make It Loud’ trailer",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/sea-of-remnants-make-it-loud-trailer",
+      "date": "2026-06-05T22:34:56Z"
+    },
+    {
+      "title": "Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/05/tech-stocks-market-bloodbath-fed-rate-hikes-jobs-report-ai-fueled-chip-boom/",
+      "date": "2026-06-05T22:33:23Z"
+    },
+    {
+      "title": "Bitcoin’s Crash Has Broken Below A 4-Month Support, But There’s Still One More Play Left",
+      "source": "newsBTC",
+      "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-loses-4-month-support/",
+      "date": "2026-06-05T22:30:15Z"
+    },
+    {
+      "title": "Cramer’s week ahead: Stocks face pressure from rates, oil, and a flood of new offerings",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/05/cramers-week-ahead-stocks-face-pressure-from-rates-oil-and-a-flood-of-new-offerings.html",
+      "date": "2026-06-05T22:27:16Z"
+    },
+    {
+      "title": "US money market funds surge $66B to record $8.2T as investors rebalance",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/money-market-funds-record-8-trillion/",
+      "date": "2026-06-05T22:18:41Z"
+    },
+    {
+      "title": "ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next?",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next",
+      "date": "2026-06-05T22:18:29Z"
+    },
+    {
+      "title": "U.S. Crypto Market Structure Reform: Is This the Bill That Will Redefine Bitcoin, ETFs, and Crypto Exchanges in 2026?",
+      "source": "Bitcoinfoundation.org",
+      "url": "https://bitcoinfoundation.org/news/bitcoin/u-s-crypto-market-structure-reform-is-this-the-bill-that-will-redefine-bitcoin-etfs-and-crypto-exchanges-in-2026/",
+      "date": "2026-06-05T22:10:38Z"
+    },
+    {
+      "title": "Trump Falsely Claims African American Unemployment Is Lowest Ever, Admits, ‘I Don’t Know Where That Stat Came From’",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/tv/trump-falsely-claims-african-american-unemployment-is-lowest-ever-admits-i-dont-know-where-that-stat-came-from/",
+      "date": "2026-06-05T22:08:47Z"
+    },
+    {
+      "title": "Star Wars Zero Company launches August 27",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/06/star-wars-zero-company-launches-august-27",
+      "date": "2026-06-05T22:08:06Z"
+    },
+    {
+      "title": "Corgi Launches Suite of Six Fixed Income ETFs on Cboe BZX, Capping a Week of 50 Fund Launches",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/corgi-launches-suite-of-six-fixed-income-etfs-on-cboe-bzx-capping-a-week-of-50-fund-launches-302793044.html",
+      "date": "2026-06-05T22:03:00Z"
+    },
+    {
+      "title": "The Elon Premium is Real",
+      "source": "Dailyreckoning.com",
+      "url": "https://dailyreckoning.com/the-elon-premium-is-real/",
+      "date": "2026-06-05T22:00:25Z"
+    },
+    {
+      "title": "Guild Wars 3 Officially Announced With Upcoming Beta",
+      "source": "Screen Rant",
+      "url": "https://screenrant.com/guild-wars-3-officially-announced-beta/",
+      "date": "2026-06-05T22:00:21Z"
+    },
+    {
+      "title": "Guild Wars 3 Is an Action/Adventure MMORPG Prequel Slated for PC and PlayStation 5 with Closed Beta in Fall 2027",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/guild-wars-3-announced-pc-ps5/",
+      "date": "2026-06-05T22:00:00Z"
+    }
+  ]
 }

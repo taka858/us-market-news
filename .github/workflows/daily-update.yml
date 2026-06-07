@@ -13,6 +13,8 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    env:
+      NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
     
     steps:
       - name: Checkout repository

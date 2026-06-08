@@ -4,198 +4,186 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-06-07T00:26:54.006825"
+      "date": "2026-06-08T00:02:58.031277"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-06-07T00:26:54.006834"
+      "date": "2026-06-08T00:02:58.031282"
     }
   ],
   "bitcoin": {
-    "price": 60803,
-    "date": "2026-06-07T00:26:54.135889"
+    "price": 63232,
+    "date": "2026-06-08T00:02:58.071004"
   },
   "news": [
     {
-      "title": "Binance Research projects crypto users could funnel $5T into equity markets by 2031",
+      "title": "Why Nigeria’s economic growth depends on fixing its transport system",
+      "source": "The Punch",
+      "url": "https://punchng.com/why-nigerias-economic-growth-depends-on-fixing-its-transport-system/",
+      "date": "2026-06-06T23:54:34Z"
+    },
+    {
+      "title": "Strategy’s Bitcoin Playbook Under Pressure As Whales Double Exchange Inflows",
+      "source": "ZyCrypto",
+      "url": "https://zycrypto.com/strategys-bitcoin-playbook-under-pressure-as-whales-double-exchange-inflows/",
+      "date": "2026-06-06T23:47:52Z"
+    },
+    {
+      "title": "Spot gold extends losses, falls over 3% to $4,336 per ounce as strong jobs data rattles markets",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/binance-research-crypto-equity-capital-2031/",
-      "date": "2026-06-06T00:15:30Z"
+      "url": "https://cryptobriefing.com/spot-gold-falls-3-percent-jobs-data/",
+      "date": "2026-06-06T23:47:28Z"
     },
     {
-      "title": "Breitbart Business Digest: Trump’s Economy Is Cooking—188,000 Jobs, Factories Roaring, Pay Checks Singing",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/economy/2026/06/05/breitbart-business-digest-trumps-economy-is-cooking-188000-jobs-factories-roaring-pay-checks-singing/",
-      "date": "2026-06-06T00:09:17Z"
+      "title": "CoinShares reports $5.8B in outflows from digital asset products amid sentiment shift",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/coinshares-digital-asset-outflows-sentiment-shift/",
+      "date": "2026-06-06T23:45:40Z"
     },
     {
-      "title": "Bitcoin’s Market Structure Reflects The Influence Of Major Investors",
-      "source": "newsBTC",
-      "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-major-investors-influence/",
-      "date": "2026-06-06T00:00:00Z"
+      "title": "Nvidia stock falls over 6% as jobs data and Senate scrutiny rattle investors",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/nvidia-stock-falls-senate-scrutiny/",
+      "date": "2026-06-06T23:45:30Z"
     },
     {
-      "title": "Quiet streets in Kelvin Heights reflect Queenstown housing divide",
-      "source": "New Zealand Herald",
-      "url": "https://www.nzherald.co.nz/nz/quiet-streets-in-kelvin-heights-reflect-queenstown-housing-divide/premium/VE7RAEFBB5CIRMQERIP5242SYA/",
-      "date": "2026-06-06T00:00:00Z"
+      "title": "Multiple Game Announcements Made During The Wholesome Direct 2026",
+      "source": "Bleeding Cool News",
+      "url": "https://bleedingcool.com/games/multiple-game-announcements-made-during-the-wholesome-direct-2026/",
+      "date": "2026-06-06T23:42:09Z"
     },
     {
-      "title": "Central bank turns piper to draw in foreign capital; leaves repo rate at 5.25, keeps stance neutral",
+      "title": "Is Ripple (XRP) Still A Good Crypto to Buy In 2026?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/06/is-ripple-xrp-still-a-good-crypto-to-buy-in-2026/",
+      "date": "2026-06-06T23:34:04Z"
+    },
+    {
+      "title": "SpaceX IPO bars investors from China and Hong Kong over US export control rules",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/spacex-ipo-bars-china-hong-kong-investors/",
+      "date": "2026-06-06T23:23:37Z"
+    },
+    {
+      "title": "From Iran Tensions to Fingers Pointing at Michael Saylor — What’s Really Driving Crypto Down?",
+      "source": "ZyCrypto",
+      "url": "https://zycrypto.com/from-iran-tensions-to-fingers-pointing-at-michael-saylor-whats-really-driving-crypto-down/",
+      "date": "2026-06-06T23:20:57Z"
+    },
+    {
+      "title": "E Jean Carroll Net Worth: What Her Career, Books, and $88.3 Million in Verdicts Really Mean",
+      "source": "Curiousmindmagazine.com",
+      "url": "https://curiousmindmagazine.com/e-jean-carroll-net-worth/",
+      "date": "2026-06-06T23:17:06Z"
+    },
+    {
+      "title": "Nasdaq, S&P 500 suffer worst day of year, as AI stocks tumble, Fed rate-hike odds rise",
+      "source": "RNZ",
+      "url": "https://www.rnz.co.nz/news/business/597451/nasdaq-s-and-p-500-suffer-worst-day-of-year-as-ai-stocks-tumble-fed-rate-hike-odds-rise",
+      "date": "2026-06-06T23:00:00Z"
+    },
+    {
+      "title": "Strategy reports $13B loss, Bitmine $10B loss amid market decline",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/strategy-bitmine-billions-unrealized-losses/",
+      "date": "2026-06-06T22:58:20Z"
+    },
+    {
+      "title": "Turnaround Stories and Shorting Stocks",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_93be61ed-518c-42cd-82dd-66eb56ace85b",
+      "date": "2026-06-06T22:34:26Z"
+    },
+    {
+      "title": "Altcoins Lose $520 Billion Amid Sustained Market Struggles – Details",
+      "source": "Bitcoinist",
+      "url": "https://bitcoinist.com/altcoins-lose-510-billion-sustained-market-struggle/",
+      "date": "2026-06-06T22:30:13Z"
+    },
+    {
+      "title": "Wall Street declines as chip stocks fall, jobs data raises Fed rate hike expectations",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/wall-street-declines-chip-stocks-jobs-data/",
+      "date": "2026-06-06T22:12:14Z"
+    },
+    {
+      "title": "5 Best Debt-Free IT Stocks to Buy Now",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f741c77a-a042-4261-8988-42bb2d130ea4",
+      "date": "2026-06-06T22:10:49Z"
+    },
+    {
+      "title": "- Quote of the day by Ray Dalio: 'When life doesn't give what you want, you can be angry or sad, or you can learn about how reality works and develop...' How to deal with challenges in life explained ",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/central-bank-turns-piper-to-draw-in-foreign-capital-leaves-repo-rate-at-5-25-keeps-stance-neutral/articleshow/131540001.cms",
-      "date": "2026-06-06T00:00:00Z"
+      "url": "https://economictimes.indiatimes.com/magazines/panache/-quote-of-the-day-by-ray-dalio-when-life-doesnt-give-what-you-want-you-can-be-angry-or-sad-or-you-can-learn-about-how-reality-works-and-develop-how-to-deal-with-challenges-in-life-explained-by-the-american-investor/articleshow/131559008.cms",
+      "date": "2026-06-06T22:04:49Z"
     },
     {
-      "title": "Bitcoin Falls Below $60,000 for First Time Since 2024 Trump Win - Yahoo Finance",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183614976",
-      "date": "2026-06-05T23:52:14Z"
+      "title": "$10,000 in Grayscale’s Ethereum Staking ETF Became $5,328 in Six Months as Ether’s 46% Collapse Erased Staking Income",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/06/06/10000-in-grayscales-ethereum-staking-etf-became-5328-in-six-months-as-ethers-46-collapse-erased-staking-income/",
+      "date": "2026-06-06T22:00:53Z"
     },
     {
-      "title": "Venezuela Seeks Financial Reintegration Amid Easing Inflation | Business",
-      "source": "Devdiscourse",
-      "url": "https://www.devdiscourse.com/article/business/3931053-venezuela-seeks-financial-reintegration-amid-easing-inflation",
-      "date": "2026-06-05T23:49:46Z"
+      "title": "Spider-Man’s Biggest Power-Up Meant He Could Take Out the Hulk",
+      "source": "ComicBook.com",
+      "url": "http://comicbook.com/comics/feature/spider-mans-biggest-power-up-meant-he-could-take-out-the-hulk/",
+      "date": "2026-06-06T22:00:00Z"
     },
     {
-      "title": "Trump directs $500M in Defense Production Act funds to revive US coal industry",
+      "title": "Morgan Stanley enables clients to lend bitcoin for crypto ETF conversions",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-coal-industry-emergency-powers/",
-      "date": "2026-06-05T23:28:06Z"
+      "url": "https://cryptobriefing.com/morgan-stanley-galaxy-bitcoin-lending-etf/",
+      "date": "2026-06-06T21:48:54Z"
     },
     {
-      "title": "Nescafé Coffee Sachets 10 Pack Selected Varieties $4 & $5 Cashback (IGA Rewards & App Required) @ Participating IGA",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/962288",
-      "date": "2026-06-05T23:27:20Z"
+      "title": "Are These 3 Energy Stocks About to Soar as Driving Season Kicks Off in the United States?",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c66cdd87-f293-41a1-95a1-c6b38264a662",
+      "date": "2026-06-06T21:35:00Z"
     },
     {
-      "title": "Markets have worst day since October as tech stocks lead the way down, traders lose hope of rate cut",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/05/auto-draft-5/",
-      "date": "2026-06-05T23:10:12Z"
-    },
-    {
-      "title": "Hezbollah approaches Trump to discuss halting fighting in Lebanon",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/hezbollah-trump-lebanon-ceasefire-talks/",
-      "date": "2026-06-05T23:04:13Z"
-    },
-    {
-      "title": "New York bill would replace 'mother' and 'father' with gender-neutral terms in family law",
-      "source": "Snopes.com",
-      "url": "https://www.snopes.com//fact-check/new-york-mother-father-gestating/",
-      "date": "2026-06-05T22:52:00Z"
-    },
-    {
-      "title": "Street Fighter 6 Year 4 DLC characters Yasmine, Arjun, Tifa, and Bosch announced",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/street-fighter-6-year-4-dlc-characters-yasmine-arjun-tifa-and-bosch-announced",
-      "date": "2026-06-05T22:45:18Z"
-    },
-    {
-      "title": "House passes $8B security aid bill for Ukraine amid GOP objections",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/house-passes-8b-ukraine-aid-bill/",
-      "date": "2026-06-05T22:41:24Z"
-    },
-    {
-      "title": "China’s semiconductor stocks rally on IPOs, Huawei chip breakthroughs",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/china-semiconductor-stocks-rally-huawei-chip/",
-      "date": "2026-06-05T22:41:03Z"
-    },
-    {
-      "title": "Trump takes victory lap on hiring surge and stock rally— vows gas will drop in 90 days when we ‘come out of Iran’",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/05/us-news/trump-takes-victory-lap-on-hiring-surge-vows-gas-will-drop-in-90-days-when-we-come-out-of-iran/",
-      "date": "2026-06-05T22:36:13Z"
-    },
-    {
-      "title": "Bitcoin Price Hits Lowest Level Since Before Trump’s 2024 Election Win",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/bitcoin-price-hits-lowest-level-since-before-trumps-2024-election-win-2000768314",
-      "date": "2026-06-05T22:35:53Z"
-    },
-    {
-      "title": "Sea of Remnants ‘Make It Loud’ trailer",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/sea-of-remnants-make-it-loud-trailer",
-      "date": "2026-06-05T22:34:56Z"
-    },
-    {
-      "title": "Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/05/tech-stocks-market-bloodbath-fed-rate-hikes-jobs-report-ai-fueled-chip-boom/",
-      "date": "2026-06-05T22:33:23Z"
-    },
-    {
-      "title": "Bitcoin’s Crash Has Broken Below A 4-Month Support, But There’s Still One More Play Left",
+      "title": "Analyst Predicts When Bitcoin Price Will Reach $100,000 In 2026",
       "source": "newsBTC",
-      "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-loses-4-month-support/",
-      "date": "2026-06-05T22:30:15Z"
+      "url": "http://www.newsbtc.com/news/bitcoin/analyst-predicts-when-the-bitcoin-price-will-reach-100000-in-2026/",
+      "date": "2026-06-06T21:30:19Z"
     },
     {
-      "title": "Cramer’s week ahead: Stocks face pressure from rates, oil, and a flood of new offerings",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/05/cramers-week-ahead-stocks-face-pressure-from-rates-oil-and-a-flood-of-new-offerings.html",
-      "date": "2026-06-05T22:27:16Z"
-    },
-    {
-      "title": "US money market funds surge $66B to record $8.2T as investors rebalance",
+      "title": "Hut 8 prices $4.25B in notes to fund massive Texas AI data center campus",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/money-market-funds-record-8-trillion/",
-      "date": "2026-06-05T22:18:41Z"
+      "url": "https://cryptobriefing.com/hut-8-prices-4b-notes-texas-ai-data-center/",
+      "date": "2026-06-06T21:24:05Z"
     },
     {
-      "title": "ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next?",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next",
-      "date": "2026-06-05T22:18:29Z"
+      "title": "Elon Musk’s $1.8 Trillion SpaceX IPO Is Too Big to Succeed - Barron's",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183623702",
+      "date": "2026-06-06T21:13:03Z"
     },
     {
-      "title": "U.S. Crypto Market Structure Reform: Is This the Bill That Will Redefine Bitcoin, ETFs, and Crypto Exchanges in 2026?",
-      "source": "Bitcoinfoundation.org",
-      "url": "https://bitcoinfoundation.org/news/bitcoin/u-s-crypto-market-structure-reform-is-this-the-bill-that-will-redefine-bitcoin-etfs-and-crypto-exchanges-in-2026/",
-      "date": "2026-06-05T22:10:38Z"
+      "title": "Fannie Mae and Freddie Mac shares surge then fall after Trump values them at $1T",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/fannie-mae-freddie-mac-trump-trillion-valuation/",
+      "date": "2026-06-06T21:01:02Z"
     },
     {
-      "title": "Trump Falsely Claims African American Unemployment Is Lowest Ever, Admits, ‘I Don’t Know Where That Stat Came From’",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/tv/trump-falsely-claims-african-american-unemployment-is-lowest-ever-admits-i-dont-know-where-that-stat-came-from/",
-      "date": "2026-06-05T22:08:47Z"
+      "title": "Zcash Suffers Historic Collapse As Billions Vanish From Market Value",
+      "source": "Bitcoinist",
+      "url": "https://bitcoinist.com/zcash-suffers-historic-collapse/",
+      "date": "2026-06-06T21:00:39Z"
     },
     {
-      "title": "Star Wars Zero Company launches August 27",
-      "source": "Gematsu",
-      "url": "https://www.gematsu.com/2026/06/star-wars-zero-company-launches-august-27",
-      "date": "2026-06-05T22:08:06Z"
+      "title": "Why Solar Power Is Booming Under Trump",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Why-Solar-Power-Is-Booming-Under-Trump.html",
+      "date": "2026-06-06T21:00:00Z"
     },
     {
-      "title": "Corgi Launches Suite of Six Fixed Income ETFs on Cboe BZX, Capping a Week of 50 Fund Launches",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/corgi-launches-suite-of-six-fixed-income-etfs-on-cboe-bzx-capping-a-week-of-50-fund-launches-302793044.html",
-      "date": "2026-06-05T22:03:00Z"
-    },
-    {
-      "title": "The Elon Premium is Real",
-      "source": "Dailyreckoning.com",
-      "url": "https://dailyreckoning.com/the-elon-premium-is-real/",
-      "date": "2026-06-05T22:00:25Z"
-    },
-    {
-      "title": "Guild Wars 3 Officially Announced With Upcoming Beta",
-      "source": "Screen Rant",
-      "url": "https://screenrant.com/guild-wars-3-officially-announced-beta/",
-      "date": "2026-06-05T22:00:21Z"
-    },
-    {
-      "title": "Guild Wars 3 Is an Action/Adventure MMORPG Prequel Slated for PC and PlayStation 5 with Closed Beta in Fall 2027",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/guild-wars-3-announced-pc-ps5/",
-      "date": "2026-06-05T22:00:00Z"
+      "title": "brk-client 0.3.3",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/brk-client/0.3.3/",
+      "date": "2026-06-06T20:44:52Z"
     }
   ]
 }

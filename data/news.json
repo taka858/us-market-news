@@ -4,186 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-06-08T00:02:58.031277"
+      "date": "2026-06-09T00:01:52.318359"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-06-08T00:02:58.031282"
+      "date": "2026-06-09T00:01:52.318364"
     }
   ],
   "bitcoin": {
-    "price": 63232,
-    "date": "2026-06-08T00:02:58.071004"
+    "price": 63064,
+    "date": "2026-06-09T00:01:52.365500"
   },
   "news": [
     {
-      "title": "Why Nigeria’s economic growth depends on fixing its transport system",
-      "source": "The Punch",
-      "url": "https://punchng.com/why-nigerias-economic-growth-depends-on-fixing-its-transport-system/",
-      "date": "2026-06-06T23:54:34Z"
+      "title": "Axis Mutual Fund’s Devang Shah: ‘Forex measures, FII bond tax leeway could attract $60-80 billion’",
+      "source": "The Indian Express",
+      "url": "https://indianexpress.com/article/business/axis-mutual-funds-devang-shah-forex-measures-fii-bond-tax-leeway-could-attract-60-80-billion-10728886/",
+      "date": "2026-06-08T00:00:38Z"
     },
     {
-      "title": "Strategy’s Bitcoin Playbook Under Pressure As Whales Double Exchange Inflows",
-      "source": "ZyCrypto",
-      "url": "https://zycrypto.com/strategys-bitcoin-playbook-under-pressure-as-whales-double-exchange-inflows/",
-      "date": "2026-06-06T23:47:52Z"
-    },
-    {
-      "title": "Spot gold extends losses, falls over 3% to $4,336 per ounce as strong jobs data rattles markets",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/spot-gold-falls-3-percent-jobs-data/",
-      "date": "2026-06-06T23:47:28Z"
-    },
-    {
-      "title": "CoinShares reports $5.8B in outflows from digital asset products amid sentiment shift",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/coinshares-digital-asset-outflows-sentiment-shift/",
-      "date": "2026-06-06T23:45:40Z"
-    },
-    {
-      "title": "Nvidia stock falls over 6% as jobs data and Senate scrutiny rattle investors",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/nvidia-stock-falls-senate-scrutiny/",
-      "date": "2026-06-06T23:45:30Z"
-    },
-    {
-      "title": "Multiple Game Announcements Made During The Wholesome Direct 2026",
-      "source": "Bleeding Cool News",
-      "url": "https://bleedingcool.com/games/multiple-game-announcements-made-during-the-wholesome-direct-2026/",
-      "date": "2026-06-06T23:42:09Z"
-    },
-    {
-      "title": "Is Ripple (XRP) Still A Good Crypto to Buy In 2026?",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/06/is-ripple-xrp-still-a-good-crypto-to-buy-in-2026/",
-      "date": "2026-06-06T23:34:04Z"
-    },
-    {
-      "title": "SpaceX IPO bars investors from China and Hong Kong over US export control rules",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/spacex-ipo-bars-china-hong-kong-investors/",
-      "date": "2026-06-06T23:23:37Z"
-    },
-    {
-      "title": "From Iran Tensions to Fingers Pointing at Michael Saylor — What’s Really Driving Crypto Down?",
-      "source": "ZyCrypto",
-      "url": "https://zycrypto.com/from-iran-tensions-to-fingers-pointing-at-michael-saylor-whats-really-driving-crypto-down/",
-      "date": "2026-06-06T23:20:57Z"
-    },
-    {
-      "title": "E Jean Carroll Net Worth: What Her Career, Books, and $88.3 Million in Verdicts Really Mean",
-      "source": "Curiousmindmagazine.com",
-      "url": "https://curiousmindmagazine.com/e-jean-carroll-net-worth/",
-      "date": "2026-06-06T23:17:06Z"
-    },
-    {
-      "title": "Nasdaq, S&P 500 suffer worst day of year, as AI stocks tumble, Fed rate-hike odds rise",
-      "source": "RNZ",
-      "url": "https://www.rnz.co.nz/news/business/597451/nasdaq-s-and-p-500-suffer-worst-day-of-year-as-ai-stocks-tumble-fed-rate-hike-odds-rise",
-      "date": "2026-06-06T23:00:00Z"
-    },
-    {
-      "title": "Strategy reports $13B loss, Bitmine $10B loss amid market decline",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/strategy-bitmine-billions-unrealized-losses/",
-      "date": "2026-06-06T22:58:20Z"
-    },
-    {
-      "title": "Turnaround Stories and Shorting Stocks",
-      "source": "Yahoo Entertainment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_93be61ed-518c-42cd-82dd-66eb56ace85b",
-      "date": "2026-06-06T22:34:26Z"
-    },
-    {
-      "title": "Altcoins Lose $520 Billion Amid Sustained Market Struggles – Details",
+      "title": "Crypto Moves Into The Mainstream Of Vietnam’s Digital Economy",
       "source": "Bitcoinist",
-      "url": "https://bitcoinist.com/altcoins-lose-510-billion-sustained-market-struggle/",
-      "date": "2026-06-06T22:30:13Z"
+      "url": "https://bitcoinist.com/crypto-moves-into-the-mainstream-of-vietnams-digital-economy/",
+      "date": "2026-06-08T00:00:24Z"
     },
     {
-      "title": "Wall Street declines as chip stocks fall, jobs data raises Fed rate hike expectations",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/wall-street-declines-chip-stocks-jobs-data/",
-      "date": "2026-06-06T22:12:14Z"
-    },
-    {
-      "title": "5 Best Debt-Free IT Stocks to Buy Now",
-      "source": "Yahoo Entertainment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f741c77a-a042-4261-8988-42bb2d130ea4",
-      "date": "2026-06-06T22:10:49Z"
-    },
-    {
-      "title": "- Quote of the day by Ray Dalio: 'When life doesn't give what you want, you can be angry or sad, or you can learn about how reality works and develop...' How to deal with challenges in life explained ",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/-quote-of-the-day-by-ray-dalio-when-life-doesnt-give-what-you-want-you-can-be-angry-or-sad-or-you-can-learn-about-how-reality-works-and-develop-how-to-deal-with-challenges-in-life-explained-by-the-american-investor/articleshow/131559008.cms",
-      "date": "2026-06-06T22:04:49Z"
-    },
-    {
-      "title": "$10,000 in Grayscale’s Ethereum Staking ETF Became $5,328 in Six Months as Ether’s 46% Collapse Erased Staking Income",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/06/06/10000-in-grayscales-ethereum-staking-etf-became-5328-in-six-months-as-ethers-46-collapse-erased-staking-income/",
-      "date": "2026-06-06T22:00:53Z"
-    },
-    {
-      "title": "Spider-Man’s Biggest Power-Up Meant He Could Take Out the Hulk",
-      "source": "ComicBook.com",
-      "url": "http://comicbook.com/comics/feature/spider-mans-biggest-power-up-meant-he-could-take-out-the-hulk/",
-      "date": "2026-06-06T22:00:00Z"
-    },
-    {
-      "title": "Morgan Stanley enables clients to lend bitcoin for crypto ETF conversions",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/morgan-stanley-galaxy-bitcoin-lending-etf/",
-      "date": "2026-06-06T21:48:54Z"
-    },
-    {
-      "title": "Are These 3 Energy Stocks About to Soar as Driving Season Kicks Off in the United States?",
-      "source": "Yahoo Entertainment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c66cdd87-f293-41a1-95a1-c6b38264a662",
-      "date": "2026-06-06T21:35:00Z"
-    },
-    {
-      "title": "Analyst Predicts When Bitcoin Price Will Reach $100,000 In 2026",
+      "title": "Bitcoin Supply In Loss Crosses Critical Threshold — Bullish Reversal Next?",
       "source": "newsBTC",
-      "url": "http://www.newsbtc.com/news/bitcoin/analyst-predicts-when-the-bitcoin-price-will-reach-100000-in-2026/",
-      "date": "2026-06-06T21:30:19Z"
+      "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-supply-in-loss-crosses-critical-threshold/",
+      "date": "2026-06-08T00:00:19Z"
     },
     {
-      "title": "Hut 8 prices $4.25B in notes to fund massive Texas AI data center campus",
+      "title": "The Fast-Track Path to Clearing Vegetable Oils from Your Skin",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/06/08/clearing-vegetable-oils-from-your-skin.aspx",
+      "date": "2026-06-08T00:00:00Z"
+    },
+    {
+      "title": "Distributed control circuits across a brain-and-cord connectome",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41586-026-10735-w",
+      "date": "2026-06-08T00:00:00Z"
+    },
+    {
+      "title": "OKX BTC perp funding hits -453%, shorts face brutal daily bleed",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/hut-8-prices-4b-notes-texas-ai-data-center/",
-      "date": "2026-06-06T21:24:05Z"
+      "url": "https://cryptobriefing.com/okx-btc-perp-funding-rate-shorts/",
+      "date": "2026-06-07T23:49:54Z"
     },
     {
-      "title": "Elon Musk’s $1.8 Trillion SpaceX IPO Is Too Big to Succeed - Barron's",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183623702",
-      "date": "2026-06-06T21:13:03Z"
+      "title": "Amazon.com, Inc. (AMZN): Top 10 Stocks That Members of Congress Own",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_96009100-c618-4e4c-899e-6e7c06a7f38d",
+      "date": "2026-06-07T23:38:45Z"
     },
     {
-      "title": "Fannie Mae and Freddie Mac shares surge then fall after Trump values them at $1T",
+      "title": "Here is why Meta Platforms, Inc. (META) is among the Top 10 Stocks That Members of Congress Own",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_929be643-93e0-4502-9f6c-44a0c1f682bb",
+      "date": "2026-06-07T23:38:38Z"
+    },
+    {
+      "title": "Is Tesla, Inc. (TSLA) among the Top 10 Stocks That Members of Congress Own?",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_63bcd9a0-9f5c-480f-8c41-05ed4e1fdb08",
+      "date": "2026-06-07T23:38:30Z"
+    },
+    {
+      "title": "Disney (DIS) Signals A Long-Term Vision Focused On Consistent Value Creation",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/disney-dis-signals-long-term-233821122.html",
+      "date": "2026-06-07T23:38:21Z"
+    },
+    {
+      "title": "China says 'illegal' outbound investment crackdown won't lead to forced liquidation",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/economy/policy/articles/china-says-illegal-outbound-investment-232751667.html",
+      "date": "2026-06-07T23:27:51Z"
+    },
+    {
+      "title": "Trump sets 60-day deadline for Iran negotiations, warns talks will end without quick response",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/fannie-mae-freddie-mac-trump-trillion-valuation/",
-      "date": "2026-06-06T21:01:02Z"
+      "url": "https://cryptobriefing.com/trump-iran-60-day-deadline-negotiations/",
+      "date": "2026-06-07T23:27:03Z"
     },
     {
-      "title": "Zcash Suffers Historic Collapse As Billions Vanish From Market Value",
-      "source": "Bitcoinist",
-      "url": "https://bitcoinist.com/zcash-suffers-historic-collapse/",
-      "date": "2026-06-06T21:00:39Z"
+      "title": "Market Rout Puts Pressure on Indonesia to Deliver Concrete Steps",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/market-rout-puts-pressure-on-indonesia-to-deliver-concrete-steps",
+      "date": "2026-06-07T23:19:10Z"
     },
     {
-      "title": "Why Solar Power Is Booming Under Trump",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Why-Solar-Power-Is-Booming-Under-Trump.html",
-      "date": "2026-06-06T21:00:00Z"
-    },
-    {
-      "title": "brk-client 0.3.3",
+      "title": "tollbooth-dpyc 0.44.1",
       "source": "Pypi.org",
-      "url": "https://pypi.org/project/brk-client/0.3.3/",
-      "date": "2026-06-06T20:44:52Z"
+      "url": "https://pypi.org/project/tollbooth-dpyc/0.44.1/",
+      "date": "2026-06-07T23:17:55Z"
+    },
+    {
+      "title": "US stocks slump as fears over Big Tech shake Wall Street",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-stocks-slump-big-tech-fears/",
+      "date": "2026-06-07T23:04:16Z"
+    },
+    {
+      "title": "China says illegal outbound investment crackdown wont lead to forced liquidation",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/china-says-illegal-outbound-investment-crackdown-wont-lead-to-forced-liquidation-11780873300598.html",
+      "date": "2026-06-07T23:01:40Z"
+    },
+    {
+      "title": "Demonstration of Low-symmetry Rhombohedral GeTe Single Crystals with Anisotropic Thermoelectric Properties",
+      "source": "Royal Society of Chemistry",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/qi/d6qi00840b",
+      "date": "2026-06-07T23:00:00Z"
+    },
+    {
+      "title": "Ex-Nato chief's chilling warning to Starmer... spend now on defence or Britain will pay a 'cost in blood'",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15881367/ex-Nato-chief-chilling-warning-Starmer-spend-defence-Britain-cost-blood.html",
+      "date": "2026-06-07T22:48:17Z"
+    },
+    {
+      "title": "Markets face triple threat of Iran war reigniting, AI bubble popping, and Fed rates rising while epic SpaceX IPO could fuel even more chaos",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/07/stock-market-today-dow-futures-iran-war-ai-bubble-fed-rates-spacex-ipo/",
+      "date": "2026-06-07T22:43:39Z"
+    },
+    {
+      "title": "Lockheed Martin (LMT) Lands A Long-Term Defense Contract Worth Up To $180 Million",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-lands-long-224332961.html",
+      "date": "2026-06-07T22:43:32Z"
+    },
+    {
+      "title": "RTX Wins A Billion-Dollar Air Defense Contract With Long-Term Visibility",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rtx-wins-billion-dollar-air-224324602.html",
+      "date": "2026-06-07T22:43:24Z"
+    },
+    {
+      "title": "Walmart (WMT) Opens New Opportunities For Advertisers Beyond Its Own Platform",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-opens-opportunities-advertisers-224318449.html",
+      "date": "2026-06-07T22:43:18Z"
+    },
+    {
+      "title": "Is ATI Inc. (ATI) among the Best 3D Printing Stocks to Buy for Aerospace Components?",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_81ba71ac-6f17-4dcc-b565-791404203894",
+      "date": "2026-06-07T22:43:10Z"
+    },
+    {
+      "title": "Here is why Proto Labs, Inc. (PRLB) is among the Best 3D Printing Stocks to Buy for Aerospace Components",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9a628a56-97af-4fc1-9121-8dc51109ea44",
+      "date": "2026-06-07T22:43:03Z"
+    },
+    {
+      "title": "GE Aerospace (GE): 7 Best 3D Printing Stocks to Buy for Aerospace Components",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-ge-7-best-224252552.html",
+      "date": "2026-06-07T22:42:52Z"
+    },
+    {
+      "title": "Carpenter Technology (CRS) Continues To Build Momentum Following Key Investor Meetings",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/carpenter-technology-crs-continues-build-224224240.html",
+      "date": "2026-06-07T22:42:24Z"
+    },
+    {
+      "title": "PTC Faces A Target Cut, But An Emerging Trend Could Change The Narrative",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ptc-faces-target-cut-emerging-224215958.html",
+      "date": "2026-06-07T22:42:15Z"
+    },
+    {
+      "title": "Is Valmont Industries, Inc. (VMI) among the Best Water Infrastructure Stocks to Buy for Scarcity Trends?",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/valmont-industries-inc-vmi-among-224208230.html",
+      "date": "2026-06-07T22:42:08Z"
+    },
+    {
+      "title": "Here is why Stantec Inc. (STN) is among the Best Water Infrastructure Stocks to Buy for Scarcity Trends",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6849d8da-cf2a-43ea-8621-056f3825f840",
+      "date": "2026-06-07T22:41:58Z"
+    },
+    {
+      "title": "Mueller Water (MWA) Gets A Quiet Target Hike As Results Stay Steady",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mueller-water-mwa-gets-quiet-224146385.html",
+      "date": "2026-06-07T22:41:46Z"
     }
   ]
 }

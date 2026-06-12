@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-06-11T00:12:22.522277"
+      "date": "2026-06-12T00:16:48.150926"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-06-11T00:12:22.522282"
+      "date": "2026-06-12T00:16:48.150931"
     }
   ],
   "bitcoin": {
-    "price": 61557,
-    "date": "2026-06-11T00:12:22.640289"
+    "price": 63654,
+    "date": "2026-06-12T00:16:48.204733"
   },
   "news": [
     {
-      "title": "cyberagent added to PyPI",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/cyberagent/",
-      "date": "2026-06-10T00:09:18Z"
+      "title": "Cyberpunk 2077 Releases Official Valentino Thermal Katana Replica",
+      "source": "Bleeding Cool News",
+      "url": "https://bleedingcool.com/collectibles/cyberpunk-2077-releases-official-valentino-thermal-katana-replica/",
+      "date": "2026-06-11T00:12:09Z"
     },
     {
-      "title": "Mexico decrees telework for World Cup 2026 opening day, spotlighting crypto’s growing role in sports",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/mexico-telework-decree-world-cup-2026-crypto/",
-      "date": "2026-06-10T00:04:30Z"
-    },
-    {
-      "title": "Sayonara, orange: Yakult to bring peach to Singapore in first flavour switch since 1980",
+      "title": "SpaceX IPO whips Elon Musk fans into frenzy: ‘The more, the better’",
       "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/say-sayonara-to-yakults-orange-flavour-to-be-replaced-with-a-new-to-market-peach-flavour",
-      "date": "2026-06-10T00:03:02Z"
+      "url": "https://www.straitstimes.com/business/companies-markets/spacex-ipo-whips-elon-musk-fans-into-frenzy-the-more-the-better",
+      "date": "2026-06-11T00:06:00Z"
     },
     {
-      "title": "How will gasoline stocks affect World Cup travel #travel",
-      "source": "Alltoc.com",
-      "url": "https://alltoc.com/travel/how-will-gasoline-stocks-affect-world-cup-travel",
-      "date": "2026-06-10T00:02:51Z"
+      "title": "A knee-jerk reaction or something more? Nvidia's market cap dropped by almost $330 billion in 24 hours as the AI giant reeled from Broadcom's poor guidance",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/a-knee-jerk-reaction-or-something-more-nvidias-market-cap-dropped-by-almost-usd330-billion-in-24-hours-as-the-ai-giant-reeled-from-broadcoms-poor-guidance",
+      "date": "2026-06-11T00:05:00Z"
     },
     {
-      "title": "QIP pipeline swells as listed firms line up over ₹30k crore fundraise",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/companies/start-ups/qip-qualified-institutional-placement-waaree-energies-premier-energy-jsw-infra-max-financial-services-au-small-finance-11780987079229.html",
-      "date": "2026-06-10T00:01:10Z"
-    },
-    {
-      "title": "Bitmine acquires 75,000 Ethereum for $123M from Kraken and FalconX",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bitmine-acquires-75000-ethereum-123m/",
-      "date": "2026-06-10T00:00:31Z"
-    },
-    {
-      "title": "America Just Added a Massive New Rare Earth Supply Source",
+      "title": "How Fake News Became the Most Dangerous Force in Energy Markets",
       "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/America-Just-Added-a-Massive-New-Rare-Earth-Supply-Source.html",
-      "date": "2026-06-10T00:00:00Z"
+      "url": "https://oilprice.com/Energy/Energy-General/How-Fake-News-Became-the-Most-Dangerous-Force-in-Energy-Markets.html",
+      "date": "2026-06-11T00:01:00Z"
     },
     {
-      "title": "Deep learning four decades of human migration",
+      "title": "Are England now ready to go and win the World Cup?",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/football/news/12016/13552812/world-cup-england-win-final-warm-up-against-costa-rica-so-are-they-ready-to-challenge-for-tournament-glory",
+      "date": "2026-06-11T00:00:00Z"
+    },
+    {
+      "title": "Solvent-assisted running-in strategy enables improved triboelectric nanogenerator output",
       "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41586-026-10611-7",
-      "date": "2026-06-10T00:00:00Z"
+      "url": "https://www.nature.com/articles/s41467-026-74269-5",
+      "date": "2026-06-11T00:00:00Z"
     },
     {
-      "title": "A 5.3-million-year-old deep-sea whale necropolis in the Diamantina Zone",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41586-026-10546-z",
-      "date": "2026-06-10T00:00:00Z"
-    },
-    {
-      "title": "Light-induced quantum friction of carbon nanotubes in water",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41586-026-10632-2",
-      "date": "2026-06-10T00:00:00Z"
-    },
-    {
-      "title": "Lignin to adipic acid in a high-yield chemical and biological redox process",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41586-026-10580-x",
-      "date": "2026-06-10T00:00:00Z"
-    },
-    {
-      "title": "Ligand-modulated metal–radical polarity match enables general 1,2-dicarbofunctionalization of ethylene",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41557-026-02177-8",
-      "date": "2026-06-10T00:00:00Z"
-    },
-    {
-      "title": "Kalshi’s perpetual futures trading surpasses $1B in volume within a week",
+      "title": "Hedgeye files for Hedged Bitcoin ETF combining options strategies with crypto exposure",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/kalshi-perpetual-futures-billion-volume/",
-      "date": "2026-06-09T23:55:50Z"
+      "url": "https://cryptobriefing.com/hedgeye-hedged-bitcoin-etf-options-strategies/",
+      "date": "2026-06-10T23:57:10Z"
     },
     {
-      "title": "OpenAI proposes public wealth fund to give Americans a stake in the AI boom",
+      "title": "Global Junk Debt Flashes Warning on Growing Risk of Stagflation",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/global-junk-debt-flashes-warning-on-growing-risk-of-stagflation",
+      "date": "2026-06-10T23:50:48Z"
+    },
+    {
+      "title": "Shuttle Pharmaceuticals Holdings Inc trading halted, news pending",
+      "source": "Thefly.com",
+      "url": "https://www.thefly.com/SHPH",
+      "date": "2026-06-10T23:50:00Z"
+    },
+    {
+      "title": "US Central Command refutes Iranian claims of Strait of Hormuz closure",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/openai-public-wealth-fund-proposal/",
-      "date": "2026-06-09T23:44:16Z"
+      "url": "https://cryptobriefing.com/centcom-refutes-iran-strait-hormuz-closure/",
+      "date": "2026-06-10T23:43:33Z"
     },
     {
-      "title": "Gold falls as US launches strikes against Iran, jeopardizing truce",
+      "title": "Trump threatens to escalate strikes against Iran if no agreement is reached, rattling crypto markets",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/gold-falls-us-strikes-iran-truce/",
-      "date": "2026-06-09T23:43:26Z"
+      "url": "https://cryptobriefing.com/trump-iran-strikes-threat-crypto-markets/",
+      "date": "2026-06-10T23:36:07Z"
     },
     {
-      "title": "Nigeria’s foreign debt to hit $72.6bn after 2027 polls – IMF",
-      "source": "The Punch",
-      "url": "https://punchng.com/nigerias-foreign-debt-to-hit-72-6bn-after-2027-polls-imf/",
-      "date": "2026-06-09T23:39:00Z"
-    },
-    {
-      "title": "Africa faces $59bn debt strain, W’Bank warns",
-      "source": "The Punch",
-      "url": "https://punchng.com/africa-faces-59bn-debt-strain-wbank-warns/",
-      "date": "2026-06-09T23:39:00Z"
-    },
-    {
-      "title": "NGX gains N830bn as Airtel Africa leads market rally",
-      "source": "The Punch",
-      "url": "https://punchng.com/ngx-gains-n830bn-as-airtel-africa-leads-market-rally/",
-      "date": "2026-06-09T23:39:00Z"
-    },
-    {
-      "title": "United States national debt reaches $1M per US household",
+      "title": "Iran asks US to stop bombing as Trump reveals back-channel communications",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-national-debt-1-million-per-household/",
-      "date": "2026-06-09T23:32:24Z"
+      "url": "https://cryptobriefing.com/iran-requests-us-end-bombing-trump/",
+      "date": "2026-06-10T23:34:22Z"
     },
     {
-      "title": "Bitcoin Stablecoin Ratio Drops To Extreme Low—What It Means For BTC",
-      "source": "newsBTC",
-      "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-stablecoin-drops-extreme-low-what-btc/",
-      "date": "2026-06-09T23:30:29Z"
+      "title": "Trump says Israel not involved in US strikes on Iran, crypto markets brace for impact",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-israel-iran-strikes-crypto-impact/",
+      "date": "2026-06-10T23:29:02Z"
     },
     {
-      "title": "Bitcoin Close To Setting A New Record Despite Price Crash, But Can This Save BTC?",
+      "title": "US strikes Iran as Tehran warns of response to attacks",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/0611/1577844-middle-east-iran/",
+      "date": "2026-06-10T23:28:16Z"
+    },
+    {
+      "title": "Micron, Intel drag tech sector into bearish phase as semiconductor selloff intensifies",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/micron-intel-tech-sector-bearish-phase/",
+      "date": "2026-06-10T23:11:19Z"
+    },
+    {
+      "title": "IRGC Navy strikes two oil tankers in Strait of Hormuz, escalating crisis at world’s most critical oil chokepoint",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/irgc-navy-strikes-oil-tankers-strait-of-hormuz/",
+      "date": "2026-06-10T23:06:47Z"
+    },
+    {
+      "title": "Fox News Host Plays Montage of Trump Saying Iran War Is ‘Close’ To Ending: ‘That’s Nine Weeks’",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/tv/fox-news-host-plays-montage-of-trump-saying-iran-war-is-close-to-ending-thats-nine-weeks/",
+      "date": "2026-06-10T23:05:06Z"
+    },
+    {
+      "title": "Fast Takes: Brazilian president’s lousy Beijing bet, Israel’s not the problem and more",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/10/opinion/fast-takes-brazilian-presidents-lousy-beijing-bet-israels-not-the-problem-and-more/",
+      "date": "2026-06-10T23:02:11Z"
+    },
+    {
+      "title": "Transition metal-catalyzed monodentate directing group-assisted C–H functionalization: an overview of advances (2015–2024)",
+      "source": "Royal Society of Chemistry",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/qo/d6qo00602g",
+      "date": "2026-06-10T23:00:00Z"
+    },
+    {
+      "title": "Planar tetracoordinate carbon in boron-based cluster CB4S6 stabilized by peripheral bridging sulfur atoms",
+      "source": "Royal Society of Chemistry",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/cc/d6cc02185a",
+      "date": "2026-06-10T23:00:00Z"
+    },
+    {
+      "title": "Three-Component Diazaphospholium Synthesis Enables P(V)-to-P(III) Conversion and Ylide-Mediated CO2 and CS2 Activation",
+      "source": "Royal Society of Chemistry",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/qi/d6qi01242f",
+      "date": "2026-06-10T23:00:00Z"
+    },
+    {
+      "title": "Gold falls for third day as US strikes on Iran escalate tensions",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/gold-falls-us-iran-strikes-tensions/",
+      "date": "2026-06-10T22:59:17Z"
+    },
+    {
+      "title": "Iran’s Khatam al-Anbiya Central Headquarters orders Strait of Hormuz closed to oil tankers",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-khatam-al-anbiya-strait-hormuz-closure/",
+      "date": "2026-06-10T22:56:09Z"
+    },
+    {
+      "title": "US sanctions China and Hong Kong entities over Iran weapons procurement",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-sanctions-china-hong-kong-iran-weapons/",
+      "date": "2026-06-10T22:54:34Z"
+    },
+    {
+      "title": "Canada introduces teen social media ban with Big Tech off-ramp",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/canada-teen-social-media-ban-big-tech/",
+      "date": "2026-06-10T22:31:05Z"
+    },
+    {
+      "title": "Saylor Pushes Back Against Dilution Accusations After New Bitcoin Bet",
       "source": "Bitcoinist",
-      "url": "https://bitcoinist.com/bitcoin-to-set-a-new-record/",
-      "date": "2026-06-09T23:30:12Z"
+      "url": "https://bitcoinist.com/saylor-pushes-back-against-dilution-accusations-after-new-bitcoin-bet/",
+      "date": "2026-06-10T22:30:56Z"
     },
     {
-      "title": "SpaceX IPO demand approaches $250B as crypto investors sell Bitcoin to buy shares",
+      "title": "Bitcoin Obituaries Keep Coming—CZ Isn’t Buying It",
+      "source": "newsBTC",
+      "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-obituaries-keep-coming-cz-isnt-buying-it/",
+      "date": "2026-06-10T22:30:06Z"
+    },
+    {
+      "title": "Paisabazaar wanted to get you loans; now it wants your funds",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/paisabazaar-wanted-to-get-you-loans-now-it-wants-your-funds/primearticleshow/131637174.cms",
+      "date": "2026-06-10T22:30:00Z"
+    },
+    {
+      "title": "US launches new wave of strikes on Iran as crypto markets brace for impact",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/spacex-ipo-demand-250b-bitcoin-impact/",
-      "date": "2026-06-09T23:26:46Z"
+      "url": "https://cryptobriefing.com/us-strikes-iran-crypto-market-impact-6/",
+      "date": "2026-06-10T22:29:08Z"
     },
     {
-      "title": "US strikes Iranian radar sites as crypto markets brace for more volatility",
+      "title": "Iranian forces target US ships near Strait of Hormuz with missiles and drones, sparking crypto volatility and a Bitcoin insurance scheme",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-strikes-iran-radar-crypto-volatility/",
-      "date": "2026-06-09T23:19:17Z"
-    },
-    {
-      "title": "Show HN: PolyHelper – Self-evolving cognitive exoskeleton orchestrating 10 AIs",
-      "source": "Github.com",
-      "url": "https://github.com/PolyHelper/polyhelper",
-      "date": "2026-06-09T23:16:50Z"
-    },
-    {
-      "title": "Asian stocks set to fall after volatile US session as Iran tensions and inflation fears collide",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/asian-stocks-fall-us-volatility-iran-inflation/",
-      "date": "2026-06-09T23:16:36Z"
-    },
-    {
-      "title": "US EIA warns oil inventories are approaching multi-decade lows",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/eia-warns-oil-inventories-multi-decade-lows/",
-      "date": "2026-06-09T23:16:18Z"
-    },
-    {
-      "title": "Oil climbs after US strikes on Iran following helicopter attack",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/oil-climbs-us-strikes-iran-helicopter-attack/",
-      "date": "2026-06-09T23:13:53Z"
-    },
-    {
-      "title": "Bank of Japan watchers expect two rate hikes in 2026, starting next week",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bank-of-japan-rate-hikes-2026-crypto-impact/",
-      "date": "2026-06-09T23:10:06Z"
-    },
-    {
-      "title": "TSMC signals potential price rises amid rising costs and AI demand",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/tsmc-price-rises-ai-demand-crypto/",
-      "date": "2026-06-09T23:09:48Z"
-    },
-    {
-      "title": "SOXS ETF sees 1.3 billion shares traded, marking third highest volume day for any US ETF in 20 years",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/soxs-etf-record-trading-volume/",
-      "date": "2026-06-09T23:02:52Z"
+      "url": "https://cryptobriefing.com/iran-us-hormuz-strikes-bitcoin-insurance/",
+      "date": "2026-06-10T22:25:13Z"
     }
   ]
 }

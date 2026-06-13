@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-06-12T00:16:48.150926"
+      "date": "2026-06-13T00:17:17.270826"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-06-12T00:16:48.150931"
+      "date": "2026-06-13T00:17:17.270833"
     }
   ],
   "bitcoin": {
-    "price": 63654,
-    "date": "2026-06-12T00:16:48.204733"
+    "price": 63548,
+    "date": "2026-06-13T00:17:17.449628"
   },
   "news": [
     {
-      "title": "Cyberpunk 2077 Releases Official Valentino Thermal Katana Replica",
-      "source": "Bleeding Cool News",
-      "url": "https://bleedingcool.com/collectibles/cyberpunk-2077-releases-official-valentino-thermal-katana-replica/",
-      "date": "2026-06-11T00:12:09Z"
-    },
-    {
-      "title": "SpaceX IPO whips Elon Musk fans into frenzy: ‘The more, the better’",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/companies-markets/spacex-ipo-whips-elon-musk-fans-into-frenzy-the-more-the-better",
-      "date": "2026-06-11T00:06:00Z"
-    },
-    {
-      "title": "A knee-jerk reaction or something more? Nvidia's market cap dropped by almost $330 billion in 24 hours as the AI giant reeled from Broadcom's poor guidance",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/pro/a-knee-jerk-reaction-or-something-more-nvidias-market-cap-dropped-by-almost-usd330-billion-in-24-hours-as-the-ai-giant-reeled-from-broadcoms-poor-guidance",
-      "date": "2026-06-11T00:05:00Z"
-    },
-    {
-      "title": "How Fake News Became the Most Dangerous Force in Energy Markets",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/How-Fake-News-Became-the-Most-Dangerous-Force-in-Energy-Markets.html",
-      "date": "2026-06-11T00:01:00Z"
-    },
-    {
-      "title": "Are England now ready to go and win the World Cup?",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/football/news/12016/13552812/world-cup-england-win-final-warm-up-against-costa-rica-so-are-they-ready-to-challenge-for-tournament-glory",
-      "date": "2026-06-11T00:00:00Z"
-    },
-    {
-      "title": "Solvent-assisted running-in strategy enables improved triboelectric nanogenerator output",
+      "title": "Charge transport through linear carbon atomic chains",
       "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41467-026-74269-5",
-      "date": "2026-06-11T00:00:00Z"
+      "url": "https://www.nature.com/articles/s41557-026-02175-w",
+      "date": "2026-06-12T00:00:00Z"
     },
     {
-      "title": "Hedgeye files for Hedged Bitcoin ETF combining options strategies with crypto exposure",
+      "title": "SpaceX IPO Lines Up $230 Billion Windfall For Peter Thiel And Other Musk Backers",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/iainmartin/2026/06/12/spacex-ipo-lines-up-230-billion-windfall-for-peter-thiel-and-other-musk-backers/",
+      "date": "2026-06-12T00:00:00Z"
+    },
+    {
+      "title": "SpaceX Becomes 8th Largest Public Bitcoin Holder Following IPO",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-trillion-worth/",
+      "date": "2026-06-12T00:00:00Z"
+    },
+    {
+      "title": "Copper-catalysed site-selective arylation of pyrazoles",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41557-026-02148-z",
+      "date": "2026-06-12T00:00:00Z"
+    },
+    {
+      "title": "Bedsure Brings Summer Sleep Solutions to Amazon Prime Day UK",
+      "source": "PR Newswire UK",
+      "url": "https://www.prnewswire.co.uk/news-releases/bedsure-brings-summer-sleep-solutions-to-amazon-prime-day-uk-302795085.html",
+      "date": "2026-06-12T00:00:00Z"
+    },
+    {
+      "title": "Atomic-level protein–ligand recognition with PBCNet2.0 for probe discovery",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41589-026-02241-x",
+      "date": "2026-06-12T00:00:00Z"
+    },
+    {
+      "title": "SpaceX Becomes 8th Largest Public Bitcoin Holder Following IPO",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/",
+      "date": "2026-06-12T00:00:00Z"
+    },
+    {
+      "title": "Walk this way: A's slugger Nick Kurtz happy to take free pass to help the team",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/walk-way-slugger-nick-kurtz-235830380.html",
+      "date": "2026-06-11T23:58:30Z"
+    },
+    {
+      "title": "Fortune Magazine unveils inaugural Crypto 100 rankings, BlackRock tops ETFs",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/hedgeye-hedged-bitcoin-etf-options-strategies/",
-      "date": "2026-06-10T23:57:10Z"
+      "url": "https://cryptobriefing.com/fortune-crypto-100-rankings-blackrock/",
+      "date": "2026-06-11T23:55:00Z"
     },
     {
-      "title": "Global Junk Debt Flashes Warning on Growing Risk of Stagflation",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/global-junk-debt-flashes-warning-on-growing-risk-of-stagflation",
-      "date": "2026-06-10T23:50:48Z"
+      "title": "Gold surges after Trump hints at US-Iran deal this weekend",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/gold-surges-trump-us-iran-deal/",
+      "date": "2026-06-11T23:53:33Z"
     },
     {
-      "title": "Shuttle Pharmaceuticals Holdings Inc trading halted, news pending",
+      "title": "Happy City Holdings Ltd trading halted, news pending",
       "source": "Thefly.com",
-      "url": "https://www.thefly.com/SHPH",
-      "date": "2026-06-10T23:50:00Z"
+      "url": "https://www.thefly.com/HCHL",
+      "date": "2026-06-11T23:50:01Z"
     },
     {
-      "title": "US Central Command refutes Iranian claims of Strait of Hormuz closure",
+      "title": "SpaceX IPO set for tomorrow, testing tokenized equity products",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/centcom-refutes-iran-strait-hormuz-closure/",
-      "date": "2026-06-10T23:43:33Z"
+      "url": "https://cryptobriefing.com/spacex-ipo-tokenized-equity-test/",
+      "date": "2026-06-11T23:40:11Z"
     },
     {
-      "title": "Trump threatens to escalate strikes against Iran if no agreement is reached, rattling crypto markets",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-iran-strikes-threat-crypto-markets/",
-      "date": "2026-06-10T23:36:07Z"
-    },
-    {
-      "title": "Iran asks US to stop bombing as Trump reveals back-channel communications",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-requests-us-end-bombing-trump/",
-      "date": "2026-06-10T23:34:22Z"
-    },
-    {
-      "title": "Trump says Israel not involved in US strikes on Iran, crypto markets brace for impact",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-israel-iran-strikes-crypto-impact/",
-      "date": "2026-06-10T23:29:02Z"
-    },
-    {
-      "title": "US strikes Iran as Tehran warns of response to attacks",
+      "title": "Iran says deal not finalised, Trump hopes to sign soon",
       "source": "RTE",
-      "url": "https://www.rte.ie/news/middle-east/2026/0611/1577844-middle-east-iran/",
-      "date": "2026-06-10T23:28:16Z"
+      "url": "https://www.rte.ie/news/middle-east/2026/0612/1578042-iran-trump-us/",
+      "date": "2026-06-11T23:33:11Z"
     },
     {
-      "title": "Micron, Intel drag tech sector into bearish phase as semiconductor selloff intensifies",
+      "title": "Iran says deal not finalised, Trump hopes to sign soon",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/0612/1578042-iran-says-deal-not-finalised-trump-hopes-to-sign-soon/",
+      "date": "2026-06-11T23:33:11Z"
+    },
+    {
+      "title": "Japanese stocks poised to rise as Trump signals US-Iran deal",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/micron-intel-tech-sector-bearish-phase/",
-      "date": "2026-06-10T23:11:19Z"
+      "url": "https://cryptobriefing.com/japanese-stocks-trump-iran-deal/",
+      "date": "2026-06-11T23:26:16Z"
     },
     {
-      "title": "IRGC Navy strikes two oil tankers in Strait of Hormuz, escalating crisis at world’s most critical oil chokepoint",
+      "title": "Asian investors locked out of SpaceX’s $75B IPO are turning to crypto for a backdoor",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/irgc-navy-strikes-oil-tankers-strait-of-hormuz/",
-      "date": "2026-06-10T23:06:47Z"
+      "url": "https://cryptobriefing.com/asian-investors-spacex-ipo-crypto-alternatives/",
+      "date": "2026-06-11T23:20:36Z"
     },
     {
-      "title": "Fox News Host Plays Montage of Trump Saying Iran War Is ‘Close’ To Ending: ‘That’s Nine Weeks’",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/tv/fox-news-host-plays-montage-of-trump-saying-iran-war-is-close-to-ending-thats-nine-weeks/",
-      "date": "2026-06-10T23:05:06Z"
+      "title": "Trump believes Iran’s supreme leader approved deal with US, and crypto markets are paying attention",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-iran-deal-crypto-market-impact-3/",
+      "date": "2026-06-11T23:09:12Z"
     },
     {
-      "title": "Fast Takes: Brazilian president’s lousy Beijing bet, Israel’s not the problem and more",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/10/opinion/fast-takes-brazilian-presidents-lousy-beijing-bet-israels-not-the-problem-and-more/",
-      "date": "2026-06-10T23:02:11Z"
+      "title": "Pomerantz Law Firm Announces the Filing of a Class Action Against BitGo Holdings, Inc. and Certain Officers - BTGO",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/pomerantz-law-firm-announces-the-filing-of-a-class-action-against-bitgo-holdings-inc-and-certain-officers--btgo-302798580.html",
+      "date": "2026-06-11T23:05:00Z"
     },
     {
-      "title": "Transition metal-catalyzed monodentate directing group-assisted C–H functionalization: an overview of advances (2015–2024)",
+      "title": "Musk’s $1.8 trillion SpaceX IPO could be ‘highly undesirable’ for some",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/6/11/musks-1-8-trillion-spacex-ipo-could-be-highly-undesirable-for-some",
+      "date": "2026-06-11T23:00:16Z"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise in wait for historic SpaceX debut amid hopes for Iran-US peace",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-june-12-dow-sp-500-nasdaq-spacex-ipo-230015001.html",
+      "date": "2026-06-11T23:00:15Z"
+    },
+    {
+      "title": "SpaceX IPO live updates: SpaceX IPO set to make record debut as Dow, S&P 500, Nasdaq rise",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/live/spacex-ipo-live-updates-elon-musks-set-to-make-record-debut-as-dow-sp-500-nasdaq-rise-230015551.html",
+      "date": "2026-06-11T23:00:15Z"
+    },
+    {
+      "title": "Wall Street rally driven by AI stocks raises bubble concerns for fund managers",
+      "source": "New Zealand Herald",
+      "url": "https://www.nzherald.co.nz/business/business-reports/capital-markets-report/wall-street-rally-driven-by-ai-stocks-raises-bubble-concerns-for-fund-managers/premium/VYEAUBXOJNHV3MCQKKW2HBP4B4/",
+      "date": "2026-06-11T23:00:00Z"
+    },
+    {
+      "title": "Microdroplets as interfacial reactors: from bond breaking to atmospheric impacts",
       "source": "Royal Society of Chemistry",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/qo/d6qo00602g",
-      "date": "2026-06-10T23:00:00Z"
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/cp/d6cp01076h",
+      "date": "2026-06-11T23:00:00Z"
     },
     {
-      "title": "Planar tetracoordinate carbon in boron-based cluster CB4S6 stabilized by peripheral bridging sulfur atoms",
+      "title": "High dispersed Mo2C/AC for gas-phase catalytic direct deoxygenation during lignin pyrolysis",
       "source": "Royal Society of Chemistry",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/cc/d6cc02185a",
-      "date": "2026-06-10T23:00:00Z"
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/gc/d6gc01475e",
+      "date": "2026-06-11T23:00:00Z"
     },
     {
-      "title": "Three-Component Diazaphospholium Synthesis Enables P(V)-to-P(III) Conversion and Ylide-Mediated CO2 and CS2 Activation",
+      "title": "Engineering coordination bonds for bioinspired responsive polymers",
       "source": "Royal Society of Chemistry",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/qi/d6qi01242f",
-      "date": "2026-06-10T23:00:00Z"
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/cs/d5cs01074h",
+      "date": "2026-06-11T23:00:00Z"
     },
     {
-      "title": "Gold falls for third day as US strikes on Iran escalate tensions",
+      "title": "Radical cyclization via selective C–X bond transformation",
+      "source": "Royal Society of Chemistry",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/qo/d6qo00445h",
+      "date": "2026-06-11T23:00:00Z"
+    },
+    {
+      "title": "Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k",
+      "date": "2026-06-11T22:58:52Z"
+    },
+    {
+      "title": "US military was poised to strike Iran before Trump called it off, sending Bitcoin surging",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/gold-falls-us-iran-strikes-tensions/",
-      "date": "2026-06-10T22:59:17Z"
+      "url": "https://cryptobriefing.com/us-military-iran-strikes-trump-bitcoin-surge/",
+      "date": "2026-06-11T22:46:18Z"
     },
     {
-      "title": "Iran’s Khatam al-Anbiya Central Headquarters orders Strait of Hormuz closed to oil tankers",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-khatam-al-anbiya-strait-hormuz-closure/",
-      "date": "2026-06-10T22:56:09Z"
+      "title": "News Wrap: Apparent anti-Trump message etched into National Mall",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-apparent-anti-trump-message-etched-into-national-mall",
+      "date": "2026-06-11T22:45:42Z"
     },
     {
-      "title": "US sanctions China and Hong Kong entities over Iran weapons procurement",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-sanctions-china-hong-kong-iran-weapons/",
-      "date": "2026-06-10T22:54:34Z"
-    },
-    {
-      "title": "Canada introduces teen social media ban with Big Tech off-ramp",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/canada-teen-social-media-ban-big-tech/",
-      "date": "2026-06-10T22:31:05Z"
-    },
-    {
-      "title": "Saylor Pushes Back Against Dilution Accusations After New Bitcoin Bet",
-      "source": "Bitcoinist",
-      "url": "https://bitcoinist.com/saylor-pushes-back-against-dilution-accusations-after-new-bitcoin-bet/",
-      "date": "2026-06-10T22:30:56Z"
-    },
-    {
-      "title": "Bitcoin Obituaries Keep Coming—CZ Isn’t Buying It",
-      "source": "newsBTC",
-      "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-obituaries-keep-coming-cz-isnt-buying-it/",
-      "date": "2026-06-10T22:30:06Z"
-    },
-    {
-      "title": "Paisabazaar wanted to get you loans; now it wants your funds",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/paisabazaar-wanted-to-get-you-loans-now-it-wants-your-funds/primearticleshow/131637174.cms",
-      "date": "2026-06-10T22:30:00Z"
-    },
-    {
-      "title": "US launches new wave of strikes on Iran as crypto markets brace for impact",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-strikes-iran-crypto-market-impact-6/",
-      "date": "2026-06-10T22:29:08Z"
-    },
-    {
-      "title": "Iranian forces target US ships near Strait of Hormuz with missiles and drones, sparking crypto volatility and a Bitcoin insurance scheme",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-us-hormuz-strikes-bitcoin-insurance/",
-      "date": "2026-06-10T22:25:13Z"
+      "title": "Stray bunny spends years roaming a Florida neighborhood, occasionally visiting the woman trying to earn her trust, then one night shows up licking her door and staying for good: 'That's so rare for a ",
+      "source": "Cheezburger.com",
+      "url": "https://cheezburger.com/45642501/stray-bunny-spends-years-roaming-a-florida-neighborhood-occasionally-visiting-the-woman-trying-to",
+      "date": "2026-06-11T22:45:00Z"
     }
   ]
 }

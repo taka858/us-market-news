@@ -4,198 +4,192 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-06-13T00:17:17.270826"
+      "date": "2026-06-14T00:02:58.189502"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-06-13T00:17:17.270833"
+      "date": "2026-06-14T00:02:58.189508"
     }
   ],
   "bitcoin": {
-    "price": 63548,
-    "date": "2026-06-13T00:17:17.449628"
+    "price": 64382,
+    "date": "2026-06-14T00:02:58.267988"
   },
   "news": [
     {
-      "title": "Charge transport through linear carbon atomic chains",
+      "title": "JBL Go 4 Mini Bluetooth Speaker $34 @ The Good Guys",
+      "source": "Ozbargain.com.au",
+      "url": "https://www.ozbargain.com.au/node/963308",
+      "date": "2026-06-13T00:02:08Z"
+    },
+    {
+      "title": "Wall Street Liftoff: SpaceX IPO Rockets to Historic Heights",
+      "source": "Legalinsurrection.com",
+      "url": "https://legalinsurrection.com/2026/06/wall-street-liftoff-spacex-ipo-rockets-to-historic-heights/",
+      "date": "2026-06-13T00:00:47Z"
+    },
+    {
+      "title": "Synthesis of functionalized hydrosilanes via titanium-catalyzed hydroboration and hydrogenation of C(sp3)–Si bonds in silacyclobutanes",
       "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41557-026-02175-w",
-      "date": "2026-06-12T00:00:00Z"
+      "url": "https://www.nature.com/articles/s41467-026-74224-4",
+      "date": "2026-06-13T00:00:00Z"
     },
     {
-      "title": "SpaceX IPO Lines Up $230 Billion Windfall For Peter Thiel And Other Musk Backers",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/iainmartin/2026/06/12/spacex-ipo-lines-up-230-billion-windfall-for-peter-thiel-and-other-musk-backers/",
-      "date": "2026-06-12T00:00:00Z"
+      "title": "‘This is not a flash in the pan’: Why value stocks are beating growth by such a wide margin",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b44de52aa09a06de",
+      "date": "2026-06-12T23:53:20Z"
     },
     {
-      "title": "SpaceX Becomes 8th Largest Public Bitcoin Holder Following IPO",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-trillion-worth/",
-      "date": "2026-06-12T00:00:00Z"
+      "title": "Parents create 'university of life' for non-verbal daughter",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-06-13/family-builds-university-of-life-for-daughter-on-ndis/106719662",
+      "date": "2026-06-12T23:46:34Z"
     },
     {
-      "title": "Copper-catalysed site-selective arylation of pyrazoles",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41557-026-02148-z",
-      "date": "2026-06-12T00:00:00Z"
-    },
-    {
-      "title": "Bedsure Brings Summer Sleep Solutions to Amazon Prime Day UK",
-      "source": "PR Newswire UK",
-      "url": "https://www.prnewswire.co.uk/news-releases/bedsure-brings-summer-sleep-solutions-to-amazon-prime-day-uk-302795085.html",
-      "date": "2026-06-12T00:00:00Z"
-    },
-    {
-      "title": "Atomic-level protein–ligand recognition with PBCNet2.0 for probe discovery",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41589-026-02241-x",
-      "date": "2026-06-12T00:00:00Z"
-    },
-    {
-      "title": "SpaceX Becomes 8th Largest Public Bitcoin Holder Following IPO",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/12/spacex-now-8th-largest-public-bitcoin-holder-with-about-12-billion-worth/",
-      "date": "2026-06-12T00:00:00Z"
-    },
-    {
-      "title": "Walk this way: A's slugger Nick Kurtz happy to take free pass to help the team",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/walk-way-slugger-nick-kurtz-235830380.html",
-      "date": "2026-06-11T23:58:30Z"
-    },
-    {
-      "title": "Fortune Magazine unveils inaugural Crypto 100 rankings, BlackRock tops ETFs",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/fortune-crypto-100-rankings-blackrock/",
-      "date": "2026-06-11T23:55:00Z"
-    },
-    {
-      "title": "Gold surges after Trump hints at US-Iran deal this weekend",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/gold-surges-trump-us-iran-deal/",
-      "date": "2026-06-11T23:53:33Z"
-    },
-    {
-      "title": "Happy City Holdings Ltd trading halted, news pending",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/HCHL",
-      "date": "2026-06-11T23:50:01Z"
-    },
-    {
-      "title": "SpaceX IPO set for tomorrow, testing tokenized equity products",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/spacex-ipo-tokenized-equity-test/",
-      "date": "2026-06-11T23:40:11Z"
-    },
-    {
-      "title": "Iran says deal not finalised, Trump hopes to sign soon",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/middle-east/2026/0612/1578042-iran-trump-us/",
-      "date": "2026-06-11T23:33:11Z"
-    },
-    {
-      "title": "Iran says deal not finalised, Trump hopes to sign soon",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/middle-east/2026/0612/1578042-iran-says-deal-not-finalised-trump-hopes-to-sign-soon/",
-      "date": "2026-06-11T23:33:11Z"
-    },
-    {
-      "title": "Japanese stocks poised to rise as Trump signals US-Iran deal",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/japanese-stocks-trump-iran-deal/",
-      "date": "2026-06-11T23:26:16Z"
-    },
-    {
-      "title": "Asian investors locked out of SpaceX’s $75B IPO are turning to crypto for a backdoor",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/asian-investors-spacex-ipo-crypto-alternatives/",
-      "date": "2026-06-11T23:20:36Z"
-    },
-    {
-      "title": "Trump believes Iran’s supreme leader approved deal with US, and crypto markets are paying attention",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-iran-deal-crypto-market-impact-3/",
-      "date": "2026-06-11T23:09:12Z"
-    },
-    {
-      "title": "Pomerantz Law Firm Announces the Filing of a Class Action Against BitGo Holdings, Inc. and Certain Officers - BTGO",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/pomerantz-law-firm-announces-the-filing-of-a-class-action-against-bitgo-holdings-inc-and-certain-officers--btgo-302798580.html",
-      "date": "2026-06-11T23:05:00Z"
-    },
-    {
-      "title": "Musk’s $1.8 trillion SpaceX IPO could be ‘highly undesirable’ for some",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/economy/2026/6/11/musks-1-8-trillion-spacex-ipo-could-be-highly-undesirable-for-some",
-      "date": "2026-06-11T23:00:16Z"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise in wait for historic SpaceX debut amid hopes for Iran-US peace",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-june-12-dow-sp-500-nasdaq-spacex-ipo-230015001.html",
-      "date": "2026-06-11T23:00:15Z"
-    },
-    {
-      "title": "SpaceX IPO live updates: SpaceX IPO set to make record debut as Dow, S&P 500, Nasdaq rise",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/live/spacex-ipo-live-updates-elon-musks-set-to-make-record-debut-as-dow-sp-500-nasdaq-rise-230015551.html",
-      "date": "2026-06-11T23:00:15Z"
-    },
-    {
-      "title": "Wall Street rally driven by AI stocks raises bubble concerns for fund managers",
-      "source": "New Zealand Herald",
-      "url": "https://www.nzherald.co.nz/business/business-reports/capital-markets-report/wall-street-rally-driven-by-ai-stocks-raises-bubble-concerns-for-fund-managers/premium/VYEAUBXOJNHV3MCQKKW2HBP4B4/",
-      "date": "2026-06-11T23:00:00Z"
-    },
-    {
-      "title": "Microdroplets as interfacial reactors: from bond breaking to atmospheric impacts",
-      "source": "Royal Society of Chemistry",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/cp/d6cp01076h",
-      "date": "2026-06-11T23:00:00Z"
-    },
-    {
-      "title": "High dispersed Mo2C/AC for gas-phase catalytic direct deoxygenation during lignin pyrolysis",
-      "source": "Royal Society of Chemistry",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/gc/d6gc01475e",
-      "date": "2026-06-11T23:00:00Z"
-    },
-    {
-      "title": "Engineering coordination bonds for bioinspired responsive polymers",
-      "source": "Royal Society of Chemistry",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/cs/d5cs01074h",
-      "date": "2026-06-11T23:00:00Z"
-    },
-    {
-      "title": "Radical cyclization via selective C–X bond transformation",
-      "source": "Royal Society of Chemistry",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/qo/d6qo00445h",
-      "date": "2026-06-11T23:00:00Z"
-    },
-    {
-      "title": "Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?",
+      "title": "Bitcoin rally to $70K builds as orderbook structure highlights traders’ confidence",
       "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k",
-      "date": "2026-06-11T22:58:52Z"
+      "url": "https://cointelegraph.com/markets/bitcoin-data-points-to-a-relief-rally-as-order-book-demand-targets-70k",
+      "date": "2026-06-12T23:42:12Z"
     },
     {
-      "title": "US military was poised to strike Iran before Trump called it off, sending Bitcoin surging",
+      "title": "SEC employees caught playing golf while claiming to work from home",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-military-iran-strikes-trump-bitcoin-surge/",
-      "date": "2026-06-11T22:46:18Z"
+      "url": "https://cryptobriefing.com/sec-employees-golf-telework-fraud/",
+      "date": "2026-06-12T23:20:21Z"
     },
     {
-      "title": "News Wrap: Apparent anti-Trump message etched into National Mall",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-apparent-anti-trump-message-etched-into-national-mall",
-      "date": "2026-06-11T22:45:42Z"
+      "title": "3 things to look out for on Monday",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/3f063f9f5d68c379",
+      "date": "2026-06-12T23:09:14Z"
     },
     {
-      "title": "Stray bunny spends years roaming a Florida neighborhood, occasionally visiting the woman trying to earn her trust, then one night shows up licking her door and staying for good: 'That's so rare for a ",
-      "source": "Cheezburger.com",
-      "url": "https://cheezburger.com/45642501/stray-bunny-spends-years-roaming-a-florida-neighborhood-occasionally-visiting-the-woman-trying-to",
-      "date": "2026-06-11T22:45:00Z"
+      "title": "SpaceX IPO Project Unlimited (Weiss Ratings' Michael Robinson Disruptors & Dominators Newsletter) Elon's Trillion Dollar Plan to Save AI",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/12/3311356/0/en/SpaceX-IPO-Project-Unlimited-Weiss-Ratings-Michael-Robinson-Disruptors-Dominators-Newsletter-Elon-s-Trillion-Dollar-Plan-to-Save-AI.html",
+      "date": "2026-06-12T23:01:00Z"
+    },
+    {
+      "title": "The Oil Market Could Be Weeks From a Breaking Point",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/The-Oil-Market-Could-Be-Weeks-From-a-Breaking-Point.html",
+      "date": "2026-06-12T23:00:00Z"
+    },
+    {
+      "title": "Construction of a thiourea-functionalized metallomacrocycle for the reductive amination of furfural under mild conditions",
+      "source": "Royal Society of Chemistry",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/dt/d6dt00744a",
+      "date": "2026-06-12T23:00:00Z"
+    },
+    {
+      "title": "Trump expects to sign deal with Iran within days, tells Netanyahu",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-iran-deal-bitcoin-impact/",
+      "date": "2026-06-12T22:57:56Z"
+    },
+    {
+      "title": "lumibot 4.5.49",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/lumibot/4.5.49/",
+      "date": "2026-06-12T22:46:52Z"
+    },
+    {
+      "title": "Democrat Eric Jones Set Up for Runoff Battle Against Longtime Napa Valley Congressman",
+      "source": "KQED",
+      "url": "https://www.kqed.org/news/12087322/democrat-eric-jones-set-up-for-runoff-battle-against-longtime-napa-valley-congressman",
+      "date": "2026-06-12T22:44:24Z"
+    },
+    {
+      "title": "Hedge funds dump Magnificent Seven stocks ahead of SpaceX IPO",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2e8d4d03e761ff2f",
+      "date": "2026-06-12T22:38:45Z"
+    },
+    {
+      "title": "SpaceX Now 8th Largest Public Bitcoin Holder—With About $1.2 Billion Worth",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/4c8be496d2e9b2d0",
+      "date": "2026-06-12T22:38:33Z"
+    },
+    {
+      "title": "Trump abandons main provisions of Iran nuclear deal, and crypto markets feel the aftershocks",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-iran-nuclear-deal-crypto-sanctions/",
+      "date": "2026-06-12T22:35:02Z"
+    },
+    {
+      "title": "Jim Cramer says SpaceX’s blockbuster IPO could have major implications for the week ahead",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/12/jim-cramer-spacex-ipo-implications-week-ahead.html",
+      "date": "2026-06-12T22:28:39Z"
+    },
+    {
+      "title": "Bitcoin Liquidation Shakeout Leaves Traders Watching $66K Resistance And $61K Support",
+      "source": "Bitcoinist",
+      "url": "https://bitcoinist.com/bitcoin-liquidation-shakeout-66k-resistance-61k-support/",
+      "date": "2026-06-12T22:25:44Z"
+    },
+    {
+      "title": "SpaceX surpasses $2T valuation after historic stock debut",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/spacex-2-trillion-valuation-ipo-debut/",
+      "date": "2026-06-12T22:24:15Z"
+    },
+    {
+      "title": "CORRECTION -- Leverage Shares by Themes Launches 2X Long and -2X Short SpaceX ETFs with 0.75% Fee to Meet Unprecedented Retail Demand",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/12/3311353/0/en/CORRECTION-Leverage-Shares-by-Themes-Launches-2X-Long-and-2X-Short-SpaceX-ETFs-with-0-75-Fee-to-Meet-Unprecedented-Retail-Demand.html",
+      "date": "2026-06-12T22:23:00Z"
+    },
+    {
+      "title": "Mumbai entrepreneur hires an intern. His age will leave you shocked: ‘He wanted to be professionally active…’",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/mumbai-entrepreneur-hires-an-intern-his-age-will-leave-you-shocked-he-wanted-to-be-professionally-active/articleshow/131694987.cms",
+      "date": "2026-06-12T22:16:56Z"
+    },
+    {
+      "title": "Bengaluru woman left her Rs 10.5 LPA job for a Rs 8.5 LPA job, doesn’t regret it: ‘The biggest improvement has been…’",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/bengaluru-woman-left-her-rs-10-5-lpa-job-for-a-rs-8-5-lpa-job-doesnt-regret-it-the-biggest-improvement-has-been/articleshow/131694625.cms",
+      "date": "2026-06-12T22:13:16Z"
+    },
+    {
+      "title": "By the numbers: Here’s what you might have missed in SpaceX’s record market debut | CNN Business",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/06/12/business/spacex-ipo-by-the-the-numbers",
+      "date": "2026-06-12T22:04:35Z"
+    },
+    {
+      "title": "Aave Proposal Moves To Add Circle Wrapped Bitcoin As Collateral",
+      "source": "newsBTC",
+      "url": "http://www.newsbtc.com/news/aave-circle-wrapped-bitcoin-cirbtc-collateral/",
+      "date": "2026-06-12T22:01:04Z"
+    },
+    {
+      "title": "Iran: Deal, No Deal, Maybe Deal",
+      "source": "Dailyreckoning.com",
+      "url": "https://dailyreckoning.com/iran-deal-no-deal-maybe-deal/",
+      "date": "2026-06-12T22:00:31Z"
+    },
+    {
+      "title": "Wall Street ends higher as SpaceX's market debut dominates",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-higher-as-spacexs-market-debut-dominates",
+      "date": "2026-06-12T21:59:20Z"
+    },
+    {
+      "title": "Zcash audit by Anthropic finds no serious bugs, says Zooko",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/zcash-anthropic-audit-no-serious-bugs/",
+      "date": "2026-06-12T21:57:24Z"
+    },
+    {
+      "title": "US officials see 80%-85% chance of peace deal with Iran soon",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-iran-peace-deal-crypto-impact-2/",
+      "date": "2026-06-12T21:50:01Z"
     }
   ]
 }

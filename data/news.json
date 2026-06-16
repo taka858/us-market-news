@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-06-15T00:05:28.189104"
+      "date": "2026-06-16T00:27:45.558441"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-06-15T00:05:28.189112"
+      "date": "2026-06-16T00:27:45.558448"
     }
   ],
   "bitcoin": {
-    "price": 65642,
-    "date": "2026-06-15T00:05:28.363756"
+    "price": 66239,
+    "date": "2026-06-16T00:27:45.610974"
   },
   "news": [
     {
-      "title": "SpaceX posts $5B loss in 2025, surges past $2T valuation",
+      "title": "Nifty tops key 23,500 hurdle, can head to 24,500 on buying interest: Analysts",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-tops-key-23500-hurdle-can-head-to-24500-on-buying-interest-analysts/articleshow/131730753.cms",
+      "date": "2026-06-15T00:21:39Z"
+    },
+    {
+      "title": "Polymarket surpasses Hyperliquid in 24-hour revenue, pulling in $1.18M to Hyperliquid’s $815K",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/spacex-5b-loss-2t-valuation-bitcoin/",
-      "date": "2026-06-14T00:03:47Z"
+      "url": "https://cryptobriefing.com/polymarket-surpasses-hyperliquid-24h-revenue/",
+      "date": "2026-06-15T00:19:23Z"
     },
     {
-      "title": "Killer dad Chris Watts' OTHER mistress details night of sex horrors weeks before his murders… as leaked trove of unseen texts, obscene internet searches and nude photos exposes nightmarish new depths ",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/crime-desk/article-15895985/Chris-Watts-Shanann-Nichol-Kessinger-murder-mistress-affair.html",
-      "date": "2026-06-14T00:02:05Z"
-    },
-    {
-      "title": "'Middle-class mothers in nice cars' behind garden centre thefts amid shoplifting epidemic",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15897941/Middle-class-mothers-nice-cars-garden-centre-thefts.html",
-      "date": "2026-06-13T23:49:59Z"
-    },
-    {
-      "title": "Russian Missile Stockpile Overwhelms Ukrainian Air Defenses",
-      "source": "Sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20260613/russian-missile-stockpile-overwhelms-ukrainian-air-defenses---1124307789.html",
-      "date": "2026-06-13T23:35:46Z"
-    },
-    {
-      "title": "Michael Saylor Fires Back: 'I Never Said The Company Wouldn't Sell Its Bitcoin'",
+      "title": "Bitcoin shoots higher on Iran peace deal, with Strait of Hormuz set to open",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c3cf972b86815121",
-      "date": "2026-06-13T23:28:30Z"
+      "url": "https://biztoc.com/x/12640bdddcacb5d7",
+      "date": "2026-06-15T00:16:28Z"
     },
     {
-      "title": "WR Isaiah Alvarez stays home, commits to Rutgers",
-      "source": "On3.com",
-      "url": "https://www.on3.com/rivals/news/wr-isaiah-alvarez-stays-home-commits-to-rutgers/",
-      "date": "2026-06-13T23:13:21Z"
+      "title": "Speculators raise bets against yen to nine-year high ahead of Bank of Japan rate hike",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/yen-carry-trade-speculators-boj-rate-hike/",
+      "date": "2026-06-15T00:14:08Z"
     },
     {
-      "title": "You Can Ignore AI Giants Like SpaceX, But Your 401(k) Won't",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/spacex-index-funds-elon-musk_n_6a2ddc97e4b0ba7a1fedef8d",
-      "date": "2026-06-13T23:01:17Z"
+      "title": "Trump announces completion of US-Iran naval blockade deal, crypto markets eye stabilization",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-iran-naval-blockade-deal-crypto/",
+      "date": "2026-06-15T00:11:49Z"
     },
     {
-      "title": "Adobe's CFO Jumps Ship To Marvell For 'Once-In-A-Generation' AI Expansion",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/354038a1cd5b425f",
-      "date": "2026-06-13T22:58:11Z"
+      "title": "Bulls return to banks on RBI's FCNR(B) initiative",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bulls-return-to-banks-on-rbis-fcnrb-initiative/articleshow/131730733.cms",
+      "date": "2026-06-15T00:11:23Z"
     },
     {
-      "title": "US Government Sold $646 billion of Treasury Securities this Week. 2nd Wave of Inflation Approaches 10-Year Treasury Yield",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9d6f28dc1ffe7113",
-      "date": "2026-06-13T22:56:48Z"
-    },
-    {
-      "title": "brk-client 0.3.4",
+      "title": "astro-intelligence added to PyPI",
       "source": "Pypi.org",
-      "url": "https://pypi.org/project/brk-client/0.3.4/",
-      "date": "2026-06-13T22:52:54Z"
+      "url": "https://pypi.org/project/astro-intelligence/",
+      "date": "2026-06-15T00:10:37Z"
     },
     {
-      "title": "Cathie Wood sells $16.2 million of tumbling megacap stock",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/cathie-wood-sells-16-2-million-of-tumbling-megacap-stock",
-      "date": "2026-06-13T22:46:14Z"
+      "title": "Bitcoin shoots higher on Iran peace deal, with Strait of Hormuz set to open",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/06/14/bitcoin-shoots-higher-on-iran-deal-with-strait-of-hormuz-set-to-open",
+      "date": "2026-06-15T00:08:10Z"
     },
     {
-      "title": "Eli Lilly’s AI Data Push Meets New Obesity Rivalry From Pfizer",
-      "source": "Simply Wall St",
-      "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-lly/eli-lilly/news/eli-lillys-ai-data-push-meets-new-obesity-rivalry-from-pfize",
-      "date": "2026-06-13T22:45:33Z"
-    },
-    {
-      "title": "Broad Bond Exposure or Tax-Exempt Muni Income? BND vs. MUB",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/047f9cc90c1ff8da",
-      "date": "2026-06-13T22:42:53Z"
-    },
-    {
-      "title": "Bitcoin To $400,000? Analyst Uses Gold Overlay To Make Bold 2026 Case",
-      "source": "Bitcoinist",
-      "url": "https://bitcoinist.com/bitcoin-to-400000-analyst-uses-gold-overlay-to-make-bold-2026-case/",
-      "date": "2026-06-13T22:32:56Z"
-    },
-    {
-      "title": "Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/13bfdade7ca6d219",
-      "date": "2026-06-13T22:26:27Z"
-    },
-    {
-      "title": "Chris Redman recalls Super Bowl season, lifelong Ravens bonds",
-      "source": "USA Today",
-      "url": "https://ravenswire.usatoday.com/story/sports/nfl/ravens/2026/06/13/chris-redman-reflects-on-ravens-roots-super-bowl-start/90537218007/",
-      "date": "2026-06-13T22:19:16Z"
-    },
-    {
-      "title": "Why Is Institutional Money Pouring Into XRP ETFs While Fleeing Bitcoin and Ethereum?",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/06/13/why-is-institutional-money-pouring-into-xrp-etfs-while-fleeing-bitcoin-and-ethereum/",
-      "date": "2026-06-13T22:16:03Z"
-    },
-    {
-      "title": "These Are the Only 2 Cryptocurrencies I'm Comfortable Buying Right Now",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7f0601b44b339164",
-      "date": "2026-06-13T22:12:47Z"
-    },
-    {
-      "title": "Michael Saylor says investor confidence in Ethereum has collapsed",
+      "title": "Global leaders react to US-Iran peace agreement announcement as Bitcoin rides the wave",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/saylor-ethereum-confidence-collapsed/",
-      "date": "2026-06-13T22:05:11Z"
+      "url": "https://cryptobriefing.com/global-leaders-react-us-iran-peace-agreement/",
+      "date": "2026-06-15T00:04:51Z"
     },
     {
-      "title": "SpaceX becomes eighth-largest public Bitcoin holder after IPO reveals 18,712 BTC stash",
+      "title": "Bank of Japan expected to raise interest rates to highest level since 1995",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/spacex-eighth-largest-public-bitcoin-holder/",
-      "date": "2026-06-13T22:04:19Z"
+      "url": "https://cryptobriefing.com/bank-of-japan-rate-hike-1995-high/",
+      "date": "2026-06-15T00:02:13Z"
     },
     {
-      "title": "Michael Saylor Fires Back: 'I Never Said The Company Wouldn't Sell Its Bitcoin'",
+      "title": "World's hottest stock market turns focus to MSCI moment",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/worlds-hottest-stock-market-turns-focus-to-msci-moment/articleshow/131730711.cms",
+      "date": "2026-06-15T00:01:04Z"
+    },
+    {
+      "title": "Bonds Men's Cotton Chesty Singlet: 6-Pack for $46.47 (RRP $89.97) Delivered @ Zasel",
+      "source": "Ozbargain.com.au",
+      "url": "https://www.ozbargain.com.au/node/963513",
+      "date": "2026-06-15T00:00:04Z"
+    },
+    {
+      "title": "Chain entanglements enable regeneration of high-performance thermosets",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41563-026-02646-y",
+      "date": "2026-06-15T00:00:00Z"
+    },
+    {
+      "title": "Bitcoin Covenants Part 1: Exploring New Possibilities for Complex Spending Conditions on the Bitcoin Network",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/research/bitcoin-covenants-part-1-exploring-new-possibilities-for-complex-spending-conditions-on-the-bitcoin-network",
+      "date": "2026-06-15T00:00:00Z"
+    },
+    {
+      "title": "Wide-temperature-range fluid-phase grain boundaries for temperature-robust perovskite solar cells",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41566-026-01943-x",
+      "date": "2026-06-15T00:00:00Z"
+    },
+    {
+      "title": "An alkyl-swap platform for late-stage modification of secondary N-methylamines",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41557-026-02178-7",
+      "date": "2026-06-15T00:00:00Z"
+    },
+    {
+      "title": "Trump claims Netanyahu nearly derailed US-Iran peace deal",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-netanyahu-iran-peace-deal-crypto/",
+      "date": "2026-06-14T23:52:13Z"
+    },
+    {
+      "title": "Illinois becomes first state to impose digital asset trading tax, drawing sharp criticism from industry and legal experts",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/illinois-digital-asset-trading-tax/",
+      "date": "2026-06-14T23:47:10Z"
+    },
+    {
+      "title": "Instant View: Markets cheer deal but see staying elevated",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2945ba087d02ecc2",
+      "date": "2026-06-14T23:45:22Z"
+    },
+    {
+      "title": "Instant View: Markets cheer deal but see staying elevated",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/9bb7f177a75a72e3",
+      "date": "2026-06-14T23:31:49Z"
+    },
+    {
+      "title": "Donald Trump announces US-Iran peace deal, boosting Japanese stocks and Bitcoin",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-iran-peace-deal-japan-stocks-bitcoin/",
+      "date": "2026-06-14T23:28:59Z"
+    },
+    {
+      "title": "US, Iran agree to ceasefire, sending stock futures higher, oil lower",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1511b2bbaf744f4b",
+      "date": "2026-06-14T23:16:48Z"
+    },
+    {
+      "title": "Asian Penny Stocks To Watch In June 2026",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c04303916d01a6d9",
+      "date": "2026-06-14T23:16:37Z"
+    },
+    {
+      "title": "He moved to Bangkok but still works US hours — and says the overnight schedule feels more relaxed",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/millennial-left-america-moved-bangkok-thailand-rent-works-overnight-hours-2026-6#article",
+      "date": "2026-06-14T23:14:01Z"
+    },
+    {
+      "title": "Instant View: Markets cheer deal but see staying elevated",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/instant-view-markets-cheer-deal-see-staying-elevated-6182981",
+      "date": "2026-06-14T23:13:53Z"
+    },
+    {
+      "title": "Instant View: Markets cheer deal but see staying elevated",
       "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/michael-saylor-fires-back-never-220115528.html",
-      "date": "2026-06-13T22:01:15Z"
+      "url": "https://finance.yahoo.com/markets/articles/instant-view-markets-cheer-deal-231236893.html",
+      "date": "2026-06-14T23:12:36Z"
     },
     {
-      "title": "3 ASX stocks that look like classic Warren Buffett investments",
-      "source": "Motley Fool Australia",
-      "url": "https://www.fool.com.au/2026/06/14/3-asx-stocks-that-look-like-classic-warren-buffett-investments/",
-      "date": "2026-06-13T22:00:00Z"
-    },
-    {
-      "title": "Stock Valuation After New YUTREPIA Data And PHA 2026 Conference Plans",
+      "title": "High Growth Tech Stocks In Asia For June 2026",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5f90a6bd20281016",
-      "date": "2026-06-13T21:42:15Z"
+      "url": "https://biztoc.com/x/ba402d6c5e84510c",
+      "date": "2026-06-14T23:01:35Z"
     },
     {
-      "title": "Stock After New US$10b Defense Awards Is The Undervaluation Case Intact",
+      "title": "Exploring 3 Asian Undervalued Small Caps With Insider Activity",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/fbb6e59044fc64e4",
-      "date": "2026-06-13T21:41:54Z"
+      "url": "https://biztoc.com/x/661e3c6cf3edc3ff",
+      "date": "2026-06-14T23:01:30Z"
     },
     {
-      "title": "Bitcoin & The Clash Of Two Inexorable Realities",
+      "title": "3 Asian Stocks Estimated To Be Trading At Up To 21.8% Below Intrinsic Value",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/48a3a11b3e949435",
-      "date": "2026-06-13T21:40:38Z"
+      "url": "https://biztoc.com/x/1352ac6bc9c65aa8",
+      "date": "2026-06-14T23:01:19Z"
     },
     {
-      "title": "You can ignore AI giants like SpaceX, but your 401(k) won’t",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/13/spacex-stock-index-funds-passive-investing-401k-nasdaq-100-russell/",
-      "date": "2026-06-13T21:39:19Z"
-    },
-    {
-      "title": "Bitcoin Mining Cost Model Points To $47,000 Floor, But Analysts Urge Caution",
-      "source": "newsBTC",
-      "url": "http://www.newsbtc.com/news/bitcoin-mining-cost-model-points-to-47000-floor-but-analysts-urge-caution/",
-      "date": "2026-06-13T21:36:18Z"
-    },
-    {
-      "title": "You're About To Own SpaceX. You Didn't Have A Choice.",
-      "source": "Crooksandliars.com",
-      "url": "https://crooksandliars.com/2026/06/youre-about-own-spacex-you-didnt-have",
-      "date": "2026-06-13T21:35:08Z"
-    },
-    {
-      "title": "Baahubali The Epic 2025 1080p BluRay x264-ZoroSenpai",
-      "source": "Rlsbb.to",
-      "url": "https://post.rlsbb.to/baahubali-the-epic-2025-1080p-bluray-x264-zorosenpai/",
-      "date": "2026-06-13T21:30:32Z"
-    },
-    {
-      "title": "Milwaukee Bucks draft strategy: Why forwards matter more than guards",
-      "source": "Brewhoop.com",
-      "url": "https://www.brewhoop.com/bucks-draft-rumors-news/66635/milwaukee-nba-draft-strategy-forwards-over-guards",
-      "date": "2026-06-13T21:23:52Z"
+      "title": "Power Up Winter Adventures: Jackery Australia Launches EOFY Sale with Up to $3,000 Off",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/14/3311474/0/en/Power-Up-Winter-Adventures-Jackery-Australia-Launches-EOFY-Sale-with-Up-to-3-000-Off.html",
+      "date": "2026-06-14T23:00:00Z"
     }
   ]
 }

@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-06-17T00:13:12.986685"
+      "date": "2026-06-18T00:13:24.434811"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-06-17T00:13:12.986692"
+      "date": "2026-06-18T00:13:24.434817"
     }
   ],
   "bitcoin": {
-    "price": 65704,
-    "date": "2026-06-17T00:13:13.142434"
+    "price": 64569,
+    "date": "2026-06-18T00:13:24.486396"
   },
   "news": [
     {
-      "title": "SpaceX IPO allocates shares to retail investors via major brokerages",
+      "title": "China wants to spend nearly $300 billion on a national data center grid — all powered by domestically made silicon and looking to outperform the US",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/china-wants-to-spend-nearly-usd300-billion-on-a-national-data-center-grid-all-powered-by-domestically-made-silicon-and-looking-to-outperform-the-us",
+      "date": "2026-06-17T00:10:00Z"
+    },
+    {
+      "title": "BitMine acquires $135M in Ethereum, signaling institutional interest in ETH treasury strategies",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/spacex-ipo-retail-investors-crypto-impact/",
-      "date": "2026-06-16T00:11:40Z"
+      "url": "https://cryptobriefing.com/bitmine-acquires-135m-ethereum-institutional/",
+      "date": "2026-06-17T00:07:40Z"
     },
     {
-      "title": "Morgan Stanley executive sends strong prediction on Bitcoin",
+      "title": "Nigeria faces critical ocean governance test ahead of Kenya summit",
+      "source": "The Punch",
+      "url": "https://punchng.com/nigeria-faces-critical-ocean-governance-test-ahead-of-kenya-summit/",
+      "date": "2026-06-17T00:06:14Z"
+    },
+    {
+      "title": "Target Hiked Its Dividend by 1.8%. It’s Not Enough to Change the Thesis for TGT Stock",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c17ea25d80e6807c",
-      "date": "2026-06-16T00:11:21Z"
+      "url": "https://biztoc.com/x/94708f31a9ef6eed",
+      "date": "2026-06-17T00:02:55Z"
     },
     {
-      "title": "VF Corp and PVH Shares Are Soaring, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/471f2a5dd0fb4399",
-      "date": "2026-06-16T00:10:58Z"
-    },
-    {
-      "title": "Why AI investor Aschenbrenner is shorting Nvidia, buying HIVE",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5965f700a0f5d678",
-      "date": "2026-06-16T00:10:55Z"
-    },
-    {
-      "title": "Cushman & Wakefield and RE/MAX Shares Skyrocket, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/2401230c780357ed",
-      "date": "2026-06-16T00:10:44Z"
-    },
-    {
-      "title": "Proverb of the Day: 'When a divorced man marries a divorced woman, there are...' Life lessons on open communication, unresolved trauma, invisible presence, subconscious comparison, boundary challenges",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/proverb-of-the-day-when-a-divorced-man-marries-a-divorced-woman-there-are-life-lessons-on-open-communication-unresolved-trauma-invisible-presence-subconscious-comparison-boundary-challenges-co-parenting-ties-unique-bonds-and-why-is-it-essential-to-leave-the-past-behind-while-going-in-for-a-new-relationship/articleshow/131756714.cms",
-      "date": "2026-06-16T00:07:48Z"
-    },
-    {
-      "title": "US and Canadian households’ equity allocations near record high at 60%",
+      "title": "Iran launches drones at ships in the Strait of Hormuz, Bitcoin drops below $73K as risk-off panic spreads",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-canada-equity-allocations-record-high/",
-      "date": "2026-06-16T00:04:33Z"
+      "url": "https://cryptobriefing.com/iran-drones-strait-hormuz-bitcoin-drop/",
+      "date": "2026-06-17T00:02:01Z"
     },
     {
-      "title": "MoneySimpler Launches Free XRP AI Quantitative Strategy Contracts with Daily Settlement",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/06/16/3312218/0/en/MoneySimpler-Launches-Free-XRP-AI-Quantitative-Strategy-Contracts-with-Daily-Settlement.html",
-      "date": "2026-06-16T00:00:00Z"
-    },
-    {
-      "title": "AI Wars: Why Microsoft, Google and Amazon Are All Fighting Over Power",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/AI-Wars-Why-Microsoft-Google-and-Amazon-Are-All-Fighting-Over-Power.html",
-      "date": "2026-06-16T00:00:00Z"
-    },
-    {
-      "title": "India will do more to boost inflows: Finance Minister Nirmala Sitharaman",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/finance/india-will-do-more-to-boost-inflows-finance-minister-nirmala-sitharaman/articleshow/131754228.cms",
-      "date": "2026-06-16T00:00:00Z"
-    },
-    {
-      "title": "How North West racked up a $50M net worth through music deals, reality TV and entertaining millions of followers - and there's still more to come as nepo baby turns 13",
+      "title": "Whose tax bill has risen most? Endless hikes have left households paying up to 90 different taxes - we reveal the biggest losers",
       "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/tvshowbiz/article-15900641/North-West-net-worth-music-deals-TV-followers.html",
-      "date": "2026-06-15T23:59:46Z"
+      "url": "https://www.dailymail.com/money/mailplus/article-15904973/tax-bill-hikes-households-biggest-losers.html",
+      "date": "2026-06-17T00:00:46Z"
     },
     {
-      "title": "Sensex, Nifty rally 1% as US-Iran peace hopes spark risk-on sentiment",
+      "title": "Hey, POTUS, The Point of the War Was What Again?",
+      "source": "Antiwar.com",
+      "url": "https://original.antiwar.com/david_stockman/2026/06/16/hey-potus-the-point-of-the-war-was-what-again/",
+      "date": "2026-06-17T00:00:12Z"
+    },
+    {
+      "title": "Miami Dolphins Fans On The Brenden Sorsby Drama",
+      "source": "The Phinsider",
+      "url": "https://www.thephinsider.com/miami-dolphins-news/120159/miami-dolphins-fans-on-the-brenden-sorsby-drama",
+      "date": "2026-06-17T00:00:00Z"
+    },
+    {
+      "title": "The Skin Microbiome Secret to Sun Protection and Radiant Health",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/06/17/skin-microbiome-natural-uv-protection.aspx",
+      "date": "2026-06-17T00:00:00Z"
+    },
+    {
+      "title": "Chemical grafting of waste polystyrene with acrylic acid and subsequent amine functionalization to enhance polystyrene modified bitumen characteristics",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41598-026-57285-9",
+      "date": "2026-06-17T00:00:00Z"
+    },
+    {
+      "title": "India may take a leaf from China's book for oil pool",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-rally-1-as-us-iran-peace-hopes-spark-risk-on-sentiment/articleshow/131756735.cms",
-      "date": "2026-06-15T23:58:19Z"
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-may-take-a-leaf-from-chinas-book-for-oil-pool/articleshow/131780999.cms",
+      "date": "2026-06-17T00:00:00Z"
     },
     {
-      "title": "Donald Trump seeks momentum at G7 summit after Iran deal announcement",
+      "title": "The Smartest Way to Play the AI Boom in 2026",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/The-Smartest-Way-to-Play-the-AI-Boom-in-2026.html",
+      "date": "2026-06-17T00:00:00Z"
+    },
+    {
+      "title": "Foreign investors may bet big on Indian stocks after regulatory clarity emerges",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-may-bet-big-on-indian-stocks-after-regulatory-clarity-emerges/articleshow/131783615.cms",
+      "date": "2026-06-16T23:59:53Z"
+    },
+    {
+      "title": "US-Iran ceasefire extension sends Bitcoin surging past $65K as Strait of Hormuz reopens",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-g7-iran-deal-bitcoin-rally/",
-      "date": "2026-06-15T23:57:45Z"
+      "url": "https://cryptobriefing.com/us-iran-ceasefire-bitcoin-surge-strait-hormuz/",
+      "date": "2026-06-16T23:52:11Z"
     },
     {
-      "title": "Bank of Japan’s Uchida to lead rates guidance amid Ueda’s absence, and crypto markets are watching",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/boj-uchida-rates-guidance-crypto-impact/",
-      "date": "2026-06-15T23:55:58Z"
+      "title": "Cal Raleigh is back from the IL. The Mariners need him.",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/mlb/mariners/2026/06/16/cal-raleigh-injury-update-activated/90582175007/",
+      "date": "2026-06-16T23:52:10Z"
     },
     {
-      "title": "Opendoor and Compass Stocks Trade Up, What You Need To Know",
+      "title": "DMO targets N1.2tn via major bond reopenings",
+      "source": "The Punch",
+      "url": "https://punchng.com/dmo-targets-n1-2tn-via-major-bond-reopenings/",
+      "date": "2026-06-16T23:50:08Z"
+    },
+    {
+      "title": "Petrol may drop to N1,200 amid price cuts",
+      "source": "The Punch",
+      "url": "https://punchng.com/petrol-may-drop-to-n1200-amid-price-cuts/",
+      "date": "2026-06-16T23:50:08Z"
+    },
+    {
+      "title": "Marvell Technology, Nova, and KLA Corporation Stocks Trade Down, What You Need To Know",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d2d8f8077396d35b",
-      "date": "2026-06-15T23:55:19Z"
+      "url": "https://biztoc.com/x/799aecb73f57dac8",
+      "date": "2026-06-16T23:49:24Z"
     },
     {
-      "title": "China Recycling Energy trading halted, news pending",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/CREG",
-      "date": "2026-06-15T23:50:00Z"
-    },
-    {
-      "title": "Hybar Announces Pricing of $400,000,000 of Senior Secured Green Notes",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/hybar-announces-pricing-of-400-000-000-of-senior-secured-green-notes-302800885.html",
-      "date": "2026-06-15T23:45:00Z"
-    },
-    {
-      "title": "Carvana, Wayfair, and Revolve Stocks Trade Up, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ca38c78ffa738f2d",
-      "date": "2026-06-15T23:40:07Z"
-    },
-    {
-      "title": "Iran agrees to permanently forgo nuclear weapons, says Trump",
+      "title": "Trump to send Iran deal to Congress as lawmakers remain uninformed",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-nuclear-weapons-agreement-trump/",
-      "date": "2026-06-15T23:37:55Z"
+      "url": "https://cryptobriefing.com/trump-iran-deal-congress-bitcoin-surge/",
+      "date": "2026-06-16T23:40:14Z"
     },
     {
-      "title": "SpaceX stock jumps for second day, now up over 40% since debut",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4383916/posts",
-      "date": "2026-06-15T23:31:59Z"
-    },
-    {
-      "title": "SpaceX stock jumps for second day, now up over 40% since debut",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4383916/posts",
-      "date": "2026-06-15T23:31:59Z"
-    },
-    {
-      "title": "US and Iran reach interim peace deal, boosting stock markets and nudging Bitcoin higher",
+      "title": "Crypto industry backs Barry Moore in Alabama Senate race with nearly $7M war chest",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-iran-peace-deal-stock-crypto-markets/",
-      "date": "2026-06-15T23:30:48Z"
+      "url": "https://cryptobriefing.com/crypto-industry-backs-barry-moore-senate/",
+      "date": "2026-06-16T23:36:21Z"
     },
     {
-      "title": "CFTC Chair Michael Selig defends approval of perps trading in US",
+      "title": "Matt Chapman, Tony Vitello respond to Giants’ trade rumors: ‘Haven’t heard from Buster’",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/16/sports/matt-chapman-tony-vitello-respond-to-sf-giants-trade-rumors/",
+      "date": "2026-06-16T23:25:19Z"
+    },
+    {
+      "title": "After SpaceX, the Anthropic and OpenAI IPOs are next. Here is what ASX AI investors need to know",
+      "source": "Motley Fool Australia",
+      "url": "https://www.fool.com.au/2026/06/17/after-spacex-the-anthropic-and-openai-ipos-are-next-here-is-what-asx-ai-investors-need-to-know/",
+      "date": "2026-06-16T23:23:51Z"
+    },
+    {
+      "title": "Tanker Trackers reports resumption of Iranian crude exports after two-month blockade",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/cftc-selig-defends-perps-trading-approval/",
-      "date": "2026-06-15T23:28:58Z"
+      "url": "https://cryptobriefing.com/iran-crude-exports-resume-blockade/",
+      "date": "2026-06-16T23:22:25Z"
     },
     {
-      "title": "Trump confirms Iran’s commitment to forgo nuclear weapons, denies $300M payment claims",
+      "title": "Dow marks second straight record close as NASDAQ and S&P 500 fall",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-iran-nuclear-weapons-deal-300m-denial/",
-      "date": "2026-06-15T23:25:59Z"
+      "url": "https://cryptobriefing.com/dow-record-close-nasdaq-sp500-fall/",
+      "date": "2026-06-16T23:20:21Z"
     },
     {
-      "title": "Standard Chartered sees one crypto asset beating Bitcoin, Ether",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1d099a66a79f3d6b",
-      "date": "2026-06-15T23:25:10Z"
-    },
-    {
-      "title": "Cash Squeeze Set to Lift Taiwan’s Yields Further, Analysts Say",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/cash-squeeze-set-to-lift-taiwans-yields-further-analysts-say",
-      "date": "2026-06-15T23:21:46Z"
-    },
-    {
-      "title": "Ameren Missouri Announces Pricing of First Mortgage Bonds due 2056",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/ameren-missouri-announces-pricing-of-first-mortgage-bonds-due-2056-302800872.html",
-      "date": "2026-06-15T23:20:00Z"
-    },
-    {
-      "title": "JD Vance expects Israel to support US-Iran agreement despite differences",
+      "title": "Chinese stocks in Hong Kong face challenges as AI investments surge",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/vance-israel-us-iran-agreement/",
-      "date": "2026-06-15T23:19:19Z"
+      "url": "https://cryptobriefing.com/chinese-stocks-hong-kong-ai-investment-shift/",
+      "date": "2026-06-16T23:13:59Z"
     },
     {
-      "title": "Ralph Lauren and Tapestry Shares Skyrocket, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/15c6ff4c20ea4ea1",
-      "date": "2026-06-15T23:09:58Z"
+      "title": "US-Iran Memorandum Signing Sets Up Macro Catalyst For Bitcoin Traders",
+      "source": "Bitcoinist",
+      "url": "https://bitcoinist.com/us-iran-memorandum-signing-sets-up-macro-catalyst-for-bitcoin-traders/",
+      "date": "2026-06-16T23:09:37Z"
     },
     {
-      "title": "Oil price volatility still expected after Monday tumble in wake of tentative deal between U.S., Iran",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/canada/calgary/volatility-oil-market-peace-deal-9.7236021",
-      "date": "2026-06-15T23:09:25Z"
+      "title": "Africa risks lower fish consumption despite growth – Report",
+      "source": "The Punch",
+      "url": "https://punchng.com/africa-risks-lower-fish-consumption-despite-growth-report/",
+      "date": "2026-06-16T23:07:49Z"
+    },
+    {
+      "title": "DTCC And Stellar Plan Tokenization Link For DTC-Custodied Assets",
+      "source": "newsBTC",
+      "url": "http://www.newsbtc.com/news/dtcc-and-stellar-plan-tokenization-link-for-dtc-custodied-assets/",
+      "date": "2026-06-16T23:04:51Z"
+    },
+    {
+      "title": "How to Scale Your Business Like a Billion-Dollar CEO: Lessons from Sharran Srivatsaa",
+      "source": "Addicted2success.com",
+      "url": "https://addicted2success.com/entrepreneur-profile/how-to-scale-your-business-like-a-billion-dollar-ceo-lessons-from-sharran-srivatsaa/",
+      "date": "2026-06-16T23:01:36Z"
+    },
+    {
+      "title": "China Reclaims Solar Crown With Record-Breaking Perovskite Panel",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/China-Reclaims-Solar-Crown-With-Record-Breaking-Perovskite-Panel.html",
+      "date": "2026-06-16T23:00:00Z"
     }
   ]
 }

@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-06-18T00:13:24.434811"
+      "date": "2026-06-19T00:22:48.952880"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-06-18T00:13:24.434817"
+      "date": "2026-06-19T00:22:48.952889"
     }
   ],
   "bitcoin": {
-    "price": 64569,
-    "date": "2026-06-18T00:13:24.486396"
+    "price": 62844,
+    "date": "2026-06-19T00:22:49.060600"
   },
   "news": [
     {
-      "title": "China wants to spend nearly $300 billion on a national data center grid — all powered by domestically made silicon and looking to outperform the US",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/pro/china-wants-to-spend-nearly-usd300-billion-on-a-national-data-center-grid-all-powered-by-domestically-made-silicon-and-looking-to-outperform-the-us",
-      "date": "2026-06-17T00:10:00Z"
-    },
-    {
-      "title": "BitMine acquires $135M in Ethereum, signaling institutional interest in ETH treasury strategies",
+      "title": "American Bitcoin Corp board member Richard Busch buys 450K shares for $391,500",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bitmine-acquires-135m-ethereum-institutional/",
-      "date": "2026-06-17T00:07:40Z"
+      "url": "https://cryptobriefing.com/american-bitcoin-corp-busch-insider-buy/",
+      "date": "2026-06-18T00:20:25Z"
     },
     {
-      "title": "Nigeria faces critical ocean governance test ahead of Kenya summit",
-      "source": "The Punch",
-      "url": "https://punchng.com/nigeria-faces-critical-ocean-governance-test-ahead-of-kenya-summit/",
-      "date": "2026-06-17T00:06:14Z"
-    },
-    {
-      "title": "Target Hiked Its Dividend by 1.8%. It’s Not Enough to Change the Thesis for TGT Stock",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/94708f31a9ef6eed",
-      "date": "2026-06-17T00:02:55Z"
-    },
-    {
-      "title": "Iran launches drones at ships in the Strait of Hormuz, Bitcoin drops below $73K as risk-off panic spreads",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-drones-strait-hormuz-bitcoin-drop/",
-      "date": "2026-06-17T00:02:01Z"
-    },
-    {
-      "title": "Whose tax bill has risen most? Endless hikes have left households paying up to 90 different taxes - we reveal the biggest losers",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/money/mailplus/article-15904973/tax-bill-hikes-households-biggest-losers.html",
-      "date": "2026-06-17T00:00:46Z"
-    },
-    {
-      "title": "Hey, POTUS, The Point of the War Was What Again?",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/david_stockman/2026/06/16/hey-potus-the-point-of-the-war-was-what-again/",
-      "date": "2026-06-17T00:00:12Z"
-    },
-    {
-      "title": "Miami Dolphins Fans On The Brenden Sorsby Drama",
-      "source": "The Phinsider",
-      "url": "https://www.thephinsider.com/miami-dolphins-news/120159/miami-dolphins-fans-on-the-brenden-sorsby-drama",
-      "date": "2026-06-17T00:00:00Z"
-    },
-    {
-      "title": "The Skin Microbiome Secret to Sun Protection and Radiant Health",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/06/17/skin-microbiome-natural-uv-protection.aspx",
-      "date": "2026-06-17T00:00:00Z"
-    },
-    {
-      "title": "Chemical grafting of waste polystyrene with acrylic acid and subsequent amine functionalization to enhance polystyrene modified bitumen characteristics",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41598-026-57285-9",
-      "date": "2026-06-17T00:00:00Z"
-    },
-    {
-      "title": "India may take a leaf from China's book for oil pool",
+      "title": "Defence shares gain momentum on strong production and growth outlook",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-may-take-a-leaf-from-chinas-book-for-oil-pool/articleshow/131780999.cms",
-      "date": "2026-06-17T00:00:00Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/defence-shares-gain-momentum-on-strong-production-and-growth-outlook/articleshow/131814899.cms",
+      "date": "2026-06-18T00:18:28Z"
     },
     {
-      "title": "The Smartest Way to Play the AI Boom in 2026",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Smartest-Way-to-Play-the-AI-Boom-in-2026.html",
-      "date": "2026-06-17T00:00:00Z"
-    },
-    {
-      "title": "Foreign investors may bet big on Indian stocks after regulatory clarity emerges",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-may-bet-big-on-indian-stocks-after-regulatory-clarity-emerges/articleshow/131783615.cms",
-      "date": "2026-06-16T23:59:53Z"
-    },
-    {
-      "title": "US-Iran ceasefire extension sends Bitcoin surging past $65K as Strait of Hormuz reopens",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-iran-ceasefire-bitcoin-surge-strait-hormuz/",
-      "date": "2026-06-16T23:52:11Z"
-    },
-    {
-      "title": "Cal Raleigh is back from the IL. The Mariners need him.",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/mlb/mariners/2026/06/16/cal-raleigh-injury-update-activated/90582175007/",
-      "date": "2026-06-16T23:52:10Z"
-    },
-    {
-      "title": "DMO targets N1.2tn via major bond reopenings",
-      "source": "The Punch",
-      "url": "https://punchng.com/dmo-targets-n1-2tn-via-major-bond-reopenings/",
-      "date": "2026-06-16T23:50:08Z"
-    },
-    {
-      "title": "Petrol may drop to N1,200 amid price cuts",
-      "source": "The Punch",
-      "url": "https://punchng.com/petrol-may-drop-to-n1200-amid-price-cuts/",
-      "date": "2026-06-16T23:50:08Z"
-    },
-    {
-      "title": "Marvell Technology, Nova, and KLA Corporation Stocks Trade Down, What You Need To Know",
+      "title": "Urban Outfitters, OneWater, and Ollie's Shares Plummet, What You Need To Know",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/799aecb73f57dac8",
-      "date": "2026-06-16T23:49:24Z"
+      "url": "https://biztoc.com/x/dce082cdca5147cd",
+      "date": "2026-06-18T00:17:48Z"
     },
     {
-      "title": "Trump to send Iran deal to Congress as lawmakers remain uninformed",
+      "title": "Hershey, The Marzetti Company, and Simply Good Foods Stocks Trade Down, What You Need To Know",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8ce677ba7859039b",
+      "date": "2026-06-18T00:17:37Z"
+    },
+    {
+      "title": "Rockets 11.6% on European Expansion",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/89aecba08340744d",
+      "date": "2026-06-18T00:17:23Z"
+    },
+    {
+      "title": "New Fed Chair Kevin Warsh signals hawkish inflation stance, and crypto markets should pay attention",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-iran-deal-congress-bitcoin-surge/",
-      "date": "2026-06-16T23:40:14Z"
+      "url": "https://cryptobriefing.com/fed-chair-warsh-inflation-outlook-crypto/",
+      "date": "2026-06-18T00:13:31Z"
     },
     {
-      "title": "Crypto industry backs Barry Moore in Alabama Senate race with nearly $7M war chest",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/crypto-industry-backs-barry-moore-senate/",
-      "date": "2026-06-16T23:36:21Z"
+      "title": "Shares worth $26 billion can soon hit market as IPO lock-ins end",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/shares-worth-26-billion-can-soon-hit-market-as-ipo-lock-ins-end/articleshow/131814886.cms",
+      "date": "2026-06-18T00:12:43Z"
     },
     {
-      "title": "Matt Chapman, Tony Vitello respond to Giants’ trade rumors: ‘Haven’t heard from Buster’",
+      "title": "Fast Takes: Singing the ActBlues, girl dads mobilized in Maine and more",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/06/16/sports/matt-chapman-tony-vitello-respond-to-sf-giants-trade-rumors/",
-      "date": "2026-06-16T23:25:19Z"
+      "url": "https://nypost.com/2026/06/17/opinion/fast-takes-singing-the-actblues-girl-dads-mobilized-in-maine-and-more/",
+      "date": "2026-06-18T00:09:11Z"
     },
     {
-      "title": "After SpaceX, the Anthropic and OpenAI IPOs are next. Here is what ASX AI investors need to know",
-      "source": "Motley Fool Australia",
-      "url": "https://www.fool.com.au/2026/06/17/after-spacex-the-anthropic-and-openai-ipos-are-next-here-is-what-asx-ai-investors-need-to-know/",
-      "date": "2026-06-16T23:23:51Z"
+      "title": "WATCH: World Cup soccer fans in US for first time experience joys of America",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/video/133982347/",
+      "date": "2026-06-18T00:06:06Z"
     },
     {
-      "title": "Tanker Trackers reports resumption of Iranian crude exports after two-month blockade",
+      "title": "Bitzero secures over 1GW of low-cost power to position for AI infrastructure boom",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-crude-exports-resume-blockade/",
-      "date": "2026-06-16T23:22:25Z"
+      "url": "https://cryptobriefing.com/bitzero-1gw-power-ai-boom/",
+      "date": "2026-06-18T00:06:04Z"
     },
     {
-      "title": "Dow marks second straight record close as NASDAQ and S&P 500 fall",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/dow-record-close-nasdaq-sp500-fall/",
-      "date": "2026-06-16T23:20:21Z"
+      "title": "btcvision-mcp 0.1.0",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/btcvision-mcp/0.1.0/",
+      "date": "2026-06-18T00:03:48Z"
     },
     {
-      "title": "Chinese stocks in Hong Kong face challenges as AI investments surge",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/chinese-stocks-hong-kong-ai-investment-shift/",
-      "date": "2026-06-16T23:13:59Z"
+      "title": "Gets 8% Boost as G7 Unites on Critical Metals Devt",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f2dbae8719524d27",
+      "date": "2026-06-18T00:02:45Z"
     },
     {
-      "title": "US-Iran Memorandum Signing Sets Up Macro Catalyst For Bitcoin Traders",
-      "source": "Bitcoinist",
-      "url": "https://bitcoinist.com/us-iran-memorandum-signing-sets-up-macro-catalyst-for-bitcoin-traders/",
-      "date": "2026-06-16T23:09:37Z"
+      "title": "Carvana and Chewy Stocks Trade Down, What You Need To Know",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1a79781e3b21ae4b",
+      "date": "2026-06-18T00:02:41Z"
     },
     {
-      "title": "Africa risks lower fish consumption despite growth – Report",
+      "title": "Jumps 8.78% on Corporate Restructuring",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c3b92cdedebde99b",
+      "date": "2026-06-18T00:02:38Z"
+    },
+    {
+      "title": "Dangote refinery cuts diesel, jet fuel prices",
       "source": "The Punch",
-      "url": "https://punchng.com/africa-risks-lower-fish-consumption-despite-growth-report/",
-      "date": "2026-06-16T23:07:49Z"
+      "url": "https://punchng.com/dangote-refinery-cuts-diesel-jet-fuel-prices/",
+      "date": "2026-06-18T00:02:35Z"
     },
     {
-      "title": "DTCC And Stellar Plan Tokenization Link For DTC-Custodied Assets",
-      "source": "newsBTC",
-      "url": "http://www.newsbtc.com/news/dtcc-and-stellar-plan-tokenization-link-for-dtc-custodied-assets/",
-      "date": "2026-06-16T23:04:51Z"
+      "title": "Jumps 8% After Steep Fall",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/edfcb8e385f2b544",
+      "date": "2026-06-18T00:02:30Z"
     },
     {
-      "title": "How to Scale Your Business Like a Billion-Dollar CEO: Lessons from Sharran Srivatsaa",
-      "source": "Addicted2success.com",
-      "url": "https://addicted2success.com/entrepreneur-profile/how-to-scale-your-business-like-a-billion-dollar-ceo-lessons-from-sharran-srivatsaa/",
-      "date": "2026-06-16T23:01:36Z"
+      "title": "Anthony Scaramucci Signals Bitcoin Bottom, Citing Low RSI And Retail Apathy",
+      "source": "Bitcoinist",
+      "url": "https://bitcoinist.com/anthony-scaramucci-signals-bitcoin-bottom-citing-low-rsi-and-retail-apathy/",
+      "date": "2026-06-18T00:00:10Z"
     },
     {
-      "title": "China Reclaims Solar Crown With Record-Breaking Perovskite Panel",
+      "title": "The US-Israel Wars on Iran: Follow the Money",
+      "source": "Antiwar.com",
+      "url": "https://original.antiwar.com/reza_behnam/2026/06/17/the-us-israel-wars-on-iran-follow-the-money/",
+      "date": "2026-06-18T00:00:03Z"
+    },
+    {
+      "title": "EXCLUSIVE: Prince William Facing Farmers' Mutiny Over Plans to Sell Massive Swathe of Land — 'They Could be Left Homeless'",
+      "source": "Radaronline.com",
+      "url": "https://radaronline.com/p/prince-william-farmers-mutiny-land-sale/",
+      "date": "2026-06-18T00:00:00Z"
+    },
+    {
+      "title": "The Invisible Energy Crisis Threatening to Derail the AI Boom",
       "source": "OilPrice.com",
-      "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/China-Reclaims-Solar-Crown-With-Record-Breaking-Perovskite-Panel.html",
-      "date": "2026-06-16T23:00:00Z"
+      "url": "https://oilprice.com/Energy/Energy-General/The-Invisible-Energy-Crisis-Threatening-to-Derail-the-AI-Boom.html",
+      "date": "2026-06-18T00:00:00Z"
+    },
+    {
+      "title": "Crypto News: Pepeto Confirms Exchange Progress and Shiba Inu Pattern While Kiyosaki Bitcoin Price Prediction Targets $250,000",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/18/3313880/0/en/Crypto-News-Pepeto-Confirms-Exchange-Progress-and-Shiba-Inu-Pattern-While-Kiyosaki-Bitcoin-Price-Prediction-Targets-250-000.html",
+      "date": "2026-06-18T00:00:00Z"
+    },
+    {
+      "title": "btcvision-mcp added to PyPI",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/btcvision-mcp/",
+      "date": "2026-06-17T23:57:44Z"
+    },
+    {
+      "title": "Pakistan and Qatar to host Iran-US agreement ceremony in Switzerland on June 19",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/pakistan-qatar-iran-us-agreement-switzerland/",
+      "date": "2026-06-17T23:57:39Z"
+    },
+    {
+      "title": "Oman Launches Mandatory National Bitcoin Mining Pool In Sovereign Regulatory Push",
+      "source": "newsBTC",
+      "url": "http://www.newsbtc.com/news/oman-launches-mandatory-national-bitcoin-mining-pool-in-sovereign-regulatory/",
+      "date": "2026-06-17T23:55:51Z"
+    },
+    {
+      "title": "Fed begins Warsh era with rate hold, sees hike possible later in 2026",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-begins-warsh-era-with-rate-hold-sees-hike-possible-later-in-2026/articleshow/131814844.cms",
+      "date": "2026-06-17T23:55:45Z"
+    },
+    {
+      "title": "Federal Reserve holds first meeting under Chair Kevin Warsh, keeps rates steady at 3.5%-3.75%",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/fed-first-meeting-chair-kevin-warsh/",
+      "date": "2026-06-17T23:55:40Z"
+    },
+    {
+      "title": "Patting a cat when you're stressed could be a bad idea, study reveals",
+      "source": "Refractor.io",
+      "url": "https://refractor.io/mental-health/patting-a-cat-when-youre-stressed-could-be-a-bad-idea-study-reveals/",
+      "date": "2026-06-17T23:49:04Z"
+    },
+    {
+      "title": "One of the Stocks From Companies Generating High Cash Flow",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/dab118131d04ec2e",
+      "date": "2026-06-17T23:47:44Z"
+    },
+    {
+      "title": "US-Iran deal leaves key nuclear issues unresolved, raises $300B question",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-iran-deal-nuclear-issues-300b-question/",
+      "date": "2026-06-17T23:45:34Z"
+    },
+    {
+      "title": "Crypto market treads thin ice following Warsh FOMC, Trump Iran comments",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/crypto-market-tread-thin-ice-following-warsh-fomc-trump-iran-comments",
+      "date": "2026-06-17T23:45:29Z"
     }
   ]
 }

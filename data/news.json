@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-06-19T00:22:48.952880"
+      "date": "2026-06-20T00:05:23.861845"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-06-19T00:22:48.952889"
+      "date": "2026-06-20T00:05:23.861851"
     }
   ],
   "bitcoin": {
-    "price": 62844,
-    "date": "2026-06-19T00:22:49.060600"
+    "price": 63522,
+    "date": "2026-06-20T00:05:23.905705"
   },
   "news": [
     {
-      "title": "American Bitcoin Corp board member Richard Busch buys 450K shares for $391,500",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/american-bitcoin-corp-busch-insider-buy/",
-      "date": "2026-06-18T00:20:25Z"
+      "title": "Intense UV Light Destroys PFAS Forever Chemicals Using Hydrogen Radicals from Water in New Chemical-Free Breakthrough Study",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/pfas-forever-chemicals-uv-light-hydrogen-radicals-destroyed-environmental-science-2026-475705",
+      "date": "2026-06-19T00:01:17Z"
     },
     {
-      "title": "Defence shares gain momentum on strong production and growth outlook",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/defence-shares-gain-momentum-on-strong-production-and-growth-outlook/articleshow/131814899.cms",
-      "date": "2026-06-18T00:18:28Z"
-    },
-    {
-      "title": "Urban Outfitters, OneWater, and Ollie's Shares Plummet, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/dce082cdca5147cd",
-      "date": "2026-06-18T00:17:48Z"
-    },
-    {
-      "title": "Hershey, The Marzetti Company, and Simply Good Foods Stocks Trade Down, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/8ce677ba7859039b",
-      "date": "2026-06-18T00:17:37Z"
-    },
-    {
-      "title": "Rockets 11.6% on European Expansion",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/89aecba08340744d",
-      "date": "2026-06-18T00:17:23Z"
-    },
-    {
-      "title": "New Fed Chair Kevin Warsh signals hawkish inflation stance, and crypto markets should pay attention",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/fed-chair-warsh-inflation-outlook-crypto/",
-      "date": "2026-06-18T00:13:31Z"
-    },
-    {
-      "title": "Shares worth $26 billion can soon hit market as IPO lock-ins end",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/shares-worth-26-billion-can-soon-hit-market-as-ipo-lock-ins-end/articleshow/131814886.cms",
-      "date": "2026-06-18T00:12:43Z"
-    },
-    {
-      "title": "Fast Takes: Singing the ActBlues, girl dads mobilized in Maine and more",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/06/17/opinion/fast-takes-singing-the-actblues-girl-dads-mobilized-in-maine-and-more/",
-      "date": "2026-06-18T00:09:11Z"
-    },
-    {
-      "title": "WATCH: World Cup soccer fans in US for first time experience joys of America",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/video/133982347/",
-      "date": "2026-06-18T00:06:06Z"
-    },
-    {
-      "title": "Bitzero secures over 1GW of low-cost power to position for AI infrastructure boom",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bitzero-1gw-power-ai-boom/",
-      "date": "2026-06-18T00:06:04Z"
-    },
-    {
-      "title": "btcvision-mcp 0.1.0",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/btcvision-mcp/0.1.0/",
-      "date": "2026-06-18T00:03:48Z"
-    },
-    {
-      "title": "Gets 8% Boost as G7 Unites on Critical Metals Devt",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f2dbae8719524d27",
-      "date": "2026-06-18T00:02:45Z"
-    },
-    {
-      "title": "Carvana and Chewy Stocks Trade Down, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1a79781e3b21ae4b",
-      "date": "2026-06-18T00:02:41Z"
-    },
-    {
-      "title": "Jumps 8.78% on Corporate Restructuring",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c3b92cdedebde99b",
-      "date": "2026-06-18T00:02:38Z"
-    },
-    {
-      "title": "Dangote refinery cuts diesel, jet fuel prices",
-      "source": "The Punch",
-      "url": "https://punchng.com/dangote-refinery-cuts-diesel-jet-fuel-prices/",
-      "date": "2026-06-18T00:02:35Z"
-    },
-    {
-      "title": "Jumps 8% After Steep Fall",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/edfcb8e385f2b544",
-      "date": "2026-06-18T00:02:30Z"
-    },
-    {
-      "title": "Anthony Scaramucci Signals Bitcoin Bottom, Citing Low RSI And Retail Apathy",
-      "source": "Bitcoinist",
-      "url": "https://bitcoinist.com/anthony-scaramucci-signals-bitcoin-bottom-citing-low-rsi-and-retail-apathy/",
-      "date": "2026-06-18T00:00:10Z"
-    },
-    {
-      "title": "The US-Israel Wars on Iran: Follow the Money",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/reza_behnam/2026/06/17/the-us-israel-wars-on-iran-follow-the-money/",
-      "date": "2026-06-18T00:00:03Z"
-    },
-    {
-      "title": "EXCLUSIVE: Prince William Facing Farmers' Mutiny Over Plans to Sell Massive Swathe of Land — 'They Could be Left Homeless'",
-      "source": "Radaronline.com",
-      "url": "https://radaronline.com/p/prince-william-farmers-mutiny-land-sale/",
-      "date": "2026-06-18T00:00:00Z"
-    },
-    {
-      "title": "The Invisible Energy Crisis Threatening to Derail the AI Boom",
+      "title": "Forget Critical Metals, Electricity is The Real Bottleneck for Artificial Intell",
       "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Invisible-Energy-Crisis-Threatening-to-Derail-the-AI-Boom.html",
-      "date": "2026-06-18T00:00:00Z"
+      "url": "https://oilprice.com/Energy/Energy-General/Forget-Critical-Metals-Electricity-is-The-Real-Bottleneck-for-Artificial-Intell.html",
+      "date": "2026-06-19T00:00:00Z"
     },
     {
-      "title": "Crypto News: Pepeto Confirms Exchange Progress and Shiba Inu Pattern While Kiyosaki Bitcoin Price Prediction Targets $250,000",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/06/18/3313880/0/en/Crypto-News-Pepeto-Confirms-Exchange-Progress-and-Shiba-Inu-Pattern-While-Kiyosaki-Bitcoin-Price-Prediction-Targets-250-000.html",
-      "date": "2026-06-18T00:00:00Z"
+      "title": "New Study Highlights Fructose's Unique Role in Metabolic Disease",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/06/19/fructose-metabolic-disease.aspx",
+      "date": "2026-06-19T00:00:00Z"
     },
     {
-      "title": "btcvision-mcp added to PyPI",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/btcvision-mcp/",
-      "date": "2026-06-17T23:57:44Z"
+      "title": "Asia-Pacific markets poised for mixed open as Iran deal faces scrutiny",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/19/asia-pacific-markets-poised-for-mixed-open-as-iran-deal-faces-scrutiny.html",
+      "date": "2026-06-18T23:59:43Z"
     },
     {
-      "title": "Pakistan and Qatar to host Iran-US agreement ceremony in Switzerland on June 19",
+      "title": "US-Iran agreement reshapes Middle East dynamics, raises concerns in Israel and Gulf states",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/pakistan-qatar-iran-us-agreement-switzerland/",
-      "date": "2026-06-17T23:57:39Z"
+      "url": "https://cryptobriefing.com/us-iran-agreement-middle-east-crypto-impact/",
+      "date": "2026-06-18T23:55:28Z"
     },
     {
-      "title": "Oman Launches Mandatory National Bitcoin Mining Pool In Sovereign Regulatory Push",
-      "source": "newsBTC",
-      "url": "http://www.newsbtc.com/news/oman-launches-mandatory-national-bitcoin-mining-pool-in-sovereign-regulatory/",
-      "date": "2026-06-17T23:55:51Z"
+      "title": "DMO targets N1.2tn via major bond reopenings",
+      "source": "The Punch",
+      "url": "https://punchng.com/dmo-targets-n1-2tn-via-major-bond-reopenings-2/",
+      "date": "2026-06-18T23:35:04Z"
     },
     {
-      "title": "Fed begins Warsh era with rate hold, sees hike possible later in 2026",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-begins-warsh-era-with-rate-hold-sees-hike-possible-later-in-2026/articleshow/131814844.cms",
-      "date": "2026-06-17T23:55:45Z"
-    },
-    {
-      "title": "Federal Reserve holds first meeting under Chair Kevin Warsh, keeps rates steady at 3.5%-3.75%",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/fed-first-meeting-chair-kevin-warsh/",
-      "date": "2026-06-17T23:55:40Z"
-    },
-    {
-      "title": "Patting a cat when you're stressed could be a bad idea, study reveals",
-      "source": "Refractor.io",
-      "url": "https://refractor.io/mental-health/patting-a-cat-when-youre-stressed-could-be-a-bad-idea-study-reveals/",
-      "date": "2026-06-17T23:49:04Z"
-    },
-    {
-      "title": "One of the Stocks From Companies Generating High Cash Flow",
+      "title": "SpaceX Just Identified a $22.7 Trillion Enterprise AI Market. These 2 AI Stocks Are Already Inside the Empire",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/dab118131d04ec2e",
-      "date": "2026-06-17T23:47:44Z"
+      "url": "https://biztoc.com/x/32138fcdf402b5c1",
+      "date": "2026-06-18T23:34:50Z"
     },
     {
-      "title": "US-Iran deal leaves key nuclear issues unresolved, raises $300B question",
+      "title": "Morgan Stanley sees writing on wall for key drug research stocks",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2797ea6dd171b496",
+      "date": "2026-06-18T23:17:25Z"
+    },
+    {
+      "title": "Trump Seeks Ceasefire on All Fronts as Israel Holds Ground in Lebanon",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/06/18/trump-seeks-ceasefire-on-all-fronts-as-israel-holds-ground-in-lebanon/",
+      "date": "2026-06-18T23:10:23Z"
+    },
+    {
+      "title": "2 Reasons Investors Should Not Short SpaceX Stock",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8244258c4745c35f",
+      "date": "2026-06-18T23:04:08Z"
+    },
+    {
+      "title": "Strong Interactions between Carbones and Halogen Atomic Centers",
+      "source": "Royal Society of Chemistry",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02210c",
+      "date": "2026-06-18T23:00:00Z"
+    },
+    {
+      "title": "Jim Cramer says next week's economic data will drive the markets",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/18/jim-cramer-economic-data-drive-markets.html",
+      "date": "2026-06-18T22:56:49Z"
+    },
+    {
+      "title": "FPI buying of government securities up amid push for forex",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/fpi-buying-of-government-securities-up-amid-push-for-forex/articleshow/131843885.cms",
+      "date": "2026-06-18T22:55:11Z"
+    },
+    {
+      "title": "Unpacking Q1 Earnings: ITT (NYSE:ITT) In The Context Of Other Gas and Liquid Handling Stocks",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d18dd8abe61177d4",
+      "date": "2026-06-18T22:49:23Z"
+    },
+    {
+      "title": "Safety & Security Services Stocks Q1 In Review: CoreCivic (NYSE:CXW) Vs Peers",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8dc882007132092b",
+      "date": "2026-06-18T22:49:19Z"
+    },
+    {
+      "title": "The Iran War Was a Spectacular Failure",
+      "source": "The New Yorker",
+      "url": "https://www.newyorker.com/newsletter/the-daily/the-iran-war-was-a-spectacular-failure",
+      "date": "2026-06-18T22:42:31Z"
+    },
+    {
+      "title": "Market frenzy is pushing this one stock metric into the red zone",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/094700c1d6bd6ffb",
+      "date": "2026-06-18T22:32:05Z"
+    },
+    {
+      "title": "Litecoin ETF’s Slow Start Shows Altcoin Funds Still Face A Demand Test",
+      "source": "Bitcoinist",
+      "url": "https://bitcoinist.com/litecoin-spot-etf-canary-capital-inflows-ltcc/",
+      "date": "2026-06-18T22:30:10Z"
+    },
+    {
+      "title": "What will the NSE IPO price be? Unlisted market deals offer clues.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/prime/money-and-markets/what-will-the-nse-ipo-price-be-unlisted-market-deals-offer-clues-/primearticleshow/131832574.cms",
+      "date": "2026-06-18T22:30:00Z"
+    },
+    {
+      "title": "WATCH: Dem candidate grilled on stock trading after being duped with selfie request",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/watch-dem-candidate-grilled-stock-trading-duped-selfie-request",
+      "date": "2026-06-18T22:22:43Z"
+    },
+    {
+      "title": "U.S. Downplays Possibility of Hormuz Tolls as Negotiations Restart",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/u-s-downplays-possibility-of-hormuz-tolls-as-negotiations-restart/",
+      "date": "2026-06-18T22:21:55Z"
+    },
+    {
+      "title": "Prediction: These Will Be Micron's and Sandisk's Stock Prices by the End of 2027",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/27dccbda1572dd55",
+      "date": "2026-06-18T22:19:26Z"
+    },
+    {
+      "title": "Semiconductors Stocks Q1 In Review: Western Digital (NASDAQ:WDC) Vs Peers",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/bf0d07a78c511575",
+      "date": "2026-06-18T22:19:13Z"
+    },
+    {
+      "title": "Cape Verde's Vozinha delighted with mother's visa but wants to talk football",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/sport/cape-verdes-vozinha-delighted-mothers-visa-wants-talk-football-6194366",
+      "date": "2026-06-18T22:17:31Z"
+    },
+    {
+      "title": "SpaceX plans $20B bond deal following record $75B IPO, reveals 18,712 Bitcoin on balance sheet",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-iran-deal-nuclear-issues-300b-question/",
-      "date": "2026-06-17T23:45:34Z"
+      "url": "https://cryptobriefing.com/spacex-20b-bond-deal-bitcoin-holdings/",
+      "date": "2026-06-18T22:17:17Z"
     },
     {
-      "title": "Crypto market treads thin ice following Warsh FOMC, Trump Iran comments",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/crypto-market-tread-thin-ice-following-warsh-fomc-trump-iran-comments",
-      "date": "2026-06-17T23:45:29Z"
+      "title": "Nvidia Stock vs. Micron Stock: Wall Street Says Buy One and Sell the Other",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c6b9b5f2d0c708d8",
+      "date": "2026-06-18T22:17:05Z"
+    },
+    {
+      "title": "White House briefs Congress on initial US-Iran peace deal as Bitcoin pushes past $65K",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/white-house-congress-us-iran-peace-deal/",
+      "date": "2026-06-18T22:16:49Z"
+    },
+    {
+      "title": "Iran suspends US negotiations over Israeli attacks in Lebanon, rattling crypto markets",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-suspends-us-negotiations-crypto-impact/",
+      "date": "2026-06-18T22:09:28Z"
+    },
+    {
+      "title": "Ambassador Leiter affirms commitment to Lebanon truce but vows to thwart threats",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/428868",
+      "date": "2026-06-18T22:09:19Z"
+    },
+    {
+      "title": "SpaceX, OpenAI and Anthropic: The S&P 500 Inclusion Question and Investment Consequences!",
+      "source": "Blogger.com",
+      "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/8152901575140311047/8226190618480657811",
+      "date": "2026-06-18T22:07:23Z"
     }
   ]
 }

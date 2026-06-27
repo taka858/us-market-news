@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-06-26T00:06:05.333614"
+      "date": "2026-06-27T00:01:50.677530"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-06-26T00:06:05.333619"
+      "date": "2026-06-27T00:01:50.677538"
     }
   ],
   "bitcoin": {
-    "price": 59743,
-    "date": "2026-06-26T00:06:05.471512"
+    "price": 60018,
+    "date": "2026-06-27T00:01:50.739225"
   },
   "news": [
     {
-      "title": "Foreign holdings of US stocks surge $2T to record $23.2T in April",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/foreign-holdings-us-stocks-record-april/",
-      "date": "2026-06-25T00:02:10Z"
+      "title": "Governments Are Coming for Your Retirement Savings",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/governments-are-coming-for-your-retirement-savings/",
+      "date": "2026-06-26T00:01:11Z"
     },
     {
-      "title": "Ketones to ketyls by radical relocation",
+      "title": "Ligand-controlled sequential activation enables nickel-catalysed alkyl–alkynyl coupling",
       "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41557-026-02181-y",
-      "date": "2026-06-25T00:00:00Z"
+      "url": "https://www.nature.com/articles/s41467-026-74943-8",
+      "date": "2026-06-26T00:00:00Z"
     },
     {
-      "title": "Anomalous crossover from three-dimensional Heisenberg to two-dimensional Ising magnetism in a van der Waals magnet",
+      "title": "Concise synthesis and strain-release diversification of bridgehead-substituted [2]-ladderanes",
       "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41567-026-03356-7",
-      "date": "2026-06-25T00:00:00Z"
+      "url": "https://www.nature.com/articles/s41557-026-02196-5",
+      "date": "2026-06-26T00:00:00Z"
     },
     {
-      "title": "Why the AI Boom Could Trigger the Biggest Energy Trade in Decades",
+      "title": "Diverse radical transformations of allenic C(sp)–C(sp2) and C(sp3)–C(sp2) bonds enabled by silyl substitution",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-74846-8",
+      "date": "2026-06-26T00:00:00Z"
+    },
+    {
+      "title": "The $7 Trillion AI Boom Is Running Out of Power",
       "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Why-the-AI-Boom-Could-Trigger-the-Biggest-Energy-Trade-in-Decades.html",
-      "date": "2026-06-25T00:00:00Z"
+      "url": "https://oilprice.com/Energy/Energy-General/The-7-Trillion-AI-Boom-Is-Running-Out-of-Power.html",
+      "date": "2026-06-26T00:00:00Z"
     },
     {
-      "title": "Ligand-enabled distal desaturative lactonization of aliphatic acids",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41586-026-10826-8",
-      "date": "2026-06-25T00:00:00Z"
-    },
-    {
-      "title": "The 10 Most Powerful Members of the Spider-Verse, Ranked",
-      "source": "ComicBook.com",
-      "url": "http://comicbook.com/comics/list/the-10-most-powerful-members-of-the-spider-verse-ranked/",
-      "date": "2026-06-25T00:00:00Z"
-    },
-    {
-      "title": "The many journeys of learning Rust",
-      "source": "Rust-lang.org",
-      "url": "https://blog.rust-lang.org/2026/06/25/vision-doc-journeys-to-learning-rust/",
-      "date": "2026-06-25T00:00:00Z"
-    },
-    {
-      "title": "D-Street soars on wings of peace and chances of an oil windfall",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-st-soars-on-wings-of-peace-and-chances-of-an-oil-windfall/articleshow/131979721.cms",
-      "date": "2026-06-24T23:59:05Z"
-    },
-    {
-      "title": "APA Corporation and Cactus Stocks Trade Down, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/93749fbfa97be641",
-      "date": "2026-06-24T23:52:38Z"
-    },
-    {
-      "title": "Nabors Industries and ProPetro Shares Are Falling, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3bc5284931622b75",
-      "date": "2026-06-24T23:52:38Z"
-    },
-    {
-      "title": "TechnipFMC and Valaris Shares Plummet, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9e89a4c6657c4ee1",
-      "date": "2026-06-24T23:38:12Z"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Micron, Qualcomm ease AI jitters",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e4ebc13e7ec8aacf",
-      "date": "2026-06-24T23:37:58Z"
-    },
-    {
-      "title": "CBN reports N17.4tn surge in FG borrowing",
-      "source": "The Punch",
-      "url": "https://punchng.com/cbn-reports-n17-4tn-surge-in-fg-borrowing/",
-      "date": "2026-06-24T23:37:50Z"
-    },
-    {
-      "title": "Suncorp just downgraded at Goldman Sachs, here's why",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/SNMYF",
-      "date": "2026-06-24T23:28:49Z"
-    },
-    {
-      "title": "SEC meets South Korean delegation to discuss crypto regulations",
+      "title": "Tokyo inflation rises 2%, keeping Bank of Japan on track for rate hike",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/sec-south-korea-crypto-regulation-meeting/",
-      "date": "2026-06-24T23:28:13Z"
+      "url": "https://cryptobriefing.com/tokyo-inflation-boj-rate-hike-crypto/",
+      "date": "2026-06-25T23:53:23Z"
     },
     {
-      "title": "2026 NBA Draft grades: Updating pick-by-pick analysis from AJ Dybantsa, Cameron Boozer through Round 2",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/nba/news/2026-nba-draft-grades-pick-by-pick-analysis-round-2/",
-      "date": "2026-06-24T23:27:16Z"
-    },
-    {
-      "title": "Bitcoin’s retreating retail army exposes fresh fragility",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/bitcoin-s-retreating-retail-army-exposes-fresh-market-fragility",
-      "date": "2026-06-24T23:25:36Z"
-    },
-    {
-      "title": "Trump White House requests $87.6bn in spending, including for Iran war",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war",
-      "date": "2026-06-24T23:25:01Z"
-    },
-    {
-      "title": "Cantor Fitzgerald’s SPAC deal with Adam Back’s Bitcoin venture hits a delay",
+      "title": "STAR 50 Index rallies 64% amid AI spending and tech push",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/cantor-fitzgerald-spac-adam-back-delayed/",
-      "date": "2026-06-24T23:24:10Z"
+      "url": "https://cryptobriefing.com/star-50-index-rallies-ai-spending/",
+      "date": "2026-06-25T23:51:53Z"
     },
     {
-      "title": "Ethereum Doesn’t Know What It’s Supposed to Be Anymore",
+      "title": "Apple’s Macs and iPads and Microsoft’s Xbox consoles are getting more expensive, and AI is to blame",
+      "source": "SiliconANGLE News",
+      "url": "https://siliconangle.com/2026/06/25/apples-macs-ipads-microsofts-xbox-consoles-getting-expensive-ai-blame/",
+      "date": "2026-06-25T23:44:17Z"
+    },
+    {
+      "title": "Federal Reserve’s Goolsbee warns core inflation remains too high and trending the wrong way",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/fed-goolsbee-core-inflation-too-high/",
+      "date": "2026-06-25T23:35:48Z"
+    },
+    {
+      "title": "Bring baseball to Raleigh without a taxpayer check",
+      "source": "Ncspin.com",
+      "url": "https://www.ncspin.com/bring-baseball-to-raleigh-without-a-taxpayer-check",
+      "date": "2026-06-25T23:32:00Z"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures waver as tech struggles to find its footing",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7d24920cb30808d3",
-      "date": "2026-06-24T23:20:08Z"
+      "url": "https://biztoc.com/x/51adf88043732bf2",
+      "date": "2026-06-25T23:29:20Z"
     },
     {
-      "title": "Ireland's biggest landlord Ires Reit wants your savings (via Harris's new investment scheme)",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/ires-reit-investment-savings-plan-7077980-Jun2026/",
-      "date": "2026-06-24T23:05:00Z"
+      "title": "‘Lucky Strike’ Review: Scott Eastwood In Survival Mode In Rod Davis Lurie’s Propulsive WW2 Thriller",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/06/lucky-strike-review-scott-eastwood-ww2-thriller-1236967243/",
+      "date": "2026-06-25T23:26:38Z"
     },
     {
-      "title": "China’s foreign minister calls for swift reopening of Strait of Hormuz for global trade",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq waver as report of OpenAI IPO delay rattles chip stocks",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-waver-as-report-of-openai-ipo-delay-rattles-chip-stocks-231347821.html",
+      "date": "2026-06-25T23:13:47Z"
+    },
+    {
+      "title": "Stock Market Today: Indexes Mixed; S&P 500 Barely Holds This Significant Level (Live Coverage)",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1cc1f7283c64f2fc",
+      "date": "2026-06-25T23:11:00Z"
+    },
+    {
+      "title": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi",
+      "date": "2026-06-25T23:09:10Z"
+    },
+    {
+      "title": "Oil prices retreat to prewar levels as US-Iran framework deal reshapes energy and crypto markets",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/china-wang-yi-strait-hormuz-reopening/",
-      "date": "2026-06-24T23:02:00Z"
+      "url": "https://cryptobriefing.com/oil-prices-retreat-prewar-levels-us-iran/",
+      "date": "2026-06-25T23:07:02Z"
     },
     {
-      "title": "Activation of Methane by the Tantalum Trioxide Anion, TaO3–",
+      "title": "Constructing Mo–O–Ni anchoring bonds by room temperature solid-state reduction to drive hydrogen spillover for saturated hydrogenation of naphthalene",
       "source": "Royal Society of Chemistry",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/cp/d6cp01899h",
-      "date": "2026-06-24T23:00:00Z"
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/cc/d6cc02391f",
+      "date": "2026-06-25T23:00:00Z"
     },
     {
-      "title": "Multistability of graphene nanobubbles",
+      "title": "Recycling Post-Consumer Polyesters Bottles and Fabrics to Photocurable Covalent Adaptable networks",
       "source": "Royal Society of Chemistry",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/cp/d6cp01011c",
-      "date": "2026-06-24T23:00:00Z"
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/py/d6py00244g",
+      "date": "2026-06-25T23:00:00Z"
     },
     {
-      "title": "Still reeling from miscues, School District of Lancaster approves $300 million budget",
-      "source": "LancasterOnline",
-      "url": "https://lancasteronline.com/news/local/still-reeling-from-miscues-school-district-of-lancaster-approves-300-million-budget/article_19ac9037-fa13-4054-a226-c2029b1c50a7.html",
-      "date": "2026-06-24T22:58:00Z"
+      "title": "Nano-gold with in situ grown surface charge-layer in organic framework, superlattice-chiral structures, and tailored optical properties",
+      "source": "Royal Society of Chemistry",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/cp/d6cp01259k",
+      "date": "2026-06-25T23:00:00Z"
     },
     {
-      "title": "Still reeling from miscues, School District of Lancaster approves $300M budget",
-      "source": "LancasterOnline",
-      "url": "https://lancasteronline.com/news/local/still-reeling-from-miscues-school-district-of-lancaster-approves-300m-budget/article_19ac9037-fa13-4054-a226-c2029b1c50a7.html",
-      "date": "2026-06-24T22:58:00Z"
-    },
-    {
-      "title": "The U.S. Government is Supercharging the Nuclear Energy Resurgence With $17.5 Billion in Loans. Here's What it Means for Utility Stocks",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/8c594e47c279dce2",
-      "date": "2026-06-24T22:53:34Z"
-    },
-    {
-      "title": "Peabody Energy and Crescent Energy Shares Are Falling, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/15ed4be31cb8643c",
-      "date": "2026-06-24T22:53:14Z"
-    },
-    {
-      "title": "This flagship Snapdragon X2 laptop from HP only just came out, and it's already $650 off in this anti-Prime Day sale",
-      "source": "Windows Central",
-      "url": "https://www.windowscentral.com/hardware/hp/this-flagship-snapdragon-x2-laptop-from-hp-only-just-came-out-and-its-already-usd650-off-in-this-anti-prime-day-sale",
-      "date": "2026-06-24T22:44:11Z"
-    },
-    {
-      "title": "Federal Reserve ditches forward guidance in biggest communication shift in over a decade",
+      "title": "Trump taps telecom regulatory lawyer as DOJ antitrust head",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/fed-drops-forward-guidance-warsh/",
-      "date": "2026-06-24T22:42:49Z"
+      "url": "https://cryptobriefing.com/trump-doj-antitrust-candeub-telecom/",
+      "date": "2026-06-25T22:56:43Z"
+    },
+    {
+      "title": "The S&P 500 is at a critical crossroads. A break lower could signal more losses ahead",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b3ff24e8fe664056",
+      "date": "2026-06-25T22:56:04Z"
+    },
+    {
+      "title": "Your Pisces Monthly Horoscope for July 2026",
+      "source": "Cosmopolitan.com",
+      "url": "https://www.cosmopolitan.com/lifestyle/a71525490/pisces-monthly-horoscope-july-2026/",
+      "date": "2026-06-25T22:55:00Z"
+    },
+    {
+      "title": "World rejection of OPEC controls could push oil below $50 a barrel",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/opec-rejection-oil-below-50/",
+      "date": "2026-06-25T22:50:40Z"
+    },
+    {
+      "title": "Wall Street drifts to a mixed finish after Micron soars and Apple drops",
+      "source": "WPLG Local 10",
+      "url": "https://www.local10.com/business/2026/06/25/wall-street-drifts-to-a-mixed-finish-after-micron-soars-and-apple-drops/",
+      "date": "2026-06-25T22:50:33Z"
+    },
+    {
+      "title": "Your Capricorn Monthly Horoscope for July 2026",
+      "source": "Cosmopolitan.com",
+      "url": "https://www.cosmopolitan.com/lifestyle/a71525413/capricorn-monthly-horoscope-july-2026/",
+      "date": "2026-06-25T22:45:00Z"
+    },
+    {
+      "title": "Indonesia's Panda Bond issuance remains on track for early July",
+      "source": "Antaranews.com",
+      "url": "https://en.antaranews.com/news/420500/indonesias-panda-bond-issuance-remains-on-track-for-early-july",
+      "date": "2026-06-25T22:30:50Z"
+    },
+    {
+      "title": "Russia creates crypto sanctions loophole, but cash-out routes remain ringfenced",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/?p=544101",
+      "date": "2026-06-25T22:30:44Z"
+    },
+    {
+      "title": "Asia Stocks Set for Choppy Open on Tech Volatility: Markets Wrap",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/asia-stocks-set-for-choppy-open-on-tech-volatility-markets-wrap",
+      "date": "2026-06-25T22:29:28Z"
+    },
+    {
+      "title": "How major US stock indexes fared Thursday 6/25/2026",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8e584be53c6880a1",
+      "date": "2026-06-25T22:27:31Z"
+    },
+    {
+      "title": "Wall Street banks express renewed confidence in US dollar as Fed’s Warsh commits to price stability",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/wall-street-dollar-confidence-fed-warsh/",
+      "date": "2026-06-25T22:25:05Z"
     }
   ]
 }

@@ -4,198 +4,192 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-06-27T23:57:50.213146"
+      "date": "2026-06-29T00:03:54.210560"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-06-27T23:57:50.213152"
+      "date": "2026-06-29T00:03:54.210566"
     }
   ],
   "bitcoin": {
-    "price": 59952,
-    "date": "2026-06-27T23:57:50.258205"
+    "price": 59381,
+    "date": "2026-06-29T00:03:54.312092"
   },
   "news": [
     {
-      "title": "‘Camp’ Director Avalon Fast on Making a Visually Dazzling Witchcraft Movie: Evoke ‘Sacredness’ and ‘Magic’ From the Remote Shoot",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/features/camp-witchcraft-movie-director-magic-forest-shoot-1236791018/",
-      "date": "2026-06-26T23:44:05Z"
-    },
-    {
-      "title": "Wall Street veteran warns of epic stock market crash",
+      "title": "2 Warren Buffett Stocks to Buy and Hold for the Next 20 Years",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c2c04f243248fabb",
-      "date": "2026-06-26T23:41:33Z"
+      "url": "https://biztoc.com/x/6e6b13fe9d9d3cc5",
+      "date": "2026-06-28T00:03:07Z"
     },
     {
-      "title": "Nigeria draws $1.5bn UAE loan despite IMF concerns",
-      "source": "The Punch",
-      "url": "https://punchng.com/nigeria-draws-1-5bn-uae-loan-despite-imf-concerns/",
-      "date": "2026-06-26T23:37:24Z"
+      "title": "Buying a big screen TV? Here’s the Next Big Thing technology you’ll encounter",
+      "source": "New Zealand Herald",
+      "url": "https://www.nzherald.co.nz/business/buying-a-big-screen-tv-heres-the-next-big-thing-technology-youll-encounter/premium/46EWB6SRZFGY5K4CJDPY3NRPN4/",
+      "date": "2026-06-28T00:00:00Z"
     },
     {
-      "title": "ServiceNow, Salesforce and other software stocks surge as the OpenAI threat weakens",
+      "title": "Stabilizing Cell Membranes to Mitigate Cancer Risk — The Role of C15:0 and Choline",
+      "source": "Mercola.com",
+      "url": "https://articles.mercola.com/sites/articles/archive/2026/06/28/c150-pentadecanoic-acid-choline-cancer-risk.aspx",
+      "date": "2026-06-28T00:00:00Z"
+    },
+    {
+      "title": "The Strangest AI Stock of 2026 Doesn't Make Chips. It Owns Land in Texas",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/afedb6adfc1ccdce",
-      "date": "2026-06-26T23:26:20Z"
+      "url": "https://biztoc.com/x/ed46beac7af49dcf",
+      "date": "2026-06-27T23:47:50Z"
     },
     {
-      "title": "Why Microsoft Stock Rose Today",
+      "title": "Kim Kardashian's daughter North West, 13, shocks AGAIN with nose and lip studs after finger piercing uproar",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/tvshowbiz/article-15935253/kim-kardashian-daughter-north-shocks-lip-studs-finger-piercing.html",
+      "date": "2026-06-27T23:35:01Z"
+    },
+    {
+      "title": "Ripple Partners With SBI Holdings for Japan RLUSD Stablecoin Launch After JFSA Green Light",
+      "source": "Bitcoinist",
+      "url": "https://bitcoinist.com/ripple-partners-with-sbi-holdings-for-japan-rlusd-stablecoin-launch-after-jfsa/",
+      "date": "2026-06-27T23:35:00Z"
+    },
+    {
+      "title": "Lands Cummins And Enbridge In New Enterprise Travel Push",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/31a121ead9a8704d",
-      "date": "2026-06-26T23:13:13Z"
+      "url": "https://biztoc.com/x/589026438c39cc26",
+      "date": "2026-06-27T23:32:47Z"
     },
     {
-      "title": "Here’s What You Need to Know About California’s November Ballot Measures",
-      "source": "KQED",
-      "url": "https://www.kqed.org/news/12089029/heres-what-you-need-to-know-about-californias-november-ballot-measures",
-      "date": "2026-06-26T23:05:09Z"
+      "title": "Micron Executive Sumit Sadana Tells Tim Cook to Stop Hitting Himself",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=B1aQCP&reflink=desktopwebshare_permalink",
+      "date": "2026-06-27T23:30:00Z"
     },
     {
-      "title": "The Housing Solution Trump Is Avoiding",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/newsletters/2026/06/trump-real-estate-housing-bill/687725/",
-      "date": "2026-06-26T23:04:00Z"
-    },
-    {
-      "title": "Base-Mediated Double Defluorination and Bisthiolation of α-Trifluoromethyl Alkenes toward Monofluoroalkenes",
-      "source": "Royal Society of Chemistry",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/qo/d6qo00557h",
-      "date": "2026-06-26T23:00:00Z"
-    },
-    {
-      "title": "Jeremy Grantham warns AI boom drives US stock market to record highs, risks historic decline",
+      "title": "US aircraft strike Iranian missile and drone sites over ceasefire violations",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/grantham-warns-ai-bubble-historic-decline/",
-      "date": "2026-06-26T22:41:47Z"
+      "url": "https://cryptobriefing.com/us-strikes-iranian-missile-drone-sites-ceasefire/",
+      "date": "2026-06-27T23:23:54Z"
     },
     {
-      "title": "SpaceX bonds sell off days after AI and rocket group’s $25bn debt deal",
+      "title": "The Market Is Panicking, But You Should Keep Buying Shares of This Artificial Intelligence (AI) Powerhouse",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d7afbb1fbfbc5d63",
-      "date": "2026-06-26T22:40:25Z"
+      "url": "https://biztoc.com/x/4b14c847a5e810ad",
+      "date": "2026-06-27T23:17:33Z"
     },
     {
-      "title": "Israel and Lebanon sign US-brokered framework agreement for peace",
+      "title": "Iran attacks Bahrain as US forces shoot down nine drones in latest Gulf escalation",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/israel-lebanon-us-peace-framework-agreement/",
-      "date": "2026-06-26T22:37:50Z"
+      "url": "https://cryptobriefing.com/iran-attacks-bahrain-us-shoots-down-drones/",
+      "date": "2026-06-27T23:16:03Z"
     },
     {
-      "title": "His Tinder Match Was Going Great — Then She Offered to Teach Him Crypto Trading and Something Felt Off",
-      "source": "Twistedsifter.com",
-      "url": "http://twistedsifter.com/2026/06/his-tinder-match-was-going-great-then-she-offered-to-teach-him-crypto-trading-and-something-felt-off/",
-      "date": "2026-06-26T22:35:03Z"
-    },
-    {
-      "title": "Bitcoin Slides Toward $58,000 As ETF Outflows And Options Expiry Add Pressure",
-      "source": "newsBTC",
-      "url": "http://www.newsbtc.com/news/bitcoin-slides-toward-58-000-as-etf-outflows-and-options-expiry-add-pressure/",
-      "date": "2026-06-26T22:30:58Z"
-    },
-    {
-      "title": "ServiceNow and Salesforce stocks surge as OpenAI threat eases",
+      "title": "Kevin O’Leary bets on Bitzero to capitalize on AI energy needs",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/servicenow-salesforce-stocks-surge-openai-threat/",
-      "date": "2026-06-26T22:28:38Z"
+      "url": "https://cryptobriefing.com/oleary-bitzero-ai-energy-infrastructure/",
+      "date": "2026-06-27T23:06:29Z"
     },
     {
-      "title": "Nancy Guthrie case: Does a new video claim hold the key to the Nancy Guthrie mystery? Here's what the latest note claims",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/nancy-guthrie-case-does-a-new-video-claim-hold-the-key-to-the-nancy-guthrie-mystery-heres-what-the-latest-note-claims/articleshow/132024800.cms",
-      "date": "2026-06-26T22:28:23Z"
-    },
-    {
-      "title": "Crypto Market Today, June 26: Risk-Off Sentiment Weighs on Bitcoin with $1.3 Billion in ETF Outflows This Week",
+      "title": "3 Stocks I'm Not Selling No Matter What the Market Does",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7d4d7303a867ec8a",
-      "date": "2026-06-26T22:27:58Z"
+      "url": "https://biztoc.com/x/3623634eaabca590",
+      "date": "2026-06-27T23:02:10Z"
     },
     {
-      "title": "Iran signs ceasefire agreement with US as JD Vance warns violence will be met with violence",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-ceasefire-jd-vance-crypto-impact/",
-      "date": "2026-06-26T22:27:21Z"
-    },
-    {
-      "title": "Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/old-ether-wallets-move-37806-eth-as-whale-conviction-faces-key-test",
-      "date": "2026-06-26T22:18:07Z"
-    },
-    {
-      "title": "Why US stocks have hit record highs while ASX shares have barely risen in 2026",
-      "source": "Motley Fool Australia",
-      "url": "https://www.fool.com.au/2026/06/27/why-us-stocks-have-hit-record-highs-while-asx-shares-have-barely-risen-in-2026/",
-      "date": "2026-06-26T22:15:00Z"
-    },
-    {
-      "title": "Should we fear an AI bubble bust?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/8b6a081720b86e5e",
-      "date": "2026-06-26T22:12:37Z"
-    },
-    {
-      "title": "AI Power Stocks Could Be a Once-in-a-Generation Trade. Start With the Companies Behind Every Data Center",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6821769a33d3c7b2",
-      "date": "2026-06-26T22:09:55Z"
-    },
-    {
-      "title": "US crypto perps are live but Bitcoin may be the only market many traders can actually use",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/us-crypto-perps-are-live-but-bitcoin-may-be-the-only-market-many-traders-can-actually-use/",
-      "date": "2026-06-26T22:00:40Z"
-    },
-    {
-      "title": "The Billion-Dollar Debt Deals Exposing an Oil Giant",
+      "title": "The $7 Trillion AI Boom Is Turning Into The Energy Trade of the Century",
       "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Billion-Dollar-Debt-Deals-Exposing-an-Oil-Giant.html",
-      "date": "2026-06-26T22:00:00Z"
+      "url": "https://oilprice.com/Energy/Energy-General/The-7-Trillion-AI-Boom-Is-Turning-Into-The-Energy-Trade-of-the-Century.html",
+      "date": "2026-06-27T23:00:00Z"
     },
     {
-      "title": "If the Market Stumbles, These Are the Financial Stocks Worth Buying",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ac434d9fa2068771",
-      "date": "2026-06-26T21:57:08Z"
-    },
-    {
-      "title": "Should we fear an AI bubble bust?",
-      "source": "Digital Journal",
-      "url": "https://www.digitaljournal.com/article/should-we-fear-an-ai-bubble-bust/",
-      "date": "2026-06-26T21:55:09Z"
-    },
-    {
-      "title": "Bond Traders Stunned as Losses on SpaceX’s New Debt Keep Growing",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f69a4ea64c7c495f",
-      "date": "2026-06-26T21:54:28Z"
-    },
-    {
-      "title": "NASDAQ Composite falls over 4%, S&P 500 drops 2.6% amid tech selloff as AI skepticism grows",
+      "title": "Federal Reserve faces contrarian views on rate cuts amid economic shifts",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/nasdaq-sp500-tech-selloff-ai-skepticism/",
-      "date": "2026-06-26T21:49:39Z"
+      "url": "https://cryptobriefing.com/federal-reserve-rate-hike-contrarian-views/",
+      "date": "2026-06-27T22:59:03Z"
     },
     {
-      "title": "Strategy enterprise mNAV falls below 1 as STRC hits record low",
+      "title": "OpenAI GPT-5.6 Sol, Terra and Luna Names Stir Crypto Ticker Confusion",
+      "source": "Bitcoinist",
+      "url": "https://bitcoinist.com/openai-gpt-5-6-sol-terra-and-luna-names-stir-crypto-ticker-confusion/",
+      "date": "2026-06-27T22:50:00Z"
+    },
+    {
+      "title": "Cathie Wood buys $11.5 million of battered tech stock",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/3bc76a917fbb2d0d",
+      "date": "2026-06-27T22:47:24Z"
+    },
+    {
+      "title": "Harry Kane breaks Gary Lineker’s World Cup goals record for England as crypto meets football’s biggest stage",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/strategy-enterprise-mnav-falls-below-1-as-strc-hits-record-low/",
-      "date": "2026-06-26T21:46:36Z"
+      "url": "https://cryptobriefing.com/harry-kane-world-cup-record-crypto-fifa/",
+      "date": "2026-06-27T22:37:36Z"
     },
     {
-      "title": "One of the Best Stocks with Biggest Upside",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d22c69e960a14e91",
-      "date": "2026-06-26T21:41:12Z"
+      "title": "3 Stocks I'm Not Selling No Matter What the Market Does",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2d9b9c88-d347-471d-b949-d24756e4df92",
+      "date": "2026-06-27T22:35:00Z"
     },
     {
-      "title": "Tech stocks just had one of their worst weeks in a year. Here’s how AI momentum went off the rails",
+      "title": "Procore Technologies (PCOR) Announces Roll-out of Connected Common Data Environment",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4304332bf0ed9668",
-      "date": "2026-06-26T21:39:02Z"
+      "url": "https://biztoc.com/x/ba9a451771167cad",
+      "date": "2026-06-27T22:33:13Z"
+    },
+    {
+      "title": "Goldman Sachs Raises PT on Dynatrace (DT) Stock",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/38b5fd38ad0566f7",
+      "date": "2026-06-27T22:33:07Z"
+    },
+    {
+      "title": "Allegro MicroSystems (ALGM) Up More Than 124% Over the Past 6 Months, Here’s What You Need to Know",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/e9107a1265f265d0",
+      "date": "2026-06-27T22:33:04Z"
+    },
+    {
+      "title": "One of the Best Cloud Computing Stocks to Buy According to Hedge Funds?",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1e5c4ff2faab0248",
+      "date": "2026-06-27T22:33:04Z"
+    },
+    {
+      "title": "Phillip Securities Maintains Buy Rating on Adobe (ADBE) Stock",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c6fc4e69d2e289b9",
+      "date": "2026-06-27T22:33:03Z"
+    },
+    {
+      "title": "One of the Best Cloud Computing Stocks to Buy According to Hedge Funds",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/ca42803862feccc2",
+      "date": "2026-06-27T22:33:01Z"
+    },
+    {
+      "title": "Hers’s Why Alphabet (GOOGL) Is One of the Best Cloud Computing Stocks to Buy According to Hedge Funds",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/cfdacff2c462b00e",
+      "date": "2026-06-27T22:33:01Z"
+    },
+    {
+      "title": "Daiwa Reduces PT on Alibaba Group Holding Limited (BABA) Stock",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/e99498ffb049296c",
+      "date": "2026-06-27T22:32:58Z"
+    },
+    {
+      "title": "Among the Best Growth Stocks To Buy and Hold",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c01d0bf437e9b049",
+      "date": "2026-06-27T22:32:58Z"
+    },
+    {
+      "title": "Wells Fargo Maintains a Buy on ​Affirm Holdings (AFRM)",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f55e3c13d126bdce",
+      "date": "2026-06-27T22:32:57Z"
     }
   ]
 }

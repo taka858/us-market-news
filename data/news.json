@@ -4,192 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-06-29T00:03:54.210560"
+      "date": "2026-06-29T23:59:46.187584"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-06-29T00:03:54.210566"
+      "date": "2026-06-29T23:59:46.187589"
     }
   ],
   "bitcoin": {
-    "price": 59381,
-    "date": "2026-06-29T00:03:54.312092"
+    "price": 60143,
+    "date": "2026-06-29T23:59:46.309308"
   },
   "news": [
     {
-      "title": "2 Warren Buffett Stocks to Buy and Hold for the Next 20 Years",
+      "title": "OpenAI Reportedly Considers Delaying Its IPO. Should You Worry About AI Stocks?",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6e6b13fe9d9d3cc5",
-      "date": "2026-06-28T00:03:07Z"
+      "url": "https://biztoc.com/x/8ca8b4270db37aae",
+      "date": "2026-06-28T23:53:49Z"
     },
     {
-      "title": "Buying a big screen TV? Here’s the Next Big Thing technology you’ll encounter",
-      "source": "New Zealand Herald",
-      "url": "https://www.nzherald.co.nz/business/buying-a-big-screen-tv-heres-the-next-big-thing-technology-youll-encounter/premium/46EWB6SRZFGY5K4CJDPY3NRPN4/",
-      "date": "2026-06-28T00:00:00Z"
-    },
-    {
-      "title": "Stabilizing Cell Membranes to Mitigate Cancer Risk — The Role of C15:0 and Choline",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/06/28/c150-pentadecanoic-acid-choline-cancer-risk.aspx",
-      "date": "2026-06-28T00:00:00Z"
-    },
-    {
-      "title": "The Strangest AI Stock of 2026 Doesn't Make Chips. It Owns Land in Texas",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ed46beac7af49dcf",
-      "date": "2026-06-27T23:47:50Z"
-    },
-    {
-      "title": "Kim Kardashian's daughter North West, 13, shocks AGAIN with nose and lip studs after finger piercing uproar",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/tvshowbiz/article-15935253/kim-kardashian-daughter-north-shocks-lip-studs-finger-piercing.html",
-      "date": "2026-06-27T23:35:01Z"
-    },
-    {
-      "title": "Ripple Partners With SBI Holdings for Japan RLUSD Stablecoin Launch After JFSA Green Light",
-      "source": "Bitcoinist",
-      "url": "https://bitcoinist.com/ripple-partners-with-sbi-holdings-for-japan-rlusd-stablecoin-launch-after-jfsa/",
-      "date": "2026-06-27T23:35:00Z"
-    },
-    {
-      "title": "Lands Cummins And Enbridge In New Enterprise Travel Push",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/589026438c39cc26",
-      "date": "2026-06-27T23:32:47Z"
-    },
-    {
-      "title": "Micron Executive Sumit Sadana Tells Tim Cook to Stop Hitting Himself",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/apple-raises-prices-on-macs-ipads-by-200-or-more-on-some-models-a7463f99?st=B1aQCP&reflink=desktopwebshare_permalink",
-      "date": "2026-06-27T23:30:00Z"
-    },
-    {
-      "title": "US aircraft strike Iranian missile and drone sites over ceasefire violations",
+      "title": "US and Iran agree to end fighting near Strait of Hormuz, resume peace talks",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-strikes-iranian-missile-drone-sites-ceasefire/",
-      "date": "2026-06-27T23:23:54Z"
+      "url": "https://cryptobriefing.com/us-iran-ceasefire-strait-hormuz-peace-talks/",
+      "date": "2026-06-28T23:51:33Z"
     },
     {
-      "title": "The Market Is Panicking, But You Should Keep Buying Shares of This Artificial Intelligence (AI) Powerhouse",
+      "title": "Wall Street banks capitulate on euro bets as US interest rates rise",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/wall-street-banks-euro-bets-us-rates/",
+      "date": "2026-06-28T23:51:22Z"
+    },
+    {
+      "title": "Panthers Stock Up/Down Has Bryce Young and Key DT Trending in Opposite Directions",
+      "source": "Heavy.com",
+      "url": "https://heavy.com/sports/nfl/carolina-panthers/panthers-bryce-young-trending-up/",
+      "date": "2026-06-28T23:45:08Z"
+    },
+    {
+      "title": "Sovereign investors with $29T shift focus to energy assets, cite dollar fears",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/sovereign-investors-energy-assets-dollar-fears/",
+      "date": "2026-06-28T23:39:57Z"
+    },
+    {
+      "title": "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4b14c847a5e810ad",
-      "date": "2026-06-27T23:17:33Z"
+      "url": "https://biztoc.com/x/f78511eed3f31277",
+      "date": "2026-06-28T23:38:51Z"
     },
     {
-      "title": "Iran attacks Bahrain as US forces shoot down nine drones in latest Gulf escalation",
+      "title": "AI start-up Firmus to build data centre in Batam with Nvidia",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/companies-markets/ai-start-up-firmus-to-build-data-centre-in-batam-with-nvidia",
+      "date": "2026-06-28T23:38:38Z"
+    },
+    {
+      "title": "Adani case: NY judge’s query procedural, unlikely to derail DoJ move to drop charges, says US lawyer",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/companies/adani-case-ny-judges-query-procedural-unlikely-to-derail-doj-move-to-drop-charges-says-us-lawyer/article71159234.ece",
+      "date": "2026-06-28T23:38:34Z"
+    },
+    {
+      "title": "NGX weekly turnover plunges 47% to N134.49bn",
+      "source": "The Punch",
+      "url": "https://punchng.com/ngx-weekly-turnover-plunges-47-to-n134-49bn/",
+      "date": "2026-06-28T23:38:24Z"
+    },
+    {
+      "title": "US and Iran continue technical talks on memorandum of understanding as vessels cleared to move freely",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-attacks-bahrain-us-shoots-down-drones/",
-      "date": "2026-06-27T23:16:03Z"
+      "url": "https://cryptobriefing.com/us-iran-technical-talks-memorandum-understanding/",
+      "date": "2026-06-28T23:36:15Z"
     },
     {
-      "title": "Kevin O’Leary bets on Bitzero to capitalize on AI energy needs",
+      "title": "Sovereign wealth funds are pouring hundreds of billions into private AI deals, and it’s reshaping how capital flows",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/oleary-bitzero-ai-energy-infrastructure/",
-      "date": "2026-06-27T23:06:29Z"
+      "url": "https://cryptobriefing.com/sovereign-funds-shift-private-markets-ai/",
+      "date": "2026-06-28T23:30:49Z"
     },
     {
-      "title": "3 Stocks I'm Not Selling No Matter What the Market Does",
+      "title": "Strategy Valuation Drop Threatens Key Bitcoin Funding Engine",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3623634eaabca590",
-      "date": "2026-06-27T23:02:10Z"
+      "url": "https://biztoc.com/x/4de53b6e5c663d4b",
+      "date": "2026-06-28T23:22:16Z"
     },
     {
-      "title": "The $7 Trillion AI Boom Is Turning Into The Energy Trade of the Century",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/The-7-Trillion-AI-Boom-Is-Turning-Into-The-Energy-Trade-of-the-Century.html",
-      "date": "2026-06-27T23:00:00Z"
-    },
-    {
-      "title": "Federal Reserve faces contrarian views on rate cuts amid economic shifts",
+      "title": "OpenAI mulls delaying IPO to 2027 amid AI market volatility",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/federal-reserve-rate-hike-contrarian-views/",
-      "date": "2026-06-27T22:59:03Z"
+      "url": "https://cryptobriefing.com/openai-mulls-delaying-ipo-to-2027-amid-ai-market-volatility/",
+      "date": "2026-06-28T23:19:44Z"
     },
     {
-      "title": "OpenAI GPT-5.6 Sol, Terra and Luna Names Stir Crypto Ticker Confusion",
-      "source": "Bitcoinist",
-      "url": "https://bitcoinist.com/openai-gpt-5-6-sol-terra-and-luna-names-stir-crypto-ticker-confusion/",
-      "date": "2026-06-27T22:50:00Z"
+      "title": "Bistelluridopnictanes as Gateways to Telluradipnictiranes and a cyclic [Bi2Te2]2+ Dication",
+      "source": "Royal Society of Chemistry",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02907h",
+      "date": "2026-06-28T23:00:00Z"
     },
     {
-      "title": "Cathie Wood buys $11.5 million of battered tech stock",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3bc76a917fbb2d0d",
-      "date": "2026-06-27T22:47:24Z"
+      "title": "DeepMech: A Machine Learning Framework for Chemical Reaction Mechanism Prediction",
+      "source": "Royal Society of Chemistry",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02809h",
+      "date": "2026-06-28T23:00:00Z"
     },
     {
-      "title": "Harry Kane breaks Gary Lineker’s World Cup goals record for England as crypto meets football’s biggest stage",
+      "title": "Binance booted from EU, EthLabs rises up to save Ethereum: Hodler's Digest June 14-28",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/features/hodlers-digest-binance",
+      "date": "2026-06-28T22:59:38Z"
+    },
+    {
+      "title": "Oil prices rise as US and Iran trade airstrikes, sending ripples through crypto markets",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/harry-kane-world-cup-record-crypto-fifa/",
-      "date": "2026-06-27T22:37:36Z"
+      "url": "https://cryptobriefing.com/oil-prices-rise-us-iran-airstrikes-crypto/",
+      "date": "2026-06-28T22:52:43Z"
     },
     {
-      "title": "3 Stocks I'm Not Selling No Matter What the Market Does",
+      "title": "Democratic lawmakers push federal moratorium on AI data center construction",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/federal-moratorium-ai-data-center-construction/",
+      "date": "2026-06-28T22:48:24Z"
+    },
+    {
+      "title": "Stock market today: S&P 500, Nasdaq, Dow futures climb as a halt to US-Iranian attacks is called",
       "source": "Yahoo Entertainment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2d9b9c88-d347-471d-b949-d24756e4df92",
-      "date": "2026-06-27T22:35:00Z"
+      "url": "https://finance.yahoo.com/markets/stocks/live/copy-copy-stock-market-today-dow-sp-500-nasdaq-rise-amid-iran-deal-hopes-earnings-rush-224230573.html",
+      "date": "2026-06-28T22:42:30Z"
     },
     {
-      "title": "Procore Technologies (PCOR) Announces Roll-out of Connected Common Data Environment",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ba9a451771167cad",
-      "date": "2026-06-27T22:33:13Z"
+      "title": "Markets feel relief as the U.S. and Iran agree to a ceasefire on their earlier ‘ceasefire’ that was looking at lot like a war over Hormuz",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/06/28/stock-market-today-dow-futures-oil-prices-us-iran-ceasefire-talks-oil-prices-hormuz/",
+      "date": "2026-06-28T22:38:56Z"
     },
     {
-      "title": "Goldman Sachs Raises PT on Dynatrace (DT) Stock",
+      "title": "Stock After Recent Spin-Off And DCF Valuation Gap",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/38b5fd38ad0566f7",
-      "date": "2026-06-27T22:33:07Z"
+      "url": "https://biztoc.com/x/e44d8684af165362",
+      "date": "2026-06-28T22:38:13Z"
     },
     {
-      "title": "Allegro MicroSystems (ALGM) Up More Than 124% Over the Past 6 Months, Here’s What You Need to Know",
+      "title": "60% of S&P 500 Stocks Carry Buy Ratings as US, Iran Halt Strikes",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e9107a1265f265d0",
-      "date": "2026-06-27T22:33:04Z"
+      "url": "https://biztoc.com/x/b4cbcf489760976a",
+      "date": "2026-06-28T22:38:07Z"
     },
     {
-      "title": "One of the Best Cloud Computing Stocks to Buy According to Hedge Funds?",
+      "title": "Michael Saylor signals another bitcoin buy as Strategy sits about $13 billion underwater",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1e5c4ff2faab0248",
-      "date": "2026-06-27T22:33:04Z"
+      "url": "https://biztoc.com/x/09f1ede7badb2616",
+      "date": "2026-06-28T22:37:01Z"
     },
     {
-      "title": "Phillip Securities Maintains Buy Rating on Adobe (ADBE) Stock",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c6fc4e69d2e289b9",
-      "date": "2026-06-27T22:33:03Z"
+      "title": "If AI Is Such a Sure Thing, Why Are So Many Insiders Selling?",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/28/3318621/0/en/If-AI-Is-Such-a-Sure-Thing-Why-Are-So-Many-Insiders-Selling.html",
+      "date": "2026-06-28T22:34:00Z"
     },
     {
-      "title": "One of the Best Cloud Computing Stocks to Buy According to Hedge Funds",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ca42803862feccc2",
-      "date": "2026-06-27T22:33:01Z"
+      "title": "Indian economy: The confluence case",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/prime/economy-and-policy/indian-economy-the-confluence-case/primearticleshow/132053783.cms",
+      "date": "2026-06-28T22:30:00Z"
     },
     {
-      "title": "Hers’s Why Alphabet (GOOGL) Is One of the Best Cloud Computing Stocks to Buy According to Hedge Funds",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/cfdacff2c462b00e",
-      "date": "2026-06-27T22:33:01Z"
+      "title": "House Republicans’ crypto tax legislation lacks bipartisan support",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/house-republicans-crypto-tax-bills-bipartisan/",
+      "date": "2026-06-28T22:18:35Z"
     },
     {
-      "title": "Daiwa Reduces PT on Alibaba Group Holding Limited (BABA) Stock",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e99498ffb049296c",
-      "date": "2026-06-27T22:32:58Z"
+      "title": "Quote of the day by music icon David Bowie: 'Aging is an extraordinary process whereby you become the person..' ; lessons on how to age gracefully from British music icon",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-music-icon-david-bowie-aging-is-an-extraordinary-process-whereby-you-become-the-person-lessons-on-how-to-age-gracefully-from-british-music-icon/articleshow/132058748.cms",
+      "date": "2026-06-28T22:05:56Z"
     },
     {
-      "title": "Among the Best Growth Stocks To Buy and Hold",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c01d0bf437e9b049",
-      "date": "2026-06-27T22:32:58Z"
+      "title": "The Billionaire Bugout: Why the Elite Are Fleeing to Bunkers While You Sleep",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/the-billionaire-bugout-why-the-elite-are-fleeing-to-bunkers-while-you-sleep/",
+      "date": "2026-06-28T22:00:00Z"
     },
     {
-      "title": "Wells Fargo Maintains a Buy on ​Affirm Holdings (AFRM)",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f55e3c13d126bdce",
-      "date": "2026-06-27T22:32:57Z"
+      "title": "60% of S&P 500 Stocks Carry Buy Ratings as US, Iran Halt Strikes",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d490ad7-9b81-4763-9e08-c08ce3ea3dbb",
+      "date": "2026-06-28T21:59:00Z"
+    },
+    {
+      "title": "Electrifying homes, vehicles, switching to solar power, could save NZ billions: Rewiring Aotearoa report",
+      "source": "New Zealand Herald",
+      "url": "https://www.nzherald.co.nz/business/electrifying-homes-vehicles-switching-to-solar-power-could-save-nz-billions-rewiring-aotearoa-report/LB4ARCZVT5BR7IIIX7DMOQQ6ZQ/",
+      "date": "2026-06-28T21:47:26Z"
     }
   ]
 }

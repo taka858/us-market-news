@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-06-29T23:59:46.187584"
+      "date": "2026-07-01T00:02:49.413281"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-06-29T23:59:46.187589"
+      "date": "2026-07-01T00:02:49.413286"
     }
   ],
   "bitcoin": {
-    "price": 60143,
-    "date": "2026-06-29T23:59:46.309308"
+    "price": 58597,
+    "date": "2026-07-01T00:02:49.580671"
   },
   "news": [
     {
-      "title": "OpenAI Reportedly Considers Delaying Its IPO. Should You Worry About AI Stocks?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/8ca8b4270db37aae",
-      "date": "2026-06-28T23:53:49Z"
+      "title": "youngcan-wyckoff-analysis 0.9.74",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.74/",
+      "date": "2026-06-30T00:00:26Z"
     },
     {
-      "title": "US and Iran agree to end fighting near Strait of Hormuz, resume peace talks",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-iran-ceasefire-strait-hormuz-peace-talks/",
-      "date": "2026-06-28T23:51:33Z"
+      "title": "Not Even Musk Has The Answer To AI’s Power Shortage",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Not-Even-Musk-Has-The-Answer-To-AIs-Power-Shortage.html",
+      "date": "2026-06-30T00:00:00Z"
     },
     {
-      "title": "Wall Street banks capitulate on euro bets as US interest rates rise",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/wall-street-banks-euro-bets-us-rates/",
-      "date": "2026-06-28T23:51:22Z"
+      "title": "Near-infrared laser-induced plastic (polyethylene terephthalate (PET)) degradation with photosensitizers based on resonant energy transfer mechanism",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41598-026-59732-z",
+      "date": "2026-06-30T00:00:00Z"
     },
     {
-      "title": "Panthers Stock Up/Down Has Bryce Young and Key DT Trending in Opposite Directions",
-      "source": "Heavy.com",
-      "url": "https://heavy.com/sports/nfl/carolina-panthers/panthers-bryce-young-trending-up/",
-      "date": "2026-06-28T23:45:08Z"
-    },
-    {
-      "title": "Sovereign investors with $29T shift focus to energy assets, cite dollar fears",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/sovereign-investors-energy-assets-dollar-fears/",
-      "date": "2026-06-28T23:39:57Z"
-    },
-    {
-      "title": "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f78511eed3f31277",
-      "date": "2026-06-28T23:38:51Z"
-    },
-    {
-      "title": "AI start-up Firmus to build data centre in Batam with Nvidia",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/companies-markets/ai-start-up-firmus-to-build-data-centre-in-batam-with-nvidia",
-      "date": "2026-06-28T23:38:38Z"
-    },
-    {
-      "title": "Adani case: NY judge’s query procedural, unlikely to derail DoJ move to drop charges, says US lawyer",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/companies/adani-case-ny-judges-query-procedural-unlikely-to-derail-doj-move-to-drop-charges-says-us-lawyer/article71159234.ece",
-      "date": "2026-06-28T23:38:34Z"
-    },
-    {
-      "title": "NGX weekly turnover plunges 47% to N134.49bn",
-      "source": "The Punch",
-      "url": "https://punchng.com/ngx-weekly-turnover-plunges-47-to-n134-49bn/",
-      "date": "2026-06-28T23:38:24Z"
-    },
-    {
-      "title": "US and Iran continue technical talks on memorandum of understanding as vessels cleared to move freely",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-iran-technical-talks-memorandum-understanding/",
-      "date": "2026-06-28T23:36:15Z"
-    },
-    {
-      "title": "Sovereign wealth funds are pouring hundreds of billions into private AI deals, and it’s reshaping how capital flows",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/sovereign-funds-shift-private-markets-ai/",
-      "date": "2026-06-28T23:30:49Z"
-    },
-    {
-      "title": "Strategy Valuation Drop Threatens Key Bitcoin Funding Engine",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4de53b6e5c663d4b",
-      "date": "2026-06-28T23:22:16Z"
-    },
-    {
-      "title": "OpenAI mulls delaying IPO to 2027 amid AI market volatility",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/openai-mulls-delaying-ipo-to-2027-amid-ai-market-volatility/",
-      "date": "2026-06-28T23:19:44Z"
-    },
-    {
-      "title": "Bistelluridopnictanes as Gateways to Telluradipnictiranes and a cyclic [Bi2Te2]2+ Dication",
-      "source": "Royal Society of Chemistry",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02907h",
-      "date": "2026-06-28T23:00:00Z"
-    },
-    {
-      "title": "DeepMech: A Machine Learning Framework for Chemical Reaction Mechanism Prediction",
-      "source": "Royal Society of Chemistry",
-      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/sc/d6sc02809h",
-      "date": "2026-06-28T23:00:00Z"
-    },
-    {
-      "title": "Binance booted from EU, EthLabs rises up to save Ethereum: Hodler's Digest June 14-28",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/features/hodlers-digest-binance",
-      "date": "2026-06-28T22:59:38Z"
-    },
-    {
-      "title": "Oil prices rise as US and Iran trade airstrikes, sending ripples through crypto markets",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/oil-prices-rise-us-iran-airstrikes-crypto/",
-      "date": "2026-06-28T22:52:43Z"
-    },
-    {
-      "title": "Democratic lawmakers push federal moratorium on AI data center construction",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/federal-moratorium-ai-data-center-construction/",
-      "date": "2026-06-28T22:48:24Z"
-    },
-    {
-      "title": "Stock market today: S&P 500, Nasdaq, Dow futures climb as a halt to US-Iranian attacks is called",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/stocks/live/copy-copy-stock-market-today-dow-sp-500-nasdaq-rise-amid-iran-deal-hopes-earnings-rush-224230573.html",
-      "date": "2026-06-28T22:42:30Z"
-    },
-    {
-      "title": "Markets feel relief as the U.S. and Iran agree to a ceasefire on their earlier ‘ceasefire’ that was looking at lot like a war over Hormuz",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/06/28/stock-market-today-dow-futures-oil-prices-us-iran-ceasefire-talks-oil-prices-hormuz/",
-      "date": "2026-06-28T22:38:56Z"
-    },
-    {
-      "title": "Stock After Recent Spin-Off And DCF Valuation Gap",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e44d8684af165362",
-      "date": "2026-06-28T22:38:13Z"
-    },
-    {
-      "title": "60% of S&P 500 Stocks Carry Buy Ratings as US, Iran Halt Strikes",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b4cbcf489760976a",
-      "date": "2026-06-28T22:38:07Z"
-    },
-    {
-      "title": "Michael Saylor signals another bitcoin buy as Strategy sits about $13 billion underwater",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/09f1ede7badb2616",
-      "date": "2026-06-28T22:37:01Z"
-    },
-    {
-      "title": "If AI Is Such a Sure Thing, Why Are So Many Insiders Selling?",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/06/28/3318621/0/en/If-AI-Is-Such-a-Sure-Thing-Why-Are-So-Many-Insiders-Selling.html",
-      "date": "2026-06-28T22:34:00Z"
-    },
-    {
-      "title": "Indian economy: The confluence case",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/prime/economy-and-policy/indian-economy-the-confluence-case/primearticleshow/132053783.cms",
-      "date": "2026-06-28T22:30:00Z"
-    },
-    {
-      "title": "House Republicans’ crypto tax legislation lacks bipartisan support",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/house-republicans-crypto-tax-bills-bipartisan/",
-      "date": "2026-06-28T22:18:35Z"
-    },
-    {
-      "title": "Quote of the day by music icon David Bowie: 'Aging is an extraordinary process whereby you become the person..' ; lessons on how to age gracefully from British music icon",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-music-icon-david-bowie-aging-is-an-extraordinary-process-whereby-you-become-the-person-lessons-on-how-to-age-gracefully-from-british-music-icon/articleshow/132058748.cms",
-      "date": "2026-06-28T22:05:56Z"
-    },
-    {
-      "title": "The Billionaire Bugout: Why the Elite Are Fleeing to Bunkers While You Sleep",
+      "title": "Hold Tight to a Real-World Anchor to Survive the Imminent Global Chaos",
       "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/the-billionaire-bugout-why-the-elite-are-fleeing-to-bunkers-while-you-sleep/",
-      "date": "2026-06-28T22:00:00Z"
+      "url": "https://www.activistpost.com/hold-tight-to-a-real-world-anchor-to-survive-the-imminent-global-chaos/",
+      "date": "2026-06-30T00:00:00Z"
     },
     {
-      "title": "60% of S&P 500 Stocks Carry Buy Ratings as US, Iran Halt Strikes",
-      "source": "Yahoo Entertainment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9d490ad7-9b81-4763-9e08-c08ce3ea3dbb",
-      "date": "2026-06-28T21:59:00Z"
+      "title": "RNAbpFlow: base pair-augmented SE(3) flow matching for conditional RNA 3D structure generation",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41592-026-03128-4",
+      "date": "2026-06-30T00:00:00Z"
     },
     {
-      "title": "Electrifying homes, vehicles, switching to solar power, could save NZ billions: Rewiring Aotearoa report",
-      "source": "New Zealand Herald",
-      "url": "https://www.nzherald.co.nz/business/electrifying-homes-vehicles-switching-to-solar-power-could-save-nz-billions-rewiring-aotearoa-report/LB4ARCZVT5BR7IIIX7DMOQQ6ZQ/",
-      "date": "2026-06-28T21:47:26Z"
+      "title": "youngcan-wyckoff-analysis 0.9.73",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.73/",
+      "date": "2026-06-29T23:53:08Z"
+    },
+    {
+      "title": "5-star analyst gives beaten-down Palantir a surprise verdict",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b376d99f04090325",
+      "date": "2026-06-29T23:51:29Z"
+    },
+    {
+      "title": "youngcan-wyckoff-analysis 0.9.72",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.72/",
+      "date": "2026-06-29T23:46:50Z"
+    },
+    {
+      "title": "youngcan-wyckoff-analysis 0.9.71",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.71/",
+      "date": "2026-06-29T23:43:06Z"
+    },
+    {
+      "title": "youngcan-wyckoff-analysis 0.9.70",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.70/",
+      "date": "2026-06-29T23:39:13Z"
+    },
+    {
+      "title": "Trump’s weekend Iran strikes keep sparking Monday stock rallies. Here’s what the data shows us",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/19cd36846c495747",
+      "date": "2026-06-29T23:35:56Z"
+    },
+    {
+      "title": "This Lesser-Known Dividend Stock Is Beating the S&P 500 in 2026 and Yields More Than 3%",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/7ce075cc4d36375a",
+      "date": "2026-06-29T23:35:56Z"
+    },
+    {
+      "title": "youngcan-wyckoff-analysis 0.9.69",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.69/",
+      "date": "2026-06-29T23:31:41Z"
+    },
+    {
+      "title": "youngcan-wyckoff-analysis 0.9.68",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.68/",
+      "date": "2026-06-29T23:24:50Z"
+    },
+    {
+      "title": "youngcan-wyckoff-analysis 0.9.67",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.67/",
+      "date": "2026-06-29T23:21:03Z"
+    },
+    {
+      "title": "Bitmine Expands Ethereum Treasury To 5.7 Million ETH After Latest Purchase",
+      "source": "newsBTC",
+      "url": "http://www.newsbtc.com/news/bitmine-expands-ethereum-treasury-to-57-million-eth-after-latest-purchase-2/",
+      "date": "2026-06-29T23:20:00Z"
+    },
+    {
+      "title": "Drivers from Nebraska, Western Australia & North Dakota grab weekend sprint specials",
+      "source": "Watertown Public Opinion",
+      "url": "https://www.thepublicopinion.com/story/sports/2026/06/29/area-stock-car-racing-weekend-roundup/90617801007/",
+      "date": "2026-06-29T23:19:31Z"
+    },
+    {
+      "title": "youngcan-wyckoff-analysis 0.9.66",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.66/",
+      "date": "2026-06-29T23:17:07Z"
+    },
+    {
+      "title": "youngcan-wyckoff-analysis 0.9.65",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.65/",
+      "date": "2026-06-29T23:10:17Z"
+    },
+    {
+      "title": "SoCal luxury housing market suddenly booms as thousands of millionaires are crowned overnight",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/06/29/us-news/socal-luxury-housing-market-suddenly-booms-as-thousands-of-millionaires-are-crowned-overnight/",
+      "date": "2026-06-29T23:08:59Z"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip after tech rebounds",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/40e888bbe8843e1e",
+      "date": "2026-06-29T23:07:48Z"
+    },
+    {
+      "title": "Chip stocks rebound, and Goldman racks up a series of M&A wins",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/124cd4532ffc1095",
+      "date": "2026-06-29T23:06:08Z"
+    },
+    {
+      "title": "Securitize heads to NYSE debut after investors approve SPAC merger",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/06/29/securitize-heads-to-nyse-debut-after-investors-approve-spac-merger",
+      "date": "2026-06-29T23:05:58Z"
+    },
+    {
+      "title": "‘James Bond’ Casting Director Weighs in on Jacob Elordi, Callum Turner: ‘I Don’t Want to See Any of Them’",
+      "source": "TheWrap",
+      "url": "https://www.thewrap.com/creative-content/movies/james-bond-casting-director-jacob-elordi-callum-turner/",
+      "date": "2026-06-29T23:05:44Z"
+    },
+    {
+      "title": "You Want Bitcoin, Not the Exchange Horror Stories. These 3 ETFs Get You $25K in Crypto, No Sketchy Apps",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/63fc466f3f450712",
+      "date": "2026-06-29T23:05:30Z"
+    },
+    {
+      "title": "youngcan-wyckoff-analysis 0.9.64",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.64/",
+      "date": "2026-06-29T23:04:35Z"
+    },
+    {
+      "title": "youngcan-wyckoff-analysis 0.9.63",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.63/",
+      "date": "2026-06-29T23:00:18Z"
+    },
+    {
+      "title": "Isolation of a Np4+ σ-Benzyl Complex",
+      "source": "Royal Society of Chemistry",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/cc/d6cc03345h",
+      "date": "2026-06-29T23:00:00Z"
+    },
+    {
+      "title": "Cattail-inspired interfacial evaporation via porous thioctic acid-based hydrogels",
+      "source": "Royal Society of Chemistry",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/cc/d6cc03515a",
+      "date": "2026-06-29T23:00:00Z"
+    },
+    {
+      "title": "youngcan-wyckoff-analysis 0.9.62",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.62/",
+      "date": "2026-06-29T22:55:07Z"
     }
   ]
 }

@@ -4,186 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-07-04T00:00:59.180270"
+      "date": "2026-07-04T23:58:10.740178"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-07-04T00:00:59.180279"
+      "date": "2026-07-04T23:58:10.740184"
     }
   ],
   "bitcoin": {
-    "price": 62554,
-    "date": "2026-07-04T00:00:59.326930"
+    "price": 63120,
+    "date": "2026-07-04T23:58:10.784286"
   },
   "news": [
     {
-      "title": "Artificial metalloenzymes in complex biological environments",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41589-026-02249-3",
-      "date": "2026-07-03T00:00:00Z"
-    },
-    {
-      "title": "IWO vs. IWM: What's the Best Way to Buy Small-Cap Stocks?",
+      "title": "Why Money Is Leaving Bitcoin for Hyperliquid",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/30651994f4cf1ea2",
-      "date": "2026-07-02T23:46:23Z"
+      "url": "https://biztoc.com/x/ce35356016806a40",
+      "date": "2026-07-03T23:54:15Z"
     },
     {
-      "title": "U.S. Public Firm K Wave Media Liquidates Entire 88 BTC Portfolio to Repay Debt",
-      "source": "newsBTC",
-      "url": "http://www.newsbtc.com/news/u-s-public-firm-k-wave-media-liquidates-entire-88-btc-portfolio-to-repay-debt/",
-      "date": "2026-07-02T23:45:00Z"
+      "title": "The effect of capital gains tax changes on home ownership: Property crash? Unlikely. But if Joe Hockey’s right, watch out Australia",
+      "source": "The Sydney Morning Herald",
+      "url": "https://www.smh.com.au/business/the-economy/property-crash-unlikely-but-if-joe-hockey-s-right-watch-out-australia-20260703-p60cc4.html",
+      "date": "2026-07-03T23:50:57Z"
     },
     {
-      "title": "The Next 30% Crash Will Happen. These 3 ETFs Mean You Won’t Panic-Sell at the Bottom",
+      "title": "#729: First Friday: Jobs Are Cooling, Prices Are Climbing, and NYC is Freezing the Rent",
+      "source": "Affordanything.com",
+      "url": "https://affordanything.com/729-first-friday-jobs-are-cooling-prices-are-climbing-and-nyc-is-freezing-the-rent/",
+      "date": "2026-07-03T23:33:25Z"
+    },
+    {
+      "title": "Weekly Wrap: Crypto Recovers To Start Third Quarter",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ee54e161898cb373",
-      "date": "2026-07-02T23:44:42Z"
+      "url": "https://biztoc.com/x/872e7b5915cabcd1",
+      "date": "2026-07-03T23:26:08Z"
     },
     {
-      "title": "US warns of potential targeting of Iranian negotiators, raising stakes for crypto markets tied to sanctions evasion",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-warns-targeting-iranian-negotiators-crypto-sanctions/",
-      "date": "2026-07-02T23:37:16Z"
-    },
-    {
-      "title": "Cynthia Lummis emphasizes importance of Clarity Act for US tech leadership",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/lummis-clarity-act-us-tech-leadership/",
-      "date": "2026-07-02T23:35:58Z"
-    },
-    {
-      "title": "Quant funds in China attract surge of investor money amid volatility",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/china-quant-funds-surge-investor-money/",
-      "date": "2026-07-02T23:35:34Z"
-    },
-    {
-      "title": "Dangote, importers battle as petrol holds above N1,000",
-      "source": "The Punch",
-      "url": "https://punchng.com/dangote-importers-battle-as-petrol-holds-above-n1000/",
-      "date": "2026-07-02T23:23:20Z"
-    },
-    {
-      "title": "Japanese yen falls to lowest level against US dollar since 1986 amid $73B intervention",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/japanese-yen-falls-lowest-since-1986-crypto-impact/",
-      "date": "2026-07-02T23:19:17Z"
-    },
-    {
-      "title": "GE Aerospace Hits Record High, Leads 19 Onto IBD 50, Big Cap 20, Other Best Stock Lists",
+      "title": "Investor Cathie Wood Bought The Dip In Crypto Stocks",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f99445c094c072bc",
-      "date": "2026-07-02T23:14:14Z"
+      "url": "https://biztoc.com/x/d9d02923fda8a735",
+      "date": "2026-07-03T23:25:52Z"
     },
     {
-      "title": "Quote of the Day by Travis Kelce, 'Once You Have Success, You Have to Maintain Success', teaches valuable life advice about humility after success, how to achieve goal in life, maintain long-term achi",
+      "title": "FIFA World Cup 2026 keeps Mexico vs England on schedule as crypto betting volumes surge",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/world-cup-mexico-england-crypto-betting/",
+      "date": "2026-07-03T23:14:27Z"
+    },
+    {
+      "title": "Bitcoin price today breaks $62,000 as whales stack $16.7 billion in BTC USD while ETFs bleed billions and crypto traders watch a key resistance zone",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-travis-kelce-once-you-have-success-you-have-to-maintain-success-teaches-valuable-life-advice-about-humility-after-success-how-to-achieve-goal-in-life-maintain-long-term-achievement/articleshow/132150066.cms",
-      "date": "2026-07-02T23:08:34Z"
+      "url": "https://economictimes.indiatimes.com/news/international/us/bitcoin-price-today-breaks-62000-as-whales-stack-16-7-billion-in-btc-usd-while-etfs-bleed-billions-and-crypto-traders-watch-a-key-resistance-zone/articleshow/132170811.cms",
+      "date": "2026-07-03T22:56:14Z"
     },
     {
-      "title": "JD Vance accidentally said the quiet part out loud about Iran talks: analyst",
-      "source": "Raw Story",
-      "url": "https://www.rawstory.com/jd-vance-2677150476/",
-      "date": "2026-07-02T23:05:01Z"
+      "title": "Forget AI Stocks: This Defense Giant Has Raised Its Dividend Each of the Last 10 Years and Currently Pays a 2.75% Yield",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/15e4b6b32cba7303",
+      "date": "2026-07-03T22:55:40Z"
     },
     {
-      "title": "Trump administration launching government-funded investment accounts for children on July 4",
+      "title": "Construction and Maintenance Services Stocks Q1 In Review: Concrete Pumping (NASDAQ:BBCP) Vs Peers",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d7c0df2b57655186",
+      "date": "2026-07-03T22:55:34Z"
+    },
+    {
+      "title": "Messi’s record-breaking World Cup run is moving crypto markets, not just scoreboards",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-accounts-children-investment-july-4/",
-      "date": "2026-07-02T22:49:23Z"
+      "url": "https://cryptobriefing.com/messi-world-cup-record-arg-fan-token-crypto/",
+      "date": "2026-07-03T22:54:40Z"
     },
     {
-      "title": "Trump renews push to reshape the Federal Reserve after Supreme Court blocks Lisa Cook firing",
+      "title": "China-linked socialist NGO has derailed $23.6 billion in US data center projects, report finds",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-federal-reserve-reshape-supreme-court-lisa-cook/",
-      "date": "2026-07-02T22:40:52Z"
+      "url": "https://cryptobriefing.com/china-linked-ngo-derails-us-data-center-projects/",
+      "date": "2026-07-03T22:44:20Z"
     },
     {
-      "title": "Bravo’s Frances Berwick On Celebrating 20 Years Of ‘The Real Housewives’ & The Future Of ‘Summer House’ Spinoff ‘In The City’",
-      "source": "Deadline",
-      "url": "http://deadline.com/2026/07/bravo-frances-berwick-20-years-real-housewives-in-the-city-1236973593/",
-      "date": "2026-07-02T22:40:25Z"
+      "title": "Q1 Earnings Roundup: Mettler-Toledo (NYSE:MTD) And The Rest Of The Research Tools & Consumables Segment",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/901cf259d450431d",
+      "date": "2026-07-03T22:40:23Z"
     },
     {
-      "title": "How smiling Texas sisters Cookie and Kitty tried to cover up murder of mom of 5, according to cops",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/02/us-news/how-smiling-texas-sisters-cookie-and-kitty-tried-to-cover-up-murder-of-mom-of-5-according-to-cops/",
-      "date": "2026-07-02T22:40:07Z"
+      "title": "Reflecting On Data & Business Process Services Stocks’ Q1 Earnings: Verisk (NASDAQ:VRSK)",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/5f4bcd3b15e758a6",
+      "date": "2026-07-03T22:40:13Z"
     },
     {
-      "title": "ROSEN, A LEADING LAW FIRM, Encourages Genius Group Limited Investors to Secure Counsel Before Important Deadline in Securities Class Action Against Citadel Securities LLC and Virtu Americas LLC - GNS",
+      "title": "Prince William Didn't Hold Back When Asked Whether He Thought America Would Make It to 250",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4386552/posts",
+      "date": "2026-07-03T22:36:29Z"
+    },
+    {
+      "title": "DNA My Dog Expands Product Suite With Launch of New Health and Trait Test, Building on 18-Year Foundation in Canine Genetic Testing",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321615/673/en/ROSEN-A-LEADING-LAW-FIRM-Encourages-Genius-Group-Limited-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-Against-Citadel-Securities-LLC-and-Virtu-A.html",
-      "date": "2026-07-02T22:36:00Z"
+      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321994/0/en/DNA-My-Dog-Expands-Product-Suite-With-Launch-of-New-Health-and-Trait-Test-Building-on-18-Year-Foundation-in-Canine-Genetic-Testing.html",
+      "date": "2026-07-03T22:36:00Z"
     },
     {
-      "title": "Trump’s Liberation Day tariffs torch $2.5 trillion in global markets, send Bitcoin tumbling",
+      "title": "youngcan-wyckoff-analysis 0.9.152",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.152/",
+      "date": "2026-07-03T22:29:55Z"
+    },
+    {
+      "title": "How Credo Technology Group Holding Ltd’s (CRDO) DustPhotonics Deal Deepens Its AI Data Center Connectivity Roadmap",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/bebf23daffd194a4",
+      "date": "2026-07-03T22:25:23Z"
+    },
+    {
+      "title": "A Look Back at Oilfield Services Stocks’ Q1 Earnings: Patterson-UTI (NASDAQ:PTEN) Vs The Rest Of The Pack",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/11b04a3e82f2b7a5",
+      "date": "2026-07-03T22:24:59Z"
+    },
+    {
+      "title": "VBR vs. IJJ: Small-Cap or Mid-Cap Value -- Which Is the Better ETF Buy?",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/480cedb532e53b05",
+      "date": "2026-07-03T22:24:53Z"
+    },
+    {
+      "title": "The Taiwan Freedom Project Will Uphold a Free and Open Indo-Pacific by Winning in the Information Domain",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321993/0/en/The-Taiwan-Freedom-Project-Will-Uphold-a-Free-and-Open-Indo-Pacific-by-Winning-in-the-Information-Domain.html",
+      "date": "2026-07-03T22:17:00Z"
+    },
+    {
+      "title": "Winners And Losers Of Q1: Nextpower (NASDAQ:NXT) Vs The Rest Of The Renewable Energy Stocks",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/fd1641f0b5074a1d",
+      "date": "2026-07-03T22:10:35Z"
+    },
+    {
+      "title": "Why Oracle Corporation’s (ORCL) Cloud Outlook Keeps AI Infrastructure at the Center of Its Estimate Story",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/5b85b740f4c754d3",
+      "date": "2026-07-03T22:10:17Z"
+    },
+    {
+      "title": "Shelf-Stable Food Stocks Q1 Teardown: Utz (NYSE:UTZ) Vs The Rest",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6779dcb4f74f1e22",
+      "date": "2026-07-03T22:10:16Z"
+    },
+    {
+      "title": "Dividend ETFs vs. Bond ETFs: Which Is the Better Investment in 2026?",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/829361fa041debe3",
+      "date": "2026-07-03T21:55:22Z"
+    },
+    {
+      "title": "Is Turning Community Intelligence Into a Stronger Ad Monetization Pitch",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/e5b50cbd72d6f486",
+      "date": "2026-07-03T21:55:19Z"
+    },
+    {
+      "title": "Q4 Earnings Outperformers: Albertsons (NYSE:ACI) And The Rest Of The Grocery Store Stocks",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/5b26675451d04c05",
+      "date": "2026-07-03T21:55:08Z"
+    },
+    {
+      "title": "youngcan-wyckoff-analysis 0.9.151",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.151/",
+      "date": "2026-07-03T21:54:38Z"
+    },
+    {
+      "title": "France and UK partner with Oman to restore safe transit through Strait of Hormuz, and crypto markets are watching",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-tariffs-market-turmoil-bitcoin/",
-      "date": "2026-07-02T22:35:58Z"
+      "url": "https://cryptobriefing.com/france-uk-oman-strait-hormuz-crypto-impact/",
+      "date": "2026-07-03T21:53:11Z"
     },
     {
-      "title": "to Acquire South32 Aluminum Assets in $4.1B Deal",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e0f755d596806414",
-      "date": "2026-07-02T22:31:38Z"
+      "title": "The Demoralization of the White-Collar Worker",
+      "source": "Nooneshappy.com",
+      "url": "https://nooneshappy.com/article/the-demoralization-of-the-white-collar-worker/",
+      "date": "2026-07-03T21:53:04Z"
     },
     {
-      "title": "SS&C Technologies Holdings (SSNC): Cheap Stocks That Are About to Explode",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4b03b4ea5e7c0e50",
-      "date": "2026-07-02T22:31:36Z"
-    },
-    {
-      "title": "Stock Rocketing Higher Today",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e7d05ac9d340f52a",
-      "date": "2026-07-02T22:31:31Z"
-    },
-    {
-      "title": "Approves $1.2B Investment for New Brazilian Biofuels Facility",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f2b6a767b0676432",
-      "date": "2026-07-02T22:31:24Z"
-    },
-    {
-      "title": "JV Awarded NASA COSMOS Contract for Mission Operations",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/86c92d7f480bc228",
-      "date": "2026-07-02T22:31:15Z"
-    },
-    {
-      "title": "Anthropic snatches Google AI talent and Airwallex’s AI-native finance stack push",
-      "source": "Cbinsights.com",
-      "url": "https://www.cbinsights.com/research/newsletter-july-2/",
-      "date": "2026-07-02T22:30:17Z"
-    },
-    {
-      "title": "Analysts Debunk Rumors of BlackRock Launching Altcoin Rescue Fund for XRP, Solana",
-      "source": "Bitcoinist",
-      "url": "https://bitcoinist.com/analysts-debunk-rumors-of-blackrock-launching-altcoin-rescue-fund-for-xrp-solana/",
-      "date": "2026-07-02T22:20:00Z"
-    },
-    {
-      "title": "Sekai Project to Release Jewelry Hearts Academia Visual Novel in West",
-      "source": "Anime News Network",
-      "url": "https://www.animenewsnetwork.com/news/2026-07-02/sekai-project-to-release-jewelry-hearts-academia-visual-novel-in-west/.239225",
-      "date": "2026-07-02T22:15:00Z"
-    },
-    {
-      "title": "5 Charts to Navigate This Chaotic Market",
-      "source": "Dailyreckoning.com",
-      "url": "https://dailyreckoning.com/5-charts-to-navigate-this-chaotic-market/",
-      "date": "2026-07-02T22:00:59Z"
-    },
-    {
-      "title": "Social Security: Why the Deficit and Who Doesn’t Pay but Receives Benefits",
-      "source": "Thegatewaypundit.com",
-      "url": "https://www.thegatewaypundit.com/2026/07/social-security-why-deficit-who-doesnt-pay-receives/",
-      "date": "2026-07-02T22:00:05Z"
+      "title": "Does Someone on Polymarket Know That Putin Is Going Down?",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4386546/posts",
+      "date": "2026-07-03T21:43:28Z"
     }
   ]
 }

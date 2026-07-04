@@ -4,198 +4,186 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-07-03T00:01:50.906432"
+      "date": "2026-07-04T00:00:59.180270"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-07-03T00:01:50.906437"
+      "date": "2026-07-04T00:00:59.180279"
     }
   ],
   "bitcoin": {
-    "price": 61484,
-    "date": "2026-07-03T00:01:50.974658"
+    "price": 62554,
+    "date": "2026-07-04T00:00:59.326930"
   },
   "news": [
     {
-      "title": "KPIT outlook shock sends IT stocks sliding as growth worries intensify",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-outlook-shock-sends-it-stocks-sliding-as-growth-worries-intensify/articleshow/132126618.cms",
-      "date": "2026-07-02T00:01:00Z"
-    },
-    {
-      "title": "5 Under-the-Radar Stocks Fueling the AI Revolution",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/5-Under-the-Radar-Stocks-Fueling-the-AI-Revolution.html",
-      "date": "2026-07-02T00:00:00Z"
-    },
-    {
-      "title": "Global creditors drag Udaan's parent to bankruptcy court in Singapore after $170-million bond default",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/tech/technology/global-creditors-drag-udaans-parent-to-bankruptcy-court-in-singapore-after-170-million-bond-default/articleshow/132132211.cms",
-      "date": "2026-07-02T00:00:00Z"
-    },
-    {
-      "title": "Global Creditors Drag Udaan's parent to bankruptcy court in Singapore after $170-million bond default",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/global-creditors-drag-udaans-parent-to-bankruptcy-court-in-singapore-after-170-million-bond-default/articleshow/132123984.cms",
-      "date": "2026-07-02T00:00:00Z"
-    },
-    {
-      "title": "Setting a direction for molecular motors",
+      "title": "Artificial metalloenzymes in complex biological environments",
       "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41557-026-02205-7",
-      "date": "2026-07-02T00:00:00Z"
+      "url": "https://www.nature.com/articles/s41589-026-02249-3",
+      "date": "2026-07-03T00:00:00Z"
     },
     {
-      "title": "Greece Hunts Toxic Wood-Biting Fish Invading Mediterranean Sea",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/07/01/greece-pays-fishermen-catch-toxic-pufferfish/",
-      "date": "2026-07-01T23:54:33Z"
-    },
-    {
-      "title": "Braiins showcases stackable Forge Miner achieving 4.8 TH/s",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/braiins-forge-miner-stackable-bitcoin/",
-      "date": "2026-07-01T23:51:45Z"
-    },
-    {
-      "title": "This Wannabe Dividend King Had a Tough H1. Expect Some Relief in H2",
+      "title": "IWO vs. IWM: What's the Best Way to Buy Small-Cap Stocks?",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c50df2ba944d839d",
-      "date": "2026-07-01T23:51:13Z"
+      "url": "https://biztoc.com/x/30651994f4cf1ea2",
+      "date": "2026-07-02T23:46:23Z"
     },
     {
-      "title": "ADP reports US businesses added just 98,000 jobs in June, missing forecasts",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/adp-jobs-report-june-labor-market/",
-      "date": "2026-07-01T23:45:17Z"
+      "title": "U.S. Public Firm K Wave Media Liquidates Entire 88 BTC Portfolio to Repay Debt",
+      "source": "newsBTC",
+      "url": "http://www.newsbtc.com/news/u-s-public-firm-k-wave-media-liquidates-entire-88-btc-portfolio-to-repay-debt/",
+      "date": "2026-07-02T23:45:00Z"
     },
     {
-      "title": "Dow Jones hits record intraday high before closing lower, S&P 500 and Nasdaq fall - here’s why US stock market started July in red",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/dow-jones-hits-record-intraday-high-before-closing-lower-sp-500-and-nasdaq-fall-heres-why-us-stock-market-started-july-in-red/articleshow/132126492.cms",
-      "date": "2026-07-01T23:45:11Z"
-    },
-    {
-      "title": "Yen faces risk of sliding to 200 per dollar level, say investors",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/yen-risk-200-dollar-crypto-impact/",
-      "date": "2026-07-01T23:39:54Z"
-    },
-    {
-      "title": "Tell me about the Media & Entertainment trend in Indian s... — StockFin.ai",
-      "source": "Stockfin.ai",
-      "url": "https://www.stockfin.ai/s/551c4d4e-ca3f-4273-a482-dfed6307a3d5",
-      "date": "2026-07-01T23:39:09Z"
-    },
-    {
-      "title": "Datadog and Elastic Stocks Trade Up, What You Need To Know",
+      "title": "The Next 30% Crash Will Happen. These 3 ETFs Mean You Won’t Panic-Sell at the Bottom",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7ef4898594e17ecc",
-      "date": "2026-07-01T23:37:56Z"
+      "url": "https://biztoc.com/x/ee54e161898cb373",
+      "date": "2026-07-02T23:44:42Z"
     },
     {
-      "title": "Equities market sheds N2.39tn in July opening session",
+      "title": "US warns of potential targeting of Iranian negotiators, raising stakes for crypto markets tied to sanctions evasion",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-warns-targeting-iranian-negotiators-crypto-sanctions/",
+      "date": "2026-07-02T23:37:16Z"
+    },
+    {
+      "title": "Cynthia Lummis emphasizes importance of Clarity Act for US tech leadership",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/lummis-clarity-act-us-tech-leadership/",
+      "date": "2026-07-02T23:35:58Z"
+    },
+    {
+      "title": "Quant funds in China attract surge of investor money amid volatility",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/china-quant-funds-surge-investor-money/",
+      "date": "2026-07-02T23:35:34Z"
+    },
+    {
+      "title": "Dangote, importers battle as petrol holds above N1,000",
       "source": "The Punch",
-      "url": "https://punchng.com/equities-market-sheds-n2-39tn-in-july-opening-session/",
-      "date": "2026-07-01T23:36:40Z"
+      "url": "https://punchng.com/dangote-importers-battle-as-petrol-holds-above-n1000/",
+      "date": "2026-07-02T23:23:20Z"
     },
     {
-      "title": "Bitcoin statue unveiled at New York Stock Exchange, marking crypto’s cultural arrival on Wall Street",
+      "title": "Japanese yen falls to lowest level against US dollar since 1986 amid $73B intervention",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bitcoin-statue-new-york-stock-exchange/",
-      "date": "2026-07-01T23:35:44Z"
+      "url": "https://cryptobriefing.com/japanese-yen-falls-lowest-since-1986-crypto-impact/",
+      "date": "2026-07-02T23:19:17Z"
     },
     {
-      "title": "The Japanese yen is at a 40-year low. Here’s why that matters | CNN Business",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/07/01/economy/japanese-yen-low",
-      "date": "2026-07-01T23:30:25Z"
-    },
-    {
-      "title": "W. Scott Stornetta, a Founding Father of Blockchain, Joins SafeBets as Chair of the Advisory Council",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/w-scott-stornetta-a-founding-father-of-blockchain-joins-safebets-as-chair-of-the-advisory-council-302816359.html",
-      "date": "2026-07-01T23:30:00Z"
-    },
-    {
-      "title": "Why Buy Stocks When T-Bills Pay 5%? Jim Cramer’s Blunt Answer",
+      "title": "GE Aerospace Hits Record High, Leads 19 Onto IBD 50, Big Cap 20, Other Best Stock Lists",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e61fd0f65b86de9d",
-      "date": "2026-07-01T23:20:13Z"
+      "url": "https://biztoc.com/x/f99445c094c072bc",
+      "date": "2026-07-02T23:14:14Z"
     },
     {
-      "title": "Bridgewater’s flagship macro fund gains 8% in first half as AI strategy matches pace",
+      "title": "Quote of the Day by Travis Kelce, 'Once You Have Success, You Have to Maintain Success', teaches valuable life advice about humility after success, how to achieve goal in life, maintain long-term achi",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-travis-kelce-once-you-have-success-you-have-to-maintain-success-teaches-valuable-life-advice-about-humility-after-success-how-to-achieve-goal-in-life-maintain-long-term-achievement/articleshow/132150066.cms",
+      "date": "2026-07-02T23:08:34Z"
+    },
+    {
+      "title": "JD Vance accidentally said the quiet part out loud about Iran talks: analyst",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/jd-vance-2677150476/",
+      "date": "2026-07-02T23:05:01Z"
+    },
+    {
+      "title": "Trump administration launching government-funded investment accounts for children on July 4",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bridgewater-macro-fund-gains-h1-2026/",
-      "date": "2026-07-01T23:20:03Z"
+      "url": "https://cryptobriefing.com/trump-accounts-children-investment-july-4/",
+      "date": "2026-07-02T22:49:23Z"
     },
     {
-      "title": "Bitcoin reclaims $61,000 after jobs report triggers $1.6B liquidation cascade",
+      "title": "Trump renews push to reshape the Federal Reserve after Supreme Court blocks Lisa Cook firing",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bitcoin-reclaims-61000-jobs-report-liquidation/",
-      "date": "2026-07-01T23:18:49Z"
+      "url": "https://cryptobriefing.com/trump-federal-reserve-reshape-supreme-court-lisa-cook/",
+      "date": "2026-07-02T22:40:52Z"
     },
     {
-      "title": "Fisher & Paykel removed from APAC Conviction List at Goldman Sachs",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/FSPKF",
-      "date": "2026-07-01T23:15:18Z"
+      "title": "Bravo’s Frances Berwick On Celebrating 20 Years Of ‘The Real Housewives’ & The Future Of ‘Summer House’ Spinoff ‘In The City’",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/07/bravo-frances-berwick-20-years-real-housewives-in-the-city-1236973593/",
+      "date": "2026-07-02T22:40:25Z"
     },
     {
-      "title": "FBI gives update on Nancy Guthrie ransom notes — and reveals many led to dead end",
+      "title": "How smiling Texas sisters Cookie and Kitty tried to cover up murder of mom of 5, according to cops",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/07/01/us-news/fbi-gives-update-on-nancy-guthrie-ransom-notes-and-reveals-many-led-to-dead-end/",
-      "date": "2026-07-01T23:13:29Z"
+      "url": "https://nypost.com/2026/07/02/us-news/how-smiling-texas-sisters-cookie-and-kitty-tried-to-cover-up-murder-of-mom-of-5-according-to-cops/",
+      "date": "2026-07-02T22:40:07Z"
     },
     {
-      "title": "Meta AI Cloud Push Sends Nvidia, AMD, Intel, Micron Stocks Sinking - Yahoo Finance",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184262138",
-      "date": "2026-07-01T23:12:54Z"
+      "title": "ROSEN, A LEADING LAW FIRM, Encourages Genius Group Limited Investors to Secure Counsel Before Important Deadline in Securities Class Action Against Citadel Securities LLC and Virtu Americas LLC - GNS",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321615/673/en/ROSEN-A-LEADING-LAW-FIRM-Encourages-Genius-Group-Limited-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-Against-Citadel-Securities-LLC-and-Virtu-A.html",
+      "date": "2026-07-02T22:36:00Z"
     },
     {
-      "title": "Arcus launches decentralized exchange on Robinhood Chain for 24/7 trading",
+      "title": "Trump’s Liberation Day tariffs torch $2.5 trillion in global markets, send Bitcoin tumbling",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/arcus-dex-robinhood-chain-launch/",
-      "date": "2026-07-01T23:12:49Z"
+      "url": "https://cryptobriefing.com/trump-tariffs-market-turmoil-bitcoin/",
+      "date": "2026-07-02T22:35:58Z"
     },
     {
-      "title": "KB Financial added to APAC Conviction List at Goldman Sachs",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/KB",
-      "date": "2026-07-01T23:10:00Z"
-    },
-    {
-      "title": "Intercos price target lowered by EUR 0.20 at Jefferies, here's why",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/ICOSF",
-      "date": "2026-07-01T23:10:00Z"
-    },
-    {
-      "title": "US Supreme Court ends term with setbacks for Trump on tariffs, birthright citizenship",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/supreme-court-trump-tariffs-citizenship-setbacks/",
-      "date": "2026-07-01T23:08:57Z"
-    },
-    {
-      "title": "Stock Is Down Today",
+      "title": "to Acquire South32 Aluminum Assets in $4.1B Deal",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/0b01c9d619d19bba",
-      "date": "2026-07-01T23:07:45Z"
+      "url": "https://biztoc.com/x/e0f755d596806414",
+      "date": "2026-07-02T22:31:38Z"
     },
     {
-      "title": "AAVE adds 1,806 new wallets in a day as token rises 9%",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/aave-wallet-surge-token-price-rise/",
-      "date": "2026-07-01T23:02:38Z"
+      "title": "SS&C Technologies Holdings (SSNC): Cheap Stocks That Are About to Explode",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/4b03b4ea5e7c0e50",
+      "date": "2026-07-02T22:31:36Z"
     },
     {
-      "title": "Manifesting a Logan Webb trade",
-      "source": "McCovey Chronicles",
-      "url": "https://www.mccoveychronicles.com/san-francisco-giants-analysis/104365/manifesting-a-logan-webb-trade-sf-giants-mlb-trade-deadline-2026",
-      "date": "2026-07-01T22:58:38Z"
+      "title": "Stock Rocketing Higher Today",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/e7d05ac9d340f52a",
+      "date": "2026-07-02T22:31:31Z"
+    },
+    {
+      "title": "Approves $1.2B Investment for New Brazilian Biofuels Facility",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f2b6a767b0676432",
+      "date": "2026-07-02T22:31:24Z"
+    },
+    {
+      "title": "JV Awarded NASA COSMOS Contract for Mission Operations",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/86c92d7f480bc228",
+      "date": "2026-07-02T22:31:15Z"
+    },
+    {
+      "title": "Anthropic snatches Google AI talent and Airwallex’s AI-native finance stack push",
+      "source": "Cbinsights.com",
+      "url": "https://www.cbinsights.com/research/newsletter-july-2/",
+      "date": "2026-07-02T22:30:17Z"
+    },
+    {
+      "title": "Analysts Debunk Rumors of BlackRock Launching Altcoin Rescue Fund for XRP, Solana",
+      "source": "Bitcoinist",
+      "url": "https://bitcoinist.com/analysts-debunk-rumors-of-blackrock-launching-altcoin-rescue-fund-for-xrp-solana/",
+      "date": "2026-07-02T22:20:00Z"
+    },
+    {
+      "title": "Sekai Project to Release Jewelry Hearts Academia Visual Novel in West",
+      "source": "Anime News Network",
+      "url": "https://www.animenewsnetwork.com/news/2026-07-02/sekai-project-to-release-jewelry-hearts-academia-visual-novel-in-west/.239225",
+      "date": "2026-07-02T22:15:00Z"
+    },
+    {
+      "title": "5 Charts to Navigate This Chaotic Market",
+      "source": "Dailyreckoning.com",
+      "url": "https://dailyreckoning.com/5-charts-to-navigate-this-chaotic-market/",
+      "date": "2026-07-02T22:00:59Z"
+    },
+    {
+      "title": "Social Security: Why the Deficit and Who Doesn’t Pay but Receives Benefits",
+      "source": "Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/07/social-security-why-deficit-who-doesnt-pay-receives/",
+      "date": "2026-07-02T22:00:05Z"
     }
   ]
 }

@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-07-07T23:54:44.338243"
+      "date": "2026-07-09T00:05:31.133391"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-07-07T23:54:44.338248"
+      "date": "2026-07-09T00:05:31.133397"
     }
   ],
   "bitcoin": {
-    "price": 63366,
-    "date": "2026-07-07T23:54:44.404674"
+    "price": 62163,
+    "date": "2026-07-09T00:05:31.174337"
   },
   "news": [
     {
-      "title": "Bitcoin ETF Inflows Return As Farside Data Shows $143 Million Recovery",
-      "source": "Bitcoinist",
-      "url": "https://bitcoinist.com/bitcoin-etf-inflows-return-as-farside-data-shows-143-million-recovery/",
-      "date": "2026-07-06T23:54:00Z"
-    },
-    {
-      "title": "Hamas dissolves Gaza government after nearly 20 years, raising questions about crypto fundraising and stablecoin plans",
+      "title": "Microsoft signs 20-year deal to restart Three Mile Island nuclear plant, signaling a new era for energy-hungry data centers",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/hamas-dissolves-gaza-government-crypto-implications/",
-      "date": "2026-07-06T23:49:34Z"
+      "url": "https://cryptobriefing.com/microsoft-three-mile-island-nuclear-restart-deal/",
+      "date": "2026-07-08T00:05:18Z"
     },
     {
-      "title": "Spring Valley Acquisition III holders approve combination with General Fusion",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/SVAC",
-      "date": "2026-07-06T23:47:08Z"
+      "title": "10-year yield seen slipping to 6.64% as Fed bets ease",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/10-year-yield-seen-slipping-to-6-64-as-fed-bets-ease/articleshow/132251042.cms",
+      "date": "2026-07-08T00:02:26Z"
     },
     {
-      "title": "US crude oil inventories fall to lowest level since 1983 as SPR drawdown accelerates",
+      "title": "3 Soaring Stocks That May Have More Upside Ahead",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/41fe4dd47854df82",
+      "date": "2026-07-08T00:00:58Z"
+    },
+    {
+      "title": "Why the AI Boom Is About to Break the U.S. Power Grid",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Why-the-AI-Boom-Is-About-to-Break-the-US-Power-Grid.html",
+      "date": "2026-07-08T00:00:00Z"
+    },
+    {
+      "title": "Genetically targeted photocatalytic organic dyes for spatiotemporally controlled organic synthesis in specific living cells",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41557-026-02195-6",
+      "date": "2026-07-08T00:00:00Z"
+    },
+    {
+      "title": "Elevated CO2 and warming intensify plant reliance on soil nitrogen reserves despite intensive fertilization",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-75147-w",
+      "date": "2026-07-08T00:00:00Z"
+    },
+    {
+      "title": "Diet–microbiome synergy underlies obesity-associated immunotherapy efficacy",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41586-026-10750-x",
+      "date": "2026-07-08T00:00:00Z"
+    },
+    {
+      "title": "lumibot 4.5.69",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/lumibot/4.5.69/",
+      "date": "2026-07-07T23:51:22Z"
+    },
+    {
+      "title": "ExxonMobil and Chevron Shares Skyrocket, What You Need To Know",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/cae14ed72e100db8",
+      "date": "2026-07-07T23:46:03Z"
+    },
+    {
+      "title": "The Difference Between a 37% Tax Bill and a 0% One Is How Long You Held the Stock",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/de7de3598bdf04bd",
+      "date": "2026-07-07T23:43:58Z"
+    },
+    {
+      "title": "AbbVie vs Eli Lilly: 1 Is Clearly the Better Dividend Stock to Buy and Hold for the Next 10 Years",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/066c0e29079c658a",
+      "date": "2026-07-07T23:43:54Z"
+    },
+    {
+      "title": "Jim Cramer says the market's reaction to Samsung may signal a shift in AI leadership",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/298ac4e0486dfd76",
+      "date": "2026-07-07T23:43:44Z"
+    },
+    {
+      "title": "US strike on Iranian positions in Bandar Abbas causes massive explosion, Bitcoin slides below $73K",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-crude-oil-inventories-lowest-since-1983/",
-      "date": "2026-07-06T23:45:57Z"
+      "url": "https://cryptobriefing.com/us-strike-iran-bandar-abbas-bitcoin-drops/",
+      "date": "2026-07-07T23:41:03Z"
     },
     {
-      "title": "Stock Is Up Today",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/867774fde5977746",
-      "date": "2026-07-06T23:45:16Z"
-    },
-    {
-      "title": "There’s an Urgent Sign of an Impending Market Collapse",
-      "source": "Futurism",
-      "url": "https://futurism.com/future-society/impending-market-collapse-ai-bubble-stocks-overvalued",
-      "date": "2026-07-06T23:45:00Z"
-    },
-    {
-      "title": "Quietly Pivoting From Bitcoin Mining To AI Data Centers?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/397d431090298046",
-      "date": "2026-07-06T23:44:56Z"
-    },
-    {
-      "title": "Jim Cramer says these are the 5 stocks to buy during this market rotation",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d40bc8ac5332f386",
-      "date": "2026-07-06T23:43:51Z"
-    },
-    {
-      "title": "The 3 Best Buy-and-Hold Dividend Stocks to Load Up on for Lifetime Income",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a46d2be0364190ff",
-      "date": "2026-07-06T23:43:45Z"
-    },
-    {
-      "title": "Marathon Hash Rate Climbs To 31.5 EH/s As Miner Competition Tightens",
-      "source": "Bitcoinist",
-      "url": "https://bitcoinist.com/marathon-hash-rate-climbs-to-31-5-eh-s-as-miner-competition-tightens/",
-      "date": "2026-07-06T23:37:00Z"
-    },
-    {
-      "title": "$498M liquidated from crypto market in past 24 hours as short sellers get crushed",
+      "title": "Amazon plans to borrow $25B as AI-related debt sells off",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/498m-crypto-liquidations-short-squeeze/",
-      "date": "2026-07-06T23:35:05Z"
+      "url": "https://cryptobriefing.com/amazon-25b-bond-sale-ai-debt-selloff/",
+      "date": "2026-07-07T23:40:02Z"
     },
     {
-      "title": "Stock Market Today: Dow Up, AI Stock Tests Entry; SpaceX Tumbles As Elon Musk Makes This Boast (Live Coverage) - Investor's Business Daily",
+      "title": "Japan may soften monetary policy language to avoid pressuring Bank of Japan",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/japan-monetary-policy-boj-pressure/",
+      "date": "2026-07-07T23:38:37Z"
+    },
+    {
+      "title": "Nearly 1 million investors in Trump's memecoin lost a collective $3.8 billion as he cashed in - Fortune",
       "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184335486",
-      "date": "2026-07-06T23:32:45Z"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184349120",
+      "date": "2026-07-07T23:32:38Z"
     },
     {
-      "title": "Nivalis Nights Will Officially Be Released On September 29",
-      "source": "Bleeding Cool News",
-      "url": "https://bleedingcool.com/games/nivalis-nights-will-officially-be-released-on-september-29/",
-      "date": "2026-07-06T23:32:10Z"
+      "title": "GoDaddy, Freshworks, and HubSpot Shares Are Soaring, What You Need To Know",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f1a5afc57b85b498",
+      "date": "2026-07-07T23:31:13Z"
     },
     {
-      "title": "Large banks explore acquisitions to bypass debit-card fee limits",
+      "title": "Oil jumps and bonds dip as US strikes Iran",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/769d73bebdeeacbe",
+      "date": "2026-07-07T23:28:45Z"
+    },
+    {
+      "title": "AI-related debt sells off sharply as Amazon looks to borrow another $25 billion",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/cbca34f20093330b",
+      "date": "2026-07-07T23:28:44Z"
+    },
+    {
+      "title": "Oil Jumps on Iran Attack, Asian Stocks Set to Drop: Markets Wrap",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-jumps-on-iran-attack-asian-stocks-set-to-drop-markets-wrap",
+      "date": "2026-07-07T23:28:16Z"
+    },
+    {
+      "title": "Robinhood Chain’s USDG holder count surges to 4K, up 10x in a week",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/banks-acquisition-bypass-debit-fee-limits/",
-      "date": "2026-07-06T23:24:34Z"
+      "url": "https://cryptobriefing.com/robinhood-chain-usdg-holders-surge-10x/",
+      "date": "2026-07-07T23:25:34Z"
     },
     {
-      "title": "Mt. Gox Wallet Sends 47,228 BTC To Bitstamp As Creditor Repayments Accelerate",
-      "source": "Bitcoinist",
-      "url": "https://bitcoinist.com/mt-gox-wallet-sends-47-228-btc-to-bitstamp-as-creditor-repayments-accelerate/",
-      "date": "2026-07-06T23:20:00Z"
+      "title": "Advanced Micro Devices stock falls amid semiconductor sector selloff",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/amd-stock-falls-semiconductor-selloff-2026/",
+      "date": "2026-07-07T23:21:18Z"
     },
     {
-      "title": "Wall Street veteran issues dire warning on job market",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/25fd22601b5f987c",
-      "date": "2026-07-06T23:15:42Z"
+      "title": "Gold declines as US airstrikes on Iran raise inflation fears",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/gold-declines-iran-airstrikes-inflation-fears/",
+      "date": "2026-07-07T23:19:42Z"
     },
     {
-      "title": "S&P 500, Nasdaq close sharply higher as Broadcom rallies - Reuters",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184335316",
-      "date": "2026-07-06T23:12:41Z"
-    },
-    {
-      "title": "ALEX BRUMMER: Andy Burnham thinks he has all the answers... but this is why the all-powerful Treasury will fight his plans",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/money/mailplus/article-15957151/Andy-Burnham-powerful-Treasury-fight-plans-ALEX-BRUMMER.html",
-      "date": "2026-07-06T23:06:38Z"
-    },
-    {
-      "title": "Leading brokers name 3 ASX shares to buy today",
-      "source": "Motley Fool Australia",
-      "url": "https://www.fool.com.au/2026/07/07/leading-brokers-name-3-asx-shares-to-buy-today-7-july-2026/",
-      "date": "2026-07-06T23:02:52Z"
-    },
-    {
-      "title": "Solstice CEO defends its $14.5B acquisition after the stock plunges 15%",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/06/solstice-ceo-defends-acquisition-element-solutions-stock-plunges.html",
-      "date": "2026-07-06T23:02:10Z"
-    },
-    {
-      "title": "Marvell Technology and NXP Semiconductors Shares Are Soaring, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1dceafeab6f5db6b",
-      "date": "2026-07-06T23:01:03Z"
-    },
-    {
-      "title": "Himax, Western Digital, and onsemi Shares Skyrocket, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/352978d19c6e2a4a",
-      "date": "2026-07-06T23:00:37Z"
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: What to watch for in the second half",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/06/cnbcs-the-china-connection-newsletter-a-focus-on-ai-ipos-diplomacy.html",
-      "date": "2026-07-06T23:00:02Z"
-    },
-    {
-      "title": "AI agent exploits Langflow in first fully autonomous ransomware attack",
+      "title": "Report: China’s DeepSeek follows OpenAI in developing its own custom inference chips",
       "source": "SiliconANGLE News",
-      "url": "https://siliconangle.com/2026/07/06/ai-agent-exploits-langflow-first-fully-autonomous-ransomware-attack/",
-      "date": "2026-07-06T22:58:24Z"
+      "url": "https://siliconangle.com/2026/07/07/report-chinas-deepseek-follows-openai-developing-custom-inference-chips/",
+      "date": "2026-07-07T23:19:00Z"
     },
     {
-      "title": "DAN HODGES: Nigel's always been able to deflect awkward questions with a joke and a shrug. But now his force field is down",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/debate/article-15957343/DAN-HODGES-Nigels-deflect-questions-joke-force-field-down.html",
-      "date": "2026-07-06T22:53:27Z"
+      "title": "Iran’s President Pezeshkian returns home as US strikes reshape Middle East risk calculus",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-pezeshkian-returns-us-strikes-crypto-markets/",
+      "date": "2026-07-07T23:07:44Z"
     },
     {
-      "title": "L.L. SOFTBALL: Minersville, built on bonds, returns to Pa. state tournament",
-      "source": "Republicanherald.com",
-      "url": "https://www.republicanherald.com/2026/07/06/l-l-softball-minersville-built-on-bonds-returns-to-pa-state-tournament/",
-      "date": "2026-07-06T22:46:00Z"
+      "title": "Suikoden: The Anime Producer Ryo Hino offers, comments production, everything else at NBC Universal panel at Anime Expo 2026 (Murciélago, From Old Country Bumpkin to Master Swordsman Season 2, More",
+      "source": "Anime News Network",
+      "url": "https://www.animenewsnetwork.com/press-release/2026-07-07/suikoden-the-anime-producer-ryo-hino-offers-comments-production-everything-else-at-nbc-universal-/.239407",
+      "date": "2026-07-07T23:03:58Z"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise with AI trade in focus",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9dbea23b2cd96e52",
-      "date": "2026-07-06T22:45:48Z"
+      "title": "Japan asset managers pursue global investor mandates as yen bond demand grows",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/japan-asset-managers-pursue-global-investor-mandates-yen-bond-demand-grows-6239601",
+      "date": "2026-07-07T23:02:25Z"
     },
     {
-      "title": "Texas Instruments and Impinj Stocks Trade Up, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f9ecfa6d06b4352b",
-      "date": "2026-07-06T22:45:38Z"
+      "title": "US revokes Iran oil sale authorization after tanker attacks, sending crude prices surging",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-revokes-iran-oil-authorization-tanker-attacks/",
+      "date": "2026-07-07T23:01:11Z"
     },
     {
-      "title": "Royce Lewis Credits Twins' Energy After Weekend Series Win in Bronx",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/mlb/twins/news/royce-lewis-credits-twins-energy-after-weekend-series-win-in-bronx",
-      "date": "2026-07-06T22:44:41Z"
+      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as oil surges, Trump declares ceasefire 'over'",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-wednedsay-july-8-dow-sp-nasdaq-fall-oil-rise-230111117.html",
+      "date": "2026-07-07T23:01:11Z"
     },
     {
-      "title": "Strategy sheds $216 million in Bitcoin in crypto hoarder’s largest sale ever",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c15fca2d1b205176",
-      "date": "2026-07-06T22:43:30Z"
+      "title": "2 ASX LICs to buy now: expert",
+      "source": "Motley Fool Australia",
+      "url": "https://www.fool.com.au/2026/07/08/2-asx-lics-to-buy-now-expert/",
+      "date": "2026-07-07T23:00:00Z"
     }
   ]
 }

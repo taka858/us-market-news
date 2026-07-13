@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-07-12T23:48:40.981120"
+      "date": "2026-07-13T23:50:37.830558"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-07-12T23:48:40.981126"
+      "date": "2026-07-13T23:50:37.830562"
     }
   ],
   "bitcoin": {
-    "price": 63715,
-    "date": "2026-07-12T23:48:41.018819"
+    "price": 62141,
+    "date": "2026-07-13T23:50:37.886304"
   },
   "news": [
     {
-      "title": "US Central Command strikes Iranian facilities after attacks on commercial ships in Strait of Hormuz",
+      "title": "Ransomware Negotiator Gets 6 Years in Prison for Assisting Scammers",
+      "source": "pymnts.com",
+      "url": "https://www.pymnts.com/cybersecurity/2026/ransomware-negotiator-gets-6-years-in-prison-for-assisting-scammers/",
+      "date": "2026-07-12T23:49:42Z"
+    },
+    {
+      "title": "CC Sabathia's son drafted by one of MLB Hall of Famer's former teams",
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/us/mlb/milwaukee-brewers/news/cc-sabathias-son-drafted-one-mlb-hall-famers-former-teams/30ec7d284fdbce06690258a7",
+      "date": "2026-07-12T23:45:42Z"
+    },
+    {
+      "title": "deusproof-mcp added to PyPI",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/deusproof-mcp/",
+      "date": "2026-07-12T23:45:27Z"
+    },
+    {
+      "title": "deusproof-mcp 0.1.0",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/deusproof-mcp/0.1.0/",
+      "date": "2026-07-12T23:45:27Z"
+    },
+    {
+      "title": "Bioinspired microcapsule reactor with engineered probiotics for IBD therapy",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-72027-1",
+      "date": "2026-07-12T23:41:01Z"
+    },
+    {
+      "title": "Reds' Matt Ponatoski draft pick has clock ticking for Kentucky football QB commit with deadline looming",
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/us/mlb/cincinnati-reds/news/reds-matt-ponatoski-draft-pick-kentucky-football-qb-commit-deadline/90428ebfabe03497a1066774",
+      "date": "2026-07-12T23:39:00Z"
+    },
+    {
+      "title": "Robinhood Chain launch boosts Ethereum optimism; Saylor hints Bitcoin sale shift",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-strikes-iran-crypto-market-impact-8/",
-      "date": "2026-07-11T23:46:12Z"
+      "url": "https://cryptobriefing.com/robinhood-chain-launch-boosts-ethereum-optimism-saylor-hints-bitcoin-sale-shift/",
+      "date": "2026-07-12T23:33:24Z"
     },
     {
-      "title": "Altra Fastigheter (OM:ALTRA) Earnings Put Valuation Back In Focus Following Portfolio Shift",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d73583b811ae0b52",
-      "date": "2026-07-11T23:36:52Z"
-    },
-    {
-      "title": "Explosions rock Iran’s Bushehr and Asaluyeh as crypto markets brace for energy disruption fallout",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-bushehr-explosions-crypto-market-impact/",
-      "date": "2026-07-11T23:32:55Z"
-    },
-    {
-      "title": "The Vanguard ETF Warren Buffett Endorsed in 2014 Would Have Turned $5,000 Into $20,465 Today",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/dcb83e3e4a0ce60b",
-      "date": "2026-07-11T23:21:20Z"
-    },
-    {
-      "title": "Peyton Bonds selected in third round of 2026 MLB Draft",
-      "source": "On The Banks",
-      "url": "https://www.onthebanks.com/rutgers-non-rev-sports/53739/peyton-bonds-selected-in-third-round-of-2026-mlb-draft",
-      "date": "2026-07-11T23:17:11Z"
-    },
-    {
-      "title": "MLB Draft 2026 takeaways: Roch Cholowsky to the White Sox, Rob Manfred's gaffe, pitcher surprises, a Bonds on the Giants and more",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/mlb/article/mlb-draft-2026-takeaways-roch-cholowsky-to-the-white-sox-rob-manfreds-gaffe-pitcher-surprises-a-bonds-on-the-giants-and-more-231553917.html",
-      "date": "2026-07-11T23:15:53Z"
-    },
-    {
-      "title": "IRGC missile strikes on commercial ships in Strait of Hormuz rattle oil markets and spotlight Iran’s crypto sanctions playbook",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/irgc-hormuz-missile-strikes-crypto-sanctions/",
-      "date": "2026-07-11T23:07:17Z"
-    },
-    {
-      "title": "These underperforming trades could yield big returns over next six months",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/963ead9123b749a5",
-      "date": "2026-07-11T22:50:37Z"
-    },
-    {
-      "title": "Iran closes Strait of Hormuz after warning shot hits ship, rattling oil and crypto markets",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-strait-hormuz-closure-crypto-oil/",
-      "date": "2026-07-11T22:27:31Z"
-    },
-    {
-      "title": "Giants draft outfielder Peyton Bonds, Barry’s nephew, in 3rd round",
-      "source": "McCovey Chronicles",
-      "url": "https://www.mccoveychronicles.com/san-francisco-giants-prospects/108952/giants-2026-mlb-draft-3rd-round-peyton-bonds",
-      "date": "2026-07-11T22:22:23Z"
-    },
-    {
-      "title": "This Unstoppable Tech ETF Is Down More Than 20%. Is It Time to Buy the Dip?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/cff88feb5ad084ab",
-      "date": "2026-07-11T22:20:47Z"
-    },
-    {
-      "title": "David Beckham at the World Cup is a reminder of how deep crypto has gone in football",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/beckham-world-cup-miami-crypto-football/",
-      "date": "2026-07-11T22:16:44Z"
-    },
-    {
-      "title": "How 'Anne of Green Gables' ended up in 'Little House' along with Nellie Oleson - USA Today",
+      "title": "Stock futures slip after U.S., Iran exchange airstrikes again: Live updates - CNBC",
       "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184415936",
-      "date": "2026-07-11T22:12:17Z"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184431266",
+      "date": "2026-07-12T23:32:29Z"
     },
     {
-      "title": "Bride-To-Be Questions Her Engagement After Fiancé Issues An Ultimatum About Her Cat",
-      "source": "Boredpanda.com",
-      "url": "https://www.boredpanda.com/relationship-advice-fiance-cat-ultimatum/",
-      "date": "2026-07-11T22:00:33Z"
-    },
-    {
-      "title": "FedEx and UPS face a new pricing threat from an old rival",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/latest-news/amazon-shipping-fedex-ups-pricing",
-      "date": "2026-07-11T21:33:00Z"
-    },
-    {
-      "title": "2 Beaten-Down Stocks That Still Aren't Worth Buying",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/215fe3da67e3573c",
-      "date": "2026-07-11T21:20:33Z"
-    },
-    {
-      "title": "No sugar, no rice. John Abraham reveals how his vegetarian diet helps him have fabulous body at 53: 'I have 51...'",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/no-sugar-no-rice-john-abraham-reveals-how-his-vegetarian-diet-helps-him-have-fabulous-body-at-53-i-have-51-/articleshow/132337603.cms",
-      "date": "2026-07-11T20:57:46Z"
-    },
-    {
-      "title": "Why Seagate Technology (STX) Is Strengthening Its AI Storage Growth Outlook Through Cloud Demand and Higher-Capacity HDDs",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/29debfef91a31797",
-      "date": "2026-07-11T20:50:17Z"
-    },
-    {
-      "title": "Oil Is Below $76. So Why Is Bitcoin Still Below $65,000?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d53fe9ffcd63cbfb",
-      "date": "2026-07-11T20:50:04Z"
-    },
-    {
-      "title": "2 Beaten-Down Stocks That Still Aren't Worth Buying",
-      "source": "Yahoo Entertainment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dbc9941b-d64e-4e93-8bab-91f3191e25a0",
-      "date": "2026-07-11T20:50:00Z"
-    },
-    {
-      "title": "5 Top AI Stocks Investors Own on Robinhood",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5871f47674a9c795",
-      "date": "2026-07-11T20:49:43Z"
-    },
-    {
-      "title": "Iran faces US ultimatum to reopen Strait of Hormuz by Saturday, and Bitcoin is already flinching",
+      "title": "Pakistan seeks dialogue after Islamic scholars declare crypto haram",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-us-ultimatum-strait-hormuz-bitcoin/",
-      "date": "2026-07-11T20:47:23Z"
+      "url": "https://cryptobriefing.com/pakistan-seeks-dialogue-after-islamic-scholars-declare-crypto-haram/",
+      "date": "2026-07-12T23:28:36Z"
     },
     {
-      "title": "Renault (ENXTPA:RNO) Wins Diesel Case, Is The Stock Now Cheap?",
+      "title": "Robinhood L2 sparks ETH optimism, Saylor 'muddies waters.' Hodler's Digest, July 5-12, 2026",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/features/ethereum-climbs-as-robinhood-l2-takes-off",
+      "date": "2026-07-12T23:24:26Z"
+    },
+    {
+      "title": "Top Value Investor Bill Miller IV Says Bitcoin Is Undervalued. So How Much Higher Can Bitcoin Go This Year?",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/651e26d836e27d30",
-      "date": "2026-07-11T20:35:24Z"
+      "url": "https://biztoc.com/x/9ad598c67747d329",
+      "date": "2026-07-12T23:17:52Z"
     },
     {
-      "title": "Why Applied Optoelectronics (AAOI) Is Well Positioned to Capitalize on Hyperscale AI Networking Demand With Its Expanding Optical Order Backlog",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3d2f04c477eb9694",
-      "date": "2026-07-11T20:34:47Z"
+      "title": "Unum Group Cuts Long-Term Care Risk With $3.8B Reinsurance Deal",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/unum-group-cuts-long-term-care-risk-with-38b-reinsurance-deal-2026-07-12/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-07-12T23:02:03Z"
     },
     {
-      "title": "Could Benefit From AI Optical Networking Demand as Co-Packaged Optics Adoption Accelerates",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c1d9f8e34d84a647",
-      "date": "2026-07-11T20:34:40Z"
+      "title": "MLB All-Star Team Of The Century: The Greatest First-Half Performers Since 2000",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/mlb/mlb-all-star-team-of-the-century-best-first-half-players-since-2000",
+      "date": "2026-07-12T22:58:10Z"
     },
     {
-      "title": "Why Seagate Technology (STX) Is Strengthening Its AI Storage Growth Outlook Through Cloud Demand and Higher-Capacity HDDs",
+      "title": "American kids all want to be influencers — but they’re really just followers",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/12/opinion/american-kids-all-want-to-be-influencers-but-theyre-really-just-followers/",
+      "date": "2026-07-12T22:44:00Z"
+    },
+    {
+      "title": "Could AI Pay Americans $1 Million Each? New Think Tank Forecast Sparks Jim Chanos' SpaceX Jab: 'Seems Reasonable'",
       "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-seagate-technology-stx-strengthening-202429436.html",
-      "date": "2026-07-11T20:24:29Z"
+      "url": "https://finance.yahoo.com/technology/ai/articles/could-ai-pay-americans-1-223124890.html",
+      "date": "2026-07-12T22:31:24Z"
     },
     {
-      "title": "Is Expanding Its AI Data Center Cooling Platform Through the ThermoKey Acquisition",
+      "title": "Experts name 3 big-name ASX 200 shares to sell",
+      "source": "Motley Fool Australia",
+      "url": "https://www.fool.com.au/2026/07/13/experts-name-3-big-name-asx-200-shares-to-sell/",
+      "date": "2026-07-12T22:30:00Z"
+    },
+    {
+      "title": "Chaney Johnson’s Summer League surge deepens Nets’ battle at the 4",
+      "source": "New York Daily News",
+      "url": "https://www.nydailynews.com/2026/07/12/nets-chaney-johnson-summer-league-danny-wolf-jordi-fernandez/",
+      "date": "2026-07-12T22:13:00Z"
+    },
+    {
+      "title": "C2H4 Turns the G-SHOCK GA-2100 See-Through for Its Space Age Sequel",
+      "source": "The Gadgeteer",
+      "url": "https://the-gadgeteer.com/2026/07/12/c2h4-g-shock-ga-2100-vol-2/",
+      "date": "2026-07-12T22:00:15Z"
+    },
+    {
+      "title": "Gold’s worst quarter in 13 years tests the safe-haven trade",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/golds-worst-quarter-in-13-years-tests-the-safe-haven-trade/",
+      "date": "2026-07-12T22:00:00Z"
+    },
+    {
+      "title": "Pakistan scholar declares crypto impermissible under Sharia, impacting investors",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/pakistan-scholar-declares-crypto-impermissible-under-sharia-impacting-investors/",
+      "date": "2026-07-12T21:44:48Z"
+    },
+    {
+      "title": "Meet the players from famous families selected in 2026 MLB Draft, from Jim Thome's son to Barry Bonds' nephew",
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/us/mlb/news/players-families-2026-mlb-draft-jim-thome-barry-bonds/cbc4fe78938ba142c17c7bfe",
+      "date": "2026-07-12T21:34:41Z"
+    },
+    {
+      "title": "Is PayPal Stock a Bargain or a Value Trap?",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c7a4143829c1ca7b",
-      "date": "2026-07-11T20:20:11Z"
+      "url": "https://biztoc.com/x/1247f9e3dfdf39ec",
+      "date": "2026-07-12T21:32:23Z"
     },
     {
-      "title": "5 Top AI Stocks Investors Own on Robinhood",
+      "title": "OpenAI Applications Chief Fidji Simo Steps Down From Full-Time Role Over Chronic Illness Recovery, Says 'I Failed to Make This Decision Many Times Before'",
       "source": "Yahoo Entertainment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_69e3188d-47a4-482c-9200-f76e26d866c2",
-      "date": "2026-07-11T20:20:00Z"
+      "url": "https://finance.yahoo.com/technology/ai/articles/openai-applications-chief-fidji-simo-213109230.html",
+      "date": "2026-07-12T21:31:09Z"
     },
     {
-      "title": "Artificial Intelligence (AI) Stocks Have Crushed the Broader Market in 2026. Here Are 2 Top Stocks to Buy Before They Soar Higher This Earnings Season and Beyond",
+      "title": "Peter Schiff Says the Biggest Market Crash Will Not Start With Bitcoin, But Here",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1c13efbef770199c",
-      "date": "2026-07-11T20:19:55Z"
+      "url": "https://biztoc.com/x/6432e5f511dcd3d0",
+      "date": "2026-07-12T21:17:29Z"
     },
     {
-      "title": "Is Positioned to Benefit From Multi-Year AI Networking Demand Despite Elevated Expectations",
+      "title": "My little black book of Seoul's BEST beauty destinations - from cutting-edge clinics to the ultimate K-beauty shopping: POLISHED with Elise Wilson",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/lifestyle/beauty/article-15946363/best-seoul-beauty-clinics-k-beauty-shopping.html",
+      "date": "2026-07-12T21:13:41Z"
+    },
+    {
+      "title": "Dr. Reddy's Laboratories Flags Semaglutide Supply Delay, Says No Recall Risk",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/dr-reddys-laboratories-flags-semaglutide-supply-delay-says-no-recall-risk-2026-07-12/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-07-12T21:02:01Z"
+    },
+    {
+      "title": "Prediction: SpaceX Shares Can Reach $220 by End of 2026",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f9cf232966d128ef",
-      "date": "2026-07-11T20:19:34Z"
+      "url": "https://biztoc.com/x/e76f90cdda091ffd",
+      "date": "2026-07-12T21:01:59Z"
+    },
+    {
+      "title": "J.P. Morgan Called a Potential Elon Musk SpaceX-Tesla Merger \"Strategically Coherent\"",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/9fe61687f4d30704",
+      "date": "2026-07-12T21:01:49Z"
+    },
+    {
+      "title": "NBA Summer League is for sickos — good thing it’s in Las Vegas, where sickos of all sorts gather",
+      "source": "Mavs Moneyball",
+      "url": "https://www.mavsmoneyball.com/mavericks-features-profiles/60736/nba-summer-league-sickos-las-vegas-dallas-mavericks-morez-johnson-caleb-wilson-yaxel-lendeborg",
+      "date": "2026-07-12T20:49:05Z"
+    },
+    {
+      "title": "Ryuk Ransomware Member Pleads Guilty Over Attacks on U.S. Organizations",
+      "source": "Securityaffairs.com",
+      "url": "https://securityaffairs.com/195216/uncategorized/ryuk-ransomware-member-pleads-guilty-over-attacks-on-u-s-organizations.html",
+      "date": "2026-07-12T20:48:04Z"
     }
   ]
 }

@@ -4,192 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-07-18T23:49:22.456422"
+      "date": "2026-07-19T23:52:53.715542"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-07-18T23:49:22.456428"
+      "date": "2026-07-19T23:52:53.715549"
     }
   ],
   "bitcoin": {
-    "price": 64787,
-    "date": "2026-07-18T23:49:22.500530"
+    "price": 64637,
+    "date": "2026-07-19T23:52:53.762868"
   },
   "news": [
     {
-      "title": "Federal employees can download TikTok on government devices, DOJ says",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4bd78163d4fffccb",
-      "date": "2026-07-17T23:41:37Z"
+      "title": "SpaceX loses its IPO premium as larger supply test approaches",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/spacex-ipo-premium-lost-supply-test/",
+      "date": "2026-07-18T23:50:12Z"
     },
     {
-      "title": "Is AI now the main driver of China’s growth?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c21e89aefd750ffa",
-      "date": "2026-07-17T23:41:34Z"
-    },
-    {
-      "title": "Lagos pays N1bn pension to 648 retirees",
+      "title": "Petrol imports jump 207% as domestic supply weakens",
       "source": "The Punch",
-      "url": "https://punchng.com/lagos-pays-n1bn-pension-to-648-retirees/",
-      "date": "2026-07-17T23:40:56Z"
+      "url": "https://punchng.com/petrol-imports-jump-207-as-domestic-supply-weakens/",
+      "date": "2026-07-18T23:50:03Z"
     },
     {
-      "title": "T. Rowe Price Crypto ETF Gives BNB And Solana A New Institutional Wrapper",
-      "source": "Bitcoinist",
-      "url": "https://bitcoinist.com/t-rowe-price-crypto-etf-gives-bnb-and-solana-a-new-institutional-wrapper/",
-      "date": "2026-07-17T23:40:00Z"
+      "title": "Irish proverb of the day: ‘In each other’s shadow we flourish’ ; life lessons on importance of cooperation and having an emotional support system for success",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/irish-proverb-of-the-day-in-each-others-shadow-we-flourish-life-lessons-on-importance-of-cooperation-and-having-an-emotional-support-system-for-success/articleshow/132488701.cms",
+      "date": "2026-07-18T23:44:15Z"
     },
     {
-      "title": "Stock Looks About Right With 102% Returned",
+      "title": "SpaceX (SPCX) Loses Its IPO Premium as a Bigger Supply Test Looms",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-loses-ipo-premium-233457233.html",
+      "date": "2026-07-18T23:34:57Z"
+    },
+    {
+      "title": "tollbooth-dpyc 0.64.2",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/tollbooth-dpyc/0.64.2/",
+      "date": "2026-07-18T23:34:25Z"
+    },
+    {
+      "title": "How Much Will $500 in XRP Be Worth in 5 Years?",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/07/18/how-much-will-500-in-xrp-be-worth-in-5-years/",
+      "date": "2026-07-18T23:34:10Z"
+    },
+    {
+      "title": "faida-mcp 0.1.3",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/faida-mcp/0.1.3/",
+      "date": "2026-07-18T23:30:07Z"
+    },
+    {
+      "title": "If Interest Rates Climb, This Financial ETF Could Be a Big Winner",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/07/18/if-interest-rates-climb-this-financial-etf-could-be-a-big-winner/",
+      "date": "2026-07-18T23:24:51Z"
+    },
+    {
+      "title": "England’s 6-4 World Cup thriller over France puts crypto fan tokens back in the spotlight",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/england-france-world-cup-crypto-fan-tokens/",
+      "date": "2026-07-18T23:19:42Z"
+    },
+    {
+      "title": "Massive TSMC deal is huge stride for US in high-tech race",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/tsmc-tsm-arizona-265-billion-stock-drop-capex",
+      "date": "2026-07-18T23:03:00Z"
+    },
+    {
+      "title": "Michael Saylor opposes BIP 110, calls for Bitcoin neutrality over transaction filtering",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/saylor-opposes-bip-110-bitcoin-neutrality/",
+      "date": "2026-07-18T22:55:11Z"
+    },
+    {
+      "title": "Billionaire Investor Jeremy Grantham Calls Bitcoin a Useless, Speculative Asset. Here's Why He's Wrong",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4960018871afb867",
-      "date": "2026-07-17T23:28:44Z"
+      "url": "https://biztoc.com/x/a57dbea0bc6fb51d",
+      "date": "2026-07-18T22:44:31Z"
     },
     {
-      "title": "Stock Fair Value Falls As Analysts Weigh Growth Against Execution Risk",
+      "title": "Why I'm 80% Cash While Everyone's Busy Blaming Kimi K3",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/78d45a1a4c818256",
-      "date": "2026-07-17T23:28:29Z"
+      "url": "https://biztoc.com/x/c40abd78fff61a10",
+      "date": "2026-07-18T22:44:31Z"
     },
     {
-      "title": "Faces EU Order To Open Android And Search Data To AI Rivals",
+      "title": "Kevin Warsh reinforces inflation-first stance amid rising oil prices",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/kevin-warsh-inflation-first-fed-oil-crypto/",
+      "date": "2026-07-18T22:37:39Z"
+    },
+    {
+      "title": "Elizabeth Warren Grills Fed Chair Kevin Warsh Over Stanley Druckenmiller Ties: 'Who Gave You $100 Million?'",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/economy/policy/articles/elizabeth-warren-grills-fed-chair-223136189.html",
+      "date": "2026-07-18T22:31:36Z"
+    },
+    {
+      "title": "US Central Command launches airstrikes against Iranian targets as crypto markets feel the heat",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-airstrikes-iran-crypto-market-impact-3/",
+      "date": "2026-07-18T22:24:34Z"
+    },
+    {
+      "title": "Billionaire Investor Jeremy Grantham Calls Bitcoin a Useless, Speculative Asset. Here's Why He's Wrong.",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b3614e22-7718-4398-90ba-1c677adb38d5",
+      "date": "2026-07-18T22:20:00Z"
+    },
+    {
+      "title": "3 AI Stocks That Can Outperform Nvidia Next Year",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/0cd7d0b5ed1e67b2",
-      "date": "2026-07-17T23:28:20Z"
+      "url": "https://biztoc.com/x/c5507fdddaea6900",
+      "date": "2026-07-18T22:14:53Z"
     },
     {
-      "title": "Forget the Russell 2000. This Small-Cap ETF May Be the Smarter Buy",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f00cfdaba4a6ec54",
-      "date": "2026-07-17T23:26:13Z"
+      "title": "Samsung Electronics America cutting 739 jobs in New Jersey as tech layoffs keep rolling",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/samsung-america-739-job-cuts-new-jersey/",
+      "date": "2026-07-18T22:14:22Z"
     },
     {
-      "title": "STAAR Surgical, Globus Medical, Integer Holdings, and Enovis Stocks Trade Down, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/305c21192ca53745",
-      "date": "2026-07-17T23:13:53Z"
+      "title": "Warren Buffett warned investors to be careful, calling out gambling in markets and the cost of AI - Business Insider",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184505408",
+      "date": "2026-07-18T22:12:15Z"
     },
     {
-      "title": "Unity, The Trade Desk, and GoDaddy Stocks Trade Down, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1c61a7b6fde1c9eb",
-      "date": "2026-07-17T23:13:50Z"
+      "title": "Bitcoin ETFs likely to mirror gold’s 22-year ETF history, says Bloomberg Intelligence",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/bitcoin-etfs-mirror-gold-etf-history-bloomberg/",
+      "date": "2026-07-18T21:53:56Z"
     },
     {
-      "title": "Travelers Profit Soars 54%, Among 15 On Best Stock Lists",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e5bc3342bda16c86",
-      "date": "2026-07-17T23:11:15Z"
+      "title": "Bitmine is 507,000 ETH away from owning 5% of Ethereum’s entire supply",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/bitmine-507000-eth-five-percent-supply/",
+      "date": "2026-07-18T21:37:56Z"
     },
     {
-      "title": "Date Ideas for Every Love Language",
-      "source": "Dateyourspouse.com",
-      "url": "https://dateyourspouse.com/date-ideas-for-every-love-language/",
-      "date": "2026-07-17T23:10:54Z"
+      "title": "Stacks reaches 1.6M total wallets as Bitcoin DeFi ambitions grow",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/stacks-1-6-million-wallets-bitcoin-defi/",
+      "date": "2026-07-18T21:23:09Z"
     },
     {
-      "title": "Investors Pour $25B Into Semiconductor ETFs as DRAM Plunges 40%",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f30606c4b8a97100",
-      "date": "2026-07-17T22:58:44Z"
+      "title": "Could Count Binface actually win?",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4388490/posts",
+      "date": "2026-07-18T21:19:51Z"
     },
     {
-      "title": "Coty, Boston Beer, and Zevia Shares Skyrocket, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/09263e59ab35db08",
-      "date": "2026-07-17T22:58:32Z"
+      "title": "Trump’s billionaire envoy to Italy is on ‘coastal diplomacy’ tour with his super yacht, but it’s enraging people in Venice. ‘It’s gross’",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/18/trump-billionaire-ambassador-italy-tilman-fertitta-coastal-diplomacy-tour-super-yacht/",
+      "date": "2026-07-18T20:54:11Z"
     },
     {
-      "title": "3 Beaten-Down Stocks Built for Long-Term Passive Income",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b846284749b36004",
-      "date": "2026-07-17T22:58:19Z"
+      "title": "Coinbase CEO Brian Armstrong Tells Founders to Solve 'Hard Problems,' Not Chase 'Base Hits'",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/small-business/articles/coinbase-ceo-brian-armstrong-tells-203130586.html",
+      "date": "2026-07-18T20:31:30Z"
     },
     {
-      "title": "PagerDuty, Asure Software, and Pegasystems Stocks Trade Down, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e1acc6a8459e9fb2",
-      "date": "2026-07-17T22:43:19Z"
+      "title": "ASML sells 16 advanced EUV machines in Q2 as AI chip demand drives record results",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/asml-euv-machines-q2-ai-chip-demand/",
+      "date": "2026-07-18T20:25:06Z"
     },
     {
-      "title": "MongoDB, Flywire, and Marqeta Shares Plummet, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/78f422d95b7d0358",
-      "date": "2026-07-17T22:43:10Z"
+      "title": "tollbooth-dpyc 0.64.1",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/tollbooth-dpyc/0.64.1/",
+      "date": "2026-07-18T20:21:33Z"
     },
     {
-      "title": "4 takeaways from #WarrenBuffett's latest interview. #alphabet #investing #stocks #berkshirehathaway",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/68cf7dfbb4c07283",
-      "date": "2026-07-17T22:37:09Z"
+      "title": "Can You Really 'Smell' Electricity? Here's What Science Has To Say",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2215047/can-you-smell-electricity-explained/",
+      "date": "2026-07-18T20:17:00Z"
     },
     {
-      "title": "Christopher Nolan Explains the ‘Key’ to The Odyssey’s Ending",
-      "source": "Vulture",
-      "url": "http://www.vulture.com/article/christopher-nolan-explains-the-key-to-the-odysseys-ending.html",
-      "date": "2026-07-17T22:30:10Z"
-    },
-    {
-      "title": "NWSL MVP race: Who’s rising to the occasion? Seven frontrunners to consider",
-      "source": "Allforxi.com",
-      "url": "https://www.allforxi.com/nwsl/16280/nwsl-mvp-race-whos-rising-to-the-occasion-seven-frontrunners-to-consider",
-      "date": "2026-07-17T22:26:39Z"
-    },
-    {
-      "title": "Predictions For Bitcoin’s Price Bottom Roll In, Here Are The Most Notable Ones",
-      "source": "ZyCrypto",
-      "url": "https://zycrypto.com/predictions-for-bitcoins-price-bottom-roll-in-here-are-the-most-notable-ones/",
-      "date": "2026-07-17T22:20:18Z"
-    },
-    {
-      "title": "Obama Spots The Deep 'Hypocrisy' In JD Vance's Anti-Immigrant Rhetoric",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/obama-calls-out-jd-vances-hypocrisy-in-marrying-usha_n_6a5a547be4b042a7aac7b5a8",
-      "date": "2026-07-17T22:19:48Z"
-    },
-    {
-      "title": "8x8, DoubleVerify, and Upstart Shares Are Falling, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/767febe5fa62d3fa",
-      "date": "2026-07-17T22:12:22Z"
-    },
-    {
-      "title": "Paying for early access to Trump's Truth Social could raise big money - and major ethical issues",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Business/wireStory/paying-early-access-trumps-truth-social-raise-big-134862185",
-      "date": "2026-07-17T22:09:35Z"
-    },
-    {
-      "title": "Alleged baby killer, 21, gets brutal slap down from judge after her attorney moaned that her ankle monitor was 'like a ball and chain'",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15986159/Alleged-baby-killer-slap-judge-ankle-monitor.html",
-      "date": "2026-07-17T22:09:02Z"
-    },
-    {
-      "title": "Best ‘Good Morning America’ Book Club Historical Fiction Novels",
-      "source": "Womansworld.com",
-      "url": "https://www.womansworld.com/entertainment/books/best-good-morning-america-book-club-historical-fiction-novels#article",
-      "date": "2026-07-17T22:01:03Z"
-    },
-    {
-      "title": "He Bought the Tippy-Top",
-      "source": "Dailyreckoning.com",
-      "url": "https://dailyreckoning.com/he-bought-the-tippy-top/",
-      "date": "2026-07-17T22:00:36Z"
-    },
-    {
-      "title": "Japanese Whisky Fans, Rejoice—This Excellent Single Malt Got Its Age Statement Back",
-      "source": "Robb Report",
-      "url": "http://robbreport.com/food-drink/spirits/nikka-miyagikyo-single-malt-whisky-10-year-age-statement-1238473508/",
-      "date": "2026-07-17T22:00:00Z"
-    },
-    {
-      "title": "Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/80baaf5c20b7a2e7",
-      "date": "2026-07-17T21:56:48Z"
+      "title": "EU and Persian Gulf states pressure Iran to keep Strait of Hormuz open as crypto toll payments reshape sanctions landscape",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/eu-gulf-states-iran-strait-hormuz-crypto/",
+      "date": "2026-07-18T20:16:59Z"
     }
   ]
 }

@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-07-19T23:52:53.715542"
+      "date": "2026-07-20T23:53:37.426017"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-07-19T23:52:53.715549"
+      "date": "2026-07-20T23:53:37.426024"
     }
   ],
   "bitcoin": {
-    "price": 64637,
-    "date": "2026-07-19T23:52:53.762868"
+    "price": 65139,
+    "date": "2026-07-20T23:53:37.485341"
   },
   "news": [
     {
-      "title": "SpaceX loses its IPO premium as larger supply test approaches",
+      "title": "Cathie Wood sells $11.7 million of tumbling semiconductor stock",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b42f4fa4ebed769a",
+      "date": "2026-07-19T23:49:11Z"
+    },
+    {
+      "title": "World Cup final highlights crypto’s shrinking footprint in global sports",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/spacex-ipo-premium-lost-supply-test/",
-      "date": "2026-07-18T23:50:12Z"
+      "url": "https://cryptobriefing.com/world-cup-final-crypto-sports-absence/",
+      "date": "2026-07-19T23:45:58Z"
     },
     {
-      "title": "Petrol imports jump 207% as domestic supply weakens",
-      "source": "The Punch",
-      "url": "https://punchng.com/petrol-imports-jump-207-as-domestic-supply-weakens/",
-      "date": "2026-07-18T23:50:03Z"
+      "title": "Sister-in-law steals from relatives, refuses to return $90 DVD set until confronted by parents: 'Every time they come for dinner, something is missing'",
+      "source": "Cheezburger.com",
+      "url": "https://cheezburger.com/46133765/sister-in-law-steals-from-relatives-refuses-to-return-90-dvd-set-until-confronted-by-parents-every",
+      "date": "2026-07-19T23:45:00Z"
     },
     {
-      "title": "Irish proverb of the day: ‘In each other’s shadow we flourish’ ; life lessons on importance of cooperation and having an emotional support system for success",
+      "title": "US strikes reach Tabriz as crypto sanctions and military pressure tighten on Iran",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-strikes-tabriz-iran-crypto-sanctions-nobitex/",
+      "date": "2026-07-19T23:41:54Z"
+    },
+    {
+      "title": "Quick pharma startup Plazza to expand store network with $15 mn funding",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/start-ups/plazza-series-a-funding-15-million-quick-medicine-delivery-ai-pharmacy-11784468710378.html",
+      "date": "2026-07-19T23:30:45Z"
+    },
+    {
+      "title": "Explosions rock Iran’s Tabriz as crypto markets shrug off geopolitical tremors",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/explosions-tabriz-iran-bitcoin-crypto-markets/",
+      "date": "2026-07-19T23:27:41Z"
+    },
+    {
+      "title": "NYC business group opposes Kathy Hochul’s one-year data center ban",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/nyc-business-group-opposes-hochul-data-center-ban/",
+      "date": "2026-07-19T23:25:35Z"
+    },
+    {
+      "title": "Player grades: Thunder go 0-8 in Summer League with 108-90 loss to Nets",
+      "source": "USA Today",
+      "url": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/07/19/player-grades-thunder-go-0-8-in-summer-league-with-108-90-loss-to-nets/90976852007/",
+      "date": "2026-07-19T23:16:07Z"
+    },
+    {
+      "title": "TSMC drops $100B on Arizona expansion, bringing total US investment to $265B",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/tsmc-100b-arizona-investment-crypto-impact/",
+      "date": "2026-07-19T23:14:34Z"
+    },
+    {
+      "title": "Big Tech Needs to Justify AI Spending as Investors Dump Stocks...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-needs-justify-ai-130000854.html",
+      "date": "2026-07-19T23:00:22Z"
+    },
+    {
+      "title": "FIFA president and Trump present 2026 World Cup trophy to Spain at Trump Tower",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/fifa-trump-2026-world-cup-trophy-spain-crypto/",
+      "date": "2026-07-19T23:00:02Z"
+    },
+    {
+      "title": "What It Takes to Retire in Hawaii at 62 on $1.5 Million Without Touching Your Principal",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/07/19/what-it-takes-to-retire-in-hawaii-at-62-on-1-5-million-without-touching-your-principal/",
+      "date": "2026-07-19T22:55:43Z"
+    },
+    {
+      "title": "Expands With Lifepro Launch And Back To School Toy Push",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/77b75a4f48d4ee81",
+      "date": "2026-07-19T22:49:42Z"
+    },
+    {
+      "title": "IRGC claims surprise strike on US base in Syria, raising geopolitical risk for crypto markets",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/irgc-strike-syria-crypto-market-risk/",
+      "date": "2026-07-19T22:48:07Z"
+    },
+    {
+      "title": "How Korean stocks turned from trusty bellwether to AI frenzy",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a8ca648dbd64d388",
+      "date": "2026-07-19T22:34:55Z"
+    },
+    {
+      "title": "Oil Climbs as Middle East Conflict Escalates: Markets Wrap",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-climbs-as-middle-east-conflict-escalates-markets-wrap",
+      "date": "2026-07-19T22:33:06Z"
+    },
+    {
+      "title": "US military expansion against Iran rattles crypto markets as sanctions hit Iranian exchanges",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-iran-military-expansion-crypto-sanctions/",
+      "date": "2026-07-19T22:33:03Z"
+    },
+    {
+      "title": "Elon Musk Just Ditched His Clean‑Energy Image With a Billion‑Dollar Fossil‑Fuel Play",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/energy/articles/elon-musk-just-ditched-clean-223111846.html",
+      "date": "2026-07-19T22:31:11Z"
+    },
+    {
+      "title": "As Cult.fit prepares for IPO, questions on balance sheet health weigh",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/irish-proverb-of-the-day-in-each-others-shadow-we-flourish-life-lessons-on-importance-of-cooperation-and-having-an-emotional-support-system-for-success/articleshow/132488701.cms",
-      "date": "2026-07-18T23:44:15Z"
+      "url": "https://economictimes.indiatimes.com/prime/money-and-markets/as-cult-fit-prepares-for-ipo-questions-on-balance-sheet-health-weigh/primearticleshow/132497892.cms",
+      "date": "2026-07-19T22:30:00Z"
     },
     {
-      "title": "SpaceX (SPCX) Loses Its IPO Premium as a Bigger Supply Test Looms",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-loses-ipo-premium-233457233.html",
-      "date": "2026-07-18T23:34:57Z"
+      "title": "The Falklands, Johnny Infantino and an invisible man: A whirlwind review of the World Cup",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/07/19/fifa-world-cup-review-spain-champions-falklands-donald-trump-gianni-infantino-01004415",
+      "date": "2026-07-19T22:28:31Z"
     },
     {
-      "title": "tollbooth-dpyc 0.64.2",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/tollbooth-dpyc/0.64.2/",
-      "date": "2026-07-18T23:34:25Z"
+      "title": "Shedeur Sanders embraces 'superhero' role, both with youth camp as QB",
+      "source": "Akron Beacon Journal",
+      "url": "https://www.beaconjournal.com/story/sports/pro/browns/2026/07/19/shedeur-sanders-talks-youth-camp-browns-quarterback/90976357007/",
+      "date": "2026-07-19T22:20:49Z"
     },
     {
-      "title": "How Much Will $500 in XRP Be Worth in 5 Years?",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/07/18/how-much-will-500-in-xrp-be-worth-in-5-years/",
-      "date": "2026-07-18T23:34:10Z"
+      "title": "Show HN: Ticker-line.com – embeddable market sparkline SVGs",
+      "source": "Ticker-line.com",
+      "url": "https://ticker-line.com/",
+      "date": "2026-07-19T22:16:28Z"
     },
     {
-      "title": "faida-mcp 0.1.3",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/faida-mcp/0.1.3/",
-      "date": "2026-07-18T23:30:07Z"
+      "title": "Bettina Trump bonds with new sisters-in-law Ivanka, Tiffany and Lara at World Cup final",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/sport/football/article-15989153/bettina-trump-sisters-ivanka-lara-tiffany-world-cup-final.html",
+      "date": "2026-07-19T22:14:34Z"
     },
     {
-      "title": "If Interest Rates Climb, This Financial ETF Could Be a Big Winner",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/07/18/if-interest-rates-climb-this-financial-etf-could-be-a-big-winner/",
-      "date": "2026-07-18T23:24:51Z"
+      "title": "Stock market today: Live updates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/19/stock-market-today-live-updates.html",
+      "date": "2026-07-19T22:02:29Z"
     },
     {
-      "title": "England’s 6-4 World Cup thriller over France puts crypto fan tokens back in the spotlight",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/england-france-world-cup-crypto-fan-tokens/",
-      "date": "2026-07-18T23:19:42Z"
-    },
-    {
-      "title": "Massive TSMC deal is huge stride for US in high-tech race",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/tsmc-tsm-arizona-265-billion-stock-drop-capex",
-      "date": "2026-07-18T23:03:00Z"
-    },
-    {
-      "title": "Michael Saylor opposes BIP 110, calls for Bitcoin neutrality over transaction filtering",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/saylor-opposes-bip-110-bitcoin-neutrality/",
-      "date": "2026-07-18T22:55:11Z"
-    },
-    {
-      "title": "Billionaire Investor Jeremy Grantham Calls Bitcoin a Useless, Speculative Asset. Here's Why He's Wrong",
+      "title": "Saylor urges Bitcoin to reject BIP-110 in 110-point essay as soft fork’s August showdown approaches",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a57dbea0bc6fb51d",
-      "date": "2026-07-18T22:44:31Z"
+      "url": "https://biztoc.com/x/c8c2bb7e844116e5",
+      "date": "2026-07-19T22:02:24Z"
     },
     {
-      "title": "Why I'm 80% Cash While Everyone's Busy Blaming Kimi K3",
+      "title": "Jamie Dimon Says Anthropic’s Mythos Access Debate Is a Warning Sign for AI’s Future",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jamie-dimon-says-anthropic-mythos-220016082.html",
+      "date": "2026-07-19T22:00:16Z"
+    },
+    {
+      "title": "Prediction: These Will Be the 2 Best Nuclear Energy Stocks to Buy for the Next 5 Years",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c40abd78fff61a10",
-      "date": "2026-07-18T22:44:31Z"
+      "url": "https://biztoc.com/x/26947e821597f88e",
+      "date": "2026-07-19T21:48:23Z"
     },
     {
-      "title": "Kevin Warsh reinforces inflation-first stance amid rising oil prices",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/kevin-warsh-inflation-first-fed-oil-crypto/",
-      "date": "2026-07-18T22:37:39Z"
-    },
-    {
-      "title": "Elizabeth Warren Grills Fed Chair Kevin Warsh Over Stanley Druckenmiller Ties: 'Who Gave You $100 Million?'",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/economy/policy/articles/elizabeth-warren-grills-fed-chair-223136189.html",
-      "date": "2026-07-18T22:31:36Z"
-    },
-    {
-      "title": "US Central Command launches airstrikes against Iranian targets as crypto markets feel the heat",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-airstrikes-iran-crypto-market-impact-3/",
-      "date": "2026-07-18T22:24:34Z"
-    },
-    {
-      "title": "Billionaire Investor Jeremy Grantham Calls Bitcoin a Useless, Speculative Asset. Here's Why He's Wrong.",
-      "source": "Yahoo Entertainment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b3614e22-7718-4398-90ba-1c677adb38d5",
-      "date": "2026-07-18T22:20:00Z"
-    },
-    {
-      "title": "3 AI Stocks That Can Outperform Nvidia Next Year",
+      "title": "Soars as Geopolitical Tensions Fuel Natural Gas Rally",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c5507fdddaea6900",
-      "date": "2026-07-18T22:14:53Z"
+      "url": "https://biztoc.com/x/845df44e01acd5d7",
+      "date": "2026-07-19T21:33:19Z"
     },
     {
-      "title": "Samsung Electronics America cutting 739 jobs in New Jersey as tech layoffs keep rolling",
+      "title": "Three major export control bills advance in National Defense Authorization Act, threatening crypto mining chip supply",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/samsung-america-739-job-cuts-new-jersey/",
-      "date": "2026-07-18T22:14:22Z"
+      "url": "https://cryptobriefing.com/export-control-bills-ndaa-crypto-mining/",
+      "date": "2026-07-19T21:26:38Z"
     },
     {
-      "title": "Warren Buffett warned investors to be careful, calling out gambling in markets and the cost of AI - Business Insider",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184505408",
-      "date": "2026-07-18T22:12:15Z"
-    },
-    {
-      "title": "Bitcoin ETFs likely to mirror gold’s 22-year ETF history, says Bloomberg Intelligence",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bitcoin-etfs-mirror-gold-etf-history-bloomberg/",
-      "date": "2026-07-18T21:53:56Z"
-    },
-    {
-      "title": "Bitmine is 507,000 ETH away from owning 5% of Ethereum’s entire supply",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bitmine-507000-eth-five-percent-supply/",
-      "date": "2026-07-18T21:37:56Z"
-    },
-    {
-      "title": "Stacks reaches 1.6M total wallets as Bitcoin DeFi ambitions grow",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/stacks-1-6-million-wallets-bitcoin-defi/",
-      "date": "2026-07-18T21:23:09Z"
-    },
-    {
-      "title": "Could Count Binface actually win?",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4388490/posts",
-      "date": "2026-07-18T21:19:51Z"
-    },
-    {
-      "title": "Trump’s billionaire envoy to Italy is on ‘coastal diplomacy’ tour with his super yacht, but it’s enraging people in Venice. ‘It’s gross’",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/18/trump-billionaire-ambassador-italy-tilman-fertitta-coastal-diplomacy-tour-super-yacht/",
-      "date": "2026-07-18T20:54:11Z"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Tells Founders to Solve 'Hard Problems,' Not Chase 'Base Hits'",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/small-business/articles/coinbase-ceo-brian-armstrong-tells-203130586.html",
-      "date": "2026-07-18T20:31:30Z"
-    },
-    {
-      "title": "ASML sells 16 advanced EUV machines in Q2 as AI chip demand drives record results",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/asml-euv-machines-q2-ai-chip-demand/",
-      "date": "2026-07-18T20:25:06Z"
-    },
-    {
-      "title": "tollbooth-dpyc 0.64.1",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/tollbooth-dpyc/0.64.1/",
-      "date": "2026-07-18T20:21:33Z"
-    },
-    {
-      "title": "Can You Really 'Smell' Electricity? Here's What Science Has To Say",
-      "source": "BGR",
-      "url": "https://www.bgr.com/2215047/can-you-smell-electricity-explained/",
-      "date": "2026-07-18T20:17:00Z"
-    },
-    {
-      "title": "EU and Persian Gulf states pressure Iran to keep Strait of Hormuz open as crypto toll payments reshape sanctions landscape",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/eu-gulf-states-iran-strait-hormuz-crypto/",
-      "date": "2026-07-18T20:16:59Z"
+      "title": "Dodgers Shut Down Shohei Ohtani From Pitching, He Will Continue To Hit",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/barrymbloom/2026/07/19/dodgers-shut-down-shohei-ohtani-from-pitching-he-will-continue-to-hit/",
+      "date": "2026-07-19T21:23:26Z"
     }
   ]
 }

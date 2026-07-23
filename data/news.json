@@ -4,198 +4,192 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-07-22T23:58:23.617724"
+      "date": "2026-07-23T23:56:09.506817"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-07-22T23:58:23.617731"
+      "date": "2026-07-23T23:56:09.506825"
     }
   ],
   "bitcoin": {
-    "price": 66029,
-    "date": "2026-07-22T23:58:23.771703"
+    "price": 65049,
+    "date": "2026-07-23T23:56:09.549866"
   },
   "news": [
     {
-      "title": "Industrial sector drags NGX down 0.14%",
+      "title": "Oil firms pledge extra $23.8m in fierce bid contests",
       "source": "The Punch",
-      "url": "https://punchng.com/industrial-sector-drags-ngx-down-0-14/",
-      "date": "2026-07-21T23:54:35Z"
+      "url": "https://punchng.com/oil-firms-pledge-extra-23-8m-in-fierce-bid-contests/",
+      "date": "2026-07-22T23:40:44Z"
     },
     {
-      "title": "Is Hewlett Packard Enterprise (HPE) Undervalued Following Its Expanded GTT Partnership?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e8808ca7997c1aa0",
-      "date": "2026-07-21T23:33:34Z"
+      "title": "Chiefs unveil first renderings of new $3 billion domed stadium set to open in 2031",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/chiefs-unveil-first-renderings-3-232757740.html",
+      "date": "2026-07-22T23:27:57Z"
     },
     {
-      "title": "Chilean government’s sweeping reform bill advances in Congress",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/0fcce0e225093124",
-      "date": "2026-07-21T23:31:50Z"
-    },
-    {
-      "title": "NGX gains N307bn as market capitalisation rises to N159tn",
+      "title": "Climate action and Bonn’s message to Nigeria",
       "source": "The Punch",
-      "url": "https://punchng.com/?p=2196194",
-      "date": "2026-07-21T23:23:05Z"
+      "url": "https://punchng.com/climate-action-and-bonns-message-to-nigeria/",
+      "date": "2026-07-22T23:20:44Z"
     },
     {
-      "title": "Newly Public Memory-Chip Maker SK Hynix Soars Nearly 14%, Leads 18 To Today's Best Stock Lists",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5ef405ace2068fe6",
-      "date": "2026-07-21T23:16:28Z"
+      "title": "House Approves Weakened Stock Trading Ban",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/393324/house-approves-weakened-stock-trading-ban.html",
+      "date": "2026-07-22T23:15:00Z"
     },
     {
-      "title": "Purpose Investments Becomes First Digital Asset ETF Manager in Canada to Operate a Three-Sub-Custodian Model, Adding Anchorage Digital Bank",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/purpose-investments-becomes-first-digital-asset-etf-manager-in-canada-to-operate-a-three-sub-custodian-model-adding-anchorage-digital-bank",
-      "date": "2026-07-21T23:08:57Z"
+      "title": "House approves bill restricting lawmakers’ ability to purchase and sell stocks - Politico",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184590312",
+      "date": "2026-07-22T23:12:47Z"
     },
     {
-      "title": "Purpose Investments Becomes First Digital Asset ETF Manager in Canada to Operate a Three-Sub-Custodian Model, Adding Anchorage Digital Bank",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/07/21/3331032/0/en/Purpose-Investments-Becomes-First-Digital-Asset-ETF-Manager-in-Canada-to-Operate-a-Three-Sub-Custodian-Model-Adding-Anchorage-Digital-Bank.html",
-      "date": "2026-07-21T23:06:00Z"
-    },
-    {
-      "title": "Canada cancels joint bridge celebration with US, citing Trump trade threats",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7a4e379a62a67d71",
-      "date": "2026-07-21T23:01:01Z"
-    },
-    {
-      "title": "2 ASX shares with dividend yields above 8%",
+      "title": "3 shares with above-average dividend yields to supplement your superannuation",
       "source": "Motley Fool Australia",
-      "url": "https://www.fool.com.au/2026/07/22/2-asx-shares-with-dividend-yields-above-8-10/",
-      "date": "2026-07-21T23:00:00Z"
+      "url": "https://www.fool.com.au/2026/07/23/3-shares-with-above-average-dividend-yields-to-supplement-your-superannuation/",
+      "date": "2026-07-22T23:08:02Z"
     },
     {
-      "title": "5 Epic Greek Mythology Games You Should Play After Seeing The Odyssey",
-      "source": "ComicBook.com",
-      "url": "http://comicbook.com/gaming/list/5-epic-greek-mythology-games-you-should-play-after-seeing-the-odyssey/",
-      "date": "2026-07-21T23:00:00Z"
+      "title": "Nvidia's Jensen Huang defends Chinese AI: \"Open-source models that are excellent should be used\"",
+      "source": "TechSpot",
+      "url": "https://www.techspot.com/news/113210-nvidia-jensen-huang-defends-chinese-ai-open-source.html",
+      "date": "2026-07-22T23:06:00Z"
     },
     {
-      "title": "Digital Chamber sues to block Illinois’ digital asset tax before 2027 launch",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/digital-chamber-sues-to-block-illinois-digital-asset-tax-before-2027-launch/",
-      "date": "2026-07-21T22:48:32Z"
+      "title": "After crashing 10% on results, is this ASX defence stock a buy, hold or sell?",
+      "source": "Motley Fool Australia",
+      "url": "https://www.fool.com.au/2026/07/23/after-crashing-10-on-results-is-this-asx-defence-stock-a-buy-hold-or-sell/",
+      "date": "2026-07-22T23:03:58Z"
     },
     {
-      "title": "Jamie Dimon's Latest Warning Sends Shockwaves Through Wall Street. History Is Very Clear About What Happens Next",
+      "title": "What Surging Bond Yields Mean for Consumers and Markets",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/10b1456c5d59e258",
-      "date": "2026-07-21T22:48:24Z"
+      "url": "https://biztoc.com/x/86823b4b9f87f519",
+      "date": "2026-07-22T23:02:20Z"
     },
     {
-      "title": "Asian Stocks Set for Gains as Chipmakers Rebound: Markets Wrap",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-set-for-gains-as-chipmakers-rebound-markets-wrap",
-      "date": "2026-07-21T22:34:26Z"
+      "title": "Why Constellation Energy Stock Blasted Higher on Wednesday",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6fb6025310ac42ea",
+      "date": "2026-07-22T23:01:21Z"
     },
     {
-      "title": "DIRTcar returns Wednesday to Airbrone",
-      "source": "Pressrepublican.com",
-      "url": "https://www.pressrepublican.com/sports/dirtcar-returns-wednesday-to-airbrone/article_1125251b-214a-48ff-8d15-27a23817a12d.html",
-      "date": "2026-07-21T22:34:00Z"
-    },
-    {
-      "title": "Jim Cramer says this old-school investing concept still wins — even in the AI boom",
+      "title": "Cramer's lightning round: 'I am going to steer clear' of IonQ",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/21/jim-cramer-investing-concept-wins-ai-boom.html",
-      "date": "2026-07-21T22:30:22Z"
+      "url": "https://www.cnbc.com/2026/07/22/cramers-lightning-round-i-am-going-to-steer-clear-of-ionq.html",
+      "date": "2026-07-22T22:55:01Z"
     },
     {
-      "title": "Is Bitcoin finally becoming digital gold equivalent?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/prime/money-and-markets/is-bitcoin-finally-becoming-digital-gold-equivalent/primearticleshow/132534620.cms",
-      "date": "2026-07-21T22:30:00Z"
+      "title": "Show HN: I ran 12 AI bots predicting stocks for two months, every call public",
+      "source": "Ldbd.app",
+      "url": "https://ldbd.app",
+      "date": "2026-07-22T22:35:21Z"
     },
     {
-      "title": "Here is how much Bitcoin you actually need to get rich like Warren Buffett or Elon Musk",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7205951ab77e5b68",
-      "date": "2026-07-21T22:18:36Z"
-    },
-    {
-      "title": "Redbud 400 tops busy weekend in Indy",
-      "source": "The Herald Bulletin",
-      "url": "https://www.heraldbulletin.com/opinion/columns/redbud-400-tops-busy-weekend-in-indy/article_a05d9026-a59c-45ed-bc64-cdd8ece90396.html",
-      "date": "2026-07-21T22:17:00Z"
-    },
-    {
-      "title": "Trump’s China Threats Don’t Match His China Policy",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/07/21/china-trump-election-interference-2020-republicans/",
-      "date": "2026-07-21T22:16:18Z"
-    },
-    {
-      "title": "Jim Cramer Says Stop Betting on Volatile Tech Stocks and Buy These “Boring” Sectors Instead",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/cd135d79dc7220ba",
-      "date": "2026-07-21T22:15:41Z"
-    },
-    {
-      "title": "At the Art + Tech Summit, Christie’s Pins Its Future on AI Billionaires Who Aren’t Buying Art… Yet",
-      "source": "ARTnews",
-      "url": "https://www.artnews.com/art-news/market/christies-art-tech-summit-2026-ai-wealth-art-market-1234793113/",
-      "date": "2026-07-21T22:09:50Z"
-    },
-    {
-      "title": "BlackRock CEO Bullish on Bitcoin as Leverage Cleanup Improves Crypto Structure",
-      "source": "ZyCrypto",
-      "url": "https://zycrypto.com/blackrock-ceo-bullish-on-bitcoin-as-leverage-cleanup-improves-crypto-structure/",
-      "date": "2026-07-21T22:08:26Z"
-    },
-    {
-      "title": "Streeting signals Labour will finally get serious about defence spending",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15994989/Streeting-Labour-defence-spending.html",
-      "date": "2026-07-21T21:59:46Z"
-    },
-    {
-      "title": "Live: ASX to rise as oil prices hit five-week high, Wall Street tech stocks rebound",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-22/asx-markets-business-live-news-july-22/106942906",
-      "date": "2026-07-21T21:54:55Z"
-    },
-    {
-      "title": "Stocks rise despite climbing oil prices",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/stocks-rise-despite-climbing-oil-prices-6269191",
-      "date": "2026-07-21T21:53:56Z"
-    },
-    {
-      "title": "Q1 Rundown: Genesco (NYSE:GCO) Vs Other Consumer Discretionary - Footwear Stocks",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6d45d228f8bcaeed",
-      "date": "2026-07-21T21:48:16Z"
-    },
-    {
-      "title": "Veteran strategist sends strong warning on semiconductor stocks",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/0d8a7e1824a1742c",
-      "date": "2026-07-21T21:45:54Z"
-    },
-    {
-      "title": "The Oil Market Is Much More Vulnerable Than Trump Believes",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/07/21/iran-war-oil-markets-crude-prices-hormuz-strait-reserves-houthi-blockade-united-states-saudi-arabia/",
-      "date": "2026-07-21T21:45:54Z"
-    },
-    {
-      "title": "Ionic Digital Provides Financial Outlook",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/07/21/3331017/0/en/Ionic-Digital-Provides-Financial-Outlook.html",
-      "date": "2026-07-21T21:41:00Z"
-    },
-    {
-      "title": "Moody’s Lifts Argentina Debt Rating in Fresh Boost to Milei",
+      "title": "US Stock Futures Slip on Alphabet, Oil Advances: Markets Wrap",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/moodys-lifts-argentina-debt-rating-in-fresh-boost-to-milei",
-      "date": "2026-07-21T21:38:51Z"
+      "url": "https://financialpost.com/pmn/business-pmn/us-stock-futures-slip-on-alphabet-oil-advances-markets-wrap",
+      "date": "2026-07-22T22:33:04Z"
+    },
+    {
+      "title": "13 Dems Help House GOP Pass Stock Trading Ban That Includes Trump Attack on Voters",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/news/trump-voter-id",
+      "date": "2026-07-22T22:32:03Z"
+    },
+    {
+      "title": "Stock Market Today, July 22: Nasdaq Slides Prior to Tesla and Alphabet's Earnings After Market Close",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c193fc6e31ba9d30",
+      "date": "2026-07-22T22:31:48Z"
+    },
+    {
+      "title": "5 Fighting Game Secret Characters Who Were Impossible To Unlock Before the Internet",
+      "source": "ComicBook.com",
+      "url": "http://comicbook.com/gaming/list/5-fighting-game-secret-characters-who-were-impossible-to-unlock-before-the-internet/",
+      "date": "2026-07-22T22:30:00Z"
+    },
+    {
+      "title": "“Shortchanged ahead of IPO”, ex-Juniper CEO seeks INR365-cr compensation",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/prime/corporate-governance/shortchanged-ahead-of-ipo-ex-juniper-ceo-seeks-inr365-cr-compensation/primearticleshow/132558651.cms",
+      "date": "2026-07-22T22:30:00Z"
+    },
+    {
+      "title": "Here's how Jim Cramer says to approach the earnings season's 'ball of confusion'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/22/jim-cramer-approach-earnings-season.html",
+      "date": "2026-07-22T22:24:43Z"
+    },
+    {
+      "title": "Kinder Morgan Q2 Earnings Call Highlights",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a0fbd3e22896b5fb",
+      "date": "2026-07-22T22:16:55Z"
+    },
+    {
+      "title": "Analyst who called Bitcoin's drop from $100,000 to $75,000 now sees $50,000 as the next stop",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/663f479b90392889",
+      "date": "2026-07-22T22:16:51Z"
+    },
+    {
+      "title": "Former Diddy Security Chief Describes 'Smirk' When Rapper Asked About Sarah Ferguson – 'I Think It's a Notch Under His Belt'",
+      "source": "Radaronline.com",
+      "url": "https://radaronline.com/p/diddy-security-describes-smirk-sarah-ferguson/",
+      "date": "2026-07-22T22:02:47Z"
+    },
+    {
+      "title": "All Blacks tour: The bolter Dave Rennie could add for trip to South Africa",
+      "source": "New Zealand Herald",
+      "url": "https://www.nzherald.co.nz/sport/rugby/all-blacks/all-blacks-tour-the-bolter-dave-rennie-could-add-for-trip-to-south-africa/CFLBCQMMEJFEVFGWHNCZQSKNCE/",
+      "date": "2026-07-22T22:01:00Z"
+    },
+    {
+      "title": "Everybody Hates This Commodity",
+      "source": "Dailyreckoning.com",
+      "url": "https://dailyreckoning.com/everybody-hates-this-commodity/",
+      "date": "2026-07-22T22:00:16Z"
+    },
+    {
+      "title": "The Role of Goldman Sachs in Engineering Global Financial Crises",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/the-role-of-goldman-sachs-in-engineering-global-financial-crises/",
+      "date": "2026-07-22T22:00:00Z"
+    },
+    {
+      "title": "House passes Pentagon funding and limits on stock trades in a last dash before recess",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation",
+      "date": "2026-07-22T21:51:19Z"
+    },
+    {
+      "title": "Victor Wembanyama’s status for FIBA qualifiers revealed ahead of 2026–27 NBA season",
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/us/nba/san-antonio-spurs/news/wembanyama-status-fiba-qualifiers-france/c1f3e6ee4764f1022228b21f",
+      "date": "2026-07-22T21:50:25Z"
+    },
+    {
+      "title": "House votes to limit stock trading by members of Congress, elevating a campaign issue",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/4e12302d200a2c35",
+      "date": "2026-07-22T21:46:38Z"
+    },
+    {
+      "title": "Oil prices surge past $95 as US-Iran strikes intensify",
+      "source": "The Punch",
+      "url": "https://punchng.com/oil-prices-surge-past-95-as-us-iran-strikes-intensify/",
+      "date": "2026-07-22T21:36:49Z"
+    },
+    {
+      "title": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/87516689df370f96",
+      "date": "2026-07-22T21:31:18Z"
     }
   ]
 }

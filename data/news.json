@@ -4,192 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-07-23T23:56:09.506817"
+      "date": "2026-07-24T23:58:52.089054"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-07-23T23:56:09.506825"
+      "date": "2026-07-24T23:58:52.089061"
     }
   ],
   "bitcoin": {
-    "price": 65049,
-    "date": "2026-07-23T23:56:09.549866"
+    "price": 64092,
+    "date": "2026-07-24T23:58:52.135257"
   },
   "news": [
     {
-      "title": "Oil firms pledge extra $23.8m in fierce bid contests",
+      "title": "Fishing ban considered as NSW South Coast abalone populations depleted",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-24/abalone-crisis-nsw-south-coast/106943044",
+      "date": "2026-07-23T23:54:47Z"
+    },
+    {
+      "title": "Pelican Acquisition II prices 7.5M unit IPO at $10 per unit",
+      "source": "Thefly.com",
+      "url": "https://www.thefly.com/PLCI",
+      "date": "2026-07-23T23:43:47Z"
+    },
+    {
+      "title": "Cathie Wood buys $8.7 million of beaten-down AI stock",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d71821930c6368f8",
+      "date": "2026-07-23T23:36:36Z"
+    },
+    {
+      "title": "‘Domestic investors now control 80% of stock market’",
       "source": "The Punch",
-      "url": "https://punchng.com/oil-firms-pledge-extra-23-8m-in-fierce-bid-contests/",
-      "date": "2026-07-22T23:40:44Z"
+      "url": "https://punchng.com/domestic-investors-now-control-80-of-stock-market/",
+      "date": "2026-07-23T23:22:25Z"
     },
     {
-      "title": "Chiefs unveil first renderings of new $3 billion domed stadium set to open in 2031",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/chiefs-unveil-first-renderings-3-232757740.html",
-      "date": "2026-07-22T23:27:57Z"
-    },
-    {
-      "title": "Climate action and Bonn’s message to Nigeria",
+      "title": "Fintech targets one million new pension users by 2026",
       "source": "The Punch",
-      "url": "https://punchng.com/climate-action-and-bonns-message-to-nigeria/",
-      "date": "2026-07-22T23:20:44Z"
+      "url": "https://punchng.com/fintech-targets-one-million-new-pension-users-by-2026/",
+      "date": "2026-07-23T23:22:25Z"
     },
     {
-      "title": "House Approves Weakened Stock Trading Ban",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/393324/house-approves-weakened-stock-trading-ban.html",
-      "date": "2026-07-22T23:15:00Z"
-    },
-    {
-      "title": "House approves bill restricting lawmakers’ ability to purchase and sell stocks - Politico",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184590312",
-      "date": "2026-07-22T23:12:47Z"
-    },
-    {
-      "title": "3 shares with above-average dividend yields to supplement your superannuation",
-      "source": "Motley Fool Australia",
-      "url": "https://www.fool.com.au/2026/07/23/3-shares-with-above-average-dividend-yields-to-supplement-your-superannuation/",
-      "date": "2026-07-22T23:08:02Z"
-    },
-    {
-      "title": "Nvidia's Jensen Huang defends Chinese AI: \"Open-source models that are excellent should be used\"",
-      "source": "TechSpot",
-      "url": "https://www.techspot.com/news/113210-nvidia-jensen-huang-defends-chinese-ai-open-source.html",
-      "date": "2026-07-22T23:06:00Z"
-    },
-    {
-      "title": "After crashing 10% on results, is this ASX defence stock a buy, hold or sell?",
-      "source": "Motley Fool Australia",
-      "url": "https://www.fool.com.au/2026/07/23/after-crashing-10-on-results-is-this-asx-defence-stock-a-buy-hold-or-sell/",
-      "date": "2026-07-22T23:03:58Z"
-    },
-    {
-      "title": "What Surging Bond Yields Mean for Consumers and Markets",
+      "title": "Morgan Stanley sends strong verdict on memory stocks",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/86823b4b9f87f519",
-      "date": "2026-07-22T23:02:20Z"
+      "url": "https://biztoc.com/x/28a62c9674690def",
+      "date": "2026-07-23T23:22:01Z"
     },
     {
-      "title": "Why Constellation Energy Stock Blasted Higher on Wednesday",
+      "title": "The Nasdaq Drops 1.5% and the 'Doom Posts Start Flooding in,' Says one Investor. Asks, When Will People L",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6fb6025310ac42ea",
-      "date": "2026-07-22T23:01:21Z"
+      "url": "https://biztoc.com/x/585af2a2939b7523",
+      "date": "2026-07-23T23:21:44Z"
     },
     {
-      "title": "Cramer's lightning round: 'I am going to steer clear' of IonQ",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/22/cramers-lightning-round-i-am-going-to-steer-clear-of-ionq.html",
-      "date": "2026-07-22T22:55:01Z"
+      "title": "Research on middle-class household finances found two possessions people call assets often function as liabilities: for homeowners under 30, a house was worth 3.5 times their entire net worth on avera",
+      "source": "Artfulparent.com",
+      "url": "https://artfulparent.com/g-research-on-middle-class-household-finances-found-two-possessions-people-call-assets-often-function-as-liabilities-for-homeowners-under-30-a-house-was-worth-3-5-times-their-entire-net-worth-on-avera/",
+      "date": "2026-07-23T23:14:15Z"
     },
     {
-      "title": "Show HN: I ran 12 AI bots predicting stocks for two months, every call public",
-      "source": "Ldbd.app",
-      "url": "https://ldbd.app",
-      "date": "2026-07-22T22:35:21Z"
+      "title": "vercre added to PyPI",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/vercre/",
+      "date": "2026-07-23T23:13:23Z"
     },
     {
-      "title": "US Stock Futures Slip on Alphabet, Oil Advances: Markets Wrap",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/us-stock-futures-slip-on-alphabet-oil-advances-markets-wrap",
-      "date": "2026-07-22T22:33:04Z"
-    },
-    {
-      "title": "13 Dems Help House GOP Pass Stock Trading Ban That Includes Trump Attack on Voters",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/news/trump-voter-id",
-      "date": "2026-07-22T22:32:03Z"
-    },
-    {
-      "title": "Stock Market Today, July 22: Nasdaq Slides Prior to Tesla and Alphabet's Earnings After Market Close",
+      "title": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c193fc6e31ba9d30",
-      "date": "2026-07-22T22:31:48Z"
+      "url": "https://biztoc.com/x/85ffef00155a2810",
+      "date": "2026-07-23T23:06:42Z"
     },
     {
-      "title": "5 Fighting Game Secret Characters Who Were Impossible To Unlock Before the Internet",
-      "source": "ComicBook.com",
-      "url": "http://comicbook.com/gaming/list/5-fighting-game-secret-characters-who-were-impossible-to-unlock-before-the-internet/",
-      "date": "2026-07-22T22:30:00Z"
+      "title": "Mexico to see no change from new US tariffs, economy minister says",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/86df06d4ad61f38e",
+      "date": "2026-07-23T23:06:26Z"
     },
     {
-      "title": "“Shortchanged ahead of IPO”, ex-Juniper CEO seeks INR365-cr compensation",
+      "title": "The Next AI Winners May Not Be the Magnificent Seven: 3 Mid-Cap ETFs to Watch",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2ced428ee310c4d8",
+      "date": "2026-07-23T22:51:44Z"
+    },
+    {
+      "title": "Indonesia’s new crypto rules end influencer era with $30K bill",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/indonesias-new-crypto-rules-end-influencer-era-with-30k-bill/",
+      "date": "2026-07-23T22:48:06Z"
+    },
+    {
+      "title": "Oil Prices Top $100 On Cargo Squeeze From The Middle East",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/gauravsharma/2026/07/23/oil-prices-top-100-on-cargo-squeeze-from-the-middle-east/",
+      "date": "2026-07-23T22:40:46Z"
+    },
+    {
+      "title": "Crypto Market Today, July 23: Bitcoin Slides as Odds of Passing Clarity Act Fall",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6dd2e4e725a15d25",
+      "date": "2026-07-23T22:39:30Z"
+    },
+    {
+      "title": "What Jimothy the Raccoon Reveals About Our Need for Nature",
+      "source": "Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/move-the-body-heal-the-mind/202607/what-jimothy-the-raccoon-reveals-about-our-need-for-nature",
+      "date": "2026-07-23T22:38:00Z"
+    },
+    {
+      "title": "Oil spikes, stocks fall on Iran and AI fears",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/751d1da27be8e661",
+      "date": "2026-07-23T22:36:57Z"
+    },
+    {
+      "title": "As the S&P 500 sells off, traders eye key 'risk pivot' level",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/ff567dbe7017134e",
+      "date": "2026-07-23T22:36:33Z"
+    },
+    {
+      "title": "Stocks Hit by AI & War Jitters | The Close 7/23/2026",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/139ff4b7a4f0a84b",
+      "date": "2026-07-23T22:32:08Z"
+    },
+    {
+      "title": "Adani wants to run airlines, but IndiGo isn't liking it",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/prime/corporate-governance/shortchanged-ahead-of-ipo-ex-juniper-ceo-seeks-inr365-cr-compensation/primearticleshow/132558651.cms",
-      "date": "2026-07-22T22:30:00Z"
+      "url": "https://economictimes.indiatimes.com/prime/transportation/adani-wants-to-run-airlines-but-indigo-isnt-liking-it/primearticleshow/132589957.cms",
+      "date": "2026-07-23T22:30:00Z"
     },
     {
-      "title": "Here's how Jim Cramer says to approach the earnings season's 'ball of confusion'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/22/jim-cramer-approach-earnings-season.html",
-      "date": "2026-07-22T22:24:43Z"
+      "title": "The 5 Stages From Operator to Owner",
+      "source": "Ducttapemarketing.com",
+      "url": "https://ducttapemarketing.com/5-stages-from-operator-to-owner/",
+      "date": "2026-07-23T22:25:58Z"
     },
     {
-      "title": "Kinder Morgan Q2 Earnings Call Highlights",
+      "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-set-to-fall-as-oil-surges-past-100-markets-wrap",
+      "date": "2026-07-23T22:25:19Z"
+    },
+    {
+      "title": "US warns against excessive yen volatility, calls for BOJ rate hikes",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a0fbd3e22896b5fb",
-      "date": "2026-07-22T22:16:55Z"
+      "url": "https://biztoc.com/x/d526ef0e6e701787",
+      "date": "2026-07-23T22:22:12Z"
     },
     {
-      "title": "Analyst who called Bitcoin's drop from $100,000 to $75,000 now sees $50,000 as the next stop",
+      "title": "AI Chip Stocks Just Got Crushed. 3 Semiconductor ETFs to Buy the Dip On",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/663f479b90392889",
-      "date": "2026-07-22T22:16:51Z"
+      "url": "https://biztoc.com/x/1c7050807eb56567",
+      "date": "2026-07-23T22:21:36Z"
     },
     {
-      "title": "Former Diddy Security Chief Describes 'Smirk' When Rapper Asked About Sarah Ferguson – 'I Think It's a Notch Under His Belt'",
-      "source": "Radaronline.com",
-      "url": "https://radaronline.com/p/diddy-security-describes-smirk-sarah-ferguson/",
-      "date": "2026-07-22T22:02:47Z"
+      "title": "U.S. imposes tariffs tied to forced labor on top 60 trade partners",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/39ddc851aed93177",
+      "date": "2026-07-23T22:21:27Z"
     },
     {
-      "title": "All Blacks tour: The bolter Dave Rennie could add for trip to South Africa",
-      "source": "New Zealand Herald",
-      "url": "https://www.nzherald.co.nz/sport/rugby/all-blacks/all-blacks-tour-the-bolter-dave-rennie-could-add-for-trip-to-south-africa/CFLBCQMMEJFEVFGWHNCZQSKNCE/",
-      "date": "2026-07-22T22:01:00Z"
+      "title": "OpenAI's new release turns a bad week ugly for software stocks",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a4ec269055675a5a",
+      "date": "2026-07-23T22:21:23Z"
     },
     {
-      "title": "Everybody Hates This Commodity",
+      "title": "Asian stocks set to fall as oil prices surge past $100",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/asian-stocks-set-to-fall-as-oil-prices-surge-past-100/",
+      "date": "2026-07-23T22:19:00Z"
+    },
+    {
+      "title": "OpenAI's new release turns a bad week ugly for software stocks",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/openai-release-turns-a-bad-week-ugly-for-software-stocks-2026-7#article",
+      "date": "2026-07-23T22:14:12Z"
+    },
+    {
+      "title": "How Iran Gained the Upper Hand",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/07/23/iran-us-israel-war-hormuz-trump-options/",
+      "date": "2026-07-23T22:02:22Z"
+    },
+    {
+      "title": "Battle of the Straits",
       "source": "Dailyreckoning.com",
-      "url": "https://dailyreckoning.com/everybody-hates-this-commodity/",
-      "date": "2026-07-22T22:00:16Z"
-    },
-    {
-      "title": "The Role of Goldman Sachs in Engineering Global Financial Crises",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/the-role-of-goldman-sachs-in-engineering-global-financial-crises/",
-      "date": "2026-07-22T22:00:00Z"
-    },
-    {
-      "title": "House passes Pentagon funding and limits on stock trades in a last dash before recess",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5903130/house-vote-iran-war-funding-reconciliation",
-      "date": "2026-07-22T21:51:19Z"
-    },
-    {
-      "title": "Victor Wembanyama’s status for FIBA qualifiers revealed ahead of 2026–27 NBA season",
-      "source": "Sporting News",
-      "url": "https://www.sportingnews.com/us/nba/san-antonio-spurs/news/wembanyama-status-fiba-qualifiers-france/c1f3e6ee4764f1022228b21f",
-      "date": "2026-07-22T21:50:25Z"
-    },
-    {
-      "title": "House votes to limit stock trading by members of Congress, elevating a campaign issue",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4e12302d200a2c35",
-      "date": "2026-07-22T21:46:38Z"
-    },
-    {
-      "title": "Oil prices surge past $95 as US-Iran strikes intensify",
-      "source": "The Punch",
-      "url": "https://punchng.com/oil-prices-surge-past-95-as-us-iran-strikes-intensify/",
-      "date": "2026-07-22T21:36:49Z"
-    },
-    {
-      "title": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/87516689df370f96",
-      "date": "2026-07-22T21:31:18Z"
+      "url": "https://dailyreckoning.com/battle-of-the-straits/",
+      "date": "2026-07-23T22:00:06Z"
     }
   ]
 }

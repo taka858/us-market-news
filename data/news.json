@@ -4,198 +4,186 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-07-24T23:58:52.089054"
+      "date": "2026-07-25T23:55:57.721868"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-07-24T23:58:52.089061"
+      "date": "2026-07-25T23:55:57.721876"
     }
   ],
   "bitcoin": {
-    "price": 64092,
-    "date": "2026-07-24T23:58:52.135257"
+    "price": 64314,
+    "date": "2026-07-25T23:55:57.786121"
   },
   "news": [
     {
-      "title": "Fishing ban considered as NSW South Coast abalone populations depleted",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-24/abalone-crisis-nsw-south-coast/106943044",
-      "date": "2026-07-23T23:54:47Z"
+      "title": "WATCH: Dramatic rescue after seaplane crashes, bursts into flames",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/video/135069137/",
+      "date": "2026-07-24T23:54:06Z"
     },
     {
-      "title": "Pelican Acquisition II prices 7.5M unit IPO at $10 per unit",
+      "title": "Rising oil prices and Treasury yields threaten to derail the stock and crypto rally",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/oil-prices-yields-threaten-stock-crypto-rally/",
+      "date": "2026-07-24T23:54:01Z"
+    },
+    {
+      "title": "Sino-Global Shipping America trading halted, news pending",
       "source": "Thefly.com",
-      "url": "https://www.thefly.com/PLCI",
-      "date": "2026-07-23T23:43:47Z"
+      "url": "https://www.thefly.com/SGLY",
+      "date": "2026-07-24T23:50:01Z"
     },
     {
-      "title": "Cathie Wood buys $8.7 million of beaten-down AI stock",
+      "title": "Paramount-WBD Merger Opponents Cheer Legal Delay, Stocks Slide As Industry Absorbs Latest Plot Twist",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/07/paramount-wbd-merger-antitrust-lawsuit-delay-reactions-1237003045/",
+      "date": "2026-07-24T23:35:46Z"
+    },
+    {
+      "title": "Free & Single Mary Jane Watson Gets Her Friendly Neighborhood Comic",
+      "source": "Bleeding Cool News",
+      "url": "https://bleedingcool.com/comics/free-single-mary-jane-watson-gets-her-friendly-neighborhood-comic/",
+      "date": "2026-07-24T23:34:11Z"
+    },
+    {
+      "title": "Can Europe avoid a recession?",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d71821930c6368f8",
-      "date": "2026-07-23T23:36:36Z"
+      "url": "https://biztoc.com/x/68e6a56673542ad3",
+      "date": "2026-07-24T23:29:12Z"
     },
     {
-      "title": "‘Domestic investors now control 80% of stock market’",
-      "source": "The Punch",
-      "url": "https://punchng.com/domestic-investors-now-control-80-of-stock-market/",
-      "date": "2026-07-23T23:22:25Z"
+      "title": "WATCH: 200,000 people flee out-of-control wildfires in France and Spain",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/video/135069151/",
+      "date": "2026-07-24T23:27:59Z"
     },
     {
-      "title": "Fintech targets one million new pension users by 2026",
-      "source": "The Punch",
-      "url": "https://punchng.com/fintech-targets-one-million-new-pension-users-by-2026/",
-      "date": "2026-07-23T23:22:25Z"
-    },
-    {
-      "title": "Morgan Stanley sends strong verdict on memory stocks",
+      "title": "Hims & Hers Health, Repligen, West Pharmaceutical Services, and 10x Genomics Stocks Trade Down, What You Need To Know",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/28a62c9674690def",
-      "date": "2026-07-23T23:22:01Z"
+      "url": "https://biztoc.com/x/47300d4da744264a",
+      "date": "2026-07-24T23:15:45Z"
     },
     {
-      "title": "The Nasdaq Drops 1.5% and the 'Doom Posts Start Flooding in,' Says one Investor. Asks, When Will People L",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/585af2a2939b7523",
-      "date": "2026-07-23T23:21:44Z"
+      "title": "Why Oil Prices Are Falling After Blowing Past $100 Yesterday - WSJ",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184669382",
+      "date": "2026-07-24T23:12:46Z"
     },
     {
-      "title": "Research on middle-class household finances found two possessions people call assets often function as liabilities: for homeowners under 30, a house was worth 3.5 times their entire net worth on avera",
-      "source": "Artfulparent.com",
-      "url": "https://artfulparent.com/g-research-on-middle-class-household-finances-found-two-possessions-people-call-assets-often-function-as-liabilities-for-homeowners-under-30-a-house-was-worth-3-5-times-their-entire-net-worth-on-avera/",
-      "date": "2026-07-23T23:14:15Z"
-    },
-    {
-      "title": "vercre added to PyPI",
+      "title": "tollbooth-dpyc 0.70.0",
       "source": "Pypi.org",
-      "url": "https://pypi.org/project/vercre/",
-      "date": "2026-07-23T23:13:23Z"
+      "url": "https://pypi.org/project/tollbooth-dpyc/0.70.0/",
+      "date": "2026-07-24T23:12:08Z"
     },
     {
-      "title": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
+      "title": "Himax, Teradyne, Entegris, IPG Photonics, and Penguin Solutions Shares Plummet, What You Need To Know",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/85ffef00155a2810",
-      "date": "2026-07-23T23:06:42Z"
+      "url": "https://biztoc.com/x/02da2c8c40f08c5d",
+      "date": "2026-07-24T23:01:05Z"
     },
     {
-      "title": "Mexico to see no change from new US tariffs, economy minister says",
+      "title": "Bank of America Pops To New High, Leads 17 Newcomers To IBD 50, Other Top Stock lists",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/86df06d4ad61f38e",
-      "date": "2026-07-23T23:06:26Z"
+      "url": "https://biztoc.com/x/9914d43292b64637",
+      "date": "2026-07-24T22:59:01Z"
     },
     {
-      "title": "The Next AI Winners May Not Be the Magnificent Seven: 3 Mid-Cap ETFs to Watch",
+      "title": "News Wrap: CDC reports more measles cases so far this year than in all of 2025",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-cdc-reports-more-measles-cases-so-far-this-year-than-in-all-of-2025",
+      "date": "2026-07-24T22:50:23Z"
+    },
+    {
+      "title": "Fishers flag tourism potential for '12 species in a day' marine park",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-25/limmen-bight-marine-park-tourism-recreational-commercial-fishing/106940756",
+      "date": "2026-07-24T22:48:04Z"
+    },
+    {
+      "title": "Olivia Culpo's Birth Plans for Baby No. 2 and More Us Top Stories",
+      "source": "Us Weekly",
+      "url": "https://www.usmagazine.com/celebrity-news/news/olivia-culpos-birth-plans-for-baby-no-2-more-top-stories/",
+      "date": "2026-07-24T22:41:57Z"
+    },
+    {
+      "title": "How volunteers with 3D printers make weapons for Ukraine",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/show/how-volunteers-with-3d-printers-make-weapons-for-ukraine",
+      "date": "2026-07-24T22:40:44Z"
+    },
+    {
+      "title": "Use of digital health in task-sharing for prevention and management of non-communicable diseases in Africa: A scoping review",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0006746",
+      "date": "2026-07-24T22:39:58Z"
+    },
+    {
+      "title": "Micron, onsemi, Seagate, Western Digital, and Vishay Intertechnology Shares Are Falling, What You Need To Know",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/2ced428ee310c4d8",
-      "date": "2026-07-23T22:51:44Z"
+      "url": "https://biztoc.com/x/9e545280690f06af",
+      "date": "2026-07-24T22:31:04Z"
     },
     {
-      "title": "Indonesia’s new crypto rules end influencer era with $30K bill",
+      "title": "Capital Group’s SMALLCAP World Fund boosts Strive stake to 2.93M shares worth $33.6M",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/indonesias-new-crypto-rules-end-influencer-era-with-30k-bill/",
-      "date": "2026-07-23T22:48:06Z"
+      "url": "https://cryptobriefing.com/capital-group-smallcap-fund-strive-stake-increase/",
+      "date": "2026-07-24T22:29:09Z"
     },
     {
-      "title": "Oil Prices Top $100 On Cargo Squeeze From The Middle East",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/gauravsharma/2026/07/23/oil-prices-top-100-on-cargo-squeeze-from-the-middle-east/",
-      "date": "2026-07-23T22:40:46Z"
-    },
-    {
-      "title": "Crypto Market Today, July 23: Bitcoin Slides as Odds of Passing Clarity Act Fall",
+      "title": "Bitcoin Policy Institute, Palantir and Anduril join US State Department’s Freedom Tech Excellence Program",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6dd2e4e725a15d25",
-      "date": "2026-07-23T22:39:30Z"
+      "url": "https://biztoc.com/x/e566112e52182000",
+      "date": "2026-07-24T22:29:07Z"
     },
     {
-      "title": "What Jimothy the Raccoon Reveals About Our Need for Nature",
-      "source": "Psychology Today",
-      "url": "https://www.psychologytoday.com/us/blog/move-the-body-heal-the-mind/202607/what-jimothy-the-raccoon-reveals-about-our-need-for-nature",
-      "date": "2026-07-23T22:38:00Z"
-    },
-    {
-      "title": "Oil spikes, stocks fall on Iran and AI fears",
+      "title": "Exclusive-Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/751d1da27be8e661",
-      "date": "2026-07-23T22:36:57Z"
+      "url": "https://biztoc.com/x/e0248052ffed8bb2",
+      "date": "2026-07-24T22:28:39Z"
     },
     {
-      "title": "As the S&P 500 sells off, traders eye key 'risk pivot' level",
+      "title": "PointsKash Demonstrates How Businesses Can Build on Bitcoin Without Burdening the Blockchain",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/pointskash-demonstrates-how-businesses-can-build-on-bitcoin-without-burdening-the-blockchain-302834473.html",
+      "date": "2026-07-24T22:23:00Z"
+    },
+    {
+      "title": "Show HN: Money Life, a financial SIM where burning out is a losing state",
+      "source": "Drakeai.app",
+      "url": "https://game.drakeai.app/",
+      "date": "2026-07-24T22:16:37Z"
+    },
+    {
+      "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ff567dbe7017134e",
-      "date": "2026-07-23T22:36:33Z"
+      "url": "https://biztoc.com/x/1124180778f7b8dd",
+      "date": "2026-07-24T22:16:05Z"
     },
     {
-      "title": "Stocks Hit by AI & War Jitters | The Close 7/23/2026",
+      "title": "3PL stocks drop in wake of stunning Texas case against C.H. Robinson",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/139ff4b7a4f0a84b",
-      "date": "2026-07-23T22:32:08Z"
+      "url": "https://biztoc.com/x/67652708ddfa1baf",
+      "date": "2026-07-24T22:16:02Z"
     },
     {
-      "title": "Adani wants to run airlines, but IndiGo isn't liking it",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/prime/transportation/adani-wants-to-run-airlines-but-indigo-isnt-liking-it/primearticleshow/132589957.cms",
-      "date": "2026-07-23T22:30:00Z"
+      "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
+      "date": "2026-07-24T22:03:16Z"
     },
     {
-      "title": "The 5 Stages From Operator to Owner",
-      "source": "Ducttapemarketing.com",
-      "url": "https://ducttapemarketing.com/5-stages-from-operator-to-owner/",
-      "date": "2026-07-23T22:25:58Z"
-    },
-    {
-      "title": "Asian Stocks Set to Fall as Oil Surges Past $100: Markets Wrap",
+      "title": "This TSX stock rose 15% this week and analysts see more upside, with the highest price target implying nearly 70%",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-set-to-fall-as-oil-surges-past-100-markets-wrap",
-      "date": "2026-07-23T22:25:19Z"
+      "url": "https://financialpost.com/investing/tsx-stock-rose-15-analysts-70-upside",
+      "date": "2026-07-24T22:03:07Z"
     },
     {
-      "title": "US warns against excessive yen volatility, calls for BOJ rate hikes",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d526ef0e6e701787",
-      "date": "2026-07-23T22:22:12Z"
-    },
-    {
-      "title": "AI Chip Stocks Just Got Crushed. 3 Semiconductor ETFs to Buy the Dip On",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1c7050807eb56567",
-      "date": "2026-07-23T22:21:36Z"
-    },
-    {
-      "title": "U.S. imposes tariffs tied to forced labor on top 60 trade partners",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/39ddc851aed93177",
-      "date": "2026-07-23T22:21:27Z"
-    },
-    {
-      "title": "OpenAI's new release turns a bad week ugly for software stocks",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a4ec269055675a5a",
-      "date": "2026-07-23T22:21:23Z"
-    },
-    {
-      "title": "Asian stocks set to fall as oil prices surge past $100",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/asian-stocks-set-to-fall-as-oil-prices-surge-past-100/",
-      "date": "2026-07-23T22:19:00Z"
-    },
-    {
-      "title": "OpenAI's new release turns a bad week ugly for software stocks",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/openai-release-turns-a-bad-week-ugly-for-software-stocks-2026-7#article",
-      "date": "2026-07-23T22:14:12Z"
-    },
-    {
-      "title": "How Iran Gained the Upper Hand",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/07/23/iran-us-israel-war-hormuz-trump-options/",
-      "date": "2026-07-23T22:02:22Z"
-    },
-    {
-      "title": "Battle of the Straits",
-      "source": "Dailyreckoning.com",
-      "url": "https://dailyreckoning.com/battle-of-the-straits/",
-      "date": "2026-07-23T22:00:06Z"
+      "title": "Ann Patchett's Books in Order of Best Read: 'Bel Canto' to 'Whistler'",
+      "source": "Womansworld.com",
+      "url": "https://www.womansworld.com/entertainment/books/ann-patchett-books-in-order-of-best-read#article",
+      "date": "2026-07-24T22:01:08Z"
     }
   ]
 }

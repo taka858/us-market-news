@@ -4,186 +4,192 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-07-25T23:55:57.721868"
+      "date": "2026-07-26T23:56:23.549888"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-07-25T23:55:57.721876"
+      "date": "2026-07-26T23:56:23.549895"
     }
   ],
   "bitcoin": {
-    "price": 64314,
-    "date": "2026-07-25T23:55:57.786121"
+    "price": 65365,
+    "date": "2026-07-26T23:56:23.621584"
   },
   "news": [
     {
-      "title": "WATCH: Dramatic rescue after seaplane crashes, bursts into flames",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/video/135069137/",
-      "date": "2026-07-24T23:54:06Z"
-    },
-    {
-      "title": "Rising oil prices and Treasury yields threaten to derail the stock and crypto rally",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/oil-prices-yields-threaten-stock-crypto-rally/",
-      "date": "2026-07-24T23:54:01Z"
-    },
-    {
-      "title": "Sino-Global Shipping America trading halted, news pending",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/SGLY",
-      "date": "2026-07-24T23:50:01Z"
-    },
-    {
-      "title": "Paramount-WBD Merger Opponents Cheer Legal Delay, Stocks Slide As Industry Absorbs Latest Plot Twist",
-      "source": "Deadline",
-      "url": "http://deadline.com/2026/07/paramount-wbd-merger-antitrust-lawsuit-delay-reactions-1237003045/",
-      "date": "2026-07-24T23:35:46Z"
-    },
-    {
-      "title": "Free & Single Mary Jane Watson Gets Her Friendly Neighborhood Comic",
-      "source": "Bleeding Cool News",
-      "url": "https://bleedingcool.com/comics/free-single-mary-jane-watson-gets-her-friendly-neighborhood-comic/",
-      "date": "2026-07-24T23:34:11Z"
-    },
-    {
-      "title": "Can Europe avoid a recession?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/68e6a56673542ad3",
-      "date": "2026-07-24T23:29:12Z"
-    },
-    {
-      "title": "WATCH: 200,000 people flee out-of-control wildfires in France and Spain",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/video/135069151/",
-      "date": "2026-07-24T23:27:59Z"
-    },
-    {
-      "title": "Hims & Hers Health, Repligen, West Pharmaceutical Services, and 10x Genomics Stocks Trade Down, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/47300d4da744264a",
-      "date": "2026-07-24T23:15:45Z"
-    },
-    {
-      "title": "Why Oil Prices Are Falling After Blowing Past $100 Yesterday - WSJ",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184669382",
-      "date": "2026-07-24T23:12:46Z"
-    },
-    {
-      "title": "tollbooth-dpyc 0.70.0",
+      "title": "youngcan-wyckoff-analysis 0.9.203",
       "source": "Pypi.org",
-      "url": "https://pypi.org/project/tollbooth-dpyc/0.70.0/",
-      "date": "2026-07-24T23:12:08Z"
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.203/",
+      "date": "2026-07-25T23:51:16Z"
     },
     {
-      "title": "Himax, Teradyne, Entegris, IPG Photonics, and Penguin Solutions Shares Plummet, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/02da2c8c40f08c5d",
-      "date": "2026-07-24T23:01:05Z"
+      "title": "Quote of the day by Mencius, 'Friends are the siblings God never gave us' teaches timeless life inspiring motivational message of true friendship, reveals psychology behind happy positive ambience in ",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-mencius-friends-are-the-siblings-god-never-gave-us-teaches-timeless-life-inspiring-motivational-message-of-true-friendship-reveals-psychology-behind-happy-positive-ambience-in-schools-colleges-offices/articleshow/132635206.cms",
+      "date": "2026-07-25T23:29:38Z"
     },
     {
-      "title": "Bank of America Pops To New High, Leads 17 Newcomers To IBD 50, Other Top Stock lists",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9914d43292b64637",
-      "date": "2026-07-24T22:59:01Z"
-    },
-    {
-      "title": "News Wrap: CDC reports more measles cases so far this year than in all of 2025",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-cdc-reports-more-measles-cases-so-far-this-year-than-in-all-of-2025",
-      "date": "2026-07-24T22:50:23Z"
-    },
-    {
-      "title": "Fishers flag tourism potential for '12 species in a day' marine park",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-25/limmen-bight-marine-park-tourism-recreational-commercial-fishing/106940756",
-      "date": "2026-07-24T22:48:04Z"
-    },
-    {
-      "title": "Olivia Culpo's Birth Plans for Baby No. 2 and More Us Top Stories",
-      "source": "Us Weekly",
-      "url": "https://www.usmagazine.com/celebrity-news/news/olivia-culpos-birth-plans-for-baby-no-2-more-top-stories/",
-      "date": "2026-07-24T22:41:57Z"
-    },
-    {
-      "title": "How volunteers with 3D printers make weapons for Ukraine",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/how-volunteers-with-3d-printers-make-weapons-for-ukraine",
-      "date": "2026-07-24T22:40:44Z"
-    },
-    {
-      "title": "Use of digital health in task-sharing for prevention and management of non-communicable diseases in Africa: A scoping review",
-      "source": "Plos.org",
-      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0006746",
-      "date": "2026-07-24T22:39:58Z"
-    },
-    {
-      "title": "Micron, onsemi, Seagate, Western Digital, and Vishay Intertechnology Shares Are Falling, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9e545280690f06af",
-      "date": "2026-07-24T22:31:04Z"
-    },
-    {
-      "title": "Capital Group’s SMALLCAP World Fund boosts Strive stake to 2.93M shares worth $33.6M",
+      "title": "Nvidia still owns the AI chip race, but AMD and Intel are making Wall Street reconsider",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/capital-group-smallcap-fund-strive-stake-increase/",
-      "date": "2026-07-24T22:29:09Z"
+      "url": "https://cryptobriefing.com/nvidia-amd-intel-ai-chip-race-2026/",
+      "date": "2026-07-25T23:06:39Z"
     },
     {
-      "title": "Bitcoin Policy Institute, Palantir and Anduril join US State Department’s Freedom Tech Excellence Program",
+      "title": "Trump pauses Iran military strikes as Bitcoin drops 2.3% and oil tops $100",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-pauses-iran-strikes-bitcoin-drops/",
+      "date": "2026-07-25T22:49:34Z"
+    },
+    {
+      "title": "Retirement Is 10,000 Days With No Paycheck. These 4 ETFs Deposit One Every Month",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/07/25/retirement-is-10000-days-with-no-paycheck-these-4-etfs-deposit-one-every-month/",
+      "date": "2026-07-25T22:28:29Z"
+    },
+    {
+      "title": "Top 3 US Stock Market Stories From This Week",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e566112e52182000",
-      "date": "2026-07-24T22:29:07Z"
+      "url": "https://biztoc.com/x/cb89dc8416801acb",
+      "date": "2026-07-25T22:23:30Z"
     },
     {
-      "title": "Exclusive-Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
+      "title": "The Praxian Genocidal Kill Chain — Part 3",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-3/",
+      "date": "2026-07-25T22:00:00Z"
+    },
+    {
+      "title": "Nebius vs. Strategy: Comparing Revenue Trends Between an Artificial Intelligence Company and a Bitcoin Giant",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e0248052ffed8bb2",
-      "date": "2026-07-24T22:28:39Z"
+      "url": "https://biztoc.com/x/855c7357ca2256c2",
+      "date": "2026-07-25T21:53:18Z"
     },
     {
-      "title": "PointsKash Demonstrates How Businesses Can Build on Bitcoin Without Burdening the Blockchain",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/pointskash-demonstrates-how-businesses-can-build-on-bitcoin-without-burdening-the-blockchain-302834473.html",
-      "date": "2026-07-24T22:23:00Z"
-    },
-    {
-      "title": "Show HN: Money Life, a financial SIM where burning out is a losing state",
-      "source": "Drakeai.app",
-      "url": "https://game.drakeai.app/",
-      "date": "2026-07-24T22:16:37Z"
-    },
-    {
-      "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
+      "title": "Peter Schiff says SpaceX is a warning for hyped stocks",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1124180778f7b8dd",
-      "date": "2026-07-24T22:16:05Z"
+      "url": "https://biztoc.com/x/249e6f5d20aaacda",
+      "date": "2026-07-25T21:52:42Z"
     },
     {
-      "title": "3PL stocks drop in wake of stunning Texas case against C.H. Robinson",
+      "title": "Hyperliquid Beats Bitcoin, Ethereum, and Solana This Year — And Whales Are Betting Staking Makes It Even Sweeter",
+      "source": "ZyCrypto",
+      "url": "https://zycrypto.com/hyperliquid-beats-bitcoin-ethereum-and-solana-this-year-and-whales-are-betting-staking-makes-it-even-sweeter/",
+      "date": "2026-07-25T21:48:35Z"
+    },
+    {
+      "title": "Here’s What a $300,000 Budget Actually Buys You in The Villages, Florida",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/07/25/heres-what-a-300000-budget-actually-buys-you-in-the-villages-florida/",
+      "date": "2026-07-25T21:41:35Z"
+    },
+    {
+      "title": "Top 3 US Stock Market Stories From This Week",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/top-us-stock-market-news-this-week/",
+      "date": "2026-07-25T21:41:17Z"
+    },
+    {
+      "title": "NuScale Power Is Down 38% This Year: Here's What the Next 5 Years Could Look Like",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/67652708ddfa1baf",
-      "date": "2026-07-24T22:16:02Z"
+      "url": "https://biztoc.com/x/11b91addb5266eff",
+      "date": "2026-07-25T21:38:12Z"
     },
     {
-      "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/374334/stocks-crypto-hyperliquid-ark-invest",
-      "date": "2026-07-24T22:03:16Z"
+      "title": "Peter Schiff says SpaceX is a warning for hyped stocks",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/spacex-stock-warning-peter-schiff",
+      "date": "2026-07-25T21:33:00Z"
     },
     {
-      "title": "This TSX stock rose 15% this week and analysts see more upside, with the highest price target implying nearly 70%",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/investing/tsx-stock-rose-15-analysts-70-upside",
-      "date": "2026-07-24T22:03:07Z"
+      "title": "BTC, ETH & XRP Set For Monstrous Rally as Traders Eye Massive AI Fund Rotation",
+      "source": "ZyCrypto",
+      "url": "https://zycrypto.com/btc-eth-xrp-set-for-monstrous-rally-as-traders-eye-massive-ai-fund-rotation/",
+      "date": "2026-07-25T21:15:42Z"
     },
     {
-      "title": "Ann Patchett's Books in Order of Best Read: 'Bel Canto' to 'Whistler'",
-      "source": "Womansworld.com",
-      "url": "https://www.womansworld.com/entertainment/books/ann-patchett-books-in-order-of-best-read#article",
-      "date": "2026-07-24T22:01:08Z"
+      "title": "Ned Davis Research reports 16% drop in Trump Trade index as political bets unravel",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/ned-davis-trump-trade-index-16-percent-drop/",
+      "date": "2026-07-25T21:06:56Z"
+    },
+    {
+      "title": "The ‘Trump Trade’ is turning into a loser in the stock market",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/4aa0262fb26eec81",
+      "date": "2026-07-25T21:06:28Z"
+    },
+    {
+      "title": "The Nuclear Trade Is Entering Phase 2 and These 3 ETFs Own Everything From Uranium Miners to Reactor Restarts",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/25/the-nuclear-trade-is-entering-phase-2-and-these-3-etfs-own-everything-from-uranium-miners-to-reactor-restarts/",
+      "date": "2026-07-25T20:56:50Z"
+    },
+    {
+      "title": "Stock Looks Below Fair Value on Earnings",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/bbc4066a8fc5e484",
+      "date": "2026-07-25T20:52:46Z"
+    },
+    {
+      "title": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is M",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/7406c288ef480244",
+      "date": "2026-07-25T20:51:33Z"
+    },
+    {
+      "title": "Here are 4 forces that drove a tough week for stocks",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b8346a5d1e57f88d",
+      "date": "2026-07-25T20:51:06Z"
+    },
+    {
+      "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a5fa4aa61899ae82",
+      "date": "2026-07-25T20:51:04Z"
+    },
+    {
+      "title": "XRP Price Prediction: Analyst Says XRP Could Hit $15",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/cryptocurrency/2026/07/25/xrp-price-prediction-analyst-says-xrp-could-hit-15/",
+      "date": "2026-07-25T20:44:50Z"
+    },
+    {
+      "title": "The ‘Trump Trade’ is turning into a loser in the stock market",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/25/trump-trade-stock-market-returns-iran-war-inflation-supply-shock-tariffs/",
+      "date": "2026-07-25T20:40:41Z"
+    },
+    {
+      "title": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But…'",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/bc8f3c5816f032d9",
+      "date": "2026-07-25T20:37:17Z"
+    },
+    {
+      "title": "The hacker who humiliated spyware makers and was never caught | TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+      "date": "2026-07-25T20:24:14Z"
+    },
+    {
+      "title": "Ranking the Best \"Magnificent Seven\" Stocks to Buy Right Now",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/fd713e1b1aaa8c45",
+      "date": "2026-07-25T20:07:09Z"
+    },
+    {
+      "title": "Forget Gold: For Retirees, This TIPS ETF Fights Inflation Better",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/07/25/forget-gold-for-retirees-this-tips-etf-fights-inflation-better/",
+      "date": "2026-07-25T19:53:29Z"
+    },
+    {
+      "title": "Top Democrat criticizes Trump administration for worsening chip shortage",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/democrat-criticizes-trump-chip-shortage/",
+      "date": "2026-07-25T19:52:19Z"
     }
   ]
 }

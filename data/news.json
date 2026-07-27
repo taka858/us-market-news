@@ -4,192 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-07-26T23:56:23.549888"
+      "date": "2026-07-27T23:58:35.745611"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-07-26T23:56:23.549895"
+      "date": "2026-07-27T23:58:35.745616"
     }
   ],
   "bitcoin": {
-    "price": 65365,
-    "date": "2026-07-26T23:56:23.621584"
+    "price": 63704,
+    "date": "2026-07-27T23:58:35.819359"
   },
   "news": [
     {
-      "title": "youngcan-wyckoff-analysis 0.9.203",
+      "title": "AFIC profit rises, dividend steady as portfolio underperforms ASX 200",
+      "source": "Motley Fool Australia",
+      "url": "https://www.fool.com.au/2026/07/27/afic-profit-rises-dividend-steady-as-portfolio-underperforms-asx-200/",
+      "date": "2026-07-26T23:54:13Z"
+    },
+    {
+      "title": "NGX gains N2tn as market cap hits N159tn",
+      "source": "The Punch",
+      "url": "https://punchng.com/ngx-gains-n2tn-as-market-cap-hits-n159tn/",
+      "date": "2026-07-26T23:51:48Z"
+    },
+    {
+      "title": "Everyone expected a Bitcoin investing boom. Why it never came",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/0afdcb7a1491b591",
+      "date": "2026-07-26T23:47:22Z"
+    },
+    {
+      "title": "Flags A Surge In Auto Loan Fraud Losses",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2d5466400fdd59c2",
+      "date": "2026-07-26T23:32:25Z"
+    },
+    {
+      "title": "youngcan-wyckoff-analysis 0.9.208",
       "source": "Pypi.org",
-      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.203/",
-      "date": "2026-07-25T23:51:16Z"
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.208/",
+      "date": "2026-07-26T23:31:22Z"
     },
     {
-      "title": "Quote of the day by Mencius, 'Friends are the siblings God never gave us' teaches timeless life inspiring motivational message of true friendship, reveals psychology behind happy positive ambience in ",
+      "title": "2026 Baseball Hall of Fame class represented the sport's greatest values | Opinion",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/mlb/columnist/bob-nightengale/2026/07/26/baseball-hall-of-fame-2026-class-traditional-game/91058204007/",
+      "date": "2026-07-26T23:25:50Z"
+    },
+    {
+      "title": "Baseball Hall of Fame 2026: Beltran, Jones, Kent enter Cooperstown",
+      "source": "The Cincinnati Enquirer",
+      "url": "https://www.cincinnati.com/story/sports/mlb/2026/07/26/baseball-hall-of-fame-watch-jeff-kent-carlos-beltran-andruw-jones/91058358007/",
+      "date": "2026-07-26T23:24:54Z"
+    },
+    {
+      "title": "Dangote blames importers for petrol sales policy reversal",
+      "source": "The Punch",
+      "url": "https://punchng.com/dangote-blames-importers-for-petrol-sales-policy-reversal/",
+      "date": "2026-07-26T23:22:20Z"
+    },
+    {
+      "title": "I'd buy this ASX dividend stock in any market",
+      "source": "Motley Fool Australia",
+      "url": "https://www.fool.com.au/2026/07/27/id-buy-this-asx-dividend-stock-in-any-market-11/",
+      "date": "2026-07-26T23:16:09Z"
+    },
+    {
+      "title": "Microsoft and Meta Platforms Are Negative in 2026. Here's My Favorite One to Buy Now",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a0c52df91da0a96d",
+      "date": "2026-07-26T23:02:16Z"
+    },
+    {
+      "title": "Why This Leveraged S&P 500 ETF Can Lose Money Even When Stocks Rise",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/97b0fd561b957088",
+      "date": "2026-07-26T23:00:30Z"
+    },
+    {
+      "title": "The Hidden Costs of The Villages Nobody Mentions Until You Move In",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/07/26/the-hidden-costs-of-the-villages-nobody-mentions-until-you-move-in/",
+      "date": "2026-07-26T22:55:56Z"
+    },
+    {
+      "title": "Why This Leveraged S&P 500 ETF Can Lose Money Even When Stocks Rise",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/07/26/why-this-leveraged-sp-500-etf-can-lose-money-even-when-stocks-rise/",
+      "date": "2026-07-26T22:55:23Z"
+    },
+    {
+      "title": "Federal Reserve faces 104 economists in 36% rate hike bet as crypto markets brace for impact",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/fed-rate-decision-economists-crypto-impact/",
+      "date": "2026-07-26T22:53:07Z"
+    },
+    {
+      "title": "Triple-A hot wallet losses reach $12M amid security incident",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/triple-a-hot-wallet-12m-security-breach/",
+      "date": "2026-07-26T22:52:43Z"
+    },
+    {
+      "title": "Fed Rate Decision Pits 104 Economists Against a 36% Hike Bet",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/fefac30b299a58f9",
+      "date": "2026-07-26T22:46:38Z"
+    },
+    {
+      "title": "House Ways and Means Committee plans crypto tax bill markup in September",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/house-ways-means-crypto-tax-bill-september/",
+      "date": "2026-07-26T22:45:12Z"
+    },
+    {
+      "title": "US House committee to mark up crypto tax bill in September",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-house-committee-to-mark-up-crypto-tax-bill-in-september/",
+      "date": "2026-07-26T22:44:39Z"
+    },
+    {
+      "title": "You Retired With $600K in a 401(k) and No Idea What Comes Next. These 4 ETFs Are the Income Plan",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/07/26/you-retired-with-600k-in-a-401k-and-no-idea-what-comes-next-these-4-etfs-are-the-income-plan/",
+      "date": "2026-07-26T22:42:23Z"
+    },
+    {
+      "title": "CME launches single-stock futures for over 50 top US stocks",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/cme-single-stock-futures-launch/",
+      "date": "2026-07-26T22:36:30Z"
+    },
+    {
+      "title": "Oil Tumbles as US and Iran Pause Military Strikes: Markets Wrap",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-tumbles-as-us-and-iran-pause-military-strikes-markets-wrap",
+      "date": "2026-07-26T22:34:16Z"
+    },
+    {
+      "title": "Universal Health Services (UHS) Stock Looks Undervalued As Shares Fell 29% YTD",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/3014b5b21de34fc3",
+      "date": "2026-07-26T22:32:03Z"
+    },
+    {
+      "title": "Valley National Bancorp (VLY) Stock Still Trades At A Discount Despite A 62% Run",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/25b39c7544507ce5",
+      "date": "2026-07-26T22:31:53Z"
+    },
+    {
+      "title": "Ross Gerber Questions Tesla's Optimus Bet: 'There's No Revenue Coming Anytime Soon'",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ross-gerber-questions-teslas-optimus-223020232.html",
+      "date": "2026-07-26T22:30:20Z"
+    },
+    {
+      "title": "Who did India’s ethanol boom actually benefit?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-mencius-friends-are-the-siblings-god-never-gave-us-teaches-timeless-life-inspiring-motivational-message-of-true-friendship-reveals-psychology-behind-happy-positive-ambience-in-schools-colleges-offices/articleshow/132635206.cms",
-      "date": "2026-07-25T23:29:38Z"
+      "url": "https://economictimes.indiatimes.com/prime/energy/who-did-indias-ethanol-boom-actually-benefit/primearticleshow/132647521.cms",
+      "date": "2026-07-26T22:30:00Z"
     },
     {
-      "title": "Nvidia still owns the AI chip race, but AMD and Intel are making Wall Street reconsider",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/nvidia-amd-intel-ai-chip-race-2026/",
-      "date": "2026-07-25T23:06:39Z"
-    },
-    {
-      "title": "Trump pauses Iran military strikes as Bitcoin drops 2.3% and oil tops $100",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-pauses-iran-strikes-bitcoin-drops/",
-      "date": "2026-07-25T22:49:34Z"
-    },
-    {
-      "title": "Retirement Is 10,000 Days With No Paycheck. These 4 ETFs Deposit One Every Month",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/07/25/retirement-is-10000-days-with-no-paycheck-these-4-etfs-deposit-one-every-month/",
-      "date": "2026-07-25T22:28:29Z"
-    },
-    {
-      "title": "Top 3 US Stock Market Stories From This Week",
+      "title": "Are Midterm Elections a headwind for stocks?",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/cb89dc8416801acb",
-      "date": "2026-07-25T22:23:30Z"
+      "url": "https://biztoc.com/x/c60f23e08e330c7f",
+      "date": "2026-07-26T22:17:13Z"
     },
     {
-      "title": "The Praxian Genocidal Kill Chain — Part 3",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-3/",
-      "date": "2026-07-25T22:00:00Z"
+      "title": "BitMart Becomes 2nd Crypto Exchange to Close in 3 Days",
+      "source": "pymnts.com",
+      "url": "https://www.pymnts.com/cryptocurrency/2026/bitmart-becomes-2nd-crypto-exchange-to-close-in-3-days/",
+      "date": "2026-07-26T22:16:51Z"
     },
     {
-      "title": "Nebius vs. Strategy: Comparing Revenue Trends Between an Artificial Intelligence Company and a Bitcoin Giant",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/855c7357ca2256c2",
-      "date": "2026-07-25T21:53:18Z"
+      "title": "2026 Baseball Hall of Fame induction: Carlos Beltrán, Andruw Jones, Jeff Kent speak of national, organizational pride while enshrined",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/mlb/article/2026-baseball-hall-of-fame-induction-carlos-beltran-andruw-jones-jeff-kent-speak-of-national-organizational-pride-while-enshrined-221627720.html",
+      "date": "2026-07-26T22:16:27Z"
     },
     {
-      "title": "Peter Schiff says SpaceX is a warning for hyped stocks",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/249e6f5d20aaacda",
-      "date": "2026-07-25T21:52:42Z"
+      "title": "2 ASX passive income ideas I'd use to generate $500 a month in 2027",
+      "source": "Motley Fool Australia",
+      "url": "https://www.fool.com.au/2026/07/27/2-asx-passive-income-ideas-id-use-to-generate-500-a-month-in-2027/",
+      "date": "2026-07-26T22:15:00Z"
     },
     {
-      "title": "Hyperliquid Beats Bitcoin, Ethereum, and Solana This Year — And Whales Are Betting Staking Makes It Even Sweeter",
-      "source": "ZyCrypto",
-      "url": "https://zycrypto.com/hyperliquid-beats-bitcoin-ethereum-and-solana-this-year-and-whales-are-betting-staking-makes-it-even-sweeter/",
-      "date": "2026-07-25T21:48:35Z"
-    },
-    {
-      "title": "Here’s What a $300,000 Budget Actually Buys You in The Villages, Florida",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/personal-finance/2026/07/25/heres-what-a-300000-budget-actually-buys-you-in-the-villages-florida/",
-      "date": "2026-07-25T21:41:35Z"
-    },
-    {
-      "title": "Top 3 US Stock Market Stories From This Week",
+      "title": "Fed Rate Decision Pits 104 Economists Against a 36% Hike Bet",
       "source": "BeInCrypto",
-      "url": "https://beincrypto.com/top-us-stock-market-news-this-week/",
-      "date": "2026-07-25T21:41:17Z"
-    },
-    {
-      "title": "NuScale Power Is Down 38% This Year: Here's What the Next 5 Years Could Look Like",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/11b91addb5266eff",
-      "date": "2026-07-25T21:38:12Z"
-    },
-    {
-      "title": "Peter Schiff says SpaceX is a warning for hyped stocks",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/spacex-stock-warning-peter-schiff",
-      "date": "2026-07-25T21:33:00Z"
-    },
-    {
-      "title": "BTC, ETH & XRP Set For Monstrous Rally as Traders Eye Massive AI Fund Rotation",
-      "source": "ZyCrypto",
-      "url": "https://zycrypto.com/btc-eth-xrp-set-for-monstrous-rally-as-traders-eye-massive-ai-fund-rotation/",
-      "date": "2026-07-25T21:15:42Z"
-    },
-    {
-      "title": "Ned Davis Research reports 16% drop in Trump Trade index as political bets unravel",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/ned-davis-trump-trade-index-16-percent-drop/",
-      "date": "2026-07-25T21:06:56Z"
-    },
-    {
-      "title": "The ‘Trump Trade’ is turning into a loser in the stock market",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4aa0262fb26eec81",
-      "date": "2026-07-25T21:06:28Z"
-    },
-    {
-      "title": "The Nuclear Trade Is Entering Phase 2 and These 3 ETFs Own Everything From Uranium Miners to Reactor Restarts",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/25/the-nuclear-trade-is-entering-phase-2-and-these-3-etfs-own-everything-from-uranium-miners-to-reactor-restarts/",
-      "date": "2026-07-25T20:56:50Z"
-    },
-    {
-      "title": "Stock Looks Below Fair Value on Earnings",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/bbc4066a8fc5e484",
-      "date": "2026-07-25T20:52:46Z"
-    },
-    {
-      "title": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is M",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7406c288ef480244",
-      "date": "2026-07-25T20:51:33Z"
-    },
-    {
-      "title": "Here are 4 forces that drove a tough week for stocks",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b8346a5d1e57f88d",
-      "date": "2026-07-25T20:51:06Z"
-    },
-    {
-      "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a5fa4aa61899ae82",
-      "date": "2026-07-25T20:51:04Z"
-    },
-    {
-      "title": "XRP Price Prediction: Analyst Says XRP Could Hit $15",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/07/25/xrp-price-prediction-analyst-says-xrp-could-hit-15/",
-      "date": "2026-07-25T20:44:50Z"
-    },
-    {
-      "title": "The ‘Trump Trade’ is turning into a loser in the stock market",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/25/trump-trade-stock-market-returns-iran-war-inflation-supply-shock-tariffs/",
-      "date": "2026-07-25T20:40:41Z"
-    },
-    {
-      "title": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But…'",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/bc8f3c5816f032d9",
-      "date": "2026-07-25T20:37:17Z"
-    },
-    {
-      "title": "The hacker who humiliated spyware makers and was never caught | TechCrunch",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
-      "date": "2026-07-25T20:24:14Z"
-    },
-    {
-      "title": "Ranking the Best \"Magnificent Seven\" Stocks to Buy Right Now",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/fd713e1b1aaa8c45",
-      "date": "2026-07-25T20:07:09Z"
-    },
-    {
-      "title": "Forget Gold: For Retirees, This TIPS ETF Fights Inflation Better",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/07/25/forget-gold-for-retirees-this-tips-etf-fights-inflation-better/",
-      "date": "2026-07-25T19:53:29Z"
-    },
-    {
-      "title": "Top Democrat criticizes Trump administration for worsening chip shortage",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/democrat-criticizes-trump-chip-shortage/",
-      "date": "2026-07-25T19:52:19Z"
+      "url": "https://beincrypto.com/fed-rate-decision-economists-traders-split/",
+      "date": "2026-07-26T22:13:21Z"
     }
   ]
 }

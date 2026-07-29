@@ -4,198 +4,192 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-07-28T23:54:51.859344"
+      "date": "2026-07-29T23:57:03.169077"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-07-28T23:54:51.859351"
+      "date": "2026-07-29T23:57:03.169083"
     }
   ],
   "bitcoin": {
-    "price": 63826,
-    "date": "2026-07-28T23:54:51.944332"
+    "price": 63948,
+    "date": "2026-07-29T23:57:03.243368"
   },
   "news": [
     {
-      "title": "libveritas 0.3.3",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/libveritas/0.3.3/",
-      "date": "2026-07-27T23:53:18Z"
-    },
-    {
-      "title": "If you had invested $1,000 in gold instead of Bitcoin five years ago, here is what each is worth today",
+      "title": "1 Momentum Stock with Solid Fundamentals and 2 We Find Risky",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/fbebc694c2b50db0",
-      "date": "2026-07-27T23:46:14Z"
+      "url": "https://biztoc.com/x/2e89328765bfcb29",
+      "date": "2026-07-28T23:49:41Z"
     },
     {
-      "title": "USTR’s Greer says Trump’s latest tariffs won’t have an economic impact",
+      "title": "Shanghai Clearing House targets global growth with expanded offshore yuan push",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/738b565b03ec997a",
-      "date": "2026-07-27T23:45:01Z"
+      "url": "https://biztoc.com/x/90cf10103e75e84b",
+      "date": "2026-07-28T23:47:36Z"
     },
     {
-      "title": "World Bank ex-president faults Nigeria’s collateral-backed borrowing strategy",
+      "title": "ServiceNow cut hundreds of jobs to streamline operations. One staffer called it a 'very tough day.'",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/servicenow-cuts-jobs-amid-global-restructuring-and-ai-focus-2026-7#article",
+      "date": "2026-07-28T23:42:00Z"
+    },
+    {
+      "title": "2 Value Stocks to Target This Week and 1 We Brush Off",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/92c0558ebfcc77eb",
+      "date": "2026-07-28T23:34:35Z"
+    },
+    {
+      "title": "3 Financials Stocks on Our Watchlist",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d83858ece604e009",
+      "date": "2026-07-28T23:19:44Z"
+    },
+    {
+      "title": "US-Iran war: Nigeria tops Africa in petrol price surge",
       "source": "The Punch",
-      "url": "https://punchng.com/world-bank-ex-president-faults-nigerias-collateral-backed-borrowing-strategy/",
-      "date": "2026-07-27T23:35:06Z"
+      "url": "https://punchng.com/us-iran-war-nigeria-tops-africa-in-petrol-price-surge/",
+      "date": "2026-07-28T23:10:19Z"
     },
     {
-      "title": "1 of Wall Street’s Favorite Stocks with Exciting Potential and 2 We Ignore",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f4b63cfe0098940c",
-      "date": "2026-07-27T23:31:10Z"
+      "title": "Stock market rebounds with N482bn gain",
+      "source": "The Punch",
+      "url": "https://punchng.com/stock-market-rebounds-with-n482bn-gain/",
+      "date": "2026-07-28T23:10:19Z"
     },
     {
-      "title": "Brent crude prices drop 11% to $85.87 after US-Iran ceasefire, and crypto markets are paying attention",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/brent-crude-drops-us-iran-ceasefire-crypto/",
-      "date": "2026-07-27T23:27:06Z"
-    },
-    {
-      "title": "Op-Ed: Huge new AI company debt is funding AI moves. How do you trust it?",
-      "source": "Digital Journal",
-      "url": "https://www.digitaljournal.com/article/op-ed-huge-new-ai-company-debt-is-funding-ai-moves-how-do-you-trust-it/",
-      "date": "2026-07-27T23:22:21Z"
-    },
-    {
-      "title": "Solana Policy Institute warns of investment risks if Clarity Act fails",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/solana-policy-institute-clarity-act-investment-risks/",
-      "date": "2026-07-27T23:22:02Z"
-    },
-    {
-      "title": "Why Jacinta Allan could be replaced just four months before a state election - after leadership challenge from rival Ben Carroll",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16009341/jacinta-allan-ben-carroll-victorian-labor-leadership-challenge.html",
-      "date": "2026-07-27T23:19:33Z"
-    },
-    {
-      "title": "2 of Wall Street’s Favorite Stocks Worth Your Attention and 1 We Question",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/0a8adc295ca7a4ae",
-      "date": "2026-07-27T23:16:29Z"
-    },
-    {
-      "title": "1 Stock Under $50 to Consider Right Now and 2 We Ignore",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/694ed761dc17b6ff",
-      "date": "2026-07-27T23:15:50Z"
-    },
-    {
-      "title": "youngcan-wyckoff-analysis 0.9.217",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.217/",
-      "date": "2026-07-27T23:13:55Z"
-    },
-    {
-      "title": "New Roguelike RPG Graphite Turns Your Sketchbook Into An Adventure",
-      "source": "Bleeding Cool News",
-      "url": "https://bleedingcool.com/games/new-roguelike-rpg-graphite-turns-your-sketchbook-into-an-adventure/",
-      "date": "2026-07-27T23:12:09Z"
-    },
-    {
-      "title": "Bonds back in focus as ETF investors focus on flows and the Fed decision",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/bbb188a0eb52d4c0",
-      "date": "2026-07-27T23:10:57Z"
-    },
-    {
-      "title": "libveritas 0.3.2",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/libveritas/0.3.2/",
-      "date": "2026-07-27T23:04:39Z"
-    },
-    {
-      "title": "3 Unprofitable Stocks We’re Skeptical Of",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/341f4530643cd1ff",
-      "date": "2026-07-27T23:01:36Z"
-    },
-    {
-      "title": "The prehistoric species fighting for survival in Lough Neagh",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce97nze240vo",
-      "date": "2026-07-27T23:01:36Z"
-    },
-    {
-      "title": "3 Unprofitable Stocks That Fall Short",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d63cbb73845c538a",
-      "date": "2026-07-27T23:01:34Z"
-    },
-    {
-      "title": "Jim Cramer issues a warning to investors trading with borrowed money",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/27/jim-cramer-warning-investors-trading-with-borrowed-money.html",
-      "date": "2026-07-27T23:00:02Z"
-    },
-    {
-      "title": "Chip rout weighs on oil optimism",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4b76aeeea86f6682",
-      "date": "2026-07-27T23:00:00Z"
-    },
-    {
-      "title": "$100 Oil Puts Big Tech’s $725 Billion AI Bet at Risk",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/100-Oil-Puts-Big-Techs-725-Billion-AI-Bet-at-Risk.html",
-      "date": "2026-07-27T23:00:00Z"
-    },
-    {
-      "title": "Apple World's Largest Company By Market Cap Again; Leads 14 Onto IBD Top Stock Lists",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4c402ad63a95f40b",
-      "date": "2026-07-27T22:59:54Z"
-    },
-    {
-      "title": "3 Profitable Stocks We’re Skeptical Of",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/292afe425d170e0a",
-      "date": "2026-07-27T22:46:43Z"
-    },
-    {
-      "title": "Polar Power secures up to $25M committed equity facility",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/pola",
-      "date": "2026-07-27T22:46:16Z"
-    },
-    {
-      "title": "B HODL repurchases 618K shares for $43,400 to boost Bitcoin per share metrics",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/b-hodl-share-repurchase-bitcoin-per-share/",
-      "date": "2026-07-27T22:34:44Z"
-    },
-    {
-      "title": "Why AFIC shares are a retiree's dream for FY27",
-      "source": "Motley Fool Australia",
-      "url": "https://www.fool.com.au/2026/07/28/why-afic-shares-are-a-retirees-dream-for-fy27/",
-      "date": "2026-07-27T22:30:00Z"
-    },
-    {
-      "title": "In a first, Airbus set to source Indian titanium for its planes",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/prime/transportation/in-a-first-airbus-set-to-source-indian-titanium-for-its-planes/primearticleshow/132659986.cms",
-      "date": "2026-07-27T22:30:00Z"
-    },
-    {
-      "title": "More cracks emerge in AI-related bonds as Meta, Microsoft earnings loom",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4d0891c4a839872b",
-      "date": "2026-07-27T22:29:15Z"
-    },
-    {
-      "title": "Hyperliquid shifts focus to real-world assets, 75% volume projected by 2027",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/hyperliquid-shifts-focus-to-real-world-assets-75-volume-projected-by-2027/",
-      "date": "2026-07-27T22:28:47Z"
-    },
-    {
-      "title": "First big deal of MLB trade deadline capped wild year for Connelly Early",
+      "title": "Florida 'doing the best' recruiting this Georgia safety",
       "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/mlb/columnist/gabe-lacques/2026/07/27/connelly-early-trade-journey-nationals-red-sox/91070533007/",
-      "date": "2026-07-27T22:27:22Z"
+      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/recruiting/2026/07/28/florida-football-recruiting-isaiah-reeves-top-schools/91080713007/",
+      "date": "2026-07-28T23:02:52Z"
+    },
+    {
+      "title": "Polls close in Georgia as voters decide successor in special election",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/polls-close-georgia-voters-decide-successor-special-election",
+      "date": "2026-07-28T23:00:41Z"
+    },
+    {
+      "title": "Jim Cramer: How to avoid getting burned by parabolic stocks",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/28/jim-cramer-how-to-avoid-getting-burned-by-parabolic-stocks.html",
+      "date": "2026-07-28T23:00:01Z"
+    },
+    {
+      "title": "China’s free AI models may not stay free, Goldman says",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/chinese-ai-paid-weights-open-model-licensing-goldman/",
+      "date": "2026-07-28T22:56:12Z"
+    },
+    {
+      "title": "Apple Briefly Hits $5 Trillion Market Cap, Second Company Ever After Nvidia",
+      "source": "iPhone in Canada",
+      "url": "https://www.iphoneincanada.ca/2026/07/28/apple-5-trillion/",
+      "date": "2026-07-28T22:47:40Z"
+    },
+    {
+      "title": "Leveraged ETFs tied to SK Hynix are getting hammered as chip wreck deepens",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/473bf66bc277b785",
+      "date": "2026-07-28T22:46:38Z"
+    },
+    {
+      "title": "Markets Don’t Buy the US Ceasefire Against Iran Will Last",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
+      "date": "2026-07-28T22:46:03Z"
+    },
+    {
+      "title": "Seagate crushes earnings expectations, reinforcing the AI infrastructure trade",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/seagate-earnings-boost-ai-trade-sentiment/",
+      "date": "2026-07-28T22:43:14Z"
+    },
+    {
+      "title": "FirstFT: Chip stocks sink as AI sell-off intensifies",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c56ffe9127fc6564",
+      "date": "2026-07-28T22:31:11Z"
+    },
+    {
+      "title": "Death of easy money? What Rajan’s Fed role means for India",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/prime/economy-and-policy/death-of-easy-money-what-rajans-fed-role-means-for-india/primearticleshow/132687218.cms",
+      "date": "2026-07-28T22:30:00Z"
+    },
+    {
+      "title": "Live: ASX tipped to rise ahead of key inflation numbers",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-29/cpi-inflation-interest-rates-asx-market-live-updates/106969852",
+      "date": "2026-07-28T22:29:01Z"
+    },
+    {
+      "title": "[NSW] Free Matcha, Rose Flower, Shampoo and $5 Off Voucher @ Herbal Essences Pop Up, Pitt St",
+      "source": "Ozbargain.com.au",
+      "url": "https://www.ozbargain.com.au/node/969471",
+      "date": "2026-07-28T22:27:06Z"
+    },
+    {
+      "title": "Jim Cramer says Wall Street is fleeing the AI trade and buying these stocks instead",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/28/jim-cramer-wall-street-fleeing-ai-trade-buying-these-stocks.html",
+      "date": "2026-07-28T22:20:01Z"
+    },
+    {
+      "title": "Here’s What My System Says About 4 Big Tech Stocks Before Earnings…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/63482eca902dadfe",
+      "date": "2026-07-28T22:16:01Z"
+    },
+    {
+      "title": "Lindsey Graham’s funeral: a celebration of war",
+      "source": "RT",
+      "url": "https://www.rt.com/news/643591-lindsey-graham-funeral-netanyahu-zelensky/",
+      "date": "2026-07-28T22:06:31Z"
+    },
+    {
+      "title": "Stock market today: Live updates",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/28/stock-market-today-live-updates.html",
+      "date": "2026-07-28T22:05:40Z"
+    },
+    {
+      "title": "The “Paycheck to Paycheck” Problem",
+      "source": "Dailyreckoning.com",
+      "url": "https://dailyreckoning.com/the-paycheck-to-paycheck-problem/",
+      "date": "2026-07-28T22:00:50Z"
+    },
+    {
+      "title": "Summer days for athletes thinning, so make the most of what's left | Kochanny",
+      "source": "Petoskey News-Review",
+      "url": "https://www.petoskeynews.com/story/sports/high-school/2026/07/28/go-make-the-most-of-the-summer-days-left-youve-earned-it-kochanny/91035786007/",
+      "date": "2026-07-28T22:00:35Z"
+    },
+    {
+      "title": "Morgan Stanley passes 100% of staking rewards to investors on new Ethereum and Solana ETFs",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/morgan-stanley-ethereum-solana-etf-staking-rewards/",
+      "date": "2026-07-28T21:58:56Z"
+    },
+    {
+      "title": "Strategy quietly sold 3,588 Bitcoin and almost nobody noticed",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/strategy-bitcoin-sale-metaplanet-leclair/",
+      "date": "2026-07-28T21:57:24Z"
+    },
+    {
+      "title": "Mixed day for global stocks but oil prices fall along with chip shares",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/mixed-day-global-stocks-oil-prices-fall-along-chip-shares-6284381",
+      "date": "2026-07-28T21:52:43Z"
+    },
+    {
+      "title": "Stock market today: Nasdaq pares losses as chip stocks sell off, S&P 500 and Dow rise - Yahoo Finance",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184740802",
+      "date": "2026-07-28T21:52:08Z"
     }
   ]
 }

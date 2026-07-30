@@ -4,192 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-07-29T23:57:03.169077"
+      "date": "2026-07-30T23:58:12.722963"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-07-29T23:57:03.169083"
+      "date": "2026-07-30T23:58:12.722969"
     }
   ],
   "bitcoin": {
-    "price": 63948,
-    "date": "2026-07-29T23:57:03.243368"
+    "price": 64745,
+    "date": "2026-07-30T23:58:12.811863"
   },
   "news": [
     {
-      "title": "1 Momentum Stock with Solid Fundamentals and 2 We Find Risky",
+      "title": "youngcan-wyckoff-analysis 0.9.222",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.222/",
+      "date": "2026-07-29T23:49:09Z"
+    },
+    {
+      "title": "The Memory Crash Has 4 Big Stocks Down 30% or More From Their Highs. I'd Buy 2 of Them",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/2e89328765bfcb29",
-      "date": "2026-07-28T23:49:41Z"
+      "url": "https://biztoc.com/x/bc1d353e2204c675",
+      "date": "2026-07-29T23:33:50Z"
     },
     {
-      "title": "Shanghai Clearing House targets global growth with expanded offshore yuan push",
+      "title": "Oil prices surge after Trump vows retaliation for Iranian attack - ABC News",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/90cf10103e75e84b",
-      "date": "2026-07-28T23:47:36Z"
+      "url": "https://biztoc.com/x/f795d739cb31a25d",
+      "date": "2026-07-29T23:32:00Z"
     },
     {
-      "title": "ServiceNow cut hundreds of jobs to streamline operations. One staffer called it a 'very tough day.'",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/servicenow-cuts-jobs-amid-global-restructuring-and-ai-focus-2026-7#article",
-      "date": "2026-07-28T23:42:00Z"
+      "title": "Chiney Ogwumike: Cathy Engelbert not there for WNBA players ‘in the biggest and most challenging moments’",
+      "source": "Awful Announcing",
+      "url": "https://awfulannouncing.com/wnba/chiney-ogwumike-cathy-engelbert-not-there-players-biggest-challenging-moments.html",
+      "date": "2026-07-29T23:30:51Z"
     },
     {
-      "title": "2 Value Stocks to Target This Week and 1 We Brush Off",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/92c0558ebfcc77eb",
-      "date": "2026-07-28T23:34:35Z"
+      "title": "Trump’s words on the Iran war make it easier for his critics to undermine him",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/29/opinion/trumps-words-on-the-iran-war-make-it-easier-for-his-critics-to-undermine-him/",
+      "date": "2026-07-29T23:27:04Z"
     },
     {
-      "title": "3 Financials Stocks on Our Watchlist",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d83858ece604e009",
-      "date": "2026-07-28T23:19:44Z"
-    },
-    {
-      "title": "US-Iran war: Nigeria tops Africa in petrol price surge",
-      "source": "The Punch",
-      "url": "https://punchng.com/us-iran-war-nigeria-tops-africa-in-petrol-price-surge/",
-      "date": "2026-07-28T23:10:19Z"
-    },
-    {
-      "title": "Stock market rebounds with N482bn gain",
-      "source": "The Punch",
-      "url": "https://punchng.com/stock-market-rebounds-with-n482bn-gain/",
-      "date": "2026-07-28T23:10:19Z"
-    },
-    {
-      "title": "Florida 'doing the best' recruiting this Georgia safety",
-      "source": "USA Today",
-      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/recruiting/2026/07/28/florida-football-recruiting-isaiah-reeves-top-schools/91080713007/",
-      "date": "2026-07-28T23:02:52Z"
-    },
-    {
-      "title": "Polls close in Georgia as voters decide successor in special election",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/polls-close-georgia-voters-decide-successor-special-election",
-      "date": "2026-07-28T23:00:41Z"
-    },
-    {
-      "title": "Jim Cramer: How to avoid getting burned by parabolic stocks",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/28/jim-cramer-how-to-avoid-getting-burned-by-parabolic-stocks.html",
-      "date": "2026-07-28T23:00:01Z"
-    },
-    {
-      "title": "China’s free AI models may not stay free, Goldman says",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/chinese-ai-paid-weights-open-model-licensing-goldman/",
-      "date": "2026-07-28T22:56:12Z"
-    },
-    {
-      "title": "Apple Briefly Hits $5 Trillion Market Cap, Second Company Ever After Nvidia",
-      "source": "iPhone in Canada",
-      "url": "https://www.iphoneincanada.ca/2026/07/28/apple-5-trillion/",
-      "date": "2026-07-28T22:47:40Z"
-    },
-    {
-      "title": "Leveraged ETFs tied to SK Hynix are getting hammered as chip wreck deepens",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/473bf66bc277b785",
-      "date": "2026-07-28T22:46:38Z"
-    },
-    {
-      "title": "Markets Don’t Buy the US Ceasefire Against Iran Will Last",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
-      "date": "2026-07-28T22:46:03Z"
-    },
-    {
-      "title": "Seagate crushes earnings expectations, reinforcing the AI infrastructure trade",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/seagate-earnings-boost-ai-trade-sentiment/",
-      "date": "2026-07-28T22:43:14Z"
-    },
-    {
-      "title": "FirstFT: Chip stocks sink as AI sell-off intensifies",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c56ffe9127fc6564",
-      "date": "2026-07-28T22:31:11Z"
-    },
-    {
-      "title": "Death of easy money? What Rajan’s Fed role means for India",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/prime/economy-and-policy/death-of-easy-money-what-rajans-fed-role-means-for-india/primearticleshow/132687218.cms",
-      "date": "2026-07-28T22:30:00Z"
-    },
-    {
-      "title": "Live: ASX tipped to rise ahead of key inflation numbers",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-29/cpi-inflation-interest-rates-asx-market-live-updates/106969852",
-      "date": "2026-07-28T22:29:01Z"
-    },
-    {
-      "title": "[NSW] Free Matcha, Rose Flower, Shampoo and $5 Off Voucher @ Herbal Essences Pop Up, Pitt St",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/969471",
-      "date": "2026-07-28T22:27:06Z"
-    },
-    {
-      "title": "Jim Cramer says Wall Street is fleeing the AI trade and buying these stocks instead",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/28/jim-cramer-wall-street-fleeing-ai-trade-buying-these-stocks.html",
-      "date": "2026-07-28T22:20:01Z"
-    },
-    {
-      "title": "Here’s What My System Says About 4 Big Tech Stocks Before Earnings…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/63482eca902dadfe",
-      "date": "2026-07-28T22:16:01Z"
-    },
-    {
-      "title": "Lindsey Graham’s funeral: a celebration of war",
-      "source": "RT",
-      "url": "https://www.rt.com/news/643591-lindsey-graham-funeral-netanyahu-zelensky/",
-      "date": "2026-07-28T22:06:31Z"
-    },
-    {
-      "title": "Stock market today: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/28/stock-market-today-live-updates.html",
-      "date": "2026-07-28T22:05:40Z"
-    },
-    {
-      "title": "The “Paycheck to Paycheck” Problem",
-      "source": "Dailyreckoning.com",
-      "url": "https://dailyreckoning.com/the-paycheck-to-paycheck-problem/",
-      "date": "2026-07-28T22:00:50Z"
-    },
-    {
-      "title": "Summer days for athletes thinning, so make the most of what's left | Kochanny",
-      "source": "Petoskey News-Review",
-      "url": "https://www.petoskeynews.com/story/sports/high-school/2026/07/28/go-make-the-most-of-the-summer-days-left-youve-earned-it-kochanny/91035786007/",
-      "date": "2026-07-28T22:00:35Z"
-    },
-    {
-      "title": "Morgan Stanley passes 100% of staking rewards to investors on new Ethereum and Solana ETFs",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/morgan-stanley-ethereum-solana-etf-staking-rewards/",
-      "date": "2026-07-28T21:58:56Z"
-    },
-    {
-      "title": "Strategy quietly sold 3,588 Bitcoin and almost nobody noticed",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/strategy-bitcoin-sale-metaplanet-leclair/",
-      "date": "2026-07-28T21:57:24Z"
-    },
-    {
-      "title": "Mixed day for global stocks but oil prices fall along with chip shares",
+      "title": "Wall Street closes down sharply after Fed holds rates unchanged",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/mixed-day-global-stocks-oil-prices-fall-along-chip-shares-6284381",
-      "date": "2026-07-28T21:52:43Z"
+      "url": "https://www.channelnewsasia.com/business/wall-street-closes-down-sharply-after-fed-holds-rates-unchanged-6287106",
+      "date": "2026-07-29T23:20:00Z"
     },
     {
-      "title": "Stock market today: Nasdaq pares losses as chip stocks sell off, S&P 500 and Dow rise - Yahoo Finance",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184740802",
-      "date": "2026-07-28T21:52:08Z"
+      "title": "US stocks close near lows as markets don't like the Fed decision/comments",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/70d5cfc286428827",
+      "date": "2026-07-29T23:17:19Z"
+    },
+    {
+      "title": "AI's Biggest Winners Are Selling Off, and ETFs Are Behaving Strangely",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/43aacc8725cf7663",
+      "date": "2026-07-29T23:04:41Z"
+    },
+    {
+      "title": "Wealthsimple teases banned prediction markets as app launched",
+      "source": "National Observer",
+      "url": "https://www.nationalobserver.com/2026/07/29/news/wealthsimple-prediction-markets-app-launched",
+      "date": "2026-07-29T23:01:27Z"
+    },
+    {
+      "title": "Which Company Will Win the Race to $3 Trillion -- Amazon, Broadcom, or Taiwan Semiconductor?",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/3ffcf64dd817babf",
+      "date": "2026-07-29T22:48:14Z"
+    },
+    {
+      "title": "Prediction: Bitcoin Will Be Worth $2.5 Trillion in 3 Years",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/bb3fda1407d6ccba",
+      "date": "2026-07-29T22:47:48Z"
+    },
+    {
+      "title": "Stocks and bonds see wild ‘Fed Day’ swings as Wall Street’s ‘crash cushion’ evaporates",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f335022d9b1b2339",
+      "date": "2026-07-29T22:46:50Z"
+    },
+    {
+      "title": "Overlooked AI stock is growing faster than Nvidia",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/3e25aadc7dccd5ea",
+      "date": "2026-07-29T22:46:38Z"
+    },
+    {
+      "title": "News Wrap: Federal Reserve holds interest rates steady, but some vote for increase",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-federal-reserve-holds-interest-rates-steady-but-some-vote-for-increase",
+      "date": "2026-07-29T22:45:20Z"
+    },
+    {
+      "title": "Strategy tokenizes its stock on Solana for round-the-clock trading",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/strategy-tokenizes-stock-solana-247-trading/",
+      "date": "2026-07-29T22:38:29Z"
+    },
+    {
+      "title": "Warsh vows not to 'waver' on inflation as divided Fed leaves rates unchanged",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/federal-reserve-rates-unchanged-kevin-warsh-vows-not-waver-inflation-6287021",
+      "date": "2026-07-29T22:37:56Z"
+    },
+    {
+      "title": "Apple accused of letting fake crypto app steal $1.8 million",
+      "source": "Malwarebytes.com",
+      "url": "https://www.malwarebytes.com/blog/news/2026/07/apple-accused-of-letting-fake-crypto-app-steal-1-8-million",
+      "date": "2026-07-29T22:30:40Z"
+    },
+    {
+      "title": "Sebi’s new conduct code tightens norms for top officials, but gaps remain",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/prime/corporate-governance/sebis-new-conduct-code-tightens-norms-for-top-officials-but-gaps-remain/primearticleshow/132718285.cms",
+      "date": "2026-07-29T22:30:00Z"
+    },
+    {
+      "title": "Carvana reports slower sales growth, lower profit per vehicle - TT",
+      "source": "Transport Topics Online",
+      "url": "https://www.ttnews.com/articles/carvana-earnings-q2-2026",
+      "date": "2026-07-29T22:26:17Z"
+    },
+    {
+      "title": "Stocks Fall as 30-Year Bond Yields Surge After Fed | The Close 7/29/2026",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1f91f0b52be8da0d",
+      "date": "2026-07-29T22:24:38Z"
+    },
+    {
+      "title": "Jim Cramer says software's comeback could be the blueprint for AI stocks' next rally",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/29/jim-cramer-softwares-comeback-blueprint-ai-stocks-rally.html",
+      "date": "2026-07-29T22:22:13Z"
+    },
+    {
+      "title": "Trump says US to hit Iran hard",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/trump-says-us-to-hit-iran-hard-2/",
+      "date": "2026-07-29T22:21:46Z"
+    },
+    {
+      "title": "Farmland Partners Inc. Reports Second Quarter 2026 Results",
+      "source": "Associated Press",
+      "url": "https://apnews.com/press-release/business-wire/press-release-c6f7755c2a7c4d67b033e5f57321b222",
+      "date": "2026-07-29T22:20:10Z"
+    },
+    {
+      "title": "Jupiter reports 360% YTD growth in off-market trading volume as tokenized equity holders near 760,000",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/jupiter-off-market-trading-volume-growth/",
+      "date": "2026-07-29T22:16:55Z"
+    },
+    {
+      "title": "Teladoc Health (NYSE:TDOC) Issues Earnings Results",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/teladoc-health-nysetdoc-issues-earnings-results-2026-07-29/",
+      "date": "2026-07-29T22:13:34Z"
+    },
+    {
+      "title": "US Patriot interceptor stockpile diminished by 65% in Iran war, think tank estimates",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Politics/us-patriot-interceptor-stockpile-diminished-65-iran-war/story?id=135198306",
+      "date": "2026-07-29T22:12:39Z"
+    },
+    {
+      "title": "Giants survey: Grade the draft",
+      "source": "McCovey Chronicles",
+      "url": "https://www.mccoveychronicles.com/san-francisco-giants-discussion/109772/giants-fan-surveys-2026-mlb-draft",
+      "date": "2026-07-29T22:10:40Z"
+    },
+    {
+      "title": "Trump Says 'Worst Airport' Will Become One of the Best",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/393749/trump-unveils-225b-plan-for-dulles-airport-overhaul.html",
+      "date": "2026-07-29T22:10:00Z"
+    },
+    {
+      "title": "Microsoft keeps capex forecast unchanged, becoming one of the first data center giants to hold the line on AI spending",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/microsoft-ai-capex-unchanged-data-centers-spending-tech-giants-2026-7#article",
+      "date": "2026-07-29T22:04:44Z"
+    },
+    {
+      "title": "JPMorgan just sent stock market investors a signal worth watching",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/0cd53a013f411479",
+      "date": "2026-07-29T22:03:31Z"
     }
   ]
 }

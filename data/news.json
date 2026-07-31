@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-07-30T23:58:12.722963"
+      "date": "2026-07-31T23:57:41.493775"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-07-30T23:58:12.722969"
+      "date": "2026-07-31T23:57:41.493780"
     }
   ],
   "bitcoin": {
-    "price": 64745,
-    "date": "2026-07-30T23:58:12.811863"
+    "price": 62817,
+    "date": "2026-07-31T23:57:41.641794"
   },
   "news": [
     {
-      "title": "youngcan-wyckoff-analysis 0.9.222",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.222/",
-      "date": "2026-07-29T23:49:09Z"
-    },
-    {
-      "title": "The Memory Crash Has 4 Big Stocks Down 30% or More From Their Highs. I'd Buy 2 of Them",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/bc1d353e2204c675",
-      "date": "2026-07-29T23:33:50Z"
-    },
-    {
-      "title": "Oil prices surge after Trump vows retaliation for Iranian attack - ABC News",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f795d739cb31a25d",
-      "date": "2026-07-29T23:32:00Z"
-    },
-    {
-      "title": "Chiney Ogwumike: Cathy Engelbert not there for WNBA players ‘in the biggest and most challenging moments’",
-      "source": "Awful Announcing",
-      "url": "https://awfulannouncing.com/wnba/chiney-ogwumike-cathy-engelbert-not-there-players-biggest-challenging-moments.html",
-      "date": "2026-07-29T23:30:51Z"
-    },
-    {
-      "title": "Trump’s words on the Iran war make it easier for his critics to undermine him",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/29/opinion/trumps-words-on-the-iran-war-make-it-easier-for-his-critics-to-undermine-him/",
-      "date": "2026-07-29T23:27:04Z"
-    },
-    {
-      "title": "Wall Street closes down sharply after Fed holds rates unchanged",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/wall-street-closes-down-sharply-after-fed-holds-rates-unchanged-6287106",
-      "date": "2026-07-29T23:20:00Z"
-    },
-    {
-      "title": "US stocks close near lows as markets don't like the Fed decision/comments",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/70d5cfc286428827",
-      "date": "2026-07-29T23:17:19Z"
-    },
-    {
-      "title": "AI's Biggest Winners Are Selling Off, and ETFs Are Behaving Strangely",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/43aacc8725cf7663",
-      "date": "2026-07-29T23:04:41Z"
-    },
-    {
-      "title": "Wealthsimple teases banned prediction markets as app launched",
-      "source": "National Observer",
-      "url": "https://www.nationalobserver.com/2026/07/29/news/wealthsimple-prediction-markets-app-launched",
-      "date": "2026-07-29T23:01:27Z"
-    },
-    {
-      "title": "Which Company Will Win the Race to $3 Trillion -- Amazon, Broadcom, or Taiwan Semiconductor?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3ffcf64dd817babf",
-      "date": "2026-07-29T22:48:14Z"
-    },
-    {
-      "title": "Prediction: Bitcoin Will Be Worth $2.5 Trillion in 3 Years",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/bb3fda1407d6ccba",
-      "date": "2026-07-29T22:47:48Z"
-    },
-    {
-      "title": "Stocks and bonds see wild ‘Fed Day’ swings as Wall Street’s ‘crash cushion’ evaporates",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f335022d9b1b2339",
-      "date": "2026-07-29T22:46:50Z"
-    },
-    {
-      "title": "Overlooked AI stock is growing faster than Nvidia",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3e25aadc7dccd5ea",
-      "date": "2026-07-29T22:46:38Z"
-    },
-    {
-      "title": "News Wrap: Federal Reserve holds interest rates steady, but some vote for increase",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-federal-reserve-holds-interest-rates-steady-but-some-vote-for-increase",
-      "date": "2026-07-29T22:45:20Z"
-    },
-    {
-      "title": "Strategy tokenizes its stock on Solana for round-the-clock trading",
+      "title": "Situational Awareness fund’s $16B liquidation prompts Wall Street to bet AI trade has bottomed",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/strategy-tokenizes-stock-solana-247-trading/",
-      "date": "2026-07-29T22:38:29Z"
+      "url": "https://cryptobriefing.com/situational-awareness-ai-trade-bottom/",
+      "date": "2026-07-30T23:45:07Z"
     },
     {
-      "title": "Warsh vows not to 'waver' on inflation as divided Fed leaves rates unchanged",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/federal-reserve-rates-unchanged-kevin-warsh-vows-not-waver-inflation-6287021",
-      "date": "2026-07-29T22:37:56Z"
-    },
-    {
-      "title": "Apple accused of letting fake crypto app steal $1.8 million",
-      "source": "Malwarebytes.com",
-      "url": "https://www.malwarebytes.com/blog/news/2026/07/apple-accused-of-letting-fake-crypto-app-steal-1-8-million",
-      "date": "2026-07-29T22:30:40Z"
-    },
-    {
-      "title": "Sebi’s new conduct code tightens norms for top officials, but gaps remain",
+      "title": "Pre-market action: Here's the trade setup for today's session",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/prime/corporate-governance/sebis-new-conduct-code-tightens-norms-for-top-officials-but-gaps-remain/primearticleshow/132718285.cms",
-      "date": "2026-07-29T22:30:00Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132752586.cms",
+      "date": "2026-07-30T23:44:59Z"
     },
     {
-      "title": "Carvana reports slower sales growth, lower profit per vehicle - TT",
-      "source": "Transport Topics Online",
-      "url": "https://www.ttnews.com/articles/carvana-earnings-q2-2026",
-      "date": "2026-07-29T22:26:17Z"
+      "title": "Breitbart Business Digest: Wall Street Gasps as Kevin Warsh's Fed Abdicates Its Market Throne",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/economy/2026/07/30/breitbart-business-digest-wall-street-gasps-as-kevin-warshs-fed-abdicates-its-market-throne/",
+      "date": "2026-07-30T23:33:01Z"
     },
     {
-      "title": "Stocks Fall as 30-Year Bond Yields Surge After Fed | The Close 7/29/2026",
+      "title": "Cathie Wood buys $14.3 million of tumbling semiconductor stock",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1f91f0b52be8da0d",
-      "date": "2026-07-29T22:24:38Z"
+      "url": "https://biztoc.com/x/3ca725bd88d3f820",
+      "date": "2026-07-30T23:27:25Z"
     },
     {
-      "title": "Jim Cramer says software's comeback could be the blueprint for AI stocks' next rally",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/29/jim-cramer-softwares-comeback-blueprint-ai-stocks-rally.html",
-      "date": "2026-07-29T22:22:13Z"
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares | TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "date": "2026-07-30T23:26:58Z"
     },
     {
-      "title": "Trump says US to hit Iran hard",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/trump-says-us-to-hit-iran-hard-2/",
-      "date": "2026-07-29T22:21:46Z"
+      "title": "Trump’s Vision for Defense-Heavy West Takes Root in Europe at Athens Defense Summit",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/07/30/trumps-vision-for-defense-heavy-west-takes-root-in-europe-at-athens-defense-summit/",
+      "date": "2026-07-30T23:13:55Z"
     },
     {
-      "title": "Farmland Partners Inc. Reports Second Quarter 2026 Results",
-      "source": "Associated Press",
-      "url": "https://apnews.com/press-release/business-wire/press-release-c6f7755c2a7c4d67b033e5f57321b222",
-      "date": "2026-07-29T22:20:10Z"
+      "title": " Major AI Hedge Fund Melts Down As Fears Of Bubble Grow",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/citadel-situational-stock-ai_n_6a6bd6d9e4b098352c316716",
+      "date": "2026-07-30T23:11:17Z"
     },
     {
-      "title": "Jupiter reports 360% YTD growth in off-market trading volume as tokenized equity holders near 760,000",
+      "title": "How China Became the Ultimate Swing Oil Buyer",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/How-China-Became-the-Ultimate-Swing-Oil-Buyer.html",
+      "date": "2026-07-30T23:00:00Z"
+    },
+    {
+      "title": "Columbia grad student union officials drop Israel divestment demand: ‘Face the realities’",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/30/us-news/columbia-grad-student-union-officials-drop-israel-divestment-demand-face-the-realities/",
+      "date": "2026-07-30T22:58:02Z"
+    },
+    {
+      "title": "Oklo vs. NuScale: Which One Actually Has Paying Customers Lined Up?",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/0a68c05c30fd4d3e",
+      "date": "2026-07-30T22:44:45Z"
+    },
+    {
+      "title": "Strategy aims to surpass Berkshire Hathaway, says Michael Saylor",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/jupiter-off-market-trading-volume-growth/",
-      "date": "2026-07-29T22:16:55Z"
+      "url": "https://cryptobriefing.com/strategy-surpass-berkshire-hathaway-saylor/",
+      "date": "2026-07-30T22:43:19Z"
     },
     {
-      "title": "Teladoc Health (NYSE:TDOC) Issues Earnings Results",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/teladoc-health-nysetdoc-issues-earnings-results-2026-07-29/",
-      "date": "2026-07-29T22:13:34Z"
+      "title": "Jim Cramer says this hedge fund's blowup reveals the hidden risks of leverage",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/30/jim-cramer-situational-awareness-blowup-reveals-hidden-risks-of-leverage.html",
+      "date": "2026-07-30T22:37:02Z"
     },
     {
-      "title": "US Patriot interceptor stockpile diminished by 65% in Iran war, think tank estimates",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Politics/us-patriot-interceptor-stockpile-diminished-65-iran-war/story?id=135198306",
-      "date": "2026-07-29T22:12:39Z"
+      "title": "How Sundaram Alternates’ bet on a long-ignored sector returned 30%",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/prime/money-and-markets/how-sundaram-alternates-bet-on-a-long-ignored-sector-returned-30/primearticleshow/132748223.cms",
+      "date": "2026-07-30T22:30:00Z"
     },
     {
-      "title": "Giants survey: Grade the draft",
-      "source": "McCovey Chronicles",
-      "url": "https://www.mccoveychronicles.com/san-francisco-giants-discussion/109772/giants-fan-surveys-2026-mlb-draft",
-      "date": "2026-07-29T22:10:40Z"
+      "title": "Coinbase shares slide as revenue and earnings miss despite record market share",
+      "source": "SiliconANGLE News",
+      "url": "https://siliconangle.com/2026/07/30/coinbase-shares-slide-revenue-earnings-miss-despite-record-market-share/",
+      "date": "2026-07-30T22:24:03Z"
     },
     {
-      "title": "Trump Says 'Worst Airport' Will Become One of the Best",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/393749/trump-unveils-225b-plan-for-dulles-airport-overhaul.html",
-      "date": "2026-07-29T22:10:00Z"
+      "title": "Redwood AI's Marketing Budget Runs Dry as Stock Hits Fresh Lows",
+      "source": "Ad-hoc-news.de",
+      "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/redwood-ai-s-marketing-budget-runs-dry-as-stock-hits-fresh-lows/69902277",
+      "date": "2026-07-30T22:19:23Z"
     },
     {
-      "title": "Microsoft keeps capex forecast unchanged, becoming one of the first data center giants to hold the line on AI spending",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/microsoft-ai-capex-unchanged-data-centers-spending-tech-giants-2026-7#article",
-      "date": "2026-07-29T22:04:44Z"
-    },
-    {
-      "title": "JPMorgan just sent stock market investors a signal worth watching",
+      "title": "Top ASX Stocks With Low Debt And Strong Earnings Growth",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/0cd53a013f411479",
-      "date": "2026-07-29T22:03:31Z"
+      "url": "https://biztoc.com/x/d330f10b3c98cdf4",
+      "date": "2026-07-30T22:14:12Z"
+    },
+    {
+      "title": "FirstFT: Chinese stocks on course for worst month in decade",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/175349fc3e270238",
+      "date": "2026-07-30T22:12:00Z"
+    },
+    {
+      "title": "Coinbase Derivatives launches US500 equity index perp-style futures on August 17",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/coinbase-us500-equity-index-futures/",
+      "date": "2026-07-30T22:11:15Z"
+    },
+    {
+      "title": "The Rays or Brewers Must Trade for Tarik Skubal",
+      "source": "Fangraphs.com",
+      "url": "https://blogs.fangraphs.com/the-rays-or-brewers-must-trade-for-tarik-skubal/",
+      "date": "2026-07-30T22:06:47Z"
+    },
+    {
+      "title": "Apple and Amazon report rising revenues as investors turn on some tech stocks",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b1fee631c63e264a",
+      "date": "2026-07-30T21:58:59Z"
+    },
+    {
+      "title": "Situational Awareness hedge fund assets drop to $10B after liquidations",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/situational-awareness-hedge-fund-liquidation/",
+      "date": "2026-07-30T21:55:12Z"
+    },
+    {
+      "title": "If Iran Was Weaponizing Smallpox And Other Deadly Pathogens 23 Years Ago, How Much More Advanced Is Their Program Today?",
+      "source": "Theeconomiccollapseblog.com",
+      "url": "http://theeconomiccollapseblog.com/if-iran-was-weaponizing-smallpox-and-other-deadly-pathogens-23-years-ago-how-much-more-advanced-is-their-program-today/",
+      "date": "2026-07-30T21:46:56Z"
+    },
+    {
+      "title": "Live: US stocks lift and ASX 200 set to follow",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-31/asx-markets-business-live-news-31-july-2026/104556762",
+      "date": "2026-07-30T21:45:50Z"
+    },
+    {
+      "title": "2 Unprofitable Stocks for Long-Term Investors and 1 We Ignore",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2db12a6539c2a87c",
+      "date": "2026-07-30T21:44:17Z"
+    },
+    {
+      "title": "Strategy posts $8.2 billion loss as bitcoin holdings increase 11% during Q2",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f89730552d937148",
+      "date": "2026-07-30T21:42:15Z"
+    },
+    {
+      "title": "BlackRock clients sell $60M of IBIT, buy over $20M of ETHA in notable rotation",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/blackrock-clients-sell-ibit-buy-etha/",
+      "date": "2026-07-30T21:38:23Z"
+    },
+    {
+      "title": "Strategy posts $8.2B Q2 loss as Bitcoin slump drives unrealized losses",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/strategy-reports-q2-2026-loss",
+      "date": "2026-07-30T21:36:39Z"
+    },
+    {
+      "title": "Wynn Resorts Takes Over #488 Spot From Universal Health Services",
+      "source": "Nasdaq",
+      "url": "https://www.nasdaq.com/articles/wynn-resorts-takes-over-488-spot-universal-health-services",
+      "date": "2026-07-30T21:35:32Z"
+    },
+    {
+      "title": "Are Wine Moms Rebelling or Surrendering?",
+      "source": "Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/mother-tongue/202607/are-wine-moms-rebelling-or-surrendering-0",
+      "date": "2026-07-30T21:34:17Z"
+    },
+    {
+      "title": "Strategy books $8.2 billion Q2 loss on bitcoin price decline",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c5b828b6784dcbb2",
+      "date": "2026-07-30T21:27:03Z"
     }
   ]
 }

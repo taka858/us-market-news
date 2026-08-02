@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-08-01T23:52:52.397211"
+      "date": "2026-08-02T23:54:00.910400"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-08-01T23:52:52.397219"
+      "date": "2026-08-02T23:54:00.910405"
     }
   ],
   "bitcoin": {
-    "price": 62772,
-    "date": "2026-08-01T23:52:52.542933"
+    "price": 63464,
+    "date": "2026-08-02T23:54:01.117932"
   },
   "news": [
     {
-      "title": "Nancy Guthrie Ransom Notes Released by Sheriff: ‘She Perished Shortly After She Was Taken’",
-      "source": "Rolling Stone",
-      "url": "http://www.rollingstone.com/culture/culture-news/nancy-guthrie-ransom-notes-released-sheriff-1235601882/",
-      "date": "2026-07-31T23:52:21Z"
+      "title": "marketdx 0.15.0",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/marketdx/0.15.0/",
+      "date": "2026-08-01T23:46:04Z"
     },
     {
-      "title": "TLT Slides as the 30-Year Yield Hits Its Highest Since 2007",
+      "title": "Gains Rio Grande LNG Momentum As Undervalued Narrative Holds",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d21b5300f9ca0cf8",
-      "date": "2026-07-31T23:39:30Z"
+      "url": "https://biztoc.com/x/29e218b5ecf30caa",
+      "date": "2026-08-01T23:32:33Z"
     },
     {
-      "title": "Elmer's 4-oz. Washable Liquid School Glue: 50 cents + free shipping w/ $35",
-      "source": "Dealnews.com",
-      "url": "https://www.dealnews.com/Elmers-4-oz-Washable-Liquid-School-Glue-50-cents-free-shipping-w-35/21953058.html",
-      "date": "2026-07-31T23:25:12Z"
-    },
-    {
-      "title": "Alphabet Jumps 6%, Reddit Craters 23% in Social Media Stock Divergence",
+      "title": "Lucid Group Reports Earnings on August 4. Here's What Investors Should Be Watching",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/399da76fbc905844",
-      "date": "2026-07-31T23:22:41Z"
+      "url": "https://biztoc.com/x/9f8c83f3fd277f09",
+      "date": "2026-08-01T23:32:20Z"
     },
     {
-      "title": "Bowman Gray Stadium has fifth 100-lap race of season",
-      "source": "Tvilletimes",
-      "url": "https://www.hpenews.com/kernersville/sports/bowman-gray-stadium-has-fifth-100-lap-race-of-season/article_4f6dde99-fe09-548f-8ede-39844b00d702.html",
-      "date": "2026-07-31T23:17:00Z"
-    },
-    {
-      "title": "Rivian Automotive Stock’s Best Case Is Hiding In Its Cost Per Vehicle",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f294519f3d657941",
-      "date": "2026-07-31T23:07:39Z"
-    },
-    {
-      "title": "Black Caps v Australia: Tom Latham’s chance at captaincy immortality in transtasman test series",
-      "source": "New Zealand Herald",
-      "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-v-australia-tom-lathams-chance-at-captaincy-immortality-in-trans-tasman-test-series/Y5PW3UVC6ZCDHPX53VKODRUJMA/",
-      "date": "2026-07-31T23:01:00Z"
-    },
-    {
-      "title": "Tech giants commit $2.4 trillion to AI infrastructure, creating a capital vacuum that will reshape markets",
+      "title": "Franklin Templeton dismisses skepticism on AI capital expenditures, calls spending cycle ‘early innings’",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/tech-giants-2-4t-ai-infrastructure-investment/",
-      "date": "2026-07-31T23:00:33Z"
+      "url": "https://cryptobriefing.com/franklin-templeton-ai-capex-spending-early-innings/",
+      "date": "2026-08-01T23:20:27Z"
     },
     {
-      "title": "Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4e5ba860035cbc77",
-      "date": "2026-07-31T22:52:23Z"
+      "title": "Fox Legal Analyst Shares Grim Nancy Guthrie Prediction After Ransom Notes Are Revealed",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/fox-legal-analyst-shares-grim-nancy-guthrie-prediction-after-ransom-notes-are-revealed/",
+      "date": "2026-08-01T23:18:44Z"
     },
     {
-      "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce973re9404o",
-      "date": "2026-07-31T22:46:44Z"
+      "title": "How thin weekend Bitcoin liquidity turns minor geopolitical news into massive Monday price gaps for ETF holders",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/how-thin-weekend-liquidity-turns-minor-geopolitical-news-into-massive-monday-price-gaps-for-etf-holders/",
+      "date": "2026-08-01T23:10:43Z"
     },
     {
-      "title": "Stock May Be Expensive On Its 130% 3 Year Run",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/442a373f53cf1bf2",
-      "date": "2026-07-31T22:38:57Z"
+      "title": "tollbooth-dpyc 0.79.0",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/tollbooth-dpyc/0.79.0/",
+      "date": "2026-08-01T22:59:20Z"
     },
     {
-      "title": "US Stocks Rally To End Turbulent Month | The Close 7/31/2026",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/2215ff462c2db663",
-      "date": "2026-07-31T22:29:40Z"
-    },
-    {
-      "title": "PR nightmares, an incompetent commissioner and now a trans war... JAMES COHEN reveals why the WNBA must make a change now or risk fumbling Caitlin Clark and its big chance at success",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/wnba/article-16017881/wnba-nightmare-caitlin-clark-sophie-cunningham.html",
-      "date": "2026-07-31T22:25:51Z"
-    },
-    {
-      "title": "Ransom Notes Released In Nancy Guthrie Case In Hopes Of Generating New Leads",
-      "source": "Deadline",
-      "url": "http://deadline.com/2026/07/ransom-notes-released-nancy-guthrie-savannah-guthrie-1237014956/",
-      "date": "2026-07-31T22:15:44Z"
-    },
-    {
-      "title": "Nancy Guthrie Died ‘Shortly’ After Kidnapping, Claims Just Released Ransom Note",
-      "source": "Extra",
-      "url": "https://extratv.com/2026/07/31/nancy-guthrie-died-shortly-after-kidnapping-claims-just-released-ransom-note/",
-      "date": "2026-07-31T22:09:00Z"
-    },
-    {
-      "title": "Weight Loss Drug Stocks Slump. What Ozempic Maker Novo Nordisk Said",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c264a3397d864a71",
-      "date": "2026-07-31T22:07:15Z"
-    },
-    {
-      "title": "Citadel acquires $16B in public equities, averting AI stock fire sale",
+      "title": "US ETF industry sees record 390 launches in 2 months, and half of them use derivatives",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/citadel-acquires-16b-equities-ai-stock-fire-sale/",
-      "date": "2026-07-31T22:03:37Z"
+      "url": "https://cryptobriefing.com/us-etf-record-launches-derivatives-leverage/",
+      "date": "2026-08-01T22:55:33Z"
     },
     {
-      "title": "Sheriff’s Department Releases Nancy Guthrie Ransom Notes",
-      "source": "Vulture",
-      "url": "http://www.vulture.com/article/nancy-guthrie-ransom-notes-released.html",
-      "date": "2026-07-31T21:57:28Z"
-    },
-    {
-      "title": "Block traces COLDCARD attacker to blockchain services provider after $38M Bitcoin theft",
+      "title": "Trump nears decision on large-scale attack on Iran, rattling crypto markets and oil prices",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/block-coldcard-attacker-blockchain-services-provider/",
-      "date": "2026-07-31T21:48:44Z"
+      "url": "https://cryptobriefing.com/trump-iran-attack-crypto-markets/",
+      "date": "2026-08-01T22:49:34Z"
     },
     {
-      "title": "Is this proposition a $4 billion giveaway to a billionaire-backed LA research center?",
-      "source": "KPBS",
-      "url": "https://www.kpbs.org/news/politics/2026/07/31/is-this-proposition-a-4-billion-giveaway-to-a-billionaire-backed-la-research-center",
-      "date": "2026-07-31T21:47:41Z"
+      "title": "L.L. SOFTBALL: Minersville’s run to Bristol a summer of dreams",
+      "source": "Republicanherald.com",
+      "url": "https://www.republicanherald.com/2026/08/01/l-l-softball-minersvilles-run-to-bristol-a-summer-of-dreams/",
+      "date": "2026-08-01T22:46:00Z"
     },
     {
-      "title": "Clarksville City Council approves $55 billion in bonds for data center (Arkansas. Population about 11,000)",
+      "title": "Blue Wallet adds custom entropy feature for Bitcoin key generation in version 8.0.0",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/bluewallet-custom-entropy-bitcoin-key-generation/",
+      "date": "2026-08-01T22:44:17Z"
+    },
+    {
+      "title": "Relentless West Suburban team puts opponents away",
+      "source": "TribDem.com",
+      "url": "https://www.tribdem.com/sports/local_sports/relentless-west-suburban-team-puts-opponents-away/article_f3fd46f4-7c29-439f-bb01-c10d6d0010b3.html",
+      "date": "2026-08-01T22:35:00Z"
+    },
+    {
+      "title": "Has Expeditors International Of Washington (EXPD) Run Too Far Ahead Of Flat Sales?",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/393739331ca52ad0",
+      "date": "2026-08-01T22:32:27Z"
+    },
+    {
+      "title": "Amazon Raised 2026 CapEx by $20 Billion— but CEO Andy Jassy Won't Say How It's Paying for It: 'Nothing to Share...'",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-raised-2026-capex-20-223016275.html",
+      "date": "2026-08-01T22:30:16Z"
+    },
+    {
+      "title": "Jay Leno Took a $15M Pay Cut to Protect His 'The Tonight Show' Staff. He Lived Off His Stand Up Income Anyway and Never Touched the Checks",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/media-advertising/articles/jay-leno-took-15m-pay-223014870.html",
+      "date": "2026-08-01T22:30:14Z"
+    },
+    {
+      "title": "Galaxy Research identifies 1,367 BTC drained in attacks on Coldcard addresses",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/galaxy-research-coldcard-btc-attack-1367/",
+      "date": "2026-08-01T22:12:47Z"
+    },
+    {
+      "title": "Chipmakers report record earnings, but stocks decline amid skepticism over AI spending",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/chipmakers-record-earnings-stocks-decline-ai-skepticism/",
+      "date": "2026-08-01T22:04:12Z"
+    },
+    {
+      "title": "Strategy holds STRC dividend at 12%",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
+      "date": "2026-08-01T22:01:57Z"
+    },
+    {
+      "title": "3 High-Yield Energy Stocks to Buy With $1,000 Right Now and Hold Through 2030",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/53b10aff110b485f",
+      "date": "2026-08-01T22:01:53Z"
+    },
+    {
+      "title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html",
+      "date": "2026-08-01T22:00:22Z"
+    },
+    {
+      "title": "You Don't Have to Own a Single AI Stock to Get Hurt When This Bubble Pops.",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/08/01/3337158/0/en/You-Don-t-Have-to-Own-a-Single-AI-Stock-to-Get-Hurt-When-This-Bubble-Pops.html",
+      "date": "2026-08-01T22:00:00Z"
+    },
+    {
+      "title": "tollbooth-dpyc 0.78.0",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/tollbooth-dpyc/0.78.0/",
+      "date": "2026-08-01T21:19:25Z"
+    },
+    {
+      "title": "Onchain, in court: What happened in crypto legal news this week",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4",
+      "date": "2026-08-01T21:14:39Z"
+    },
+    {
+      "title": "Iran threatens infrastructure retaliation as geopolitical risk clouds crypto markets",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-infrastructure-threat-bitcoin-crypto-markets/",
+      "date": "2026-08-01T21:11:25Z"
+    },
+    {
+      "title": "Mitt Romney’s IRA Was Worth Up to $100 Million When He Ran for President but The Annual Limit Was $6,000. The Rules He Used Are Still Legal",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/08/01/mitt-romneys-ira-was-worth-up-to-100-million-when-he-ran-for-president-but-the-annual-limit-was-6000-the-rules-he-used-are-still-legal/",
+      "date": "2026-08-01T21:03:36Z"
+    },
+    {
+      "title": "3 Dividend Stocks to Buy and Hold Forever",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/545abcc1f9e50858",
+      "date": "2026-08-01T20:47:03Z"
+    },
+    {
+      "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
       "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4390105/posts",
-      "date": "2026-07-31T21:45:57Z"
+      "url": "https://freerepublic.com/focus/f-news/4390213/posts",
+      "date": "2026-08-01T20:41:07Z"
     },
     {
-      "title": "Sheriff Releases Nancy Guthrie Ransom Notes Claiming ‘She Perished’ in Hope of New Leads",
-      "source": "TheWrap",
-      "url": "https://www.thewrap.com/industry-news/public-policy-legal/nancy-guthrie-ransom-notes-claim-she-died-released-by-sheriff/",
-      "date": "2026-07-31T21:43:07Z"
+      "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4390213/posts",
+      "date": "2026-08-01T20:41:07Z"
     },
     {
-      "title": "Amazon surges as US stocks shrug off bond yield worries",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/amazon-us-stocks-market-fed-6292111",
-      "date": "2026-07-31T21:43:00Z"
+      "title": "What We Want to Leave Behind: A Conversation with Carolyn Ives Gilman by Arley Sorg",
+      "source": "Clarkesworldmagazine.com",
+      "url": "https://clarkesworldmagazine.com/gilman_interview_2026/",
+      "date": "2026-08-01T20:38:25Z"
     },
     {
-      "title": "Sheriff’s Office Releases Nancy Guthrie Ransom Notes Claiming Her Death",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/07/31/arizona-pima-county-sheriffs-office-release-nancy-guthrie-ransom-notes-death-claims-savannah-missing-person-abduction",
-      "date": "2026-07-31T21:35:23Z"
-    },
-    {
-      "title": "Read the full Nancy Guthrie ransom note with chilling details that proved 84-year-old was kidnapped",
-      "source": "Page Six",
-      "url": "https://pagesix.com/2026/07/31/celebrity-news/read-the-full-nancy-guthrie-ransom-note-with-chilling-details-that-proved-84-year-old-was-kidnapped/",
-      "date": "2026-07-31T21:35:19Z"
-    },
-    {
-      "title": "Stock Market Today: Dow Slips; Bond Selloff Picks Up; Apple, Roblox in Focus — Live Updates - WSJ",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184794030",
-      "date": "2026-07-31T21:33:28Z"
-    },
-    {
-      "title": "Guthrie Investigators Release Notes From Kidnapper",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/393896/guthrie-investigators-release-notes-from-kidnapper.html",
-      "date": "2026-07-31T21:31:00Z"
-    },
-    {
-      "title": "Wall Street recovers from volatile week as AI boom shows first real cracks",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/wall-street-recovers-volatile-week-ai-boom/",
-      "date": "2026-07-31T21:28:03Z"
-    },
-    {
-      "title": "S&P 500 ends with its first July decline since 2014. Here are the stocks that led the selloff",
+      "title": "Undervalued Or Already Priced For EV Charges?",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4b76da7287da87ae",
-      "date": "2026-07-31T21:21:34Z"
-    },
-    {
-      "title": "ADI Global Distribution to replace Hertz in S&P 600 at open on 8/5",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/adig",
-      "date": "2026-07-31T21:20:17Z"
+      "url": "https://biztoc.com/x/4ca500e7d3d3c5d4",
+      "date": "2026-08-01T20:31:59Z"
     }
   ]
 }

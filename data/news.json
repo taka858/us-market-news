@@ -4,198 +4,186 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-08-02T23:54:00.910400"
+      "date": "2026-08-04T00:04:18.112445"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-08-02T23:54:00.910405"
+      "date": "2026-08-04T00:04:18.112454"
     }
   ],
   "bitcoin": {
-    "price": 63464,
-    "date": "2026-08-02T23:54:01.117932"
+    "price": 63439,
+    "date": "2026-08-04T00:04:18.209932"
   },
   "news": [
     {
-      "title": "marketdx 0.15.0",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/marketdx/0.15.0/",
-      "date": "2026-08-01T23:46:04Z"
+      "title": "Beyond Broad Peak: Climate change and new avalanche threat",
+      "source": "Khabarhub.com",
+      "url": "https://english.khabarhub.com/2026/03/561494/",
+      "date": "2026-08-03T00:00:38Z"
     },
     {
-      "title": "Gains Rio Grande LNG Momentum As Undervalued Narrative Holds",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/29e218b5ecf30caa",
-      "date": "2026-08-01T23:32:33Z"
+      "title": "Sustainable ammonia synthesis from nitrate wastewater via graphdiyne Mo–Cu–C≡C interfaces",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-76148-5.pdf",
+      "date": "2026-08-03T00:00:00Z"
     },
     {
-      "title": "Lucid Group Reports Earnings on August 4. Here's What Investors Should Be Watching",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9f8c83f3fd277f09",
-      "date": "2026-08-01T23:32:20Z"
+      "title": "Coupled electrosynthesis of formamide with ~100% carbon and nitrogen selectivity via matching cathode‒anode local pH",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-76027-z.pdf",
+      "date": "2026-08-03T00:00:00Z"
     },
     {
-      "title": "Franklin Templeton dismisses skepticism on AI capital expenditures, calls spending cycle ‘early innings’",
+      "title": "Morgan Stanley upgrades South Korean stocks to overweight, betting on AI and industrial recovery",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/franklin-templeton-ai-capex-spending-early-innings/",
-      "date": "2026-08-01T23:20:27Z"
+      "url": "https://cryptobriefing.com/morgan-stanley-upgrades-south-korean-stocks/",
+      "date": "2026-08-02T23:58:58Z"
     },
     {
-      "title": "Fox Legal Analyst Shares Grim Nancy Guthrie Prediction After Ransom Notes Are Revealed",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/news/fox-legal-analyst-shares-grim-nancy-guthrie-prediction-after-ransom-notes-are-revealed/",
-      "date": "2026-08-01T23:18:44Z"
+      "title": "Morgan Stanley Sees 36% Upside to Korean Stocks After ‘Washout’",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/morgan-stanley-sees-36-upside-to-korean-stocks-after-washout",
+      "date": "2026-08-02T23:56:11Z"
     },
     {
-      "title": "How thin weekend Bitcoin liquidity turns minor geopolitical news into massive Monday price gaps for ETF holders",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/how-thin-weekend-liquidity-turns-minor-geopolitical-news-into-massive-monday-price-gaps-for-etf-holders/",
-      "date": "2026-08-01T23:10:43Z"
-    },
-    {
-      "title": "tollbooth-dpyc 0.79.0",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/tollbooth-dpyc/0.79.0/",
-      "date": "2026-08-01T22:59:20Z"
-    },
-    {
-      "title": "US ETF industry sees record 390 launches in 2 months, and half of them use derivatives",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-etf-record-launches-derivatives-leverage/",
-      "date": "2026-08-01T22:55:33Z"
-    },
-    {
-      "title": "Trump nears decision on large-scale attack on Iran, rattling crypto markets and oil prices",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-iran-attack-crypto-markets/",
-      "date": "2026-08-01T22:49:34Z"
-    },
-    {
-      "title": "L.L. SOFTBALL: Minersville’s run to Bristol a summer of dreams",
-      "source": "Republicanherald.com",
-      "url": "https://www.republicanherald.com/2026/08/01/l-l-softball-minersvilles-run-to-bristol-a-summer-of-dreams/",
-      "date": "2026-08-01T22:46:00Z"
-    },
-    {
-      "title": "Blue Wallet adds custom entropy feature for Bitcoin key generation in version 8.0.0",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bluewallet-custom-entropy-bitcoin-key-generation/",
-      "date": "2026-08-01T22:44:17Z"
-    },
-    {
-      "title": "Relentless West Suburban team puts opponents away",
-      "source": "TribDem.com",
-      "url": "https://www.tribdem.com/sports/local_sports/relentless-west-suburban-team-puts-opponents-away/article_f3fd46f4-7c29-439f-bb01-c10d6d0010b3.html",
-      "date": "2026-08-01T22:35:00Z"
-    },
-    {
-      "title": "Has Expeditors International Of Washington (EXPD) Run Too Far Ahead Of Flat Sales?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/393739331ca52ad0",
-      "date": "2026-08-01T22:32:27Z"
-    },
-    {
-      "title": "Amazon Raised 2026 CapEx by $20 Billion— but CEO Andy Jassy Won't Say How It's Paying for It: 'Nothing to Share...'",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-raised-2026-capex-20-223016275.html",
-      "date": "2026-08-01T22:30:16Z"
-    },
-    {
-      "title": "Jay Leno Took a $15M Pay Cut to Protect His 'The Tonight Show' Staff. He Lived Off His Stand Up Income Anyway and Never Touched the Checks",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/media-advertising/articles/jay-leno-took-15m-pay-223014870.html",
-      "date": "2026-08-01T22:30:14Z"
-    },
-    {
-      "title": "Galaxy Research identifies 1,367 BTC drained in attacks on Coldcard addresses",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/galaxy-research-coldcard-btc-attack-1367/",
-      "date": "2026-08-01T22:12:47Z"
-    },
-    {
-      "title": "Chipmakers report record earnings, but stocks decline amid skepticism over AI spending",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/chipmakers-record-earnings-stocks-decline-ai-skepticism/",
-      "date": "2026-08-01T22:04:12Z"
-    },
-    {
-      "title": "Strategy holds STRC dividend at 12%",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/markets/2026/08/01/strategy-holds-strc-dividend-at-12",
-      "date": "2026-08-01T22:01:57Z"
-    },
-    {
-      "title": "3 High-Yield Energy Stocks to Buy With $1,000 Right Now and Hold Through 2030",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/53b10aff110b485f",
-      "date": "2026-08-01T22:01:53Z"
-    },
-    {
-      "title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html",
-      "date": "2026-08-01T22:00:22Z"
-    },
-    {
-      "title": "You Don't Have to Own a Single AI Stock to Get Hurt When This Bubble Pops.",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/08/01/3337158/0/en/You-Don-t-Have-to-Own-a-Single-AI-Stock-to-Get-Hurt-When-This-Bubble-Pops.html",
-      "date": "2026-08-01T22:00:00Z"
-    },
-    {
-      "title": "tollbooth-dpyc 0.78.0",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/tollbooth-dpyc/0.78.0/",
-      "date": "2026-08-01T21:19:25Z"
-    },
-    {
-      "title": "Onchain, in court: What happened in crypto legal news this week",
+      "title": "Coldcard exploit sparks Bitcoin flight, ‘bullish’ crypto consolidation: Hodler’s Digest, August 2",
       "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4",
-      "date": "2026-08-01T21:14:39Z"
+      "url": "https://cointelegraph.com/magazine/coldcard-exploit-sparks-bitcoin-flight-clarity-act-no-vote-or-no-vote-hodlers-digest-august-2",
+      "date": "2026-08-02T23:44:04Z"
     },
     {
-      "title": "Iran threatens infrastructure retaliation as geopolitical risk clouds crypto markets",
+      "title": "Could Be 46% Undervalued Following Avis Contract And Lawsuit Risk",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/82519863bccba60d",
+      "date": "2026-08-02T23:39:27Z"
+    },
+    {
+      "title": "Crypto torture gang: Bitcoin millionaires forced to strip naked and held for two days in blackmail ordeal",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16023625/Crypto-torture-gang-Bitcoin-millionaires-forced-strip-naked-held-two-days-blackmail-ordeal.html",
+      "date": "2026-08-02T23:39:22Z"
+    },
+    {
+      "title": "Severn Trent just downgraded at Jefferies, here's why",
+      "source": "Thefly.com",
+      "url": "https://www.thefly.com/svtrf",
+      "date": "2026-08-02T23:35:07Z"
+    },
+    {
+      "title": "Strategy CEO Phong Le Reveals 'Biggest Lesson' the Bitcoin Treasury Company Learned in 2026: 'The Importance of Holding Liquid US Dollars'",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/3080b38602ab30a0",
+      "date": "2026-08-02T23:24:09Z"
+    },
+    {
+      "title": "XRP ETFs Keep Drawing Cash, So Why Is the Price Down 40%?",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/xrp-etf-inflows-price-divergence/",
+      "date": "2026-08-02T23:13:49Z"
+    },
+    {
+      "title": "3 AI Stocks to Buy as the Margin Unwind Calms Down",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/08cf27abb9774a44",
+      "date": "2026-08-02T23:09:58Z"
+    },
+    {
+      "title": "Drivers have stolen nearly £200,000 of fuel from forecourts every day since start of Iran war amid rocketing pump prices",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16022803/drivers-stolen-200000-fuel-pump-prices-Iran-war.html",
+      "date": "2026-08-02T23:01:59Z"
+    },
+    {
+      "title": "Markets signal investors are back in buying mode again after Kospi’s record surge while Trump gives peace a chance with latest Iran reversal",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/02/kospi-index-dow-futures-us-stocks-trump-iran-war-reversal-oil-prices/",
+      "date": "2026-08-02T22:59:59Z"
+    },
+    {
+      "title": "4 Dividend Energy Stocks to Buy This Month, Starting With ExxonMobil",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/68d20d4e21e05094",
+      "date": "2026-08-02T22:54:34Z"
+    },
+    {
+      "title": "3 AI Stocks to Buy as the Margin Unwind Calms Down",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_64719e77-f3ab-4251-a249-580c4f4f3296",
+      "date": "2026-08-02T22:50:00Z"
+    },
+    {
+      "title": "Japan vows coordination with US to combat weak yen, pushing corporations toward Bitcoin",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-infrastructure-threat-bitcoin-crypto-markets/",
-      "date": "2026-08-01T21:11:25Z"
+      "url": "https://cryptobriefing.com/japan-us-weak-yen-bitcoin-hedge/",
+      "date": "2026-08-02T22:44:55Z"
     },
     {
-      "title": "Mitt Romney’s IRA Was Worth Up to $100 Million When He Ran for President but The Annual Limit Was $6,000. The Rules He Used Are Still Legal",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/personal-finance/2026/08/01/mitt-romneys-ira-was-worth-up-to-100-million-when-he-ran-for-president-but-the-annual-limit-was-6000-the-rules-he-used-are-still-legal/",
-      "date": "2026-08-01T21:03:36Z"
+      "title": "Ex-NRL player reveals drug offers during crippling gambling addiction",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-08-03/luke-bateman-nrl-gambling-addiction-ban/106987932",
+      "date": "2026-08-02T22:41:07Z"
     },
     {
-      "title": "3 Dividend Stocks to Buy and Hold Forever",
+      "title": "Japan Could Trigger the Biggest Market Shock of 2026: How Might Bitcoin React?",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/545abcc1f9e50858",
-      "date": "2026-08-01T20:47:03Z"
+      "url": "https://biztoc.com/x/951cbf4899c086fd",
+      "date": "2026-08-02T22:39:51Z"
     },
     {
-      "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4390213/posts",
-      "date": "2026-08-01T20:41:07Z"
+      "title": "We're 49, Debt-Free Except for a $120K Mortgage, and Have a $2.5M Net Worth. Should I Still Be Maxing Out My 401(k)?",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/articles/were-49-debt-free-except-223014640.html",
+      "date": "2026-08-02T22:30:14Z"
     },
     {
-      "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4390213/posts",
-      "date": "2026-08-01T20:41:07Z"
+      "title": "Weddings are changing: Why Manyavar needs to look beyond sherwanis",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/prime/consumer/weddings-are-changing-why-manyavar-needs-to-look-beyond-sherwanis/primearticleshow/132810752.cms",
+      "date": "2026-08-02T22:30:00Z"
     },
     {
-      "title": "What We Want to Leave Behind: A Conversation with Carolyn Ives Gilman by Arley Sorg",
-      "source": "Clarkesworldmagazine.com",
-      "url": "https://clarkesworldmagazine.com/gilman_interview_2026/",
-      "date": "2026-08-01T20:38:25Z"
+      "title": "Gotham Academy: First Year #6 Preview: Maps to the Rescue",
+      "source": "Bleeding Cool News",
+      "url": "https://bleedingcool.com/comics/gotham-academy-first-year-6-preview-maps-to-the-rescue/",
+      "date": "2026-08-02T22:26:09Z"
     },
     {
-      "title": "Undervalued Or Already Priced For EV Charges?",
+      "title": "Coldcard Wallet Attack Losses Approach $89 Million",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4ca500e7d3d3c5d4",
-      "date": "2026-08-01T20:31:59Z"
+      "url": "https://biztoc.com/x/81a56e16504ba68d",
+      "date": "2026-08-02T22:23:21Z"
+    },
+    {
+      "title": "Japan Could Trigger the Biggest Market Shock of 2026: How Might Bitcoin React?",
+      "source": "BeInCrypto",
+      "url": "https://beincrypto.com/japan-market-shock-bitcoin-reaction/",
+      "date": "2026-08-02T22:21:16Z"
+    },
+    {
+      "title": "Jack Mallers Steps Down as CEO of Bitcoin Treasury Twenty One Capital",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/jack-mallers-steps-down-as-ceo-of-bitcoin-treasury-twenty-one-capital/",
+      "date": "2026-08-02T22:05:00Z"
+    },
+    {
+      "title": "Strategy CEO Phong Le Reveals 'Biggest Lesson' the Bitcoin Treasury Company Learned in 2026: 'The Importance of Holding Liquid US Dollars'",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-ceo-phong-le-reveals-220022843.html",
+      "date": "2026-08-02T22:00:22Z"
+    },
+    {
+      "title": "SpaceX vs. the \"Magnificent Seven\": How the New Nasdaq-100 Member Stacks Up",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b9b254114341f0dd",
+      "date": "2026-08-02T21:54:28Z"
+    },
+    {
+      "title": "Bitcoin Price Prediction: What Price Will BTC Hit in August?",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/0d13b561ed096d08",
+      "date": "2026-08-02T21:53:05Z"
     }
   ]
 }

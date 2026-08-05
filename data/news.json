@@ -4,198 +4,186 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-08-04T23:58:37.409024"
+      "date": "2026-08-05T23:55:50.433594"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-08-04T23:58:37.409030"
+      "date": "2026-08-05T23:55:50.433600"
     }
   ],
   "bitcoin": {
-    "price": 64081,
-    "date": "2026-08-04T23:58:37.556402"
+    "price": 64611,
+    "date": "2026-08-05T23:55:50.485173"
   },
   "news": [
     {
-      "title": "The Conflicts Brewing in America’s Ten Classes",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/the-conflicts-brewing-in-americas-ten-classes/",
-      "date": "2026-08-03T23:58:00Z"
-    },
-    {
-      "title": "Popular Walmart nut butter recalled after testing detects Salmonella / Finvestly",
-      "source": "Finvestly.com",
-      "url": "https://finvestly.com/business/popular-walmart-nut-butter-recalled-after-testing-detects-salmonella/",
-      "date": "2026-08-03T23:54:54Z"
-    },
-    {
-      "title": "3 Unpopular Stocks We Approach with Caution",
+      "title": "3 Defense Stocks to Buy in August",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3ca2ad0215449c3b",
-      "date": "2026-08-03T23:49:12Z"
+      "url": "https://biztoc.com/x/7e4b21a38bbfe7a1",
+      "date": "2026-08-04T23:43:42Z"
     },
     {
-      "title": "Amazon Reaches $3 Trillion Market Value On AI Boom",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/79b6a0111b601d35",
-      "date": "2026-08-03T23:47:27Z"
+      "title": "Aryl radical addition–dehydrocyclization drives rapid polycyclic aromatic hydrocarbon growth",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-76371-0.pdf",
+      "date": "2026-08-04T23:35:43Z"
     },
     {
-      "title": "CEO Alex Karp Just Delivered the News Palantir Stock Investors Have Been Waiting For",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e2540743ac3e06eb",
-      "date": "2026-08-03T23:19:48Z"
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: AI wins come with an old investor risk",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e61d2978b9bf7e6b",
-      "date": "2026-08-03T23:17:17Z"
-    },
-    {
-      "title": "CAR Investors Have Opportunity to Lead Avis Budget Group, Inc. Securities Fraud Lawsuit Against Pentwater Capital Management LP",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/car-investors-have-opportunity-to-lead-avis-budget-group-inc-securities-fraud-lawsuit-against-pentwater-capital-management-lp-302841633.html",
-      "date": "2026-08-03T23:05:00Z"
-    },
-    {
-      "title": "1 Russell 2000 Stock with Exciting Potential and 2 We Ignore",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ef6fa52b7b3f52fa",
-      "date": "2026-08-03T23:03:27Z"
-    },
-    {
-      "title": "Jim Cramer says Wall Street's latest trading trend is creating buying opportunities",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/03/jim-cramer-wall-streets-latest-trading-trend-creating-buying-opportunities.html",
-      "date": "2026-08-03T23:00:01Z"
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: AI wins come with an old investor risk",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/03/cnbcs-the-china-connection-newsletter-ai-wins-create-investor-risks.html",
-      "date": "2026-08-03T23:00:01Z"
-    },
-    {
-      "title": "Big Oil Warns Global Fuel Stocks Are Running Dangerously Low",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Big-Oil-Warns-Global-Fuel-Stocks-Are-Running-Dangerously-Low.html",
-      "date": "2026-08-03T23:00:00Z"
-    },
-    {
-      "title": "Stocks & Bonds Rose as US-Iran Hopes Spur Oil Drop | The Close 8/3/2026",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/fd9b97cfd0ac84f7",
-      "date": "2026-08-03T22:57:28Z"
-    },
-    {
-      "title": "3 Value Stocks We Find Risky",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/fdeb41024db19d06",
-      "date": "2026-08-03T22:49:13Z"
-    },
-    {
-      "title": "Jim Cramer rethinks Bitcoin after IBM CEO's three-year warning",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/63a453adb9b5359d",
-      "date": "2026-08-03T22:34:12Z"
-    },
-    {
-      "title": "3 Bank Stocks We Keep Off Our Radar",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ffd63fed235f31f2",
-      "date": "2026-08-03T22:33:58Z"
-    },
-    {
-      "title": "More troubles brewing, is SpiceJet flying too close to the sun?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/prime/transportation/more-troubles-brewing-is-spicejet-flying-too-close-to-the-sun/primearticleshow/132839484.cms",
-      "date": "2026-08-03T22:30:00Z"
-    },
-    {
-      "title": "Strategy sells $395 million in Bitcoin and MSTR stock to buyback $81 million in STRC and build cash reserve to $4 billion",
+      "title": "GameStop plans $1.4 billion stock swap as Bitcoin collateral risk emerges",
       "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/strategy-sells-395-million-in-bitcoin-and-mstr-stock-to-buyback-81-million-in-strc-and-build-cash-reserve-to-4-billion/",
-      "date": "2026-08-03T22:20:24Z"
+      "url": "https://cryptoslate.com/gamestop-plans-1-4-billion-stock-swap-as-bitcoin-collateral-risk-emerges/",
+      "date": "2026-08-04T23:30:19Z"
     },
     {
-      "title": "3 of Wall Street’s Favorite Stocks to Target This Week",
+      "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+      "source": "808bits.com",
+      "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+      "date": "2026-08-04T23:21:33Z"
+    },
+    {
+      "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease - The New York Times",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184857984",
+      "date": "2026-08-04T23:12:59Z"
+    },
+    {
+      "title": "Louis Navellier sees uncommon August rebound after Palantir blowout",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e6c37b0d00413ae5",
-      "date": "2026-08-03T22:19:09Z"
+      "url": "https://biztoc.com/x/9254618928f0b763",
+      "date": "2026-08-04T23:10:54Z"
     },
     {
-      "title": "The AI Boom’s Next 2 Winners May Surprise You",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/52ff95905c519374",
-      "date": "2026-08-03T22:16:48Z"
+      "title": "ROSEN, A TOP-RANKED LAW FIRM, Encourages Genius Group Limited Investors to Secure Counsel Before Important Deadline in Securities Class Action Against Citadel Securities LLC and Virtu Americas LLC - G",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338974/673/en/ROSEN-A-TOP-RANKED-LAW-FIRM-Encourages-Genius-Group-Limited-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-Against-Citadel-Securities-LLC-and-Virt.html",
+      "date": "2026-08-04T23:09:00Z"
     },
     {
-      "title": "Taco Bell met with Michigan health officials on parasite weeks before recall",
-      "source": "The Oakland Press",
-      "url": "https://www.theoaklandpress.com/2026/08/03/taco-bell-met-with-michigan-health-officials-on-parasite-weeks-before-recall/",
-      "date": "2026-08-03T22:11:54Z"
+      "title": "The Spider-Man fact that makes Orioles’ Adley Rutschman trade even more ’emotional’",
+      "source": "ClutchPoints",
+      "url": "https://clutchpoints.com/mlb/baltimore-orioles/orioles-news-the-spider-man-fact-adley-rutschman-trade-more-emotional",
+      "date": "2026-08-04T23:04:25Z"
     },
     {
-      "title": "Dow surges nearly 700 points for record close as Big Tech stocks rise, oil prices slide",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e6720e023e44b42e",
-      "date": "2026-08-03T22:10:42Z"
-    },
-    {
-      "title": "3 Cash-Producing Stocks with Open Questions",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c88a42aeeb9cb974",
-      "date": "2026-08-03T22:03:40Z"
-    },
-    {
-      "title": "Petrodollar in Peril",
-      "source": "Dailyreckoning.com",
-      "url": "https://dailyreckoning.com/petrodollar-in-peril/",
-      "date": "2026-08-03T22:00:29Z"
-    },
-    {
-      "title": "Trump Is NOT A Reluctant War President",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/trump-is-not-a-reluctant-war-president/",
-      "date": "2026-08-03T22:00:00Z"
-    },
-    {
-      "title": "Commentary: The global oil cushion isn’t really hitting ‘tank bottoms’",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/global-oil-market-hit-tank-bottoms-hormuz-china-imports-6294971",
-      "date": "2026-08-03T21:59:00Z"
-    },
-    {
-      "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture",
+      "title": "Jim Cramer says this investing mistake is costing you big gains",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
-      "date": "2026-08-03T21:57:34Z"
+      "url": "https://www.cnbc.com/2026/08/04/jim-cramer-says-this-investing-mistake-is-costing-you-big-gains.html",
+      "date": "2026-08-04T23:00:01Z"
     },
     {
-      "title": "FBI Agent Arrested After Allegedly Looting Up to $1,000,000 in Crypto From ‘Adversarial’ Wallets",
-      "source": "The Daily Hodl",
-      "url": "https://dailyhodl.com/2026/08/03/fbi-agent-arrested-after-allegedly-looting-up-to-1000000-in-crypto-from-adversarial-wallets/",
-      "date": "2026-08-03T21:52:19Z"
+      "title": "Dream Industrial REIT Reports Strong Q2 2026 Results and 2.5% Distribution Increase",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/dream-industrial-reit-reports-strong-q2-2026-results-and-2-5-distribution-increase",
+      "date": "2026-08-04T22:59:19Z"
     },
     {
-      "title": "Michael Saylor’s Strategy Resumes Bitcoin Sales, Hawking $105,000,000 Worth of BTC",
-      "source": "The Daily Hodl",
-      "url": "https://dailyhodl.com/2026/08/03/michael-saylors-strategy-resumes-bitcoin-sales-hawking-105000000-worth-of-btc/",
-      "date": "2026-08-03T21:51:10Z"
+      "title": "Boltz Bridge shuts down swap services indefinitely after AI-powered exploits overwhelm its team",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/boltz-bridge-shuts-down-ai-exploits/",
+      "date": "2026-08-04T22:53:01Z"
     },
     {
-      "title": "Thanks, Heliot Ramos",
-      "source": "McCovey Chronicles",
-      "url": "https://www.mccoveychronicles.com/san-francisco-giants-analysis/109947/san-francisco-giants-trade-heliot-ramos-to-new-york-yankees-mlb-trade-deadline-2026",
-      "date": "2026-08-03T21:49:40Z"
+      "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
+      "date": "2026-08-04T22:46:03Z"
     },
     {
-      "title": "arc76-bitcoincash 1.1.2026080321",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/arc76-bitcoincash/1.1.2026080321/",
-      "date": "2026-08-03T21:48:20Z"
+      "title": "Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/114e29764e8830ad",
+      "date": "2026-08-04T22:40:25Z"
+    },
+    {
+      "title": "Traders are using options to chase a runaway rebound in stocks, pushing the market even higher",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f279bd6766ff669b",
+      "date": "2026-08-04T22:40:17Z"
+    },
+    {
+      "title": "Asian Stocks Set to Advance on Hormuz Deal Hopes: Markets Wrap",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-set-to-advance-on-hormuz-deal-hopes-markets-wrap",
+      "date": "2026-08-04T22:32:58Z"
+    },
+    {
+      "title": "Same money, either way: Why banks choose liquidation over rescue",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/prime/corporate-governance/same-money-either-way-why-banks-choose-liquidation-over-rescue/primearticleshow/132859349.cms",
+      "date": "2026-08-04T22:30:00Z"
+    },
+    {
+      "title": "Oil plunges after US signals progress on Hormuz deal",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/eed77897d99642e0",
+      "date": "2026-08-04T22:25:51Z"
+    },
+    {
+      "title": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c1a6c5c8e10ed214",
+      "date": "2026-08-04T22:25:21Z"
+    },
+    {
+      "title": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html",
+      "date": "2026-08-04T22:22:22Z"
+    },
+    {
+      "title": "How Situational Awareness's Leopold Aschenbrenner Lost $30 Billion Just Before His Wedding to Anthropic’s Avital Balwit",
+      "source": "Vanity Fair",
+      "url": "https://www.vanityfair.com/story/anthropic-situational-awareness-wedding",
+      "date": "2026-08-04T22:17:12Z"
+    },
+    {
+      "title": "Hashdex is shutting down its Bitcoin ETF, leaving investors with just days to sell before a blind, unpredictable cash out",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/hashdex-is-shutting-down-its-bitcoin-etf-leaving-investors-with-just-days-to-sell-before-a-blind-unpredictable-cash-out/",
+      "date": "2026-08-04T22:15:54Z"
+    },
+    {
+      "title": "Crypto Market Today, Aug. 4: Bitcoin Steadies Near $64,000 Despite Ongoing Coldcard Hack",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/ba469f10ccfe4e78",
+      "date": "2026-08-04T22:13:58Z"
+    },
+    {
+      "title": "Trump-linked Bitcoin venture reaches $2.5 million settlement over loan allegation",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-bitcoin-venture-loan-settlement/",
+      "date": "2026-08-04T22:04:28Z"
+    },
+    {
+      "title": "Fighting Gravity in Tokyo",
+      "source": "Dailyreckoning.com",
+      "url": "https://dailyreckoning.com/fighting-gravity-in-tokyo/",
+      "date": "2026-08-04T22:00:39Z"
+    },
+    {
+      "title": "Trump-Linked Bitcoin Venture Reached $2.5 Million Settlement Over Improperly Obtained Loan Allegation",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/04/trump-linked-bitcoin-venture-reached-25-million-settlement-over-improperly-obtained-loan-allegation/",
+      "date": "2026-08-04T21:58:41Z"
+    },
+    {
+      "title": "AI stock sell-off slams stockpicking hedge funds as Whale Rock loses 21.7% in July",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/whale-rock-coatue-suffer-big-losses-in-july-2026-8#article",
+      "date": "2026-08-04T21:48:38Z"
+    },
+    {
+      "title": "Situational Awareness hedge fund loses 67% after concentrated AI bets blow up, forced to sell $16B to Citadel at deep discount",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/situational-awareness-ai-fund-losses/",
+      "date": "2026-08-04T21:48:38Z"
+    },
+    {
+      "title": "Breitbart Business Digest: Why Warsh Should Not Cave to the Reaction Function Fundamentalists",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/economy/2026/08/04/breitbart-business-digest-why-warsh-should-not-cave-to-the-reaction-function-fundamentalists/",
+      "date": "2026-08-04T21:43:03Z"
     }
   ]
 }

@@ -4,186 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-08-05T23:55:50.433594"
+      "date": "2026-08-07T01:40:42.722502"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-08-05T23:55:50.433600"
+      "date": "2026-08-07T01:40:42.722511"
     }
   ],
   "bitcoin": {
-    "price": 64611,
-    "date": "2026-08-05T23:55:50.485173"
+    "price": 64373,
+    "date": "2026-08-07T01:40:42.827000"
   },
   "news": [
     {
-      "title": "3 Defense Stocks to Buy in August",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7e4b21a38bbfe7a1",
-      "date": "2026-08-04T23:43:42Z"
+      "title": "Stocks to watch: Oil India, Infosys, NBCC, Zee, Cohance Life, Gland Pharma, Neuland Lab, Monarch Surveyors, RMC Switchgears",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/stocks-to-watch-oil-india-infosys-nbcc-zee-cohance-life-gland-pharma-neuland-lab-monarch-surveyors-rmc-switchgears/article71311914.ece",
+      "date": "2026-08-06T01:37:47Z"
     },
     {
-      "title": "Aryl radical addition–dehydrocyclization drives rapid polycyclic aromatic hydrocarbon growth",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41467-026-76371-0.pdf",
-      "date": "2026-08-04T23:35:43Z"
-    },
-    {
-      "title": "GameStop plans $1.4 billion stock swap as Bitcoin collateral risk emerges",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/gamestop-plans-1-4-billion-stock-swap-as-bitcoin-collateral-risk-emerges/",
-      "date": "2026-08-04T23:30:19Z"
-    },
-    {
-      "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
-      "source": "808bits.com",
-      "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
-      "date": "2026-08-04T23:21:33Z"
-    },
-    {
-      "title": "S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease - The New York Times",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184857984",
-      "date": "2026-08-04T23:12:59Z"
-    },
-    {
-      "title": "Louis Navellier sees uncommon August rebound after Palantir blowout",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9254618928f0b763",
-      "date": "2026-08-04T23:10:54Z"
-    },
-    {
-      "title": "ROSEN, A TOP-RANKED LAW FIRM, Encourages Genius Group Limited Investors to Secure Counsel Before Important Deadline in Securities Class Action Against Citadel Securities LLC and Virtu Americas LLC - G",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338974/673/en/ROSEN-A-TOP-RANKED-LAW-FIRM-Encourages-Genius-Group-Limited-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-Against-Citadel-Securities-LLC-and-Virt.html",
-      "date": "2026-08-04T23:09:00Z"
-    },
-    {
-      "title": "The Spider-Man fact that makes Orioles’ Adley Rutschman trade even more ’emotional’",
-      "source": "ClutchPoints",
-      "url": "https://clutchpoints.com/mlb/baltimore-orioles/orioles-news-the-spider-man-fact-adley-rutschman-trade-more-emotional",
-      "date": "2026-08-04T23:04:25Z"
-    },
-    {
-      "title": "Jim Cramer says this investing mistake is costing you big gains",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/04/jim-cramer-says-this-investing-mistake-is-costing-you-big-gains.html",
-      "date": "2026-08-04T23:00:01Z"
-    },
-    {
-      "title": "Dream Industrial REIT Reports Strong Q2 2026 Results and 2.5% Distribution Increase",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/dream-industrial-reit-reports-strong-q2-2026-results-and-2-5-distribution-increase",
-      "date": "2026-08-04T22:59:19Z"
-    },
-    {
-      "title": "Boltz Bridge shuts down swap services indefinitely after AI-powered exploits overwhelm its team",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/boltz-bridge-shuts-down-ai-exploits/",
-      "date": "2026-08-04T22:53:01Z"
-    },
-    {
-      "title": "This Bitcoin Bridge Shut Itself Down Because AI Was Finding Bugs Too Fast",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/374933/bitcoin-bridge-shuts-down-ai-finding-bugs-too-fast",
-      "date": "2026-08-04T22:46:03Z"
-    },
-    {
-      "title": "Stocks face their weakest seasonal stretch. Why extreme investor pessimism could limit any selling",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/114e29764e8830ad",
-      "date": "2026-08-04T22:40:25Z"
-    },
-    {
-      "title": "Traders are using options to chase a runaway rebound in stocks, pushing the market even higher",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f279bd6766ff669b",
-      "date": "2026-08-04T22:40:17Z"
-    },
-    {
-      "title": "Asian Stocks Set to Advance on Hormuz Deal Hopes: Markets Wrap",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-set-to-advance-on-hormuz-deal-hopes-markets-wrap",
-      "date": "2026-08-04T22:32:58Z"
-    },
-    {
-      "title": "Same money, either way: Why banks choose liquidation over rescue",
+      "title": "Rupee gains 26 paise to close at 95.11 against the US dollar",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/prime/corporate-governance/same-money-either-way-why-banks-choose-liquidation-over-rescue/primearticleshow/132859349.cms",
-      "date": "2026-08-04T22:30:00Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rupee-gains-26-paise-to-close-at-95-11-against-the-us-dollar/articleshow/132978987.cms",
+      "date": "2026-08-06T01:36:52Z"
     },
     {
-      "title": "Oil plunges after US signals progress on Hormuz deal",
+      "title": "AMD Stock Drops 6.9% Despite Record $11.5 Billion Revenue - Yahoo Finance",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184874566",
+      "date": "2026-08-06T01:32:37Z"
+    },
+    {
+      "title": "Stocks mixed with tech firms back under pressure",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/stocks-asia-kospi-nikkei-iran-us-war-hormuz-6302431",
+      "date": "2026-08-06T01:27:00Z"
+    },
+    {
+      "title": "Govt mobilises Rs 31,552 crore via LIC offer for sale",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/govt-mobilises-rs-31552-crore-via-lic-offer-for-sale/articleshow/132978954.cms",
+      "date": "2026-08-06T01:26:33Z"
+    },
+    {
+      "title": "Stanford X-ray laser ‘movie’ of chemical reactions opens new chapter in chemistry",
+      "source": "Digital Journal",
+      "url": "https://www.digitaljournal.com/article/stanford-x-ray-laser-movie-of-chemical-reactions-opens-new-chapter-in-chemistry/",
+      "date": "2026-08-06T01:21:51Z"
+    },
+    {
+      "title": "Only one Giants team in 143 years has lost 100 games. That might change soon",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/05/sports/since-1883-only-one-giants-team-has-lost-100-games-that-might-change-soon/",
+      "date": "2026-08-06T01:19:13Z"
+    },
+    {
+      "title": "Molbio diagnostics' Rs 940 crore initial public offering opens August 10",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/molbio-diagnostics-rs-940-crore-initial-public-offering-opens-august-10/articleshow/132978893.cms",
+      "date": "2026-08-06T01:11:29Z"
+    },
+    {
+      "title": "Bitcoin Red Team reports 5K findings in sweeping security audit",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoin-red-team-reports-5k-findings-in-sweeping-security-audit",
+      "date": "2026-08-06T01:09:06Z"
+    },
+    {
+      "title": "Oil prices slip as Iran-Oman talks fuel hopes for US-Iran peace deal",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-slip-iran-oman-talks-fuel-hopes-us-iran-peace-deal-6302381",
+      "date": "2026-08-06T01:07:27Z"
+    },
+    {
+      "title": "Sensex today | Stock Market Live: Stock to buy today: Tata Steel (₹191.25)",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-6-august-2026/article71309748.ece",
+      "date": "2026-08-06T01:05:38Z"
+    },
+    {
+      "title": "Bank of Japan’s ETF holdings may help fund tax cut, LDP executive says",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/eed77897d99642e0",
-      "date": "2026-08-04T22:25:51Z"
+      "url": "https://biztoc.com/x/786a338e0410ef6f",
+      "date": "2026-08-06T01:00:05Z"
     },
     {
-      "title": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c1a6c5c8e10ed214",
-      "date": "2026-08-04T22:25:21Z"
+      "title": "Global Market Today: Asian stocks drop as AI rally pauses, oil dips",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-as-ai-rally-pauses-oil-dips/articleshow/132978857.cms",
+      "date": "2026-08-06T01:00:01Z"
     },
     {
-      "title": "Jim Cramer says one hedge fund's collapse cleared the way for tech's rally",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/04/cramer-one-hedge-fund-collapse-cleared-way-for-tech-rally.html",
-      "date": "2026-08-04T22:22:22Z"
-    },
-    {
-      "title": "How Situational Awareness's Leopold Aschenbrenner Lost $30 Billion Just Before His Wedding to Anthropic’s Avital Balwit",
-      "source": "Vanity Fair",
-      "url": "https://www.vanityfair.com/story/anthropic-situational-awareness-wedding",
-      "date": "2026-08-04T22:17:12Z"
-    },
-    {
-      "title": "Hashdex is shutting down its Bitcoin ETF, leaving investors with just days to sell before a blind, unpredictable cash out",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/hashdex-is-shutting-down-its-bitcoin-etf-leaving-investors-with-just-days-to-sell-before-a-blind-unpredictable-cash-out/",
-      "date": "2026-08-04T22:15:54Z"
-    },
-    {
-      "title": "Crypto Market Today, Aug. 4: Bitcoin Steadies Near $64,000 Despite Ongoing Coldcard Hack",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ba469f10ccfe4e78",
-      "date": "2026-08-04T22:13:58Z"
-    },
-    {
-      "title": "Trump-linked Bitcoin venture reaches $2.5 million settlement over loan allegation",
+      "title": "Putin signs law regulating crypto exchanges, bans domestic crypto payments",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-bitcoin-venture-loan-settlement/",
-      "date": "2026-08-04T22:04:28Z"
+      "url": "https://cryptobriefing.com/putin-signs-law-regulating-crypto-exchanges-bans-domestic-crypto-payments/",
+      "date": "2026-08-06T00:57:44Z"
     },
     {
-      "title": "Fighting Gravity in Tokyo",
-      "source": "Dailyreckoning.com",
-      "url": "https://dailyreckoning.com/fighting-gravity-in-tokyo/",
-      "date": "2026-08-04T22:00:39Z"
+      "title": "Canadian hacker pleads guilty in Snowflake data breach case, stealing data and extorting people for millions",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/snowflake-data-breach-case-canadian-hacker-pleads-guilty-9.7297780",
+      "date": "2026-08-06T00:55:00Z"
     },
     {
-      "title": "Trump-Linked Bitcoin Venture Reached $2.5 Million Settlement Over Improperly Obtained Loan Allegation",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/04/trump-linked-bitcoin-venture-reached-25-million-settlement-over-improperly-obtained-loan-allegation/",
-      "date": "2026-08-04T21:58:41Z"
+      "title": "Indian Bank raising $400 million in overseas loan; syndication underway",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-raising-400-million-in-overseas-loan-syndication-underway/articleshow/132978843.cms",
+      "date": "2026-08-06T00:54:37Z"
     },
     {
-      "title": "AI stock sell-off slams stockpicking hedge funds as Whale Rock loses 21.7% in July",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/whale-rock-coatue-suffer-big-losses-in-july-2026-8#article",
-      "date": "2026-08-04T21:48:38Z"
+      "title": "Foreign borrowings hit over $6 billion in June as 140 firms tap global market",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-borrowings-hit-over-6-billion-in-june-as-140-firms-tap-global-market/articleshow/132978802.cms",
+      "date": "2026-08-06T00:50:10Z"
     },
     {
-      "title": "Situational Awareness hedge fund loses 67% after concentrated AI bets blow up, forced to sell $16B to Citadel at deep discount",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/situational-awareness-ai-fund-losses/",
-      "date": "2026-08-04T21:48:38Z"
+      "title": "2 Brilliant Growth Stocks That Just Hit All-Time Highs With Plenty of Room to Run",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/bd7428a7e4792334",
+      "date": "2026-08-06T00:46:20Z"
     },
     {
-      "title": "Breitbart Business Digest: Why Warsh Should Not Cave to the Reaction Function Fundamentalists",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/economy/2026/08/04/breitbart-business-digest-why-warsh-should-not-cave-to-the-reaction-function-fundamentalists/",
-      "date": "2026-08-04T21:43:03Z"
+      "title": "What is the kookaburra who couldn’t laugh?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/what-is-the-kookaburra-who-couldnt-laugh/",
+      "date": "2026-08-06T00:41:00Z"
+    },
+    {
+      "title": "Security Now 1090: Black Hat",
+      "source": "Twit.tv",
+      "url": "https://twit.tv/shows/security-now/episodes/1090",
+      "date": "2026-08-06T00:38:56Z"
+    },
+    {
+      "title": "Philippine Bond Slump to Extend on Inflation Worry, Analysts Say",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/philippine-bond-slump-to-extend-on-inflation-worry-analysts-say",
+      "date": "2026-08-06T00:29:53Z"
+    },
+    {
+      "title": "Stocks in news: PB Fintech, LIC, Trent, Ola Electric, and Cipla",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-pb-fintech-lic-trent-ola-electric-and-cipla/articleshow/132978632.cms",
+      "date": "2026-08-06T00:27:51Z"
+    },
+    {
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132978212.cms",
+      "date": "2026-08-06T00:14:58Z"
+    },
+    {
+      "title": "Tech bro’s lavish wedding plans forced to make handbrake turn as $30 billion loss hits hard",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/05/us-news/ai-prodigy-leopold-aschenbrenners-lavish-wedding-went-on-despite-hedge-funds-implosion/",
+      "date": "2026-08-06T00:13:12Z"
+    },
+    {
+      "title": "CAS sparks trader backlash as losses mount, Sebi holds firm",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cas-sparks-trader-backlash-as-losses-mount-sebi-holds-firm/articleshow/132978167.cms",
+      "date": "2026-08-06T00:07:50Z"
+    },
+    {
+      "title": "NL MVP candidates Shohei Ohtani, Pete Crow-Armstrong put on epic duel in series finale",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/05/sports/epic-shohei-ohtani-pete-crow-armstrong-mvp-race-heats-up/",
+      "date": "2026-08-06T00:02:25Z"
+    },
+    {
+      "title": "THE PRECIOUS METALS EXTINCTION EVENT: When the Last Door Closes for the Middle Class",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/the-precious-metals-extinction-event-when-the-last-door-closes-for-the-middle-class/",
+      "date": "2026-08-06T00:01:00Z"
+    },
+    {
+      "title": "I've taken the new Wegovy 'skinny' pill for a month. It finally broke my weight-loss plateau, writes LOUISE ATKINSON, but at what cost? Week by week, here's my honest account of EVERYTHING that happen",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/lifestyle/fitness-wellbeing/article-16031903/Wegovy-skinny-pill-weight-loss-LOUISE-ATKINSON.html",
+      "date": "2026-08-06T00:00:49Z"
+    },
+    {
+      "title": "The Deadly Focus on Income and Wealth Inequality",
+      "source": "Hoover.org",
+      "url": "https://www.hoover.org/research/deadly-focus-income-and-wealth-inequality",
+      "date": "2026-08-06T00:00:00Z"
+    },
+    {
+      "title": "Neuroligin-3–CSPG4 interaction maintains oligodendrocyte precursor cell progenitor state and promotes glioma proliferation through mechanotransduction",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41593-026-02397-8",
+      "date": "2026-08-06T00:00:00Z"
     }
   ]
 }

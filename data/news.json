@@ -4,192 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-08-08T23:23:11.432290"
+      "date": "2026-08-09T23:25:36.518776"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-08-08T23:23:11.432296"
+      "date": "2026-08-09T23:25:36.518781"
     }
   ],
   "bitcoin": {
-    "price": 64915,
-    "date": "2026-08-08T23:23:11.477144"
+    "price": 64901,
+    "date": "2026-08-09T23:25:36.596756"
   },
   "news": [
     {
-      "title": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back",
+      "title": "Nigeria can cut construction costs through local production – Chime",
+      "source": "The Punch",
+      "url": "https://punchng.com/nigeria-can-cut-construction-costs-through-local-production-chime/",
+      "date": "2026-08-08T23:21:38Z"
+    },
+    {
+      "title": "Hackers Figure Out a Trick to Steal Bitcoin From Cold Wallets, Grab $110 Million",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/efa2958ddb24ee0c",
-      "date": "2026-08-07T23:13:14Z"
+      "url": "https://biztoc.com/x/8dd40a4e9afad445",
+      "date": "2026-08-08T23:10:37Z"
     },
     {
-      "title": "Palantir Popped 39% This Week, Leads 27 To Best Stock Lists",
+      "title": "OR Royalties Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/or-royalties-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T23:03:49Z"
+    },
+    {
+      "title": "Oscar Health Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/oscar-health-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T23:03:49Z"
+    },
+    {
+      "title": "Ormat Technologies Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/ormat-technologies-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T23:03:49Z"
+    },
+    {
+      "title": "Optimum Communications Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/optimum-communications-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T23:03:49Z"
+    },
+    {
+      "title": "Onity Group Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/onity-group-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T23:03:48Z"
+    },
+    {
+      "title": "Onto Innovation Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/onto-innovation-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T23:03:48Z"
+    },
+    {
+      "title": "Montrose Environmental Group Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/montrose-environmental-group-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T23:03:48Z"
+    },
+    {
+      "title": "Oklo Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/oklo-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T23:03:48Z"
+    },
+    {
+      "title": "Orion Office REIT Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/orion-office-reit-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T23:03:48Z"
+    },
+    {
+      "title": "ONE Gas Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/one-gas-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T23:03:47Z"
+    },
+    {
+      "title": "NAN institutionalises quarterly fitness walks to boost staff wellness, productivity",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/nan-institutionalises-quarterly-fitness-walks-to-boost-staff-wellness-productivity/",
+      "date": "2026-08-08T23:03:13Z"
+    },
+    {
+      "title": "Jeftovic: The \"Bitcoin Only\" Era Is Over..",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3a37e6e380440b80",
-      "date": "2026-08-07T23:12:56Z"
+      "url": "https://biztoc.com/x/ce74ef8cc7e7395e",
+      "date": "2026-08-08T22:40:32Z"
     },
     {
-      "title": "Chelsea vs. AC Milan, Friendly: Preview, team news, how to watch",
-      "source": "SB Nation",
-      "url": "https://weaintgotnohistory.sbnation.com/friendlies/170824/chelsea-vs-ac-milan-friendly-preview-team-news-how-to-watch",
-      "date": "2026-08-07T23:12:11Z"
-    },
-    {
-      "title": "Stock market hits records as Fed removes key safety net",
+      "title": "Only 2 of These 5 Nuclear Stocks Sell Fuel Today. Here's What the Market Pays for the Other 3",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3a177926cef0f5c3",
-      "date": "2026-08-07T22:59:33Z"
+      "url": "https://biztoc.com/x/51e03697a23f0d8f",
+      "date": "2026-08-08T22:26:15Z"
     },
     {
-      "title": "Pure Cycle receives notice to nominate director candidates",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/pcyo",
-      "date": "2026-08-07T22:59:02Z"
-    },
-    {
-      "title": "#739: First Friday: We Lost 23,000 Jobs, Yet Somehow Unemployment is Down?!?!",
-      "source": "Affordanything.com",
-      "url": "https://affordanything.com/trump-accounts-explained/",
-      "date": "2026-08-07T22:58:33Z"
-    },
-    {
-      "title": "Bitcoin’s AI security sprint found 6,700 issues in 55 hours, but no one knows how many are real",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/bitcoins-ai-security-sprint-found-6700-issues-in-55-hours-but-no-one-knows-how-many-are-real/",
-      "date": "2026-08-07T22:55:38Z"
-    },
-    {
-      "title": "News Wrap: Court rules Trump needs Congress to approve White House ballroom",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-court-rules-trump-needs-congress-to-approve-white-house-ballroom",
-      "date": "2026-08-07T22:50:55Z"
-    },
-    {
-      "title": "brk-client 0.11.2",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/brk-client/0.11.2/",
-      "date": "2026-08-07T22:48:17Z"
-    },
-    {
-      "title": "Warren Buffett sends a blunt message to stock market investors",
+      "title": "Bitcoin ETFs Are Having Their Best Week Since April. Did the Coldcard Hack Push $853M Into Bitcoin ETFs?",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a5abaaf616bd4110",
-      "date": "2026-08-07T22:43:00Z"
+      "url": "https://biztoc.com/x/2fb951cc7d912714",
+      "date": "2026-08-08T22:25:15Z"
     },
     {
-      "title": "U.S. loses jobs while unemployment rate drops",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/videos/u-loses-jobs-while-unemployment-224248111.html",
-      "date": "2026-08-07T22:42:48Z"
-    },
-    {
-      "title": "Which Growth ETF Is the Better Long-Term Buy: Vanguard's Mega Cap MGK or Invesco's Small-Cap RZG?",
+      "title": "Northwest Natural Gas Q2 Earnings Call Highlights",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a0cb04f1ce81b244",
-      "date": "2026-08-07T22:29:30Z"
+      "url": "https://biztoc.com/x/dff0babc0bf6104f",
+      "date": "2026-08-08T22:11:53Z"
     },
     {
-      "title": "US stocks jump as employers unexpectedly cut 23,000 jobs, raising hopes that rate hikes can wait - AP News",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184894256",
-      "date": "2026-08-07T22:14:01Z"
+      "title": "Realty Income Q2 Earnings Call Highlights",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/994e6efc5014b1a1",
+      "date": "2026-08-08T22:11:52Z"
     },
     {
-      "title": "news-sentiment-agent added to PyPI",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/news-sentiment-agent/",
-      "date": "2026-08-07T22:10:48Z"
+      "title": "When Leverage Goes Wrong on Wall Street",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8f18663446ea9086",
+      "date": "2026-08-08T22:11:37Z"
     },
     {
-      "title": "Strategy CEO Phong Le compares company to Nvidia in digital assets",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/strategy-ceo-phong-le-nvidia-digital-assets/",
-      "date": "2026-08-07T22:05:14Z"
+      "title": "Owens Corning Q2 Earnings Call Highlights",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/eaaf61d7f3ede794",
+      "date": "2026-08-08T22:11:30Z"
     },
     {
-      "title": "Stocks jump as bad news for you is good news for the investor class hoping the money printer will now go brrrrr [Followup]",
-      "source": "Fark.com",
-      "url": "https://www.fark.com/comments/14156888/Stocks-jump-as-bad-news-for-you-is-good-news-for-investor-class-hoping-money-printer-will-now-go-brrrrr",
-      "date": "2026-08-07T22:03:03Z"
+      "title": "Bitcoin’s BIP-110 supporters split onto minority chain as main network pulls ahead",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/422194c16c163f75",
+      "date": "2026-08-08T22:10:25Z"
     },
     {
-      "title": "Ondo Perps hits $7 billion in volume weeks after launch",
+      "title": "AMD just made bold move to challenge Nvidia",
       "source": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/ondo-perps-hits-7-billion-in-volume-weeks-after-launch",
-      "date": "2026-08-07T21:58:19Z"
+      "url": "https://www.thestreet.com/investing/stocks/amd-acquires-taalas-ai-inference-chips-nvidia-amd",
+      "date": "2026-08-08T22:07:00Z"
     },
     {
-      "title": "4 Stocks That Could Profit From SpaceX’s Biggest Problem",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b221b848834eeabd",
-      "date": "2026-08-07T21:57:37Z"
+      "title": "Amazon Now Owns James Bond, But Prime Video Already Has The Perfect Spy Franchise",
+      "source": "Screen Rant",
+      "url": "https://screenrant.com/amazon-james-bond-prime-video-jack-ryan-spy-franchise/",
+      "date": "2026-08-08T22:06:11Z"
     },
     {
-      "title": "Spoken language is dying — with people saying about 30% fewer words than 20 years ago: study",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/07/us-news/spoken-language-is-dying-as-people-say-about-30-fewer-words-than-20-years-ago-study/",
-      "date": "2026-08-07T21:53:32Z"
+      "title": "Owens Corning Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/owens-corning-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T22:03:53Z"
     },
     {
-      "title": "Raiders training camp showing encouraging signs of a player-led defense",
-      "source": "Silver And Black Pride",
-      "url": "https://www.silverandblackpride.com/las-vegas-raiders-coaching-staff/136022/raiders-2026-defense-development-rob-leonard",
-      "date": "2026-08-07T21:45:00Z"
+      "title": "Once Upon A Farm Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/once-upon-a-farm-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T22:03:53Z"
     },
     {
-      "title": "Jobs Are Down, But Stocks and Consumer Sentiment Are Up. What Gives?",
-      "source": "WWD",
-      "url": "http://wwd.com/sourcing-journal/industry-news/jobs-report-university-michigan-consumer-sentiment-stock-market-1239098554/",
-      "date": "2026-08-07T21:39:31Z"
+      "title": "Orion Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/orion-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T22:03:53Z"
     },
     {
-      "title": "This TSX stock soared 28% this week with one analyst seeing 'durable, profitable growth'",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/investing/tsx-stock-soared-analysts-share-price-upside",
-      "date": "2026-08-07T21:35:30Z"
+      "title": "New York Times Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/new-york-times-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T22:03:52Z"
     },
     {
-      "title": "Weak July jobs report helps case for Fed to hold rates but doesn't take hikes off the table - Yahoo Finance",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184893988",
-      "date": "2026-08-07T21:32:38Z"
+      "title": "Blue Owl Capital Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/blue-owl-capital-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T22:03:52Z"
     },
     {
-      "title": "Dollar drops, stocks climb as weak US jobs data eases rate fears",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/us-stocks-wall-street-market-jobs-data-6307011",
-      "date": "2026-08-07T21:31:15Z"
+      "title": "Realty Income Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/realty-income-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T22:03:52Z"
     },
     {
-      "title": "Justin Mateen buys nearly $2M of American Bitcoin stock",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/justin-mateen-american-bitcoin-stock-purchase/",
-      "date": "2026-08-07T21:30:11Z"
-    },
-    {
-      "title": "U.S. Stocks Rise as Rate-Hike Odds Fall on Weak Jobs Report",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d830814d2e3b543b",
-      "date": "2026-08-07T21:27:41Z"
-    },
-    {
-      "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5b19b8993c8671bf",
-      "date": "2026-08-07T21:27:35Z"
-    },
-    {
-      "title": "Change Agents Corporation files to sell 35.57M shares of common stock for holder",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/chga",
-      "date": "2026-08-07T21:23:23Z"
-    },
-    {
-      "title": "LUCARA ANNOUNCES Q2 2026 RESULTS",
-      "source": "PR Newswire UK",
-      "url": "https://www.prnewswire.co.uk/news-releases/lucara-announces-q2-2026-results-302846378.html",
-      "date": "2026-08-07T21:23:00Z"
+      "title": "Envista Q2 Earnings Call Highlights",
+      "source": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/envista-q2-earnings-call-highlights-2026-08-08/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "date": "2026-08-08T22:03:51Z"
     }
   ]
 }

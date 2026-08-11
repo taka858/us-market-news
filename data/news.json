@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-08-10T23:29:42.509739"
+      "date": "2026-08-11T23:34:43.561696"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-08-10T23:29:42.509744"
+      "date": "2026-08-11T23:34:43.561708"
     }
   ],
   "bitcoin": {
-    "price": 63926,
-    "date": "2026-08-10T23:29:42.576077"
+    "price": 63540,
+    "date": "2026-08-11T23:34:43.667575"
   },
   "news": [
     {
-      "title": "price news: What next after $853 million in weekly ETF inflows?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/26d6e290cb6119de",
-      "date": "2026-08-09T23:25:56Z"
-    },
-    {
-      "title": "Quote of the day by Charles de Gaulle: ‘One must wait until the evening to see how splendid the day was; one cannot judge life until death.' ; life lesson on how not to take life for granted by French",
+      "title": "In 190 years, England witnesses ​driest month, now Britain usually known for its unpredictable wet weather faces third drought in five years",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/quote-of-the-day-by-charles-de-gaulle-one-must-wait-until-the-evening-to-see-how-splendid-the-day-was-one-cannot-judge-life-until-death-life-lesson-on-how-not-to-take-life-for-granted-by-french-statesman/articleshow/133076807.cms",
-      "date": "2026-08-09T23:23:15Z"
+      "url": "https://economictimes.indiatimes.com/news/international/us/in-190-years-england-witnesses-driest-month-now-britain-usually-known-for-its-unpredictable-wet-weather-faces-third-drought-in-five-years/articleshow/133139696.cms",
+      "date": "2026-08-10T23:29:27Z"
     },
     {
-      "title": "Chinese brokerages tighten account checks amid regulatory scrutiny",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/chinese-brokerages-tighten-account-checks-regulatory-crackdown/",
-      "date": "2026-08-09T23:15:19Z"
+      "title": "Trump media company announces a massive loss and new turnaround effort",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/truth-social-media-trump-djt-crypto-e86747f01cc12dbee0146c5f0e79012b",
+      "date": "2026-08-10T23:23:50Z"
     },
     {
-      "title": "A pre-revenue AI crypto startup funneled $12 million into EV as bad crypto trades erased 97% of cash in six months",
+      "title": "DraftKings Predictions Promo Code: New DraftKings Customers Trade $5, Get $150 in Predictions Dollars",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/betting/draftkings-predictions-promo-code",
+      "date": "2026-08-10T23:16:26Z"
+    },
+    {
+      "title": "Bad news for the economy just became great news for Bitcoin",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/25a31fbf6d074fd4",
+      "date": "2026-08-10T23:11:33Z"
+    },
+    {
+      "title": "Trump media company announces a massive loss and new turnaround effort",
+      "source": "Medianewsgroup.com",
+      "url": "https://wirehub.medianewsgroup.com/2026/08/10/trump-media-company-announces-a-massive-loss-and-new-turnaround-effort/",
+      "date": "2026-08-10T23:08:35Z"
+    },
+    {
+      "title": "Trump's Truth Social posts can move markets. Now some users can see them first",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-08-11/donald-trump-sells-early-access-to-truth-social-posts/107015908",
+      "date": "2026-08-10T23:07:47Z"
+    },
+    {
+      "title": "Nvidia's CEO just sent strong signal to stock market investors",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/49d328ec88190c32",
+      "date": "2026-08-10T22:54:28Z"
+    },
+    {
+      "title": "Is the Bitcoin Bottom In? Fairlead's Katie Stockton Says These Signals Matter Most",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/df1c19d6468aaaa0",
+      "date": "2026-08-10T22:42:44Z"
+    },
+    {
+      "title": "Wall Street Refocuses on Cryptocurrency: Bitcoin ETF Inflows Signal Resurgent Institutional Demand",
+      "source": "Techbullion.com",
+      "url": "https://techbullion.com/wall-street-refocuses-on-cryptocurrency-bitcoin-etf-inflows-signal-resurgent-institutional-demand/",
+      "date": "2026-08-10T22:32:53Z"
+    },
+    {
+      "title": "Oil Holds Gains, Asian Stocks Set for Muted Open: Markets Wrap",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-holds-gains-asian-stocks-set-for-muted-open-markets-wrap",
+      "date": "2026-08-10T22:32:43Z"
+    },
+    {
+      "title": "South Korea puts crypto exchanges on a seven-day clock under new seizure rules",
       "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/a-pre-revenue-ai-crypto-startup-funneled-12-million-into-ev-as-bad-crypto-trades-erased-97-of-cash-in-six-months/",
-      "date": "2026-08-09T23:05:47Z"
+      "url": "https://cryptoslate.com/south-korea-puts-crypto-exchanges-on-a-seven-day-clock-under-new-seizure-rules/",
+      "date": "2026-08-10T22:30:22Z"
     },
     {
-      "title": "Gran Tierra Energy Q2 Earnings Call Highlights",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/gran-tierra-energy-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "date": "2026-08-09T23:03:59Z"
-    },
-    {
-      "title": "Extendicare Q2 Earnings Call Highlights",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/extendicare-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "date": "2026-08-09T23:03:58Z"
-    },
-    {
-      "title": "Fiera Capital Q2 Earnings Call Highlights",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/fiera-capital-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "date": "2026-08-09T23:03:58Z"
-    },
-    {
-      "title": "Finning International Q2 Earnings Call Highlights",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/finning-international-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "date": "2026-08-09T23:03:58Z"
-    },
-    {
-      "title": "Tantalus Systems Q2 Earnings Call Highlights",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/tantalus-systems-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "date": "2026-08-09T23:03:58Z"
-    },
-    {
-      "title": "Ensign Energy Services Q2 Earnings Call Highlights",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/ensign-energy-services-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "date": "2026-08-09T23:03:57Z"
-    },
-    {
-      "title": "Emera Q2 Earnings Call Highlights",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/emera-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "date": "2026-08-09T23:03:56Z"
-    },
-    {
-      "title": "Energy Fuels Q2 Earnings Call Highlights",
-      "source": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/energy-fuels-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-      "date": "2026-08-09T23:03:55Z"
-    },
-    {
-      "title": "Japan’s 4 largest life insurers report record $96B in unrealized losses",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/japan-life-insurers-record-unrealized-losses/",
-      "date": "2026-08-09T22:57:08Z"
-    },
-    {
-      "title": "3 Small-Cap Stocks with Open Questions",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3d8df911bf64e0c9",
-      "date": "2026-08-09T22:55:46Z"
-    },
-    {
-      "title": "1 Unpopular Stock That Deserves Some Love and 2 We Avoid",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ce2f073ec2dd9963",
-      "date": "2026-08-09T22:55:39Z"
-    },
-    {
-      "title": "1 S&P 500 Stock with Promising Prospects and 2 That Underwhelm",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9996865f4f85dc22",
-      "date": "2026-08-09T22:55:39Z"
-    },
-    {
-      "title": "Trump Says 'Crypto Is a Big Deal, People Are Paying With Bitcoin'",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1dfce584442e9f4b",
-      "date": "2026-08-09T22:55:26Z"
-    },
-    {
-      "title": "OCC Says No to Bunq US Banking License Bid",
-      "source": "pymnts.com",
-      "url": "https://www.pymnts.com/legal/bank-regulation/2026/occ-said-no-to-bunq-us-banking-license-bid/",
-      "date": "2026-08-09T22:45:01Z"
-    },
-    {
-      "title": "Oil Prices Climb and Stocks Dip on Stalemate in Iran War",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5dcf7c247bdd1323",
-      "date": "2026-08-09T22:39:18Z"
-    },
-    {
-      "title": "By propping up the yen, the U.S. and Japan are actually admitting dollar dominance isn’t what it used to be, top economist warns",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/09/dollar-dominance-yen-usd-japan-treasury-debt-yields-intervention-dedollarization-gold/",
-      "date": "2026-08-09T22:33:07Z"
-    },
-    {
-      "title": "By propping up the yen, the U.S. and Japan are actually admitting dollar dominance isn’t what it used to be, top economist warns",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/propping-yen-u-japan-actually-223307295.html",
-      "date": "2026-08-09T22:33:07Z"
-    },
-    {
-      "title": "I Was Forced Into Retirement at 51 After Losing My IT Job of 25 Years. How Do I Not Run Out of Money Before I Die?",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/articles/forced-retirement-51-losing-job-223139843.html",
-      "date": "2026-08-09T22:31:39Z"
-    },
-    {
-      "title": "Mamdani's Pied-À-Terre Tax Could Backfire on Fake Non-Residents as Kathy Hochul's Office Warns Them to 'Come Clean'",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/economy/policy/articles/mamdanis-pied-terre-tax-could-223138224.html",
-      "date": "2026-08-09T22:31:38Z"
-    },
-    {
-      "title": "Brazil Tells Crypto Exchanges to Delay Overseas Transfers",
-      "source": "pymnts.com",
-      "url": "https://www.pymnts.com/cryptocurrency/2026/brazil-tells-crypto-exchanges-to-delay-overseas-transfers/",
-      "date": "2026-08-09T22:31:31Z"
-    },
-    {
-      "title": "Riot Announces New Date for Second Quarter 2026 Earnings Conference Call",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/08/09/3341505/0/en/riot-announces-new-date-for-second-quarter-2026-earnings-conference-call.html",
-      "date": "2026-08-09T22:30:00Z"
-    },
-    {
-      "title": "AI is powering US GDP: Why India cannot afford to be left behind",
+      "title": "Rupee is stabilising, but another currency risk is staring at India Inc",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/prime/technology-and-startups/ai-is-powering-us-gdp-why-india-cannot-afford-to-be-left-behind/primearticleshow/133070244.cms",
-      "date": "2026-08-09T22:30:00Z"
+      "url": "https://economictimes.indiatimes.com/prime/economy-and-policy/rupee-is-stabilising-but-another-currency-risk-is-staring-at-india-inc/primearticleshow/133108692.cms",
+      "date": "2026-08-10T22:30:00Z"
     },
     {
-      "title": "Oil prices climb, stocks dip amid Iran conflict stalemate",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/oil-prices-climb-stocks-dip-amid-iran-conflict-stalemate/",
-      "date": "2026-08-09T22:25:45Z"
+      "title": "2 ASX shares with dividend yields of 10%",
+      "source": "Motley Fool Australia",
+      "url": "https://www.fool.com.au/2026/08/11/2-asx-shares-with-dividend-yields-of-10/",
+      "date": "2026-08-10T22:24:48Z"
     },
     {
-      "title": "3 S&P 500 Stocks We Approach with Caution",
+      "title": "ETFs Look Safer After Bitcoin Hack, Small Caps | ETF IQ 8/10/2026",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b0be2d296da4adad",
-      "date": "2026-08-09T22:25:18Z"
+      "url": "https://biztoc.com/x/b3881d746c14a002",
+      "date": "2026-08-10T22:19:34Z"
     },
     {
-      "title": "3 Mega-Cap Stocks to Research Further",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7316a5e7c8c5c721",
-      "date": "2026-08-09T22:10:36Z"
+      "title": "Athena Bitcoin agreed to a $4.5 million settlement, but claimants may have less than $3 million to split",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/athena-bitcoin-agreed-to-a-4-5-million-settlement-but-claimants-may-have-less-than-3-million-to-split/",
+      "date": "2026-08-10T22:15:50Z"
     },
     {
-      "title": "3 Small-Cap Stocks Walking a Fine Line",
+      "title": "U.S. Stocks Fall as Hopes for Strait of Hormuz Reopening Are Dashed Again",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/2f10e27fb0596a17",
-      "date": "2026-08-09T22:10:35Z"
+      "url": "https://biztoc.com/x/1b72baad9ee3d197",
+      "date": "2026-08-10T22:09:02Z"
+    },
+    {
+      "title": "In 2017, a young woman glanced at a solar eclipse for only a handful of seconds, and days later doctors found the exact shape of the eclipse burned into the back of her eye. What she began drawing to ",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/k-in-2017-a-young-woman-glanced-at-a-solar-eclipse-for-only-a-handful-of-seconds-and-days-later-doctors-found-the-exact-shape-of-the-eclipse-burned-into-the-back-of-her-eye-what-she-began-drawing-to/",
+      "date": "2026-08-10T22:00:54Z"
+    },
+    {
+      "title": "The Evolution of Hunter-Killers",
+      "source": "Dailyreckoning.com",
+      "url": "https://dailyreckoning.com/the-evolution-of-hunter-killers/",
+      "date": "2026-08-10T22:00:01Z"
+    },
+    {
+      "title": "Global Diesel Crunch Worsens Ahead of Peak Winter Demand",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Global-Diesel-Crunch-Worsens-Ahead-of-Peak-Winter-Demand.html",
+      "date": "2026-08-10T22:00:00Z"
+    },
+    {
+      "title": "Pentagon may see one of quantum computing’s first practical winners",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/145196707b490933",
+      "date": "2026-08-10T21:53:41Z"
+    },
+    {
+      "title": "Same 100 Stocks, Different Price: Why QQQ Costs $180 Annually While QQQM Charges $150",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/09eef5b37b257913",
+      "date": "2026-08-10T21:53:22Z"
+    },
+    {
+      "title": "Global stocks tick up with oil steady on Hormuz plans - Yahoo Finance",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184922334",
+      "date": "2026-08-10T21:52:48Z"
+    },
+    {
+      "title": "Trump Media Tanks 8% To 2-Week Low As Company Reports Latest Losses",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/10/trump-media-tanks-8-to-2-week-low-as-company-reports-latest-losses/",
+      "date": "2026-08-10T21:49:51Z"
+    },
+    {
+      "title": "Strategy’s $15 Billion Bitcoin Financing Push Was Powered by ChatGPT, Asserts Michael Saylor",
+      "source": "ZyCrypto",
+      "url": "https://zycrypto.com/strategys-15-billion-bitcoin-financing-push-was-powered-by-chatgpt-asserts-michael-saylor/",
+      "date": "2026-08-10T21:40:15Z"
+    },
+    {
+      "title": "Strategy has $785 million left to close STRC’s final $5 gap after selling $213 million in Bitcoin",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/strategy-has-785-million-left-to-close-strcs-final-5-gap-after-selling-213-million-in-bitcoin/",
+      "date": "2026-08-10T21:40:11Z"
+    },
+    {
+      "title": "Semiconductor ETFs See Profit-Taking as Investors Pile Into QQQ",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8dcd80b78f39b1be",
+      "date": "2026-08-10T21:31:17Z"
+    },
+    {
+      "title": "Why ServiceNow Soared 12% Higher Last Month",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6f92b9cc9275fe90",
+      "date": "2026-08-10T21:31:06Z"
+    },
+    {
+      "title": "News of the day: Clean-tech tax credit’s slow rollout, stronger bull-market case, rent gobbles up earnings, severance windfall, Teachers’ return and more",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/uncategorized/news-of-the-day-clean-tech-tax-credits-slow-rollout-stronger-bull-market-case-rent-gobbles-up-earnings-severance-windfall-teachers-return-and-more",
+      "date": "2026-08-10T21:27:19Z"
+    },
+    {
+      "title": "Trump’s Iran Debacle Chalks Up Yet Another Loss, With No End In Sight",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-iran-saudi-turkey-pakistan_n_6a79ea90e4b01ec886910e81",
+      "date": "2026-08-10T21:24:32Z"
+    },
+    {
+      "title": "Nvidia Confirms Huge AI Funding Deal. These Financial Stocks Jump",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c963f000dc1bf5d7",
+      "date": "2026-08-10T21:23:34Z"
     }
   ]
 }

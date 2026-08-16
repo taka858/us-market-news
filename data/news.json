@@ -4,198 +4,192 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-08-15T23:15:02.813213"
+      "date": "2026-08-16T23:14:33.403323"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-08-15T23:15:02.813218"
+      "date": "2026-08-16T23:14:33.403328"
     }
   ],
   "bitcoin": {
-    "price": 63062,
-    "date": "2026-08-15T23:15:02.877471"
+    "price": 62896,
+    "date": "2026-08-16T23:14:33.472676"
   },
   "news": [
     {
-      "title": "TurboTax Maker Intuit Leads 3 Cheap, Dividend-Paying Tech Stocks With Up to 151% Upside",
+      "title": "Billionaire Bill Ackman doubles down on these stocks in Q2",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6a56175f31b1dd97",
-      "date": "2026-08-14T23:12:40Z"
+      "url": "https://biztoc.com/x/82e3f8c7af23b569",
+      "date": "2026-08-15T23:10:58Z"
     },
     {
-      "title": "Wall Street’s speculative trades rebound after sharp losses",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/wall-street-speculative-trades-rebound/",
-      "date": "2026-08-14T23:10:43Z"
+      "title": "CAR Investors Have Opportunity to Lead Avis Budget Group, Inc. Securities Fraud Lawsuit Against Pentwater Capital Management LP",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/car-investors-have-opportunity-to-lead-avis-budget-group-inc-securities-fraud-lawsuit-against-pentwater-capital-management-lp-302852218.html",
+      "date": "2026-08-15T23:08:00Z"
     },
     {
-      "title": "Why I'd buy these 2 ASX ETFs for $10,000 a year in passive income",
-      "source": "Motley Fool Australia",
-      "url": "https://www.fool.com.au/2026/08/15/why-id-buy-these-2-asx-etfs-for-10000-a-year-in-passive-income/",
-      "date": "2026-08-14T23:00:00Z"
+      "title": "Curtiss-Wright (CW) Just Raised Guidance Again, So What’s The Catch?",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/curtiss-wright-cw-just-raised-230318763.html",
+      "date": "2026-08-15T23:03:18Z"
     },
     {
-      "title": "Breitbart Business Digest: The Gloom and Boom Economy",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/economy/2026/08/14/breitbart-business-digest-the-gloom-and-boom-economy/",
-      "date": "2026-08-14T22:37:49Z"
-    },
-    {
-      "title": "Auto racing: Locals lead the standings at KRA",
-      "source": "West Central Tribune",
-      "url": "https://www.wctrib.com/sports/auto-racing-locals-lead-the-standings-at-kra",
-      "date": "2026-08-14T22:34:00Z"
-    },
-    {
-      "title": "Prediction markets are becoming financial data, but a 63% price does not always mean 63% odds",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/prediction-markets-are-becoming-financial-data-but-a-63-price-does-not-always-mean-63-odds/",
-      "date": "2026-08-14T22:30:03Z"
-    },
-    {
-      "title": "Bitcoin Price Prediction: Why Is Bitcoin Dropping?",
+      "title": "2 Mid-Cap Stocks Worth Your Attention and 1 We Question",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/285b42b56f2541ca",
-      "date": "2026-08-14T22:26:55Z"
+      "url": "https://biztoc.com/x/c636b7f0f4d2f171",
+      "date": "2026-08-15T22:57:18Z"
     },
     {
-      "title": "Cardinals hidden gem has emerged in 2026 preseason",
-      "source": "Burncitysports.com",
-      "url": "https://burncitysports.com/2026/08/14/cardinals-hidden-gem-in-preseason/",
-      "date": "2026-08-14T22:24:09Z"
+      "title": "Harvard fund discloses $2.2 billion stake in Musk’s SpaceX",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/15/harvard-management-fund-endowment-spacex-stake-university-california-north-carolina/",
+      "date": "2026-08-15T22:52:59Z"
     },
     {
-      "title": "HIVE Digital Technologies misses Q1 earnings and revenue estimates",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/hive-digital-misses-q1-earnings-revenue/",
-      "date": "2026-08-14T22:06:39Z"
+      "title": "Corpay (CPAY) Just Posted A Record Quarter, So Why The Caution?",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/corpay-cpay-just-posted-record-225148418.html",
+      "date": "2026-08-15T22:51:48Z"
     },
     {
-      "title": "The DSA’s War on Wealth",
-      "source": "Dailyreckoning.com",
-      "url": "https://dailyreckoning.com/the-dsas-war-on-wealth/",
-      "date": "2026-08-14T22:00:30Z"
+      "title": "MKS (MKSI) Just Posted 86% EPS Growth, So Why the Margin Warning?",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mks-mksi-just-posted-86-224242758.html",
+      "date": "2026-08-15T22:42:42Z"
     },
     {
-      "title": "This TSX stock soared this week on ‘positive surprise’ as one analyst see 52% possible upside for ‘undervalued’ shares",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/investing/tsx-stock-analyst-52-upside-undervalued-shares",
-      "date": "2026-08-14T21:53:54Z"
+      "title": "Royal Gold’s (RGLD) Profits Doubled, So Why Add A Buyback Now?",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-rgld-profits-doubled-223104992.html",
+      "date": "2026-08-15T22:31:04Z"
     },
     {
-      "title": "Appaloosa sells AI memory stocks, boosts Magnificent Seven holdings",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/appaloosa-sells-memory-stocks-magnificent-seven/",
-      "date": "2026-08-14T21:51:40Z"
-    },
-    {
-      "title": "86-year-old Lamèque fish processor seeks creditor projection",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/lameque-fish-processor-seeks-creditor-protection-9.7307969",
-      "date": "2026-08-14T21:50:24Z"
-    },
-    {
-      "title": "Jane Street’s $15B loss claim doesn’t square with the firm’s record-breaking quarter and fresh investment-grade rating",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/jane-street-15b-loss-claim-debunked/",
-      "date": "2026-08-14T21:47:12Z"
-    },
-    {
-      "title": "3 Small-Cap Stocks That Concern Us",
+      "title": "Morgan Stanley sends a blunt Tesla message to investors",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/be5acd1cf81c3333",
-      "date": "2026-08-14T21:44:10Z"
+      "url": "https://biztoc.com/x/4ef05724a5652a69",
+      "date": "2026-08-15T22:25:31Z"
     },
     {
-      "title": "Strategy has realized over $102 million in losses from 2026 Bitcoin sales. Here is the full report",
+      "title": "Scott Bessent fired a currency bazooka, but global finance still looks like a ‘giant Jenga tower’ propped up by a Japanese yen that’s in deep trouble",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/15/scott-bessent-dollar-yen-carry-trade-global-finance-jenga-tower-fed-rates-bank-of-japan/",
+      "date": "2026-08-15T22:20:15Z"
+    },
+    {
+      "title": "Scott Bessent fired a currency bazooka, but global finance still looks like a ‘giant Jenga tower’ propped up by a Japanese yen that’s in deep trouble",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/scott-bessent-fired-currency-bazooka-222015964.html",
+      "date": "2026-08-15T22:20:15Z"
+    },
+    {
+      "title": "MercadoLibre (MELI) Bets Big On Growth. Is The Payoff Worth The Wait?",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mercadolibre-meli-bets-big-growth-221741258.html",
+      "date": "2026-08-15T22:17:41Z"
+    },
+    {
+      "title": "Jim Cramer Was Worried About Potential Impact On Salesforce Inc. (NYSE:CRM)’s Dreamforce Conference",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/469c04b315bbe826",
-      "date": "2026-08-14T21:43:51Z"
+      "url": "https://biztoc.com/x/71a52dc4d2ceb7b8",
+      "date": "2026-08-15T21:56:30Z"
     },
     {
-      "title": "Stocks slip in cautious trading after weak US retail sales data",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/stocks-market-us-wall-street-retail-hormuz-6320691",
-      "date": "2026-08-14T21:42:07Z"
+      "title": "Jim Cramer Revealed What Went Wrong With Honeywell Aerospace Inc. (NASDAQ:HONA)",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/75753d2214a73558",
+      "date": "2026-08-15T21:56:29Z"
     },
     {
-      "title": "Jane Street in talks to shift $11B public debt to private investors including Pimco",
+      "title": "Jim Cramer Didn’t Think Figma, Inc. (NYSE:FIG) Was Treated The Way It Should Have Been",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2fe4a3c86d029e7d",
+      "date": "2026-08-15T21:56:28Z"
+    },
+    {
+      "title": "Host Hotels (HST) Just Raised Its Outlook. Can Luxury Travel Keep Delivering?",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/host-hotels-hst-just-raised-215502105.html",
+      "date": "2026-08-15T21:55:02Z"
+    },
+    {
+      "title": "Trump-linked crypto venture World Liberty Trust granted bank status",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Business/trump-linked-crypto-venture-world-liberty-trust-granted/story?id=135668756",
+      "date": "2026-08-15T21:51:11Z"
+    },
+    {
+      "title": "Jim Cramer Revealed What Went Wrong With Honeywell Aerospace Inc. (NASDAQ:HONA)",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-revealed-went-wrong-213604620.html",
+      "date": "2026-08-15T21:36:04Z"
+    },
+    {
+      "title": "Jim Cramer Said Domino’s Was Better Than Papa John’s International, Inc. (NASDAQ:PZZA) – But Is He Right?",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-domino-better-213509638.html",
+      "date": "2026-08-15T21:35:09Z"
+    },
+    {
+      "title": "Berkshire Hathaway boosted stake in Alphabet, homebuilders in the second quarter",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/berkshire-hathaway-boosted-stake-in-alphabet-homebuilders-in-the-second-quarter-11786829541096.html",
+      "date": "2026-08-15T21:32:20Z"
+    },
+    {
+      "title": "Kevin Warsh's Fed Faces Split Verdict on Inflation Data: Sahm Notes 'Good News,' Schiff Says Calls Out 'Misleading' CPI Rise",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/economy/policy/articles/kevin-warshs-fed-faces-split-213108508.html",
+      "date": "2026-08-15T21:31:08Z"
+    },
+    {
+      "title": "Jim Cramer Was Worried About Potential Impact On Salesforce Inc. (NYSE:CRM)’s Dreamforce Conference",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-worried-potential-impact-213039883.html",
+      "date": "2026-08-15T21:30:39Z"
+    },
+    {
+      "title": "Jim Cramer Said DoorDash, Inc. (NASDAQ:DASH) Was Shorted On Uber Which Was A Bad Trade",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-doordash-inc-212910159.html",
+      "date": "2026-08-15T21:29:10Z"
+    },
+    {
+      "title": "David Tepper cuts AI stock, yet value hits $1.1 billion",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/bc17127a54f0d1db",
+      "date": "2026-08-15T21:26:15Z"
+    },
+    {
+      "title": "Spot DEXs on Solana see $5.8B in trading volume for tokenized stocks",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/jane-street-private-debt-refinancing-pimco/",
-      "date": "2026-08-14T21:32:03Z"
+      "url": "https://cryptobriefing.com/solana-dex-tokenized-stocks-volume/",
+      "date": "2026-08-15T21:08:35Z"
     },
     {
-      "title": "1 Stock Under $50 for Long-Term Investors and 2 We Find Risky",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/12130fe30c6c61cb",
-      "date": "2026-08-14T21:29:20Z"
-    },
-    {
-      "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance",
-      "date": "2026-08-14T21:22:23Z"
-    },
-    {
-      "title": "Inside ‘My Brilliant Career’: Production Designer Felicity Abbott Discusses Building the World of Netflix’s New Adaptation",
-      "source": "What's on Netflix",
-      "url": "https://www.whats-on-netflix.com/news/my-brilliant-career-netflix-felicity-abbott-interview/",
-      "date": "2026-08-14T21:21:49Z"
-    },
-    {
-      "title": "Norway’s sovereign fund reaches record 11,549 BTC exposure without buying more Bitcoin",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/norways-sovereign-fund-reaches-record-11549-btc-exposure-without-buying-more-bitcoin/",
-      "date": "2026-08-14T21:20:07Z"
-    },
-    {
-      "title": "Alexi Lalas weighs in on Christian Pulisic’s ‘Jekyll and Hyde’ situation ahead of Serie A season",
-      "source": "Alloutsoccer.com",
-      "url": "https://www.alloutsoccer.com/news/usmnt-lalas-pulisic-milan-situation-1983164",
-      "date": "2026-08-14T21:19:28Z"
-    },
-    {
-      "title": "German quote of the day: 'The last shirt you wear has no pockets. Three things come into the house uninvited...' ; life lessons on how we should not be too obsessed with worldly possessions, as we wou",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/german-quote-of-the-day-the-last-shirt-you-wear-has-no-pockets-three-things-come-into-the-house-uninvited-life-lessons-on-how-we-should-not-be-too-obsessed-with-worldly-possessions-as-we-would-have-to-leave-the-world-empty-handed-one-day/articleshow/133251481.cms",
-      "date": "2026-08-14T21:17:48Z"
-    },
-    {
-      "title": "Stocks Close Lower on Worries About US Economy",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/90b110f97ffed834",
-      "date": "2026-08-14T21:11:06Z"
-    },
-    {
-      "title": "DDC Enterprise shares rise 46% as company holds 2,899 Bitcoin",
+      "title": "PancakeSwap v3 hosts $3B in spot DEX trading volume for tokenized stocks",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/ddc-enterprise-bitcoin-treasury-stock-surge/",
-      "date": "2026-08-14T21:08:14Z"
+      "url": "https://cryptobriefing.com/pancakeswap-v3-tokenized-stocks-dex-volume/",
+      "date": "2026-08-15T21:06:28Z"
     },
     {
-      "title": "Berkshire Hathaway reveals it boosted its Alphabet stake by 83% last quarter",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/berkshire-hathaway-alphabet-stock-portfolio-warren-buffett-greg-abel-cash-2026-8#article",
-      "date": "2026-08-14T21:07:53Z"
+      "title": "St. Louis Cardinals Joshua Baez Make Historic Debut with 3 Homers to Beat Cubs",
+      "source": "Viva El Birdos",
+      "url": "https://www.vivaelbirdos.com/st-louis-cardinals-game-information/74420/st-louis-cardinals-joshua-baez-make-historic-debut-with-3-homers-to-beat-cubs",
+      "date": "2026-08-15T21:00:16Z"
     },
     {
-      "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
-      "date": "2026-08-14T21:03:35Z"
-    },
-    {
-      "title": "Strive CEO Matt Cole critiques MSCI index framework for ignoring Bitcoin treasuries",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/strive-ceo-cole-critiques-msci-bitcoin-treasury/",
-      "date": "2026-08-14T21:02:44Z"
-    },
-    {
-      "title": "S&P 500 Logs Third-Consecutive Weekly Gain",
+      "title": "Bitcoin And Crypto Suddenly Braced For A White House Price Game-Changer",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/34038d1fa47d5279",
-      "date": "2026-08-14T20:55:45Z"
+      "url": "https://biztoc.com/x/63e0518443ca5516",
+      "date": "2026-08-15T20:54:25Z"
+    },
+    {
+      "title": "These 3 ETFs Pay More Than a Rental Property With No Tenants, No Repairs, and No Mortgage",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/15/these-3-etfs-pay-more-than-a-rental-property-with-no-tenants-no-repairs-and-no-mortgage/",
+      "date": "2026-08-15T20:32:18Z"
     }
   ]
 }

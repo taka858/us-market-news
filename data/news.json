@@ -4,198 +4,192 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-08-19T23:18:04.585576"
+      "date": "2026-08-20T23:20:24.716150"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-08-19T23:18:04.585583"
+      "date": "2026-08-20T23:20:24.716155"
     }
   ],
   "bitcoin": {
-    "price": 69348,
-    "date": "2026-08-19T23:18:04.629235"
+    "price": 72895,
+    "date": "2026-08-20T23:20:24.759254"
   },
   "news": [
     {
-      "title": "Eight mutual funds skip dividends",
-      "source": "The Daily Star",
-      "url": "https://www.thedailystar.net/business/economy/news/eight-mutual-funds-skip-dividends-4251171",
-      "date": "2026-08-18T23:17:05Z"
+      "title": "The country’s national debt just broke the $40T mark. Here’s what it means",
+      "source": "Deseret News",
+      "url": "https://www.deseret.com/business/2026/08/19/donald-trump-national-debt-40-trillion-bond-market-inflation-interest-rates-federal-budget-consumer-prices/",
+      "date": "2026-08-19T23:11:26Z"
     },
     {
-      "title": "Strategy reports $1.2B increase in MSTR positions from top shareholders in Q2",
+      "title": "Aave Horizon to onboard fixed-income fund from Neuberger Berman and Securitize",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/strategy-mstr-institutional-shareholders-q2-increase/",
-      "date": "2026-08-18T23:06:46Z"
+      "url": "https://cryptobriefing.com/aave-horizon-neuberger-securitize-hinc-fund/",
+      "date": "2026-08-19T23:07:07Z"
     },
     {
-      "title": "The U.S. Is Quietly Building a New Energy Foothold in Iraq",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Natural-Gas/The-US-Is-Quietly-Building-a-New-Energy-Foothold-in-Iraq.html",
-      "date": "2026-08-18T23:00:00Z"
+      "title": "JPMorgan entity barred in India for auction manipulation",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/jpmorgan-barred-india-auction-manipulation/",
+      "date": "2026-08-19T23:05:56Z"
     },
     {
-      "title": "Cramer's lightning round: 'I'm going to say no' to United Microelectronics",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/cramers-lightning-round-im-going-to-say-no-to-united-microelectronics.html",
-      "date": "2026-08-18T22:55:01Z"
+      "title": "Bitcoin surpasses Meta, Tesla, and Vanguard ETF to become 13th largest asset",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/bitcoin-13th-largest-asset-surpasses-meta-tesla/",
+      "date": "2026-08-19T23:05:20Z"
     },
     {
-      "title": "Funeral for Zhu Rongji; Xi meets Ecuadorian President Noboa; Jiang Zemin; Housing provident fund; Consumption; What does China want?",
+      "title": "NGX extends decline on energy, insurance sell-off",
+      "source": "The Punch",
+      "url": "https://punchng.com/ngx-extends-decline-on-energy-insurance-sell-off/",
+      "date": "2026-08-19T23:05:03Z"
+    },
+    {
+      "title": "Wang Yi in South Korea; Unitree IPO; PRC tells EU to pound sand over JD.com; H200 purchases; Youth unemployment rises",
       "source": "Sinocism.com",
-      "url": "https://sinocism.com/p/funeral-for-zhu-rongji-xi-meets-ecuadorian",
-      "date": "2026-08-18T22:52:05Z"
+      "url": "https://sinocism.com/p/wang-yi-in-south-korea-unitree-ipo",
+      "date": "2026-08-19T23:02:55Z"
     },
     {
-      "title": "AI’s Biggest Problem Right Now – And the Portfolio of Companies Solving It",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3b6c4497331acc5e",
-      "date": "2026-08-18T22:49:13Z"
-    },
-    {
-      "title": "Trump’s White House Business Shindig Will Be a Cesspool of Financial Conflicts",
-      "source": "Mother Jones",
-      "url": "https://www.motherjones.com/politics/2026/08/trump-conflicts-interest-crypto-world-liberty-financial-prediction-markets-polymarket-kalshi-corruption-cftc/",
-      "date": "2026-08-18T22:46:15Z"
-    },
-    {
-      "title": "News Wrap: Meta faces trial over arguments its platforms harm children",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-meta-faces-trial-over-arguments-its-platforms-harm-children",
-      "date": "2026-08-18T22:45:26Z"
-    },
-    {
-      "title": "Millennials’ finances have improved since 5 years ago during Biden administration: poll",
+      "title": "US debt crosses $40T after doubling under Trump, Biden — sparking new warnings of fiscal crisis",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/18/us-news/millennials-are-happy-with-their-finances-as-boomers-lag-behind-report/",
-      "date": "2026-08-18T22:43:07Z"
+      "url": "https://nypost.com/2026/08/19/business/us-debt-crosses-40t-after-doubling-under-trump-biden/",
+      "date": "2026-08-19T23:02:34Z"
     },
     {
-      "title": "Kennametal, Proto Labs, and Johnson Controls Stocks Trade Down, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/2d1a81cef3b15ebb",
-      "date": "2026-08-18T22:36:42Z"
+      "title": "Actors from Stranger Things and Harry Potter nominated for Stage Debut Awards",
+      "source": "The-independent.com",
+      "url": "https://www.the-independent.com/arts-entertainment/theatre-dance/news/stage-debut-awards-nominations-sadie-sink-tom-fletcher-b3035756.html",
+      "date": "2026-08-19T23:01:21Z"
     },
     {
-      "title": "This public company now controls 18% of Zcash mining power after $33 million Winklevoss-linked deal",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/this-public-company-now-controls-18-of-zcash-mining-power-after-33-million-winklevoss-linked-deal/",
-      "date": "2026-08-18T22:30:53Z"
+      "title": "Jim Cramer drops stunning take on the economy",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/economy/jim-cramer-investors-misreading-economy-stock-market",
+      "date": "2026-08-19T23:00:00Z"
     },
     {
-      "title": "Train station to rocket propellants, a Nagpur firm’s INR21k-cr journey",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/prime/infrastructure/train-station-to-rocket-propellants-a-nagpur-firms-inr21k-cr-journey/primearticleshow/133319469.cms",
-      "date": "2026-08-18T22:30:00Z"
-    },
-    {
-      "title": "XStocks’ tokenized Circle stock CRCLx deploys $3M in DeFi",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/xstocks-crclx-tokenized-circle-stock-defi/",
-      "date": "2026-08-18T22:25:08Z"
-    },
-    {
-      "title": "Jim Cramer says the market is too negative — and that’s creating buying opportunities",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/18/jim-cramer-market-too-negative-buying-opportunities.html",
-      "date": "2026-08-18T22:23:36Z"
-    },
-    {
-      "title": "Allient, Mayville Engineering, Graham Corporation, Titan International, and Northwest Pipe Stocks Trade Down, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e51aa92a435d4017",
-      "date": "2026-08-18T22:21:17Z"
-    },
-    {
-      "title": "5 AI Infrastructure Stocks Soros Just Bought That Most Investors Have Never Even Heard Of",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9ec5d07d3945724c",
-      "date": "2026-08-18T22:18:36Z"
-    },
-    {
-      "title": "FTAI Aviation, EMCOR, Caterpillar, Wabash, and MYR Group Shares Are Falling, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5219ff43d9d82474",
-      "date": "2026-08-18T22:06:34Z"
-    },
-    {
-      "title": "Andy Burnham says Britain 'supports Ukraine 100%' after Putin warned 'there will be a price to pay' for supplying Kyiv with drones",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16061239/Burnham-Britain-supports-Ukraine-Putin-warned-price-pay.html",
-      "date": "2026-08-18T22:04:47Z"
-    },
-    {
-      "title": "Purpose Investments Inc. Announces August 2026 Distributions",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/purpose-investments-inc-announces-august-2026-distributions",
-      "date": "2026-08-18T22:02:50Z"
-    },
-    {
-      "title": "A flashing red light from the bond markets",
-      "source": "Vox",
-      "url": "https://www.vox.com/today-explained-newsletter/499728/bond-market-treasury-yields-national-debt",
-      "date": "2026-08-18T21:54:04Z"
-    },
-    {
-      "title": "Why Did Trump Lose It Over Natalie Harp—and Who Is She Anyway? Unfortunately, I’ve Learned Too Much.",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/life/2026/08/trump-natalie-harp-who-jon-ossoff-news.html",
-      "date": "2026-08-18T21:50:50Z"
-    },
-    {
-      "title": "California pension fund holds $35.5M in Strategy shares for Bitcoin exposure",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/calpers-strategy-bitcoin-exposure-2/",
-      "date": "2026-08-18T21:48:07Z"
-    },
-    {
-      "title": "Unitree unveils ‘Superman’ robot",
-      "source": "The Manila Times",
-      "url": "https://www.manilatimes.net/2026/08/19/business/foreign-business/unitree-unveils-superman-robot/2407486",
-      "date": "2026-08-18T21:42:36Z"
-    },
-    {
-      "title": "Live: ASX to fall ahead of inflation data",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-08-19/asx-markets-business-live-news/107051926",
-      "date": "2026-08-18T21:41:29Z"
-    },
-    {
-      "title": "Robotics Stocks Punished Tuesday in AI Sell-Off: Ouster Down 10%, Aeva Technologies Down 12%, Symbotic Down 4%",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/8408b2ba6b847181",
-      "date": "2026-08-18T21:32:58Z"
-    },
-    {
-      "title": "FASB proposes guidance to help stablecoins qualify as cash equivalents under US accounting rules",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/fasb-stablecoins-cash-equivalents-accounting/",
-      "date": "2026-08-18T21:32:31Z"
-    },
-    {
-      "title": "With $30 billion in FY26 income, should I buy CBA shares today?",
+      "title": "2 ASX dividend shares with yields above 7%",
       "source": "Motley Fool Australia",
-      "url": "https://www.fool.com.au/2026/08/19/with-30-billion-in-fy26-income-should-i-buy-cba-shares-today/",
-      "date": "2026-08-18T21:30:00Z"
+      "url": "https://www.fool.com.au/2026/08/20/2-asx-dividend-shares-with-yields-above-7-6/",
+      "date": "2026-08-19T23:00:00Z"
     },
     {
-      "title": "New report warns High-Speed Rail’s funding could run dry by 2027, flags transparency concerns",
-      "source": "KPBS",
-      "url": "https://www.kpbs.org/news/politics/2026/08/18/new-report-warns-high-speed-rails-funding-could-run-dry-by-2027-flags-transparency-concerns",
-      "date": "2026-08-18T21:28:47Z"
+      "title": "How the $32 Trillion Treasury Market Influences the Economy - The New York Times",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185058550",
+      "date": "2026-08-19T22:53:59Z"
     },
     {
-      "title": "SEC proposes new crypto rules in absence of CLARITY Act",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act",
-      "date": "2026-08-18T21:24:15Z"
+      "title": "Goldman Sachs flags record low correlation between AI and non-AI trades as hedge funds retreat",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/goldman-sachs-record-low-ai-correlation/",
+      "date": "2026-08-19T22:52:58Z"
     },
     {
-      "title": "Tesla Stock Slips as 312-Times Valuation Faces Yield Shock",
+      "title": "Jim Cramer makes aggressive Micron prediction, lists top memory buys",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b3075fd57bd65d0d",
-      "date": "2026-08-18T21:20:44Z"
+      "url": "https://biztoc.com/x/adeff63d1ea51865",
+      "date": "2026-08-19T22:52:15Z"
+    },
+    {
+      "title": "The chip-stock rally hits a speed bump — but these analysts see reason to be hopeful",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8544bd6b422b5ad8",
+      "date": "2026-08-19T22:52:02Z"
+    },
+    {
+      "title": "Bitcoin posts surprise rally as currency nears $70,000 for the first time since June",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b02d74f405f5f81d",
+      "date": "2026-08-19T22:51:59Z"
+    },
+    {
+      "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/0c7325101c25bf21",
+      "date": "2026-08-19T22:51:50Z"
+    },
+    {
+      "title": "Jimmy Rogers follows Iowa State's greatest football era and seeks to avoid return to bad old days",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/jimmy-rogers-follows-iowa-states-224201255.html",
+      "date": "2026-08-19T22:42:01Z"
+    },
+    {
+      "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
+      "date": "2026-08-19T22:39:40Z"
+    },
+    {
+      "title": "Kraft Heinz vs. General Mills: A Closer Look at Their 6%+ Dividends",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/5cd73a894b162237",
+      "date": "2026-08-19T22:39:16Z"
+    },
+    {
+      "title": "Bitcoin briefly hits $70,000 for the first time since June. Here is why",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/3024977c173b28f4",
+      "date": "2026-08-19T22:36:41Z"
+    },
+    {
+      "title": "XStocks tokenized equities hit $186M AUM, with Ethereum’s STRCx leading by market cap",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/xstocks-tokenized-equities-solana-strcx-ethereum/",
+      "date": "2026-08-19T22:32:23Z"
+    },
+    {
+      "title": "Batter up: MSSU softball welcomes Miracle Leaguers",
+      "source": "Joplin Globe",
+      "url": "https://www.joplinglobe.com/sports/batter-up-mssu-softball-welcomes-miracle-leaguers/article_ead1a1bb-5829-406b-bc56-fa8855f292c5.html",
+      "date": "2026-08-19T22:32:00Z"
+    },
+    {
+      "title": "Bitcoin reclaims 200-day moving average after 270 days below it",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/bitcoin-reclaims-200-day-moving-average/",
+      "date": "2026-08-19T22:30:54Z"
+    },
+    {
+      "title": "Genuine Suzuki Gifts for Dad – With Plenty of Current Sale Picks",
+      "source": "Mcnews.com.au",
+      "url": "https://www.mcnews.com.au/?p=584774",
+      "date": "2026-08-19T22:27:48Z"
+    },
+    {
+      "title": "Alabama town left powerless against massive new Bitcoin mining data center after developer finds loophole in state zoning laws",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/alabama-town-left-powerless-against-massive-new-bitcoin-mining-data-center-after-developer-finds-loophole-in-state-zoning-laws",
+      "date": "2026-08-19T22:25:00Z"
+    },
+    {
+      "title": "Bitcoin’s $69,000 breakout now hinges on yields after Fed warns more tightening may be needed",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/bitcoins-69000-breakout-now-hinges-on-yields-after-fed-warns-more-tightening-may-be-needed/",
+      "date": "2026-08-19T22:20:38Z"
+    },
+    {
+      "title": "Bitcoin posts surprise rally as currency nears $70,000 for the first time since June",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/19/bitcoin-surprise-rally-since-june/",
+      "date": "2026-08-19T22:18:38Z"
+    },
+    {
+      "title": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
+      "date": "2026-08-19T22:18:01Z"
+    },
+    {
+      "title": "Championship weekend at Anderson",
+      "source": "The Herald Bulletin",
+      "url": "https://www.heraldbulletin.com/sports/autoracing/championship-weekend-at-anderson/article_21723731-fe8c-4f99-9cc9-9c5f8251b982.html",
+      "date": "2026-08-19T22:18:00Z"
     }
   ]
 }

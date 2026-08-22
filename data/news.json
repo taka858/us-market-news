@@ -4,198 +4,192 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-08-21T23:18:29.456961"
+      "date": "2026-08-22T23:15:28.526734"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-08-21T23:18:29.456968"
+      "date": "2026-08-22T23:15:28.526743"
     }
   ],
   "bitcoin": {
-    "price": 78586,
-    "date": "2026-08-21T23:18:29.548017"
+    "price": 76966,
+    "date": "2026-08-22T23:15:28.648329"
   },
   "news": [
     {
-      "title": "BetterInvesting™ Magazine Update on Uber Technologies and American Eagle Outfitters",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/betterinvesting-magazine-update-on-uber-technologies-and-american-eagle-outfitters-302856909.html",
-      "date": "2026-08-20T23:18:00Z"
-    },
-    {
-      "title": "Brookfield Renewable to Issue C$750 Million of Green Bonds",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/brookfield-renewable-to-issue-c750-million-of-green-bonds",
-      "date": "2026-08-20T23:08:21Z"
-    },
-    {
-      "title": "Jim Cramer sees trouble brewing for stock market",
+      "title": "Bitcoin soars to nearly $80,000—but crypto’s new favorite coin, Hyperliquid, is stealing its thunder",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7ab0e4731b27c573",
-      "date": "2026-08-20T23:06:28Z"
+      "url": "https://biztoc.com/x/65ec1394616819c2",
+      "date": "2026-08-21T23:09:04Z"
     },
     {
-      "title": "Why Treasury yields are at 20-year highs – and why it matters",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/why-treasury-yields-are-at-20-year-highs-and-why-it-matters",
-      "date": "2026-08-20T22:55:50Z"
+      "title": "EXCLUSIVE: 'House of Horrors' Parents Hit With New Disturbing Charges — As Siders Family Faces Dozens of Child-Endangerment Counts",
+      "source": "Radaronline.com",
+      "url": "https://radaronline.com/p/house-of-horrors-parents-new-charges-child-endangerment-counts-siders-family/",
+      "date": "2026-08-21T23:00:00Z"
     },
     {
-      "title": "MongoDB, Cloudflare, Okta, Zscaler, and Upstart Stocks Trade Down, What You Need To Know",
+      "title": "Gavin Newsom hails Trump Accounts as ‘best’ thing the prez has ever done in rare lovefest",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/21/us-news/gavin-newsom-calls-trump-accounts-the-best-thing-hes-ever-done/",
+      "date": "2026-08-21T22:58:27Z"
+    },
+    {
+      "title": "‘Spider-Man’ Is a $940 Million Streaming Revenue Engine | Charts",
+      "source": "TheWrap",
+      "url": "https://www.thewrap.com/commentary-analysis/data-analysis/spider-man-is-a-940-million-streaming-revenue-engine-charts/",
+      "date": "2026-08-21T22:54:20Z"
+    },
+    {
+      "title": "Wall St rises on the day but falls for the week; bond yields and Iran in focus",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/companies-markets/wall-st-rises-on-the-day-but-falls-for-the-week-bond-yields-and-iran-in-focus",
+      "date": "2026-08-21T22:50:14Z"
+    },
+    {
+      "title": "Q2 Earnings Roundup: Expedia (NASDAQ:EXPE) And The Rest Of The Consumer Internet Segment",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/50346c0ff6a1154d",
-      "date": "2026-08-20T22:53:52Z"
+      "url": "https://biztoc.com/x/e50454340ac62108",
+      "date": "2026-08-21T22:40:54Z"
     },
     {
-      "title": "News Wrap: USS Abraham Lincoln heading home after 9-month deployment",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-uss-abraham-lincoln-heading-home-after-9-month-deployment",
-      "date": "2026-08-20T22:45:36Z"
+      "title": "3 American Stocks Showing the Same Setup That Sent Moderna Up 177%",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1f2d5e8bde93b113",
+      "date": "2026-08-21T22:40:39Z"
     },
     {
-      "title": "Sec. Bessent's big plan to finance the national debt",
-      "source": "Marketplace.org",
-      "url": "https://www.marketplace.org/episode/2026/08/20/sec-bessents-big-plan-to-finance-the-national-debt",
-      "date": "2026-08-20T22:35:00Z"
+      "title": "Bitari files for $30M IPO on Nasdaq to fund Bitcoin mining expansion",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/bitari-files-30m-ipo-nasdaq-bitcoin-mining/",
+      "date": "2026-08-21T22:29:25Z"
     },
     {
-      "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
+      "title": "Tokenized equity on Solana nears $470M, driven by xStocks growth",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/tokenized-equity-on-solana-nears-470m-driven-by-xstocks-growth/",
+      "date": "2026-08-21T22:12:58Z"
+    },
+    {
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours | TechCrunch",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+      "date": "2026-08-21T22:10:01Z"
+    },
+    {
+      "title": "US Treasury Secretary Bessent to hold press conference on Monday",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-treasury-secretary-bessent-hold-220931823.html",
+      "date": "2026-08-21T22:09:31Z"
+    },
+    {
+      "title": "Maggie Haberman Describes Natalie Harp as Trump’s ‘Binkie’",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/maggie-haberman-describes-natalie-harp-as-trumps-binkie/",
+      "date": "2026-08-21T22:01:27Z"
+    },
+    {
+      "title": "The Contrarian’s Playbook: Why the Smartest Investors Buy When Everyone Hates Crypto",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/the-contrarians-playbook-why-the-smartest-investors-buy-when-everyone-hates-crypto/",
+      "date": "2026-08-21T22:00:00Z"
+    },
+    {
+      "title": "Trump denies directing Treasury Secretary Bessent on bond market intervention",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-denies-directing-bessent-bond-market/",
+      "date": "2026-08-21T21:50:13Z"
+    },
+    {
+      "title": "The Robot IPO Everyone’s Talking About (and the Stocks Nobody Is)",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/3e951911e60b5ec1",
+      "date": "2026-08-21T21:37:37Z"
+    },
+    {
+      "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
       "source": "Decrypt",
-      "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
-      "date": "2026-08-20T22:32:11Z"
+      "url": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
+      "date": "2026-08-21T21:31:05Z"
     },
     {
-      "title": "What Trevon Diggs said in his introductory Seahawks press conference",
-      "source": "Field Gulls",
-      "url": "https://www.fieldgulls.com/seattle-seahawks-news/172830/seahawks-cornerback-trevon-diggs-press-conference-quotes-video",
-      "date": "2026-08-20T22:30:00Z"
+      "title": "SR Promotions schedules season championships at Davenport Speedway",
+      "source": "WHBF - OurQuadCities.com",
+      "url": "https://www.ourquadcities.com/news/local-news/sr-promotions-schedules-season-championships-at-davenport-speedway/",
+      "date": "2026-08-21T21:28:44Z"
     },
     {
-      "title": "Jim Cramer says there's an 'incredibly jarring gulf between stock prices and reality'",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/20/jim-cramer-jarring-gulf-stock-prices-reality.html",
-      "date": "2026-08-20T22:28:26Z"
+      "title": "Robinhood Chain crosses $1B in total value locked",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/robinhood-chain-crosses-1-billion-tvl/",
+      "date": "2026-08-21T21:28:30Z"
     },
     {
-      "title": "IBIT’s 0.25% Fee Sells Off Bitcoin Daily, and the Prospectus Calls Every Sale a Taxable Event",
+      "title": "Breitbart Business Digest: People Are Worried About the Bond Market",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/economy/2026/08/21/breitbart-business-digest-people-are-worried-about-the-bond-market/",
+      "date": "2026-08-21T21:23:15Z"
+    },
+    {
+      "title": "Nvidia posts longest losing streak in nearly five years",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/nvidia-longest-losing-streak-five-years/",
+      "date": "2026-08-21T21:22:12Z"
+    },
+    {
+      "title": "French cuisine takes Manhattan by storm — with more spots opening next month",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/21/business/nouvelle-vague-a-bevy-of-french-restaurants-is-coming-to-manhattan/",
+      "date": "2026-08-21T21:15:50Z"
+    },
+    {
+      "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/0021d9ea8e64398b",
-      "date": "2026-08-20T22:20:39Z"
+      "url": "https://biztoc.com/x/ec80d279f75e1033",
+      "date": "2026-08-21T21:07:59Z"
     },
     {
-      "title": "This Bitcoin miner just signed a $350 million AI deal, but it needs $185 million to make it work",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/this-bitcoin-miner-just-signed-a-350-million-ai-deal-but-it-needs-185-million-to-make-it-work/",
-      "date": "2026-08-20T22:15:15Z"
+      "title": "OnionHop v3.8.1",
+      "source": "Kitploit.com",
+      "url": "https://kitploit.com/en/posts/github-center2055-onionhop-v381",
+      "date": "2026-08-21T21:06:46Z"
     },
     {
-      "title": "Bunnings finally launches one of its most-requested bucket item - and it's only 30 cents: 'OMG I need the lid'",
+      "title": "One billion pounds A DAY: The staggering sum spent on benefits that's giving Chancellor John Healey a Budget headache - and raising spectre of take hikes",
       "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/lifestyle/article-16065981/Bunnings-finally-launches-requested-item.html",
-      "date": "2026-08-20T22:10:43Z"
+      "url": "https://www.dailymail.com/news/article-16071039/One-billion-pounds-DAY-staggering-sum-spent-benefits-thats-giving-Chancellor-John-Healey-Budget-headache-raising-spectre-tax-hikes.html",
+      "date": "2026-08-21T21:00:49Z"
     },
     {
-      "title": "Is it illegal for the president to spend ‘patriotic’ donations on a White House ballroom or anything else?",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/is-it-illegal-for-the-president-to-spend-patriotic-donations-on-a-white-house-ballroom-or-anything-else-290107",
-      "date": "2026-08-20T22:08:40Z"
-    },
-    {
-      "title": "IndyCar’s Freedom 250 GP Among Roger Penske’s Greatest Achievements",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/brucemartin/2026/08/20/indycars-freedom-250-gp-among-roger-penskes-greatest-achievements/",
-      "date": "2026-08-20T22:06:22Z"
-    },
-    {
-      "title": "Stocks fall as US Treasury’s borrowing cost plan seen as temporary band-aid",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/stocks-fall-treasury-borrowing-plan-temporary/",
-      "date": "2026-08-20T22:05:09Z"
-    },
-    {
-      "title": "A Pogue’s Guide to Grieving Outer Banks’s Final Season",
-      "source": "Vulture",
-      "url": "http://www.vulture.com/article/outer-banks-s5-recap-final-season-ending-explained.html",
-      "date": "2026-08-20T22:00:03Z"
-    },
-    {
-      "title": "One Number Is Keeping Trump’s Team Up at Night. You Should Be Worried About It Too.",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/news-and-politics/2026/08/treasury-bonds-trump-iran-inflation-scott-bessent.html",
-      "date": "2026-08-20T21:58:40Z"
-    },
-    {
-      "title": "Commentary: This bad movie is a good guide to China’s stock market",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/niu-lai-movie-china-stock-market-invest-6330776",
-      "date": "2026-08-20T21:58:00Z"
-    },
-    {
-      "title": "Methanex Provides Update on Natgasoline Refinancing",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/methanex-provides-update-on-natgasoline-refinancing",
-      "date": "2026-08-20T21:57:03Z"
-    },
-    {
-      "title": "U.S. Stocks and Bonds Slide, Brushing Off Treasury’s Buyback Plans",
+      "title": "Spotting Winners: Trimble (NASDAQ:TRMB) And Internet of Things Stocks In Q2",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/0b47dc85d19dd281",
-      "date": "2026-08-20T21:50:33Z"
+      "url": "https://biztoc.com/x/17dcc506cfb78ce8",
+      "date": "2026-08-21T20:54:31Z"
     },
     {
-      "title": "$DRAM ETF assets surge 20% to $28B amid strong retail demand",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/dram-etf-assets-surge-28b-retail-demand/",
-      "date": "2026-08-20T21:41:42Z"
-    },
-    {
-      "title": "Ben McKenzie rose to fame in The O.C. Now he’s calling out the harms of cryptocurrency",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/radio/thecurrent/ben-mckenzie-cryptocurrency-9.7312533",
-      "date": "2026-08-20T21:36:15Z"
-    },
-    {
-      "title": "Strategy’s net leverage drops to 3% as capital raising accelerates",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/strategy-net-leverage-drops-3-percent/",
-      "date": "2026-08-20T21:34:10Z"
-    },
-    {
-      "title": "Live: US markets down amid plan to 'collapse' Iran's economy, ASX to follow",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-08-21/asx-markets-business-live-news-august-21-2026/107061908",
-      "date": "2026-08-20T21:32:54Z"
-    },
-    {
-      "title": "News of the day: Big bank valuation, Ben McKenzie’s crypto crusade, Ottawa’s new drone marketplace, World Cup travel boom, the burden of growth and more",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/uncategorized/news-of-the-day-big-bank-valuation-ben-mckenzies-crypto-crusade-ottawas-new-drone-marketplace-world-cup-travel-boom-the-burden-of-growth-and-more",
-      "date": "2026-08-20T21:32:13Z"
-    },
-    {
-      "title": "Talos Energy, Transocean, HighPeak Energy, and Murphy Oil Shares Are Soaring, What You Need To Know",
+      "title": "Edge & Node CEO says AI agents are ready to spend money, but humans aren’t ready to let them",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6910d0a8be2ee463",
-      "date": "2026-08-20T21:23:02Z"
+      "url": "https://biztoc.com/x/7641780b1060d64e",
+      "date": "2026-08-21T20:54:27Z"
     },
     {
-      "title": "Trading Day: Can’t get no relief",
+      "title": "US stocks regain ground but close notably lower for the week",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f9dc7b6c119a2c5f",
-      "date": "2026-08-20T21:20:06Z"
+      "url": "https://biztoc.com/x/95ffb6f2db2ffe85",
+      "date": "2026-08-21T20:54:18Z"
     },
     {
-      "title": "AI\"s Bar Mitzvah Moment: From Hype & Hope to Business Questions!",
-      "source": "Blogger.com",
-      "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/8152901575140311047/9193980372627956092",
-      "date": "2026-08-20T21:18:56Z"
+      "title": "Stocks Settle Higher as Crude Oil Prices Stabilize",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/3270606a146c36e7",
+      "date": "2026-08-21T20:51:58Z"
     },
     {
-      "title": "Interactive Brokers’ margin loans grow 49% to $100.7B as investors pile into leverage",
+      "title": "Ionic Digital increases Bitcoin holdings by 21 BTC to 2,882 BTC as AI revenue dominates",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/interactive-brokers-margin-loans-growth/",
-      "date": "2026-08-20T21:13:52Z"
+      "url": "https://cryptobriefing.com/ionic-digital-bitcoin-holdings-2882-btc/",
+      "date": "2026-08-21T20:50:33Z"
     }
   ]
 }

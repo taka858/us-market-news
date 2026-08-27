@@ -4,192 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-08-25T23:20:31.949041"
+      "date": "2026-08-27T04:11:33.554460"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-08-25T23:20:31.949045"
+      "date": "2026-08-27T04:11:33.554465"
     }
   ],
   "bitcoin": {
-    "price": 78915,
-    "date": "2026-08-25T23:20:31.998685"
+    "price": 78813,
+    "date": "2026-08-27T04:11:33.611515"
   },
   "news": [
     {
-      "title": "Why Tokenized Stocks Could Be the Next Big Thing in Global Finance",
-      "source": "C-sharpcorner.com",
-      "url": "https://www.c-sharpcorner.com/article/why-tokenized-stocks-could-be-the-next-big-thing-in-global-finance/",
-      "date": "2026-08-24T23:05:16Z"
-    },
-    {
-      "title": "Ukraine hands the UK a trove of top-secret intelligence to help AI train our troops to defeat Putin",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16077007/Ukraine-hands-UK-secret-intelligence-Putin.html",
-      "date": "2026-08-24T23:05:00Z"
-    },
-    {
-      "title": "Here's what Jim Cramer says stock investors need to know about the bond market",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/64c39e57fcae2afc",
-      "date": "2026-08-24T23:02:33Z"
-    },
-    {
-      "title": "unknown ransomware � .BRKD ext; WE_CAN_HELP_YOU! ransom note",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/forums/t/818258/unknown-ransomware-brkd-ext;-we-can-help-you-ransom-note/",
-      "date": "2026-08-24T22:55:11Z"
-    },
-    {
-      "title": "Stock Market Today: Dow Rises, Nasdaq, S&P 500 Down; Nvidia, Micron, Marvell, Super Micro, More Movers - Barron's",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185137448",
-      "date": "2026-08-24T22:52:25Z"
-    },
-    {
-      "title": "Strategy adds $1.59 billion of flexible liquidity while leaving bitcoin holdings unchanged",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ab00c04e3a0eeca3",
-      "date": "2026-08-24T22:48:34Z"
-    },
-    {
-      "title": "Bacolod: DA intensifies sugar pest fight, rolls out new varieties",
-      "source": "Rpnradio.com",
-      "url": "https://rpnradio.com/bacolod-da-intensifies-sugar-pest-fight-rolls-out-new-varieties/",
-      "date": "2026-08-24T22:48:07Z"
-    },
-    {
-      "title": "Here's what Jim Cramer says stock investors need to know about the bond market",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/jim-cramer-stock-investors-know-bond-market.html",
-      "date": "2026-08-24T22:40:01Z"
-    },
-    {
-      "title": "Net taker volume surges to $3B as buying outpaces selling for the first time",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/net-taker-volume-surges-3-billion-buying-outpaces-selling/",
-      "date": "2026-08-24T22:36:06Z"
-    },
-    {
-      "title": "S&P 500 and Nasdaq end lower as tech stocks decline ahead of Nvidia earnings",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/sp500-nasdaq-lower-tech-nvidia-earnings/",
-      "date": "2026-08-24T22:35:19Z"
-    },
-    {
-      "title": "Bank of America raises price targets on 10 software stocks",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e31adc12a27beffa",
-      "date": "2026-08-24T22:32:14Z"
-    },
-    {
-      "title": "Jim Cramer says the data center trade is under attack. Here’s who could benefit",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/cramer-data-center-trade-under-attack-who-could-benefit.html",
-      "date": "2026-08-24T22:31:46Z"
-    },
-    {
-      "title": "U.S. prepares largest mass visa revocation in history, targeting up to 200,000 foreigners who are seeking asylum",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/24/us-b1-b2-visa-revocation-state-department-200000-asylum-seekers/",
-      "date": "2026-08-24T22:31:15Z"
-    },
-    {
-      "title": "Breitbart Business Digest: Liberal Despair and Bond Yields",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/economy/2026/08/24/breitbart-business-digest-liberal-despair-and-bond-yields/",
-      "date": "2026-08-24T22:30:31Z"
-    },
-    {
-      "title": "Trump administration plans to revoke up to 200,000 US visas of asylum seekers",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-administration-plans-to-revoke-up-to-200000-us-visas-of-asylum-seekers/article71386317.ece",
-      "date": "2026-08-24T22:27:40Z"
-    },
-    {
-      "title": "Crypto market surges 22% in biggest week in over two years",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/crypto-market-surges-22-percent-biggest-week/",
-      "date": "2026-08-24T22:09:44Z"
-    },
-    {
-      "title": "Stock market today: Live updates",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/stock-market-today-live-updates.html",
-      "date": "2026-08-24T22:02:46Z"
-    },
-    {
-      "title": "Visa and Mastercard shares reach new records as US consumer spending stays resilient",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/visa-mastercard-shares-record-consumer-spending/",
-      "date": "2026-08-24T22:01:39Z"
-    },
-    {
-      "title": "Strategy Raises $2B As Bitcoin Holdings Stay Flat For The Week",
-      "source": "newsBTC",
-      "url": "http://www.newsbtc.com/news/strategy-raises-2b-as-bitcoin-holdings-stay-flat-for-the-week/",
-      "date": "2026-08-24T22:00:00Z"
-    },
-    {
-      "title": "Quote of the day by Aristotle, 'My best friend is the man who in wishing me well wishes it for my sake' shows psychology behind meaning of true friendship, kindness, compassion, empathy, charity, huma",
+      "title": "Global Market: KOSPI rises as investors await Nvidia results for AI trade cues",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-aristotle-my-best-friend-is-the-man-who-in-wishing-me-well-wishes-it-for-my-sake-shows-psychology-behind-meaning-of-true-friendship-kindness-compassion-empathy-charity-human-connection-human-emotion/articleshow/133480404.cms",
-      "date": "2026-08-24T21:52:05Z"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-kospi-rises-as-investors-await-nvidia-results-for-ai-trade-cues/articleshow/133529158.cms",
+      "date": "2026-08-26T04:08:48Z"
     },
     {
-      "title": "tam-quant 0.1.17",
+      "title": "Bitcoin Rise Tests ETF Demand",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a3f9b6f59b6120ca",
+      "date": "2026-08-26T04:07:58Z"
+    },
+    {
+      "title": "Sensex, Nifty rise on crude slump, Iran ceasefire hopes; ICICI Bank leads early gains",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-rise-on-crude-slump-iran-ceasefire-hopes-icici-bank-leads-early-gains/article71391362.ece",
+      "date": "2026-08-26T04:06:27Z"
+    },
+    {
+      "title": "Gold steady near three-month high; silver rises as investors await US inflation data",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/133529112.cms",
+      "date": "2026-08-26T04:05:24Z"
+    },
+    {
+      "title": "lumibot 4.5.86",
       "source": "Pypi.org",
-      "url": "https://pypi.org/project/tam-quant/0.1.17/",
-      "date": "2026-08-24T21:49:28Z"
+      "url": "https://pypi.org/project/lumibot/4.5.86/",
+      "date": "2026-08-26T03:58:23Z"
     },
     {
-      "title": "Nevada sues to block Trump administration’s Colorado River plan",
+      "title": "Sensex rises over 200 points; Nifty nears 24,350 as oil prices slide. What lies ahead?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-200-points-nifty-nears-24350-as-oil-prices-slide-what-lies-ahead/articleshow/133528847.cms",
+      "date": "2026-08-26T03:56:10Z"
+    },
+    {
+      "title": "What are some interesting facts about trumpeter swans?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/what-are-some-interesting-facts-about-trumpeter-swans/",
+      "date": "2026-08-26T03:56:03Z"
+    },
+    {
+      "title": "Hedge fund legend slams Treasury's bond buybacks",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5a2c43504bdcfc27",
-      "date": "2026-08-24T21:46:27Z"
+      "url": "https://biztoc.com/x/a773606d9e1d0b5b",
+      "date": "2026-08-26T03:52:42Z"
     },
     {
-      "title": "Administration Plan Would End Visas for 200K Seeking Asylum",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/395203/administration-plan-would-end-visas-for-200k-seeking-asylum.html",
-      "date": "2026-08-24T21:45:00Z"
+      "title": "A US-Canada trade war could leave everyone worse off",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/a-us-canada-trade-war-could-leave-everyone-worse-off/articleshow/133528727.cms",
+      "date": "2026-08-26T03:52:05Z"
     },
     {
-      "title": "Crypto liquidations reach $439M in 24 hours as longs and shorts get wiped in equal measure",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/crypto-liquidations-439m-longs-shorts-split/",
-      "date": "2026-08-24T21:43:26Z"
+      "title": "Australia's ASX 200 Nears Record High as Woolworths Profit Jumps 18% and WiseTech Tumbles on Weak Outlook",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/asx-200-nears-record-high-woolworths-mining-rally-1874570",
+      "date": "2026-08-26T03:49:41Z"
     },
     {
-      "title": "U.S. Threatens Iran’s Trading Partners in New Economic Pressure Campaign",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/u-s-threatens-irans-trading-partners-in-new-economic-pressure-campaign/",
-      "date": "2026-08-24T21:42:52Z"
+      "title": "Mopshop Distribution, Dhanwel Hybrid Seeds shares set to list today: Here’s what GMP suggests",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mopshop-distribution-dhanwel-hybrid-seeds-shares-set-to-list-today-heres-what-gmp-suggests/articleshow/133528779.cms",
+      "date": "2026-08-26T03:46:54Z"
     },
     {
-      "title": "‘Operation Economic Outcast’: New Wave of White House Sanctions Against Iran Targets Crypto Assets, Tech, Gold, Aviation and Shipping",
-      "source": "The Daily Hodl",
-      "url": "https://dailyhodl.com/2026/08/24/operation-economic-outcast-new-wave-of-white-house-sanctions-against-iran-targets-crypto-assets-tech-gold-aviation-and-shipping/",
-      "date": "2026-08-24T21:42:08Z"
+      "title": "F&O: Nifty sees healthy rollovers; eyes triangle breakout in Sep series",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/f-o-nifty-sees-healthy-rollovers-eyes-triangle-breakout-in-september-series-126082600150_1.html",
+      "date": "2026-08-26T03:39:55Z"
     },
     {
-      "title": "Stock market today: S&P 500, Nasdaq fall as chip stocks sink, US unveils new Iran sanctions - Yahoo Finance",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185135978",
-      "date": "2026-08-24T21:33:51Z"
+      "title": "Reliance Industries, SBI among 10 stocks with highest DII holding in Q1. Do you own any?",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/markets/stocks/news/reliance-industries-sbi-among-10-stocks-with-highest-dii-holding-in-q1-do-you-own-any/taking-stock/slideshow/133528902.cms",
+      "date": "2026-08-26T03:39:21Z"
     },
     {
-      "title": "With One Week to Go Until the Reunion: Where All the ‘Love Island USA’ Season 8 Couples Stand Post-Show",
-      "source": "Cosmopolitan.com",
-      "url": "https://www.cosmopolitan.com/entertainment/tv/a73514271/love-island-usa-season-8-couples-together/",
-      "date": "2026-08-24T21:33:15Z"
+      "title": "orphograph added to PyPI",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/orphograph/",
+      "date": "2026-08-26T03:39:03Z"
     },
     {
-      "title": "Trading Day: Tech, tariffs & Treasuries",
+      "title": "orphograph 0.1.0",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/orphograph/0.1.0/",
+      "date": "2026-08-26T03:39:03Z"
+    },
+    {
+      "title": "Gold Bitcoin Rally Together as the Debasement Trade Returns",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/8c6d9b7e5b358e5f",
-      "date": "2026-08-24T21:31:26Z"
+      "url": "https://biztoc.com/x/b6e0ba9febc84ff1",
+      "date": "2026-08-26T03:38:47Z"
+    },
+    {
+      "title": "Do birds like when you talk to them?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/do-birds-like-when-you-talk-to-them/",
+      "date": "2026-08-26T03:38:10Z"
+    },
+    {
+      "title": "What kind of cancer did Dolly Parton have? Country music legend dies at 80 after brief battle with cancer",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/what-kind-of-cancer-did-dolly-parton-have-country-music-legend-dies-at-80-after-brief-battle-with-cancer/articleshow/133528410.cms",
+      "date": "2026-08-26T03:36:24Z"
+    },
+    {
+      "title": "What kind of cancer did Dolly Parton had? Country music legend dies at 80 after brief battle with cancer",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/what-kind-of-cancer-did-dolly-parton-had-country-music-legend-dies-at-80-after-brief-battle-with-cancer/articleshow/133528410.cms",
+      "date": "2026-08-26T03:36:24Z"
+    },
+    {
+      "title": "Stock Alert: Cipla, Varun Beverages, TMPV, United Breweries,Sai Parenterals",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/stock-alert-cipla-varun-beverages-tmpv-united-breweries-sai-parenterals-126082600142_1.html",
+      "date": "2026-08-26T03:34:27Z"
+    },
+    {
+      "title": "Nifty set for positive start amid easing oil prices and FPI buying",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-set-for-positive-start-amid-easing-oil-prices-and-fpi-buying-126082600139_1.html",
+      "date": "2026-08-26T03:34:02Z"
+    },
+    {
+      "title": "Crorepati investors touch record Rs 10 lakh crore milestone. Which stocks are making them richer?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/crorepati-investors-touch-record-rs-10-lakh-crore-milestone-which-stocks-are-making-them-richer/articleshow/133528419.cms",
+      "date": "2026-08-26T03:27:02Z"
+    },
+    {
+      "title": "Asian stocks stutter as oil falls, investors await Nvidia earnings",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/asian-stocks-stutter-as-oil-falls-investors-await-nvidia-earnings-126082600104_1.html",
+      "date": "2026-08-26T03:24:44Z"
+    },
+    {
+      "title": "ETMarkets NRI Talk| ₹10 crore NRI portfolio: How Raghvendra Nath would allocate it across equities, debt and alternatives",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-nri-talk-10-crore-nri-portfolio-how-raghvendra-nath-would-allocate-it-across-equities-debt-and-alternatives/articleshow/133528383.cms",
+      "date": "2026-08-26T03:21:34Z"
+    },
+    {
+      "title": "QatarEnergy issues tender to sell crude outside Hormuz, sources say",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/qatarenergy-crude-sale-tender-outside-strait-of-hormuz/articleshow/133528306.cms",
+      "date": "2026-08-26T03:21:03Z"
+    },
+    {
+      "title": "Do birds breed while flying?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/do-birds-breed-while-flying/",
+      "date": "2026-08-26T03:19:49Z"
+    },
+    {
+      "title": "tam-quant 0.1.33",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/tam-quant/0.1.33/",
+      "date": "2026-08-26T03:17:03Z"
+    },
+    {
+      "title": "ETMarkets NRI Talk | 50-60% in equities? R Sivakumar Axis MF CIO’s Rs 1 crore NRI portfolio playbook",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-nri-talk-50-60-in-equities-r-sivakumar-axis-mf-cios-rs-1-crore-nri-portfolio-playbook/articleshow/133528244.cms",
+      "date": "2026-08-26T03:12:16Z"
+    },
+    {
+      "title": "Can crocodiles be friends with humans?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/can-crocodiles-be-friends-with-humans/",
+      "date": "2026-08-26T03:05:37Z"
+    },
+    {
+      "title": "Is an American Dingo a good family dog?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/is-an-american-dingo-a-good-family-dog/",
+      "date": "2026-08-26T03:00:01Z"
     }
   ]
 }

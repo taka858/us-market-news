@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-08-27T04:11:33.554460"
+      "date": "2026-08-28T06:28:02.983153"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-08-27T04:11:33.554465"
+      "date": "2026-08-28T06:28:02.983157"
     }
   ],
   "bitcoin": {
-    "price": 78813,
-    "date": "2026-08-27T04:11:33.611515"
+    "price": 79843,
+    "date": "2026-08-28T06:28:03.023017"
   },
   "news": [
     {
-      "title": "Global Market: KOSPI rises as investors await Nvidia results for AI trade cues",
+      "title": "Nifty below 24,150; auto shares under pressure",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-below-24-150-auto-shares-under-pressure-126082700355_1.html",
+      "date": "2026-08-27T06:20:02Z"
+    },
+    {
+      "title": "India bonds decline as debt supply caution overpowers oil moves",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-kospi-rises-as-investors-await-nvidia-results-for-ai-trade-cues/articleshow/133529158.cms",
-      "date": "2026-08-26T04:08:48Z"
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-decline-as-debt-supply-caution-overpowers-oil-moves/articleshow/133559008.cms",
+      "date": "2026-08-27T06:18:17Z"
     },
     {
-      "title": "Bitcoin Rise Tests ETF Demand",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a3f9b6f59b6120ca",
-      "date": "2026-08-26T04:07:58Z"
+      "title": "BNPB calls for well-stocked disaster relief warehouses nationwide",
+      "source": "Antaranews.com",
+      "url": "https://en.antaranews.com/news/428673/bnpb-calls-for-well-stocked-disaster-relief-warehouses-nationwide",
+      "date": "2026-08-27T06:06:15Z"
     },
     {
-      "title": "Sensex, Nifty rise on crude slump, Iran ceasefire hopes; ICICI Bank leads early gains",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-rise-on-crude-slump-iran-ceasefire-hopes-icici-bank-leads-early-gains/article71391362.ece",
-      "date": "2026-08-26T04:06:27Z"
-    },
-    {
-      "title": "Gold steady near three-month high; silver rises as investors await US inflation data",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/133529112.cms",
-      "date": "2026-08-26T04:05:24Z"
-    },
-    {
-      "title": "lumibot 4.5.86",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/lumibot/4.5.86/",
-      "date": "2026-08-26T03:58:23Z"
-    },
-    {
-      "title": "Sensex rises over 200 points; Nifty nears 24,350 as oil prices slide. What lies ahead?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-200-points-nifty-nears-24350-as-oil-prices-slide-what-lies-ahead/articleshow/133528847.cms",
-      "date": "2026-08-26T03:56:10Z"
-    },
-    {
-      "title": "What are some interesting facts about trumpeter swans?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/what-are-some-interesting-facts-about-trumpeter-swans/",
-      "date": "2026-08-26T03:56:03Z"
-    },
-    {
-      "title": "Hedge fund legend slams Treasury's bond buybacks",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a773606d9e1d0b5b",
-      "date": "2026-08-26T03:52:42Z"
-    },
-    {
-      "title": "A US-Canada trade war could leave everyone worse off",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/a-us-canada-trade-war-could-leave-everyone-worse-off/articleshow/133528727.cms",
-      "date": "2026-08-26T03:52:05Z"
-    },
-    {
-      "title": "Australia's ASX 200 Nears Record High as Woolworths Profit Jumps 18% and WiseTech Tumbles on Weak Outlook",
+      "title": "Nikkei 225 Slips 0.3 Percent Near 66,060 After Early Nvidia Rally Fades Across Tokyo Shares",
       "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/asx-200-nears-record-high-woolworths-mining-rally-1874570",
-      "date": "2026-08-26T03:49:41Z"
+      "url": "https://www.ibtimes.com.au/nikkei-225-dips-nvidia-ai-impact-1874634",
+      "date": "2026-08-27T06:04:39Z"
     },
     {
-      "title": "Mopshop Distribution, Dhanwel Hybrid Seeds shares set to list today: Here’s what GMP suggests",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mopshop-distribution-dhanwel-hybrid-seeds-shares-set-to-list-today-heres-what-gmp-suggests/articleshow/133528779.cms",
-      "date": "2026-08-26T03:46:54Z"
+      "title": "KOSPI Surges Toward Record High as Nvidia's Blockbuster Earnings Ignite Rally in Samsung and SK Hynix Shares",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/kospi-surges-nvidia-earnings-boost-chip-stocks-1874633",
+      "date": "2026-08-27T06:04:37Z"
     },
     {
-      "title": "F&O: Nifty sees healthy rollovers; eyes triangle breakout in Sep series",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/f-o-nifty-sees-healthy-rollovers-eyes-triangle-breakout-in-september-series-126082600150_1.html",
-      "date": "2026-08-26T03:39:55Z"
+      "title": "Copper Hits Record as U.S. Tariff Threat Absorbs Global Surplus",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-27-copper-hits-record-tariff-threat-absorbs-surplus.html",
+      "date": "2026-08-27T06:00:00Z"
     },
     {
-      "title": "Reliance Industries, SBI among 10 stocks with highest DII holding in Q1. Do you own any?",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/reliance-industries-sbi-among-10-stocks-with-highest-dii-holding-in-q1-do-you-own-any/taking-stock/slideshow/133528902.cms",
-      "date": "2026-08-26T03:39:21Z"
+      "title": "Two NIH researchers indicted for smuggling mpox DNA into United States",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-08-27-nih-researchers-smuggling-mpox-dna.html",
+      "date": "2026-08-27T06:00:00Z"
     },
     {
-      "title": "orphograph added to PyPI",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/orphograph/",
-      "date": "2026-08-26T03:39:03Z"
+      "title": "Kanye West's wife Bianca Censori makes rare move of covering up as she bonds with his daughter Chicago and niece Dream in LA",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16083507/Bianca-Censori-bonds-Kanye-West-daughter-Chicago-niece-Dream.html",
+      "date": "2026-08-27T05:59:31Z"
     },
     {
-      "title": "orphograph 0.1.0",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/orphograph/0.1.0/",
-      "date": "2026-08-26T03:39:03Z"
+      "title": "Can baby racoons survive without their mom?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/can-baby-racoons-survive-without-their-mom/",
+      "date": "2026-08-27T05:59:19Z"
     },
     {
-      "title": "Gold Bitcoin Rally Together as the Debasement Trade Returns",
+      "title": "BDCs Are Selling Investment-Grade Bonds Again After a Frozen Quarter",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b6e0ba9febc84ff1",
-      "date": "2026-08-26T03:38:47Z"
+      "url": "https://biztoc.com/x/2773bbba646ee3f7",
+      "date": "2026-08-27T05:58:16Z"
     },
     {
-      "title": "Do birds like when you talk to them?",
+      "title": "What Does AI Have to Say About the AI Bubble?",
+      "source": "CounterPunch",
+      "url": "https://www.counterpunch.org/2026/08/27/what-does-ai-have-to-say-about-the-ai-bubble/",
+      "date": "2026-08-27T05:50:12Z"
+    },
+    {
+      "title": "Hitachi Energy India, GE Vernova, other power capex stocks rise up to 5%. Two reasons behind the surge",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hitachi-energy-india-ge-vernova-other-power-capex-stocks-rise-up-to-5-two-reasons-behind-the-surge/articleshow/133557872.cms",
+      "date": "2026-08-27T05:49:29Z"
+    },
+    {
+      "title": "How long do baby coyotes stay with their mother?",
       "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/do-birds-like-when-you-talk-to-them/",
-      "date": "2026-08-26T03:38:10Z"
+      "url": "https://www.lifesciencesworld.com/how-long-do-baby-coyotes-stay-with-their-mother/",
+      "date": "2026-08-27T05:47:21Z"
     },
     {
-      "title": "What kind of cancer did Dolly Parton have? Country music legend dies at 80 after brief battle with cancer",
+      "title": "Global Market: China stocks rise as Nvidia outlook boosts AI and hardware shares",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/what-kind-of-cancer-did-dolly-parton-have-country-music-legend-dies-at-80-after-brief-battle-with-cancer/articleshow/133528410.cms",
-      "date": "2026-08-26T03:36:24Z"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-rise-as-nvidia-outlook-boosts-ai-and-hardware-shares/articleshow/133557765.cms",
+      "date": "2026-08-27T05:46:35Z"
     },
     {
-      "title": "What kind of cancer did Dolly Parton had? Country music legend dies at 80 after brief battle with cancer",
+      "title": "Zerodha's Nithin Kamath just revealed what's scaring him lately",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/what-kind-of-cancer-did-dolly-parton-had-country-music-legend-dies-at-80-after-brief-battle-with-cancer/articleshow/133528410.cms",
-      "date": "2026-08-26T03:36:24Z"
+      "url": "https://economictimes.indiatimes.com/news/new-updates/zerodhas-nithin-kamath-just-revealed-whats-scaring-him-lately/articleshow/133557381.cms",
+      "date": "2026-08-27T05:38:22Z"
     },
     {
-      "title": "Stock Alert: Cipla, Varun Beverages, TMPV, United Breweries,Sai Parenterals",
+      "title": "Do baby owls imprint on humans?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/do-baby-owls-imprint-on-humans/",
+      "date": "2026-08-27T05:38:11Z"
+    },
+    {
+      "title": "Morning recap: Atiku-Tinubu clash widens, Dangote threatens petrol export, other top stories",
+      "source": "The Punch",
+      "url": "https://punchng.com/morning-recap-atiku-tinubu-clash-widens-dangote-threatens-petrol-export-other-top-stories/",
+      "date": "2026-08-27T05:35:15Z"
+    },
+    {
+      "title": "US stocks turn marginally lower in cautious trades",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/stock-alert-cipla-varun-beverages-tmpv-united-breweries-sai-parenterals-126082600142_1.html",
-      "date": "2026-08-26T03:34:27Z"
+      "url": "https://www.business-standard.com/markets/capital-market-news/us-stocks-turn-marginally-lower-in-cautious-trades-126082700281_1.html",
+      "date": "2026-08-27T05:34:37Z"
     },
     {
-      "title": "Nifty set for positive start amid easing oil prices and FPI buying",
+      "title": "Volumes spurt at The Bombay Burmah Trading Corporation Ltd counter",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-set-for-positive-start-amid-easing-oil-prices-and-fpi-buying-126082600139_1.html",
-      "date": "2026-08-26T03:34:02Z"
+      "url": "https://www.business-standard.com/markets/capital-market-news/volumes-spurt-at-the-bombay-burmah-trading-corporation-ltd-counter-126082700279_1.html",
+      "date": "2026-08-27T05:34:20Z"
     },
     {
-      "title": "Crorepati investors touch record Rs 10 lakh crore milestone. Which stocks are making them richer?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/crorepati-investors-touch-record-rs-10-lakh-crore-milestone-which-stocks-are-making-them-richer/articleshow/133528419.cms",
-      "date": "2026-08-26T03:27:02Z"
-    },
-    {
-      "title": "Asian stocks stutter as oil falls, investors await Nvidia earnings",
+      "title": "Ashika bullish on defence pack on global rearmament wave; favours BEL, HAL",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/asian-stocks-stutter-as-oil-falls-investors-await-nvidia-earnings-126082600104_1.html",
-      "date": "2026-08-26T03:24:44Z"
+      "url": "https://www.business-standard.com/markets/news/ashika-bullish-on-defence-pack-on-global-rearmament-wave-favours-bel-hal-126082700274_1.html",
+      "date": "2026-08-27T05:31:51Z"
     },
     {
-      "title": "ETMarkets NRI Talk| ₹10 crore NRI portfolio: How Raghvendra Nath would allocate it across equities, debt and alternatives",
+      "title": "Titan, Infosys among 10 stocks with highest HNI holdings in Q1; check full list",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/markets/stocks/news/titan-infosys-among-10-stocks-with-highest-hni-holdings-in-q1-check-full-list/money-moves/slideshow/133558046.cms",
+      "date": "2026-08-27T05:31:22Z"
+    },
+    {
+      "title": "If a Recession Is Coming, History Is Clear About What Long-Term Investors Can Expect",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8779d3d3501fe693",
+      "date": "2026-08-27T05:28:15Z"
+    },
+    {
+      "title": "US Stock Market: Software stocks brace for more volatility as AI uncertainty grows",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-nri-talk-10-crore-nri-portfolio-how-raghvendra-nath-would-allocate-it-across-equities-debt-and-alternatives/articleshow/133528383.cms",
-      "date": "2026-08-26T03:21:34Z"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-software-stocks-brace-for-more-volatility-as-ai-uncertainty-grows/articleshow/133557267.cms",
+      "date": "2026-08-27T05:26:08Z"
     },
     {
-      "title": "QatarEnergy issues tender to sell crude outside Hormuz, sources say",
+      "title": "Sensex slides 124 pts; media shares decline",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/sensex-slides-124-pts-media-shares-decline-126082700250_1.html",
+      "date": "2026-08-27T05:20:02Z"
+    },
+    {
+      "title": "Hindustan Copper shares fall 3%, multibagger stock drops 6% in 3 days as OFS concludes. What lies ahead?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/qatarenergy-crude-sale-tender-outside-strait-of-hormuz/articleshow/133528306.cms",
-      "date": "2026-08-26T03:21:03Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-shares-fall-3-multibagger-stock-drops-6-in-3-days-as-ofs-concludes-what-lies-ahead/articleshow/133557108.cms",
+      "date": "2026-08-27T05:17:24Z"
     },
     {
-      "title": "Do birds breed while flying?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/do-birds-breed-while-flying/",
-      "date": "2026-08-26T03:19:49Z"
+      "title": "iTrustCapital Crypto IRA Review",
+      "source": "Themattwalshblog.com",
+      "url": "https://themattwalshblog.com/itrustcapital-crypto-ira-review/",
+      "date": "2026-08-27T05:17:24Z"
     },
     {
-      "title": "tam-quant 0.1.33",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/tam-quant/0.1.33/",
-      "date": "2026-08-26T03:17:03Z"
+      "title": "iTrustCapital Premium Custody Account Review",
+      "source": "Themattwalshblog.com",
+      "url": "https://themattwalshblog.com/itrustcapital-premium-custody-account/",
+      "date": "2026-08-27T05:08:13Z"
     },
     {
-      "title": "ETMarkets NRI Talk | 50-60% in equities? R Sivakumar Axis MF CIO’s Rs 1 crore NRI portfolio playbook",
+      "title": "Show HN: YASS – Open-source stock screener with point-in-time backtesting",
+      "source": "Github.com",
+      "url": "https://github.com/jamesjxliao/yass",
+      "date": "2026-08-27T05:05:42Z"
+    },
+    {
+      "title": "State real estate at Maximos Mansion, good green news from Brussels, Floridis eyes Thessaloniki A’, Nikos A.’s “meat feast”, Fairfax wants Goody’s and Everest ///",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/08/27/state-real-estate-at-maximos-mansion-good-green-news-from-brussels-floridis-eyes-thessaloniki-a-nikos-a-s-meat-feast-fairfax-wants-goodys-and-everest/",
+      "date": "2026-08-27T05:03:17Z"
+    },
+    {
+      "title": "Capri Global shares slip 3% after NSE, BSE impose Rs 74,000 penalty for compliance lapses",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-nri-talk-50-60-in-equities-r-sivakumar-axis-mf-cios-rs-1-crore-nri-portfolio-playbook/articleshow/133528244.cms",
-      "date": "2026-08-26T03:12:16Z"
-    },
-    {
-      "title": "Can crocodiles be friends with humans?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/can-crocodiles-be-friends-with-humans/",
-      "date": "2026-08-26T03:05:37Z"
-    },
-    {
-      "title": "Is an American Dingo a good family dog?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/is-an-american-dingo-a-good-family-dog/",
-      "date": "2026-08-26T03:00:01Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/capri-global-shares-slip-3-after-nse-bse-impose-rs-74000-penalty-for-compliance-lapses/articleshow/133556856.cms",
+      "date": "2026-08-27T05:02:53Z"
     }
   ]
 }

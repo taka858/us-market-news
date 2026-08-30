@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-08-29T03:59:33.085458"
+      "date": "2026-08-30T00:58:19.288057"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-08-29T03:59:33.085467"
+      "date": "2026-08-30T00:58:19.288063"
     }
   ],
   "bitcoin": {
-    "price": 77524,
-    "date": "2026-08-29T03:59:33.245111"
+    "price": 78205,
+    "date": "2026-08-30T00:58:19.370551"
   },
   "news": [
     {
-      "title": "Sensex opens 200 points higher, Nifty hovers around 24,000 ahead of Fed chair’s address",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-28-august-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/133582507.cms",
-      "date": "2026-08-28T03:50:51Z"
+      "title": "Abbey Mastracco: Mets giving fans a reason to show up in a bad season",
+      "source": "New York Daily News",
+      "url": "https://www.nydailynews.com/2026/08/28/abbey-mastracco-mets-citi-field/",
+      "date": "2026-08-29T00:56:00Z"
     },
     {
-      "title": "Asian stocks rise ahead of Fed chief Kevin Warsh speech",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/economy/most-asian-stocks-advance-as-attention-turns-to-us-fed-chief-kevin-warsh-speech",
-      "date": "2026-08-28T03:50:00Z"
+      "title": "How far will a coyote carry its prey?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/how-far-will-a-coyote-carry-its-prey/",
+      "date": "2026-08-29T00:50:51Z"
     },
     {
-      "title": "Young Aussie reveals how she went from $1000 in the bank to a millionaire in 10 years by keeping it simple",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16086003/tash-invests-etschmann-tips-patience-crypto-property.html",
-      "date": "2026-08-28T03:44:06Z"
-    },
-    {
-      "title": "Impinj and Broadcom Shares Skyrocket, What You Need To Know",
+      "title": "Hitachi Stock And 2 Japanese Nuclear Energy Picks Worth Watching",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c1558694e1fe7e47",
-      "date": "2026-08-28T03:43:41Z"
+      "url": "https://biztoc.com/x/76cbe3de56075bc3",
+      "date": "2026-08-29T00:44:27Z"
     },
     {
-      "title": "Data center firm IREN signs new deal with frontier AI lab; quarterly loss hits shares",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/data-center-firm-iren-signs-new-deal-with-frontier-ai-lab-quarterly-loss-hits-shares/articleshow/133582380.cms",
-      "date": "2026-08-28T03:39:51Z"
+      "title": "Who is the oldest gorilla ever?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/who-is-the-oldest-gorilla-ever/",
+      "date": "2026-08-29T00:21:40Z"
     },
     {
-      "title": "Asian stocks rise ahead of Federal Reserve Chair Kevin Warsh’s Jackson Hole speech",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/asian-stocks-rise-warsh-jackson-hole-speech/",
-      "date": "2026-08-28T03:35:38Z"
+      "title": "CFTC Signals Supreme Court Battle After Nevada Wins Prediction Markets Case",
+      "source": "pymnts.com",
+      "url": "https://www.pymnts.com/legal/2026/cftc-signals-supreme-court-battle-after-nevada-wins-prediction-markets-case/",
+      "date": "2026-08-29T00:19:20Z"
     },
     {
-      "title": "Delhivery among 3 stocks flashing bullish signals, indicating possible uptrend",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/delhivery-among-3-stocks-flashing-bullish-signals-indicating-possible-uptrend/bullish-signals-emerge/slideshow/133582375.cms",
-      "date": "2026-08-28T03:34:43Z"
-    },
-    {
-      "title": "Nifty set for positive start after 2-day slide",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-set-for-positive-start-after-2-day-slide-126082800129_1.html",
-      "date": "2026-08-28T03:34:11Z"
-    },
-    {
-      "title": "Stock alert: Wipro, NBCC, Hero Motocorp, Adani Power, GE Shipping",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/stock-alert-wipro-nbcc-hero-motocorp-adani-power-ge-shipping-126082800128_1.html",
-      "date": "2026-08-28T03:34:02Z"
-    },
-    {
-      "title": "Small caps, thematic funds, global risks: Groww AMC’s Anupam Tiwari on where investors should look",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/groww-amc-anupam-tiwari-small-cap-funds-thematic-passive-investing-global-risks-11787749825517.html",
-      "date": "2026-08-28T03:30:52Z"
-    },
-    {
-      "title": "Buyback alert: GE Shipping to repurchase shares at 16% premium",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/buyback-alert-ge-shipping-to-repurchase-shares-at-16-premium/articleshow/133582218.cms",
-      "date": "2026-08-28T03:29:31Z"
-    },
-    {
-      "title": "Tesla Stock Sits Nearly 30% Below Its High and Still Trades at 330 Times Earnings",
+      "title": "Rubrik Q2 Earnings Call Highlights",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3fbaa0b600716fd3",
-      "date": "2026-08-28T03:28:54Z"
+      "url": "https://biztoc.com/x/7c710a1e0f1e7023",
+      "date": "2026-08-29T00:14:11Z"
     },
     {
-      "title": "Two vacant Connecticut office buildings built in 1980 and 1982 will become 286 apartments in a $120 million conversion, reusing 511,000 sq ft instead of tearing them down",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/two-vacant-connecticut-office-buildings-built-in-1980-and-1982-will-become-286-apartments-in-a-120-million-conversion-reusing-511000-sq-ft-instead-of-tearing-them-down/articleshow/133582163.cms",
-      "date": "2026-08-28T03:28:51Z"
+      "title": "Miller Industries Reaffirms 2026 Outlook, Eyes $200M-Plus Military Production Pipeline",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/4d59c8e4ab342dac",
+      "date": "2026-08-29T00:14:09Z"
     },
     {
-      "title": "ACT Greens call for bond transfer scheme to end stress for moving renters",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-08-28/canberra-greens-calls-for-portable-rental-bond-scheme/107088618",
-      "date": "2026-08-28T03:25:43Z"
+      "title": "SentinelOne Q2 Earnings Call Highlights",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/77742ddfb501a9f7",
+      "date": "2026-08-29T00:13:58Z"
     },
     {
-      "title": "Bombay Burmah Trading among 4 stocks showing bullish RSI upswing",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/bombay-burmah-trading-among-4-stocks-showing-bullish-rsi-upswing/bullish-momentum-builds/slideshow/133582280.cms",
-      "date": "2026-08-28T03:24:13Z"
-    },
-    {
-      "title": "Most Asian stocks advance as attention turns to Warsh speech",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/stocks-advance-federal-reserve-warsh-speech-6346781",
-      "date": "2026-08-28T03:16:05Z"
-    },
-    {
-      "title": "Why WhiteOak CIO Ramesh Mantri prefers REITs, InvITs over high dividend yield stocks",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/why-whiteoak-cio-ramesh-mantri-prefers-reits-invits-over-high-dividend-yield-stocks/articleshow/133581997.cms",
-      "date": "2026-08-28T03:09:10Z"
-    },
-    {
-      "title": "tam-quant 0.1.57",
+      "title": "youngcan-wyckoff-analysis 0.9.335",
       "source": "Pypi.org",
-      "url": "https://pypi.org/project/tam-quant/0.1.57/",
-      "date": "2026-08-28T03:07:15Z"
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.335/",
+      "date": "2026-08-29T00:09:03Z"
     },
     {
-      "title": "What habits do crows have?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/what-habits-do-crows-have/",
-      "date": "2026-08-28T03:01:27Z"
-    },
-    {
-      "title": "Matrixport-linked whale deposits $10M USDC, opens $17.44M ETH long at 20x leverage",
+      "title": "Institutions poured $580M into crypto ETFs right before Warsh’s hawkish speech cratered the market",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/matrixport-whale-10m-usdc-20x-eth-long/",
-      "date": "2026-08-28T02:56:15Z"
+      "url": "https://cryptobriefing.com/institutions-580m-crypto-etfs-warsh-speech/",
+      "date": "2026-08-29T00:06:10Z"
     },
     {
-      "title": "Raksha Bandhan 2026: What should be in Rakhi Thali? Check complete puja items list",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/raksha-bandhan-2026-what-should-be-in-rakhi-thali-check-complete-puja-items-list/articleshow/133581430.cms",
-      "date": "2026-08-28T02:52:22Z"
+      "title": "Sell alert! Why this expert is calling time on Westpac and CBA shares",
+      "source": "Motley Fool Australia",
+      "url": "https://www.fool.com.au/2026/08/29/sell-alert-why-this-expert-is-calling-time-on-westpac-and-cba-shares-2/",
+      "date": "2026-08-29T00:00:00Z"
     },
     {
-      "title": "Dollar flat near one-week high as investors await Warsh's Jackson Hole debut",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-flat-near-one-week-high-as-investors-await-warshs-jackson-hole-debut/articleshow/133581604.cms",
-      "date": "2026-08-28T02:41:11Z"
+      "title": "A Lung Cancer Drug Triggered Pancreatitis That Her CT Scan Could Not See",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/afatinib-pancreatitis-case-report-normal-imaging-477914",
+      "date": "2026-08-28T23:31:23Z"
     },
     {
-      "title": "cryptochief-crypto-processing-python 0.4.0",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/cryptochief-crypto-processing-python/0.4.0/",
-      "date": "2026-08-28T02:40:23Z"
-    },
-    {
-      "title": "Dollar flat near one-week high as investors await Warsh's Jackson Hole debut",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/dollar-flat-near-one-week-high-investors-await-warshs-jackson-hole-debut-6346746",
-      "date": "2026-08-28T02:38:37Z"
-    },
-    {
-      "title": "Stocks to watch: Wipro, Hero MotoCorp, HDFC Bank, Tata Motors PV & more",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/stocks-to-watch-august-28-wipro-hero-motocorp-hdfc-bank-tata-motors-pv-more-126082800094_1.html",
-      "date": "2026-08-28T02:32:04Z"
-    },
-    {
-      "title": "Gal Gadot’s Message For New Wonder Woman",
-      "source": "Dark Horizons",
-      "url": "https://www.darkhorizons.com/gal-gadots-message-for-new-wonder-woman/",
-      "date": "2026-08-28T02:21:56Z"
-    },
-    {
-      "title": "What are the characteristics of a bush baby?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/what-are-the-characteristics-of-a-bush-baby/",
-      "date": "2026-08-28T02:21:37Z"
-    },
-    {
-      "title": "Do birds feel sad when their babies are taken away?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/do-birds-feel-sad-when-their-babies-are-taken-away/",
-      "date": "2026-08-28T02:18:40Z"
-    },
-    {
-      "title": "Asian Stocks Set to Edge Lower Before Jackson Hole: Markets Wrap - Bloomberg.com",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185237424",
-      "date": "2026-08-28T02:14:00Z"
-    },
-    {
-      "title": "Shares turn cautious ahead of Warsh speech; FX, bonds hold breath",
+      "title": "Genius Group Targets Bitcoin Treasury Rebuild 5 Months After Selling Off",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ddebab13ccc4f2be",
-      "date": "2026-08-28T02:13:12Z"
+      "url": "https://biztoc.com/x/2226ecfd2fb66cdf",
+      "date": "2026-08-28T23:26:48Z"
+    },
+    {
+      "title": "Capital B’s €21 million Bitcoin raise comes with heavy warrant dilution risk",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/capital-bs-e21-million-bitcoin-raise-comes-with-heavy-warrant-dilution-risk/",
+      "date": "2026-08-28T23:20:40Z"
+    },
+    {
+      "title": "Regional Banks Stocks Q2 Highlights: CVB Financial (NASDAQ:CVBF)",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a4aa1adf0fbe7634",
+      "date": "2026-08-28T23:13:48Z"
+    },
+    {
+      "title": "Forget Nvidia. Johnson & Johnson and 2 Other AI Stocks Are Beating the Market by 29 Points",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a014bab91ff07017",
+      "date": "2026-08-28T23:11:41Z"
+    },
+    {
+      "title": "Star Wars Zero Company™ Now Available On PC, PlayStation 5 and XBOX Series Consoles",
+      "source": "Antaranews.com",
+      "url": "https://en.antaranews.com/news/428965/star-wars-zero-company-now-available-on-pc-playstation-5-and-xbox-series-consoles",
+      "date": "2026-08-28T23:03:37Z"
+    },
+    {
+      "title": "Phoenix Suns’ future and front office ranked one of worst in NBA",
+      "source": "Burncitysports.com",
+      "url": "https://burncitysports.com/2026/08/28/phoenix-suns-front-office-worst-nba/",
+      "date": "2026-08-28T22:59:35Z"
+    },
+    {
+      "title": "Regional Banks Stocks Q2 Teardown: M&T Bank (NYSE:MTB) Vs The Rest",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/53781205a3318be2",
+      "date": "2026-08-28T22:58:39Z"
+    },
+    {
+      "title": "Genius Group Targets Bitcoin Treasury Rebuild 5 Months After Selling Off",
+      "source": "pymnts.com",
+      "url": "https://www.pymnts.com/blockchain/bitcoin/2026/genius-group-targets-bitcoin-treasury-rebuild-5-months-after-selling-off/",
+      "date": "2026-08-28T22:45:44Z"
+    },
+    {
+      "title": "WATCH huge blasts rock ‘missile warehouse’ near Kiev",
+      "source": "RT",
+      "url": "https://www.rt.com/russia/644793-kiev-missile-warehouse-blasts/",
+      "date": "2026-08-28T22:45:36Z"
+    },
+    {
+      "title": "3 Value Stocks with Growth for Your Watch List",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/3fd235fae2c4b6c7",
+      "date": "2026-08-28T22:28:21Z"
+    },
+    {
+      "title": "U.S. Stocks Fall After Warsh Speech Boosts Bond Yields",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/fa3d4f296b5e7eba",
+      "date": "2026-08-28T21:56:10Z"
+    },
+    {
+      "title": "Protect Senior Cognitive Health With Social Engagement",
+      "source": "Buckinghamsouth.com",
+      "url": "https://www.buckinghamsouth.com/blogs/buckingham-south-home-care-blog/1535369-practical-ways-social-engagement-protects-senior-cognitive-health",
+      "date": "2026-08-28T21:52:37Z"
+    },
+    {
+      "title": "4 Space Catalysts — and Where Capital Flows Next",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/952b1f1b663c0e84",
+      "date": "2026-08-28T21:41:08Z"
+    },
+    {
+      "title": "The Bond Vigilantes Are Back. Here’s What It Means for AI Stocks",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/eef67ccbce68dba1",
+      "date": "2026-08-28T21:40:41Z"
+    },
+    {
+      "title": "Markets Brace for Possible Rate Hike After Kevin Warsh’s Hawkish Turn",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/39b2fa71d0c0c214",
+      "date": "2026-08-28T21:40:36Z"
+    },
+    {
+      "title": "US M2 money supply rises $103B in July to $23.2T, hitting a new all-time high",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-m2-money-supply-record-july-2026/",
+      "date": "2026-08-28T21:33:01Z"
+    },
+    {
+      "title": "Ethena is targeting the $120 trillion Wall Street stock market to hunt yields 5x higher than Bitcoin",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/ethena-is-targeting-the-120-trillion-wall-street-stocks-market-to-hunt-yields-5x-higher-than-bitcoin/",
+      "date": "2026-08-28T21:30:27Z"
+    },
+    {
+      "title": "Berlin is being blackmailed by hackers, mayor says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo",
+      "date": "2026-08-28T21:29:01Z"
     }
   ]
 }

@@ -4,198 +4,186 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-09-01T01:34:05.300811"
+      "date": "2026-09-02T00:46:42.129212"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-09-01T01:34:05.300816"
+      "date": "2026-09-02T00:46:42.129219"
     }
   ],
   "bitcoin": {
-    "price": 78386,
-    "date": "2026-09-01T01:34:05.384317"
+    "price": 77199,
+    "date": "2026-09-02T00:46:42.252019"
   },
   "news": [
     {
-      "title": "NOC to transport petroleum products via Tribhuwan Rajpath",
-      "source": "Peoplesreview.com.np",
-      "url": "https://peoplesreview.com.np/2026/08/31/noc-to-transport-petroleum-products-via-tribhuwan-rajpath/",
-      "date": "2026-08-31T01:33:03Z"
-    },
-    {
-      "title": "Bond Investors Wary After Warsh Fuels Wagers That Fed Is Poised to Hike - Bloomberg.com",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185310112",
-      "date": "2026-08-31T01:12:46Z"
-    },
-    {
-      "title": "Short-term rates ease as banks see surge in dollar deposits",
+      "title": "Rupee jumps to 4-week high, ends at 95.16 to the dollar",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/surge-in-dollar-influx-prompts-federal-reserve-to-reduce-short-term-rates/articleshow/133639254.cms",
-      "date": "2026-08-31T01:07:57Z"
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-jumps-to-4-week-high-ends-at-95-16-to-the-dollar/articleshow/133665524.cms",
+      "date": "2026-09-01T00:40:19Z"
     },
     {
-      "title": "10% off Kayo Sports/Binge Gift Cards, 10% off DoorDash Gift Cards @ Giftz",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/973336",
-      "date": "2026-08-31T01:04:14Z"
+      "title": "Retail Investing Opens Up to AI Assistants",
+      "source": "pymnts.com",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/retail-investing-opens-up-to-ai-assistants/",
+      "date": "2026-09-01T00:38:55Z"
     },
     {
-      "title": "Lifecycle funds: Should you invest in target-date funds for your financial goals? Know the benefits, risks and limitations",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/lifecycle-funds-should-you-invest-in-target-date-funds-for-your-financial-goals-know-the-benefits-risks-and-limitations/articleshow/133602737.cms",
-      "date": "2026-08-31T01:00:00Z"
-    },
-    {
-      "title": "Money cannot cure loneliness, but the reasons why are stranger than the saying suggests",
-      "source": "Theartfulage.com",
-      "url": "https://theartfulage.com/g-loneliness-money-cannot-fix/",
-      "date": "2026-08-31T00:59:16Z"
-    },
-    {
-      "title": "Global Market Today: Asian stocks drop on hawkish Warsh tone, oil gains",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-on-hawkish-warsh-tone-oil-gains/articleshow/133639236.cms",
-      "date": "2026-08-31T00:59:10Z"
-    },
-    {
-      "title": "Dormant Crypto Wallets Begin Moving Millions in Bitcoin",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ffdd7e9d74f9b4e8",
-      "date": "2026-08-31T00:59:05Z"
-    },
-    {
-      "title": "Guangzhou Automobile just downgraded at Goldman Sachs, here's why",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/gnzuf",
-      "date": "2026-08-31T00:56:44Z"
-    },
-    {
-      "title": "HDFC Bank: Challenge of selecting the next CEO and challenges for the next CEO - CNBC TV18",
-      "source": "CNBCTV18",
-      "url": "https://www.cnbctv18.com/business/companies/hdfc-bank-next-ceo-selection-challenges-sashidhar-jagdishan-19979933.htm",
-      "date": "2026-08-31T00:54:39Z"
-    },
-    {
-      "title": "Dangote considers cutting petrol supply to importers",
-      "source": "The Punch",
-      "url": "https://punchng.com/dangote-considers-cutting-petrol-supply-to-importers/",
-      "date": "2026-08-31T00:51:21Z"
-    },
-    {
-      "title": "Can Purple Style Labs IPO deliver long-term growth for high-risk investors?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/purple-style-is-in-fashion-but-the-pocket-fades-the-appeal/articleshow/133639166.cms",
-      "date": "2026-08-31T00:47:47Z"
-    },
-    {
-      "title": "Oil jumps more than 2% after US attack on Iran's Larak island",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-jumps-more-than-2-after-us-attack-on-irans-larak-island/articleshow/133639156.cms",
-      "date": "2026-08-31T00:40:20Z"
-    },
-    {
-      "title": "Emerging market bonds surge as dollar debasement trade fuels investor inflows",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/emerging-market-bonds-surge-as-dollar-debasement-trade-fuels-investor-inflows/articleshow/133639096.cms",
-      "date": "2026-08-31T00:38:37Z"
-    },
-    {
-      "title": "Shares skid in Asia as oil climbs, yields stay high",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/shares-skid-in-asia-oil-climbs-yields-stay-high-6351026",
-      "date": "2026-08-31T00:38:35Z"
-    },
-    {
-      "title": "Shares ease in Asia as oil climbs, yields stay high",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/shares-ease-in-asia-oil-climbs-yields-stay-high-6351026",
-      "date": "2026-08-31T00:38:35Z"
-    },
-    {
-      "title": "Billions in US aid to Ukraine under microscope as corruption rocks Zelenskyy’s inner circle",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/billions-us-aid-ukraine-under-microscope-corruption-rocks-zelenskyys-inner-circle",
-      "date": "2026-08-31T00:30:48Z"
-    },
-    {
-      "title": "The quintessential insider who stepped into Puri’s big shoes is set to walk away",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/companies/hdfc-bank-ceo-sashidhar-jagdishan-career-profile-11788077409658.html",
-      "date": "2026-08-31T00:30:30Z"
-    },
-    {
-      "title": "Stocks in news: HDFC Bank, Ola Electric Mobility, NBCC and Knowledge Realty Trust",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hdfc-bank-ola-electric-mobility-nbcc-and-knowledge-realty-trust/articleshow/133632751.cms",
-      "date": "2026-08-31T00:30:00Z"
-    },
-    {
-      "title": "Dolly Parton's sister Frieda pays emotional tribute to the country icon as she reflects on their 'highs and lows': 'I never stopped loving her'",
+      "title": "Blow for celebrity chef Maggie Beer as her food empire plunges to another multimillion-dollar loss",
       "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/tvshowbiz/article-16091955/Dolly-Parton-sister-Frieda-tribute-death.html",
-      "date": "2026-08-31T00:24:01Z"
+      "url": "https://www.dailymail.com/news/article-16094501/maggie-beer-holdings.html",
+      "date": "2026-09-01T00:33:52Z"
     },
     {
-      "title": "BONER memecoin corners 81% of tokenized HIMS supply on Robinhood Chain, triggering onchain float squeeze",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/boner-memecoin-hims-robinhood-chain-squeeze/",
-      "date": "2026-08-31T00:18:18Z"
-    },
-    {
-      "title": "Block, bulk deals hit 14-month high in August at Rs 80,000 crore",
+      "title": "Stocks in news: Bharti Airtel, Happiest Minds Technologies, PVR INOX, Milky Mist Dairy and Mankind Pharma",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/block-bulk-deals-hit-14-month-high-in-august-at-rs-80000-crore/articleshow/133639060.cms",
-      "date": "2026-08-31T00:15:54Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-bharti-airtel-happiest-minds-technologies-pvr-inox-milky-mist-dairy-and-mankind-pharma/articleshow/133658328.cms",
+      "date": "2026-09-01T00:30:00Z"
     },
     {
-      "title": "According to BlackRock, Bitcoin Is Still a Great Portfolio Diversifier. So How Much Bitcoin Should You Be Holding in Your Portfolio?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/176b7304700cd22d",
-      "date": "2026-08-31T00:15:53Z"
+      "title": "Do horses know when you love them?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/do-horses-know-when-you-love-them/",
+      "date": "2026-09-01T00:26:36Z"
     },
     {
-      "title": "IPO rush continues: 7 issues to raise over Rs 1,400 crore this week",
+      "title": "Mid- & small caps do well in Sept, and it looks no different this time",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-7-issues-to-raise-over-rs-1400-crore-this-week/articleshow/133638844.cms",
-      "date": "2026-08-31T00:05:38Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mid-small-caps-do-well-in-sept-and-it-looks-no-different-this-time/articleshow/133665449.cms",
+      "date": "2026-09-01T00:22:44Z"
     },
     {
-      "title": "Bessent says yen moves ‘pretty contained’ and not disorderly",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/bessent-says-yen-moves-pretty-contained-and-not-disorderly",
-      "date": "2026-08-31T00:05:11Z"
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133665300.cms",
+      "date": "2026-09-01T00:07:33Z"
     },
     {
-      "title": "Earnings, macro trends to shape stock trading",
-      "source": "The Punch",
-      "url": "https://punchng.com/earnings-macro-trends-to-shape-stock-trading/",
-      "date": "2026-08-31T00:00:41Z"
+      "title": "How do you remove old dog urine stains?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/how-do-you-remove-old-dog-urine-stains/",
+      "date": "2026-09-01T00:02:44Z"
     },
     {
-      "title": "Order from disorder: do we need a new law of physics?",
+      "title": "ANDREW NEIL: With the AI bubble, soaring debts and rising interest rates, even the hardiest souls are spooked. We should ALL be fearful of the financial crisis that's coming",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/debate/article-16094079/ANDREW-NEIL-AI-bubble-financial-crisis-coming.html",
+      "date": "2026-09-01T00:00:49Z"
+    },
+    {
+      "title": "The challenge of synthesis dependence in quantum materials research",
       "source": "Nature.com",
-      "url": "https://www.nature.com/articles/d41586-026-02685-0",
-      "date": "2026-08-31T00:00:00Z"
+      "url": "https://www.nature.com/articles/s41567-026-03417-x.pdf",
+      "date": "2026-09-01T00:00:00Z"
     },
     {
-      "title": "The U.S. National Debt Just Topped $40 Trillion. Here's What That Could Mean for Bitcoin. - Yahoo Finance",
+      "title": "Can America Rebuild a Shared Civic Culture?",
+      "source": "Hoover.org",
+      "url": "https://www.hoover.org/plus/research/can-america-rebuild-shared-civic-culture",
+      "date": "2026-09-01T00:00:00Z"
+    },
+    {
+      "title": "Lacunary polyoxometalate nanoclusters as versatile interface modifiers for perovskite solar cells",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41598-026-46107-7.pdf",
+      "date": "2026-09-01T00:00:00Z"
+    },
+    {
+      "title": "A call to celebrate your achievements — from dissertations to tenure",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/d41586-026-02456-x",
+      "date": "2026-09-01T00:00:00Z"
+    },
+    {
+      "title": "Large fisheries declines linked to compound and extreme climate events",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-77077-z.pdf",
+      "date": "2026-09-01T00:00:00Z"
+    },
+    {
+      "title": "Gal Gadot Defends Starring in AI Movie With Casey Affleck: ‘I’m Trying to Make the Best of It’",
+      "source": "TheWrap",
+      "url": "https://www.thewrap.com/creative-content/movies/gal-gadot-defends-ai-enhanced-movie-bitcoin/",
+      "date": "2026-08-31T23:42:37Z"
+    },
+    {
+      "title": "Gas Group plans NGX listing, eyes energy expansion",
+      "source": "The Punch",
+      "url": "https://punchng.com/gas-group-plans-ngx-listing-eyes-energy-expansion/",
+      "date": "2026-08-31T23:38:25Z"
+    },
+    {
+      "title": "Breitbart Business Digest: What the Warsh Hinge Point Means for Economic Policy",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/08/31/breitbart-business-digest-what-the-warsh-hinge-point-means-for-economic-policy/",
+      "date": "2026-08-31T23:28:46Z"
+    },
+    {
+      "title": "California Subway Customer Blasts Employee Over Alleged Fee for Toasting Bread",
+      "source": "The Daily Hodl",
+      "url": "https://dailyhodl.com/2026/08/31/california-subway-customer-blasts-employee-over-alleged-fee-for-toasting-bread/",
+      "date": "2026-08-31T23:28:33Z"
+    },
+    {
+      "title": "August was the month of the comeback kids. Cramer reviews what drove the biggest winners",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/31/august-was-the-month-of-the-comeback-kids-cramer-reviews-what-drove-the-biggest-winners.html",
+      "date": "2026-08-31T23:23:38Z"
+    },
+    {
+      "title": "Strategy splits $603 million share sale between Bitcoin purchases and STRC support",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/strategy-splits-603-million-share-sale-between-bitcoin-purchases-and-strc-support/",
+      "date": "2026-08-31T23:20:42Z"
+    },
+    {
+      "title": "Solana Breaks 10-Month Downtrend As August Rally Reclaims $100",
+      "source": "Bitcoinist",
+      "url": "https://bitcoinist.com/solana-breaks-10-month-downtrend-august-rally-100/",
+      "date": "2026-08-31T23:15:00Z"
+    },
+    {
+      "title": "CAR Investors Have Opportunity to Lead Avis Budget Group, Inc. Securities Fraud Lawsuit Against Pentwater Capital Management LP",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/car-investors-have-opportunity-to-lead-avis-budget-group-inc-securities-fraud-lawsuit-against-pentwater-capital-management-lp-302864573.html",
+      "date": "2026-08-31T23:14:00Z"
+    },
+    {
+      "title": "Three Lions Acquisition prices 10M unit IPO at $10 per unit",
+      "source": "Thefly.com",
+      "url": "https://www.thefly.com/tlac",
+      "date": "2026-08-31T23:12:00Z"
+    },
+    {
+      "title": "Nvidia is building an IP licensing empire on the back of NVLink",
+      "source": "Theregister.com",
+      "url": "https://www.theregister.com/systems/2026/08/31/nvidia-is-building-an-ip-licensing-empire-on-the-back-of-nvlink/5293530",
+      "date": "2026-08-31T22:54:24Z"
+    },
+    {
+      "title": "Ukraine dissects Russia’s Zircon missile as Moscow leans on harder-to-intercept weapons",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/ukraine-releases-intel-on-russias-harder-to-intercept-zircon-missile-2026-8",
+      "date": "2026-08-31T22:38:01Z"
+    },
+    {
+      "title": "Ukraine dissects Russia’s Zircon missile as Moscow leans on harder-to-intercept weapons",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/ukraine-releases-intel-on-russias-harder-to-intercept-zircon-missile-2026-8#article",
+      "date": "2026-08-31T22:38:01Z"
+    },
+    {
+      "title": "Long-Term Treasury Yields Rise as Iran War Revives Inflation Worries - WSJ",
       "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185309188",
-      "date": "2026-08-30T23:52:58Z"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185330588",
+      "date": "2026-08-31T22:33:10Z"
     },
     {
-      "title": "2 Dow Jones Stocks Down Over 20% I'd Buy on the Dip",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/97fffbc0e0bf3b52",
-      "date": "2026-08-30T23:45:31Z"
-    },
-    {
-      "title": "We rarely hurt a loyal friend on purpose, and that is exactly the problem",
-      "source": "Theartfulage.com",
-      "url": "https://theartfulage.com/g-do-not-hurt-a-loyal-friend/",
-      "date": "2026-08-30T23:42:15Z"
+      "title": "What LIC should do to remain money-spinner for govt, policyholders",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/what-lic-should-do-to-remain-money-spinner-for-govt-policyholders/primearticleshow/133657196.cms",
+      "date": "2026-08-31T22:30:00Z"
     }
   ]
 }

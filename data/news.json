@@ -4,186 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-09-02T00:46:42.129212"
+      "date": "2026-09-03T00:54:42.245291"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-09-02T00:46:42.129219"
+      "date": "2026-09-03T00:54:42.245301"
     }
   ],
   "bitcoin": {
-    "price": 77199,
-    "date": "2026-09-02T00:46:42.252019"
+    "price": 77078,
+    "date": "2026-09-03T00:54:42.398308"
   },
   "news": [
     {
-      "title": "Rupee jumps to 4-week high, ends at 95.16 to the dollar",
+      "title": "CVS Health (NYSE:CVS) Strengthens Full-Year View As Aetna Rebounds",
+      "source": "Kalkine Media",
+      "url": "https://kalkinemedia.com/us/stocks/healthcare/cvs-health-nysecvs-strengthens-full-year-view-as-aetna-rebounds",
+      "date": "2026-09-02T00:51:54Z"
+    },
+    {
+      "title": "Whatever the AI Future Is, We’re in It Right Now",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/technology/2026/09/ai-future-reckoning-singularity/688487/",
+      "date": "2026-09-02T00:48:28Z"
+    },
+    {
+      "title": "Rupee closes at near 2-month high of 94.95 to the dollar",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-jumps-to-4-week-high-ends-at-95-16-to-the-dollar/articleshow/133665524.cms",
-      "date": "2026-09-01T00:40:19Z"
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-near-2-month-high-of-94-95-to-the-dollar/articleshow/133694649.cms",
+      "date": "2026-09-02T00:46:54Z"
     },
     {
-      "title": "Retail Investing Opens Up to AI Assistants",
-      "source": "pymnts.com",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/retail-investing-opens-up-to-ai-assistants/",
-      "date": "2026-09-01T00:38:55Z"
+      "title": "Are New Automated Token Portfolios (ATPs) the Future of Crypto Investing? Here's What Investors Need to Know",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/26558a9b86edbafc",
+      "date": "2026-09-02T00:38:31Z"
     },
     {
-      "title": "Blow for celebrity chef Maggie Beer as her food empire plunges to another multimillion-dollar loss",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16094501/maggie-beer-holdings.html",
-      "date": "2026-09-01T00:33:52Z"
+      "title": "FTN Cocoa, McNichols drive N26.5bn gain for investors",
+      "source": "The Punch",
+      "url": "https://punchng.com/ftn-cocoa-mcnichols-drive-n26-5bn-gain-for-investors/",
+      "date": "2026-09-02T00:37:25Z"
     },
     {
-      "title": "Stocks in news: Bharti Airtel, Happiest Minds Technologies, PVR INOX, Milky Mist Dairy and Mankind Pharma",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-bharti-airtel-happiest-minds-technologies-pvr-inox-milky-mist-dairy-and-mankind-pharma/articleshow/133658328.cms",
-      "date": "2026-09-01T00:30:00Z"
+      "title": "NGX ASI rises 1.20% on final August trading day",
+      "source": "The Punch",
+      "url": "https://punchng.com/ngx-asi-rises-1-20-on-final-august-trading-day/",
+      "date": "2026-09-02T00:37:25Z"
     },
     {
-      "title": "Do horses know when you love them?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/do-horses-know-when-you-love-them/",
-      "date": "2026-09-01T00:26:36Z"
-    },
-    {
-      "title": "Mid- & small caps do well in Sept, and it looks no different this time",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mid-small-caps-do-well-in-sept-and-it-looks-no-different-this-time/articleshow/133665449.cms",
-      "date": "2026-09-01T00:22:44Z"
+      "title": "Dow Jones Futures: Market Breaks Key Levels As Oil Prices Jump; Dell, Credo, Palo Alto Are Earnings Movers - Investor's Business Daily",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185357914",
+      "date": "2026-09-02T00:33:01Z"
     },
     {
       "title": "Pre-market action: Here's the trade setup for today's session",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133665300.cms",
-      "date": "2026-09-01T00:07:33Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133694155.cms",
+      "date": "2026-09-02T00:30:00Z"
     },
     {
-      "title": "How do you remove old dog urine stains?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/how-do-you-remove-old-dog-urine-stains/",
-      "date": "2026-09-01T00:02:44Z"
-    },
-    {
-      "title": "ANDREW NEIL: With the AI bubble, soaring debts and rising interest rates, even the hardiest souls are spooked. We should ALL be fearful of the financial crisis that's coming",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/debate/article-16094079/ANDREW-NEIL-AI-bubble-financial-crisis-coming.html",
-      "date": "2026-09-01T00:00:49Z"
-    },
-    {
-      "title": "The challenge of synthesis dependence in quantum materials research",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41567-026-03417-x.pdf",
-      "date": "2026-09-01T00:00:00Z"
-    },
-    {
-      "title": "Can America Rebuild a Shared Civic Culture?",
-      "source": "Hoover.org",
-      "url": "https://www.hoover.org/plus/research/can-america-rebuild-shared-civic-culture",
-      "date": "2026-09-01T00:00:00Z"
-    },
-    {
-      "title": "Lacunary polyoxometalate nanoclusters as versatile interface modifiers for perovskite solar cells",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41598-026-46107-7.pdf",
-      "date": "2026-09-01T00:00:00Z"
-    },
-    {
-      "title": "A call to celebrate your achievements — from dissertations to tenure",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/d41586-026-02456-x",
-      "date": "2026-09-01T00:00:00Z"
-    },
-    {
-      "title": "Large fisheries declines linked to compound and extreme climate events",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41467-026-77077-z.pdf",
-      "date": "2026-09-01T00:00:00Z"
-    },
-    {
-      "title": "Gal Gadot Defends Starring in AI Movie With Casey Affleck: ‘I’m Trying to Make the Best of It’",
-      "source": "TheWrap",
-      "url": "https://www.thewrap.com/creative-content/movies/gal-gadot-defends-ai-enhanced-movie-bitcoin/",
-      "date": "2026-08-31T23:42:37Z"
-    },
-    {
-      "title": "Gas Group plans NGX listing, eyes energy expansion",
-      "source": "The Punch",
-      "url": "https://punchng.com/gas-group-plans-ngx-listing-eyes-energy-expansion/",
-      "date": "2026-08-31T23:38:25Z"
-    },
-    {
-      "title": "Breitbart Business Digest: What the Warsh Hinge Point Means for Economic Policy",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/politics/2026/08/31/breitbart-business-digest-what-the-warsh-hinge-point-means-for-economic-policy/",
-      "date": "2026-08-31T23:28:46Z"
-    },
-    {
-      "title": "California Subway Customer Blasts Employee Over Alleged Fee for Toasting Bread",
-      "source": "The Daily Hodl",
-      "url": "https://dailyhodl.com/2026/08/31/california-subway-customer-blasts-employee-over-alleged-fee-for-toasting-bread/",
-      "date": "2026-08-31T23:28:33Z"
-    },
-    {
-      "title": "August was the month of the comeback kids. Cramer reviews what drove the biggest winners",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/31/august-was-the-month-of-the-comeback-kids-cramer-reviews-what-drove-the-biggest-winners.html",
-      "date": "2026-08-31T23:23:38Z"
-    },
-    {
-      "title": "Strategy splits $603 million share sale between Bitcoin purchases and STRC support",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/strategy-splits-603-million-share-sale-between-bitcoin-purchases-and-strc-support/",
-      "date": "2026-08-31T23:20:42Z"
-    },
-    {
-      "title": "Solana Breaks 10-Month Downtrend As August Rally Reclaims $100",
-      "source": "Bitcoinist",
-      "url": "https://bitcoinist.com/solana-breaks-10-month-downtrend-august-rally-100/",
-      "date": "2026-08-31T23:15:00Z"
-    },
-    {
-      "title": "CAR Investors Have Opportunity to Lead Avis Budget Group, Inc. Securities Fraud Lawsuit Against Pentwater Capital Management LP",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/car-investors-have-opportunity-to-lead-avis-budget-group-inc-securities-fraud-lawsuit-against-pentwater-capital-management-lp-302864573.html",
-      "date": "2026-08-31T23:14:00Z"
-    },
-    {
-      "title": "Three Lions Acquisition prices 10M unit IPO at $10 per unit",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/tlac",
-      "date": "2026-08-31T23:12:00Z"
-    },
-    {
-      "title": "Nvidia is building an IP licensing empire on the back of NVLink",
-      "source": "Theregister.com",
-      "url": "https://www.theregister.com/systems/2026/08/31/nvidia-is-building-an-ip-licensing-empire-on-the-back-of-nvlink/5293530",
-      "date": "2026-08-31T22:54:24Z"
-    },
-    {
-      "title": "Ukraine dissects Russia’s Zircon missile as Moscow leans on harder-to-intercept weapons",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/ukraine-releases-intel-on-russias-harder-to-intercept-zircon-missile-2026-8",
-      "date": "2026-08-31T22:38:01Z"
-    },
-    {
-      "title": "Ukraine dissects Russia’s Zircon missile as Moscow leans on harder-to-intercept weapons",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/ukraine-releases-intel-on-russias-harder-to-intercept-zircon-missile-2026-8#article",
-      "date": "2026-08-31T22:38:01Z"
-    },
-    {
-      "title": "Long-Term Treasury Yields Rise as Iran War Revives Inflation Worries - WSJ",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185330588",
-      "date": "2026-08-31T22:33:10Z"
-    },
-    {
-      "title": "What LIC should do to remain money-spinner for govt, policyholders",
+      "title": "15 midcaps dominate half of the party's bang in the market scene",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/prime/fintech-and-bfsi/what-lic-should-do-to-remain-money-spinner-for-govt-policyholders/primearticleshow/133657196.cms",
-      "date": "2026-08-31T22:30:00Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/15-midcaps-dominate-half-of-the-partys-bang-in-the-market-scene/articleshow/133694567.cms",
+      "date": "2026-09-02T00:29:30Z"
+    },
+    {
+      "title": "Palo Alto Networks Q4 Earnings Call Highlights",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/9ad5b35dfe66e6ca",
+      "date": "2026-09-02T00:24:08Z"
+    },
+    {
+      "title": "NexGen Energy Targets 2030 First Ore as Rook I Eyes $1.3B Annual Cash Flow",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b96369dedb1f12fe",
+      "date": "2026-09-02T00:24:00Z"
+    },
+    {
+      "title": "Dell Technologies Q2 Earnings Call Highlights",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6e0d95be2d54c9b1",
+      "date": "2026-09-02T00:23:46Z"
+    },
+    {
+      "title": "Are sugar gliders nice pets?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/are-sugar-gliders-nice-pets/",
+      "date": "2026-09-02T00:17:15Z"
+    },
+    {
+      "title": "BingX Launches \"Connect What's Moving\" to Bring Users Closer to Global Market Opportunities",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/bingx-launches-connect-whats-moving--to-bring-users-closer-to-global-market-opportunities-302866963.html",
+      "date": "2026-09-02T00:17:00Z"
+    },
+    {
+      "title": "CAS weighs on derivatives volumes, raising financial markets concerns",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cas-weighs-on-derivatives-volumes-raising-financial-markets-concerns/articleshow/133694177.cms",
+      "date": "2026-09-02T00:13:26Z"
+    },
+    {
+      "title": "Ogun warns residents as heavy rainfall, flooding loom",
+      "source": "The Punch",
+      "url": "https://punchng.com/ogun-warns-residents-as-heavy-rainfall-flooding-loom/",
+      "date": "2026-09-02T00:07:46Z"
+    },
+    {
+      "title": "Can carnivores survive on fish?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/can-carnivores-survive-on-fish/",
+      "date": "2026-09-02T00:07:30Z"
+    },
+    {
+      "title": "Should California Backfill Science Funding After Trump Cuts? Voters Could Decide in 2028",
+      "source": "KQED",
+      "url": "https://www.kqed.org/news/12097934/should-california-backfill-science-funding-after-trump-cuts-voters-could-decide-in-2028",
+      "date": "2026-09-02T00:00:48Z"
+    },
+    {
+      "title": "Florida Man Buys 32 Great Value Burgers From Fort Myers Walmart. Then He Unboxes Them—And Realizes There’s A Problem: ‘All Of Them Are Like This’",
+      "source": "BroBible",
+      "url": "https://brobible.com/culture/article/walmart-great-value-frozen-burgers/",
+      "date": "2026-09-02T00:00:01Z"
+    },
+    {
+      "title": "Lower-temperature bulk depolymerization of commercial polymethacrylates",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41557-026-02232-4",
+      "date": "2026-09-02T00:00:00Z"
+    },
+    {
+      "title": "Sex- and fiber type-specific remodeling of the muscle proteome implicates CSRP3 in resistance training-induced hypertrophy",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-77275-9.pdf",
+      "date": "2026-09-02T00:00:00Z"
+    },
+    {
+      "title": "It's Oyster Season—Here's Where to Eat the U.K.'s Best",
+      "source": "National Geographic",
+      "url": "https://www.nationalgeographic.com/travel/article/where-to-eat-the-best-oysters-in-the-uk-this-season",
+      "date": "2026-09-02T00:00:00Z"
+    },
+    {
+      "title": "Intracellular complement factor H protects neurons during CNS inflammation",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41586-026-10981-y",
+      "date": "2026-09-02T00:00:00Z"
+    },
+    {
+      "title": "Cops, CrowdStrike disrupt Sality botnet by poisoning the network and diverting into sinkholes",
+      "source": "Theregister.com",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/02/cops-crowdstrike-disrupt-sality-botnet-by-poisoning-the-network-and-diverting-into-sinkholes/5293795",
+      "date": "2026-09-01T23:54:07Z"
+    },
+    {
+      "title": "Bloomberg: “Bessent’s Bond Gains Wiped Out as Treasury Yields Jump Again”",
+      "source": "Econbrowser.com",
+      "url": "https://econbrowser.com/archives/2026/09/bloomberg-bessents-bond-gains-wiped-out-as-treasury-yields-jump-again",
+      "date": "2026-09-01T23:52:10Z"
+    },
+    {
+      "title": "3 Top Dividend Stocks to Buy in September",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a03cf8b4e8ad444c",
+      "date": "2026-09-01T23:51:27Z"
+    },
+    {
+      "title": "Investors behind Bitcoin’s Wall Street era show signs of return",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/bitcoin-wall-street-institutional-investors-return/",
+      "date": "2026-09-01T23:43:51Z"
+    },
+    {
+      "title": "Mickey Gasper's 1st Inning Homer vs. Mariners Added To Wild Red Sox History",
+      "source": "Baseballnow.com",
+      "url": "https://www.baseballnow.com/2026/09/01/mickey-gaspers-1st-inning-homer-vs-mariners-added-to-wild-red-sox-history",
+      "date": "2026-09-01T23:31:42Z"
+    },
+    {
+      "title": "Former Florida governor hopeful hauled out of county meeting after protesting Isarael investments",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/former-florida-governor-hopeful-hauled-county-meeting-protesting-israel-investments",
+      "date": "2026-09-01T23:29:50Z"
+    },
+    {
+      "title": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn’t ready for AI",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
+      "date": "2026-09-01T23:20:44Z"
     }
   ]
 }

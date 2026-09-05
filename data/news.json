@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-09-04T00:40:14.246650"
+      "date": "2026-09-05T00:34:45.157189"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-09-04T00:40:14.246660"
+      "date": "2026-09-05T00:34:45.157195"
     }
   ],
   "bitcoin": {
-    "price": 81340,
-    "date": "2026-09-04T00:40:14.402960"
+    "price": 79693,
+    "date": "2026-09-05T00:34:45.289785"
   },
   "news": [
     {
-      "title": "Scienjoy to acquire a 29.9% stake in Leader Education Limited",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/sj",
-      "date": "2026-09-03T00:35:57Z"
-    },
-    {
-      "title": "Global bond slump looks painful, but its nothing like the 2022 rout",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-bond-slump-looks-painful-but-its-nothing-like-the-2022-rout/articleshow/133722728.cms",
-      "date": "2026-09-03T00:33:49Z"
-    },
-    {
-      "title": "Centre plans interministerial meeting to chart ethanol feedstock strategy",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/industry/centre-ethanol-feedstock-grains-sugarcane-maize-e20-blending-11788354077800.html",
-      "date": "2026-09-03T00:31:00Z"
-    },
-    {
-      "title": "Stocks in news: Swiggy, Adani Ports, IDFC First Bank, Hexaware Technologies and Sun Pharma",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-swiggy-adani-ports-idfc-first-bank-hexaware-technologies-and-sun-pharma/articleshow/133722510.cms",
-      "date": "2026-09-03T00:30:00Z"
-    },
-    {
       "title": "Pre-market action: Here's the trade setup for today's session",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133722490.cms",
-      "date": "2026-09-03T00:30:00Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133741690.cms",
+      "date": "2026-09-04T00:30:00Z"
     },
     {
-      "title": "3 S&P 500 Stocks That Fall Short",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a9fb96159c4c3683",
-      "date": "2026-09-03T00:28:40Z"
-    },
-    {
-      "title": "American Tungsten initiated with bullish view at Stifel, here's why",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/tungf",
-      "date": "2026-09-03T00:25:12Z"
-    },
-    {
-      "title": "btc-toolkit 1.2.1",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/btc-toolkit/1.2.1/",
-      "date": "2026-09-03T00:24:16Z"
-    },
-    {
-      "title": "Eurobond yields climb to 8.2% on sovereign risk",
-      "source": "The Punch",
-      "url": "https://punchng.com/eurobond-yields-climb-to-8-2-on-sovereign-risk/",
-      "date": "2026-09-03T00:20:46Z"
-    },
-    {
-      "title": "Zerodha unit gets nod for merchant banking",
+      "title": "Stocks in news: HDFC Bank, M&M, Gland Pharma, CreditAccess Grameen and Bharat Forge",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/zerodha-unit-gets-nod-for-merchant-banking/articleshow/133722687.cms",
-      "date": "2026-09-03T00:17:28Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hdfc-bank-mm-gland-pharma-creditaccess-grameen-and-bharat-forge/articleshow/133741194.cms",
+      "date": "2026-09-04T00:30:00Z"
     },
     {
-      "title": "3 Industrials Stocks for Long-Term Investors",
+      "title": "Q2 Earnings Highs And Lows: Leonardo DRS (NASDAQ:DRS) Vs The Rest Of The Defense Contractors Stocks",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/dc95b3107b23c53c",
-      "date": "2026-09-03T00:14:04Z"
+      "url": "https://biztoc.com/x/b31ebe9d5a4685da",
+      "date": "2026-09-04T00:28:23Z"
     },
     {
-      "title": "Inside India newsletter: India’s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a98e560c043a15e1",
-      "date": "2026-09-03T00:11:30Z"
-    },
-    {
-      "title": "ASX investors urged to ditch consumer stocks for AI and mining as another RBA interest rate rise looms",
-      "source": "The West Australian",
-      "url": "https://thewest.com.au/business/asx-investors-urged-to-ditch-consumer-stocks-for-ai-and-mining-as-another-rba-interest-rate-rise-looms-c-22816365",
-      "date": "2026-09-03T00:08:15Z"
-    },
-    {
-      "title": "IPO fever surges as 10 August issues cross 100x bids",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-fever-surges-as-10-august-issues-cross-100x-bids/articleshow/133722546.cms",
-      "date": "2026-09-03T00:06:43Z"
-    },
-    {
-      "title": "Inside India newsletter: India’s economic growth smashes forecasts, but its biggest stocks aren't feeling the love",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/03/india-nifty-sensex-manufacturing-economy-gdp.html",
-      "date": "2026-09-03T00:05:56Z"
-    },
-    {
-      "title": "FCNR(B) inflows flood banks, send CD rates tumbling",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/industry/banking/rbi-fcnrb-dollar-deposits-nri-inflows-bank-cd-rates-india-liquidity-11788350060423.html",
-      "date": "2026-09-03T00:05:40Z"
-    },
-    {
-      "title": "Potential drugs within a series of 3-phenylethyl-8-(R-phenyl)-7,8-dihydroimidazo[2,1-c][1,2,4]triazin-4(6H)-ones exhibit favourable toxicity profiles and thermal behaviours",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41598-026-69256-1.pdf",
-      "date": "2026-09-03T00:00:00Z"
-    },
-    {
-      "title": "Why Uranium Stocks Are Falling as U.S. Production Triples",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-Uranium-Stocks-Are-Falling-as-US-Production-Triples.html",
-      "date": "2026-09-03T00:00:00Z"
-    },
-    {
-      "title": "Field Tested, Future Ready: New U.S. Army Campaign Shows the Power of Real-World Training",
-      "source": "Soldiersystems.net",
-      "url": "https://soldiersystems.net/2026/09/03/field-tested-future-ready-new-u-s-army-campaign-shows-the-power-of-real-world-training/",
-      "date": "2026-09-03T00:00:00Z"
-    },
-    {
-      "title": "2 Dow Jones Stocks Worth Investigating and 1 We Question",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3dfbb917075f25fe",
-      "date": "2026-09-02T23:59:16Z"
-    },
-    {
-      "title": "Elon Musk's 2025 Tesla pay could buy nearly 10% of all Bitcoin",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f12d9bb67f47ed5d",
-      "date": "2026-09-02T23:44:56Z"
-    },
-    {
-      "title": "1 Value Stock with Impressive Fundamentals and 2 We Question",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1df591a74daae534",
-      "date": "2026-09-02T23:44:44Z"
-    },
-    {
-      "title": "1 Value Stock Worth Your Attention and 2 We Question",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/bf7464e7d624eeb1",
-      "date": "2026-09-02T23:44:41Z"
-    },
-    {
-      "title": "[VIC, NSW, ACT, QLD] 10pcs Original Wingettes & Drumsettes $10.90, 10pcs Flavoured W&D $11.90 on Thursdays @ Nene Chicken",
+      "title": "Autobarn Father's Day Sale: 30% off Penrite Oils, 25% off SuperCharge Batteries, Hertz & Kenwood Car Audio, 20% off Uniden Dash",
       "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/973713",
-      "date": "2026-09-02T23:37:15Z"
+      "url": "https://www.ozbargain.com.au/node/973844",
+      "date": "2026-09-04T00:26:29Z"
     },
     {
-      "title": "NGX opens September on bullish note, gains N1.22tn",
+      "title": "Scan reveals 96,000 fake-address outputs clogging Bitcoin’s unspent database",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/scan-reveals-96000-fake-address-outputs-clogging-bitcoins-unspent-database/",
+      "date": "2026-09-04T00:20:15Z"
+    },
+    {
+      "title": "Q2 Earnings Highlights: Rockwell Automation (NYSE:ROK) Vs The Rest Of The Internet of Things Stocks",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/de0eec60d4104648",
+      "date": "2026-09-04T00:13:12Z"
+    },
+    {
+      "title": "Therapy induced senescence promotes immunogenicity in acute myeloid Leukemia through reduced EZH2 activity",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-76853-1",
+      "date": "2026-09-04T00:00:00Z"
+    },
+    {
+      "title": "Rajan: Policy Beginning To Tilt More Decisively Toward Rate Hikes Under Warsh’s Command",
+      "source": "Substack.com",
+      "url": "https://kathleenhays.substack.com/p/rajan-policy-beginning-to-tilt-more",
+      "date": "2026-09-04T00:00:00Z"
+    },
+    {
+      "title": "How Targeted Misinformation Stalks Its Victims",
+      "source": "Thefreedomfrequency.org",
+      "url": "https://www.thefreedomfrequency.org/p/how-targeted-misinformation-stalks",
+      "date": "2026-09-04T00:00:00Z"
+    },
+    {
+      "title": "America's bonds crisis should be worrying Israelis",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/2026-09-04/ty-article/.premium/americas-bonds-crisis-should-be-worrying-israelis/000001a0-66a3-d43a-affe-7ff3587f0000",
+      "date": "2026-09-03T23:59:22Z"
+    },
+    {
+      "title": "Where Will Bitcoin Be in 2030?",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/3c6a3c317fd78146",
+      "date": "2026-09-03T23:58:25Z"
+    },
+    {
+      "title": "Spotting Winners: BOK Financial (NASDAQ:BOKF) And Regional Banks Stocks In Q2",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1ea1e346309716d5",
+      "date": "2026-09-03T23:58:14Z"
+    },
+    {
+      "title": "Spotting Winners: Hyatt Hotels (NYSE:H) And Consumer Discretionary - Travel and Vacation Providers Stocks In Q2",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/9ecb33f9f5b0db48",
+      "date": "2026-09-03T23:42:42Z"
+    },
+    {
+      "title": "Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express",
+      "date": "2026-09-03T23:40:09Z"
+    },
+    {
+      "title": "IMF reports better-than-anticipated growth performance in El Salvador",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/imf-el-salvador-growth-performance/",
+      "date": "2026-09-03T23:33:13Z"
+    },
+    {
+      "title": "Cut petroleum product imports, CORAN urges govt",
       "source": "The Punch",
-      "url": "https://punchng.com/ngx-opens-september-on-bullish-note-gains-n1-22tn/",
-      "date": "2026-09-02T23:37:12Z"
+      "url": "https://punchng.com/cut-petroleum-product-imports-coran-urges-govt/",
+      "date": "2026-09-03T23:07:53Z"
     },
     {
-      "title": "Market Close: Stocks Higher, Yields Slip, Beige Book Highlights Data Centers • 9/2/26",
+      "title": "SEC seeks public opinions on novel ETF funds as industry races to innovate",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/sec-public-comments-novel-etf-funds/",
+      "date": "2026-09-03T22:59:00Z"
+    },
+    {
+      "title": "These stocks in the red-hot healthcare sector have gotten too crowded to own",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7532447ee3b5025a",
-      "date": "2026-09-02T23:37:00Z"
+      "url": "https://biztoc.com/x/a3d1fff5e7ecc674",
+      "date": "2026-09-03T22:54:07Z"
     },
     {
-      "title": "Miranda Otto To Star In Binge Family Comedy ‘Tough Love’",
-      "source": "Deadline",
-      "url": "http://deadline.com/2026/09/miranda-otto-casting-tough-love-binge-1237065276/",
-      "date": "2026-09-02T23:30:00Z"
+      "title": "Parked Coldcard loot begins moving as attacker routes $1.6M in stolen Bitcoin to Ethereum",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/parked-coldcard-loot-begins-moving-as-attacker-routes-1-6m-in-stolen-bitcoin-to-ethereum/",
+      "date": "2026-09-03T22:50:13Z"
     },
     {
-      "title": "1 Large-Cap Stock with Impressive Fundamentals and 2 We Find Risky",
+      "title": "Coinbase takes regulatory step for leveraged stock trading",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/coinbase-leveraged-stock-trading-regulatory-filing/",
+      "date": "2026-09-03T22:45:09Z"
+    },
+    {
+      "title": "Cathie Wood buys $44.5 million of tumbling tech stock",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/df65ebcc0e5ef1e2",
-      "date": "2026-09-02T23:28:50Z"
+      "url": "https://biztoc.com/x/8c0fa7962269e2c2",
+      "date": "2026-09-03T22:38:48Z"
     },
     {
-      "title": "Jim Cramer says investors aren't ditching tech — they just want cheaper stocks",
+      "title": "IMF reaches staff-level agreement for $140M aid to El Salvador",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/imf-el-salvador-140m-agreement/",
+      "date": "2026-09-03T22:30:07Z"
+    },
+    {
+      "title": "Oxford Industries Q2 Earnings Call Highlights",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/8d2fb388a9ed4e5b",
-      "date": "2026-09-02T23:26:16Z"
+      "url": "https://biztoc.com/x/1f0a0ca405f56e56",
+      "date": "2026-09-03T22:25:43Z"
     },
     {
-      "title": "Zum Celebrates Its Drivers Nationwide As Back-to-School Season Gets Underway",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/zum-celebrates-its-drivers-nationwide-as-back-to-school-season-gets-underway-302868268.html",
-      "date": "2026-09-02T23:25:00Z"
+      "title": "Smith & Wesson Brands Q1 Earnings Call Highlights",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/ff7404f1825d28af",
+      "date": "2026-09-03T22:25:41Z"
+    },
+    {
+      "title": "Torrid Q2 Earnings Call Highlights",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/3492ea6d7c00ccf7",
+      "date": "2026-09-03T22:25:33Z"
+    },
+    {
+      "title": "Crypto market cap surges $135B in 24 hours, Bitcoin nears $81K",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/crypto-market-cap-surges-135b-in-24-hours-bitcoin-nears-81k/",
+      "date": "2026-09-03T22:23:00Z"
+    },
+    {
+      "title": "$58M in crypto shorts liquidated in one hour as Bitcoin squeezes bears",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/58m-crypto-shorts-liquidated-bitcoin/",
+      "date": "2026-09-03T22:21:48Z"
+    },
+    {
+      "title": "BlackLine, Upland Software, Zeta Global, Oracle, and Okta Shares Are Soaring and Falling, What You Need To Know",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c53b16fbf5a0b6eb",
+      "date": "2026-09-03T22:10:14Z"
+    },
+    {
+      "title": "ProCap Financial sells 50 Bitcoin to repurchase shares at 40% discount",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/procap-financial-bitcoin-share-buyback/",
+      "date": "2026-09-03T22:06:34Z"
+    },
+    {
+      "title": "BlackRock’s spot Bitcoin ETF IBIT rises nearly 6% with $300M in daily inflows",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/blackrock-ibit-bitcoin-etf-inflows-2/",
+      "date": "2026-09-03T22:05:39Z"
     }
   ]
 }

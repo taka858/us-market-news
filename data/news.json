@@ -4,198 +4,192 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-09-08T00:52:32.287747"
+      "date": "2026-09-09T00:59:27.384412"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-09-08T00:52:32.287756"
+      "date": "2026-09-09T00:59:27.384422"
     }
   ],
   "bitcoin": {
-    "price": 79246,
-    "date": "2026-09-08T00:52:32.371615"
+    "price": 78774,
+    "date": "2026-09-09T00:59:27.475023"
   },
   "news": [
     {
-      "title": "Bitcoin drops below $80,000 as hot jobs data spurs US Federal Reserve hike bets",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/bitcoin-drops-below-80000-as-hot-jobs-data-spurs-us-federal-reserve-hike-bets",
-      "date": "2026-09-07T00:52:00Z"
+      "title": "New York Yankees Reinstate Reigning MVP",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/york-yankees-reinstate-reigning-mvp-005506825.html",
+      "date": "2026-09-08T00:55:06Z"
     },
     {
-      "title": "Expedia: 16% Cashback on Hotels & Car Hire (Uncapped) @ TopCashback AU",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/974140",
-      "date": "2026-09-07T00:47:53Z"
+      "title": "SUNU lists new shares as enlarged capital hits N25.95bn",
+      "source": "The Punch",
+      "url": "https://punchng.com/sunu-lists-new-shares-as-enlarged-capital-hits-n25-95bn/",
+      "date": "2026-09-08T00:54:15Z"
     },
     {
-      "title": "NSE grey market premium soars on Sebi's IPO approval",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-grey-market-premium-soars-on-sebis-ipo-approval/articleshow/133857380.cms",
-      "date": "2026-09-07T00:43:07Z"
+      "title": "International Breweries, Zichis Agro top gainers in mixed trading",
+      "source": "The Punch",
+      "url": "https://punchng.com/international-breweries-zichis-agro-top-gainers-in-mixed-trading/",
+      "date": "2026-09-08T00:53:14Z"
     },
     {
-      "title": "Gold declines as stronger US payrolls data raises rate hike prospects",
+      "title": "Aaron Judge Returns As Yankees' World Series Hopes Surge",
+      "source": "Baseballnow.com",
+      "url": "https://www.baseballnow.com/2026/09/07/aaron-judge-returns-as-yankees-world-series-hopes-surge",
+      "date": "2026-09-08T00:52:29Z"
+    },
+    {
+      "title": "Optima Bank initiated with bullish view at Jefferies, here's why",
+      "source": "Thefly.com",
+      "url": "https://www.thefly.com/opmbf",
+      "date": "2026-09-08T00:49:55Z"
+    },
+    {
+      "title": "Japan July real wages rise 2.4%, biggest gain since 2021",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/gold-declines-us-payrolls-rate-hike/",
-      "date": "2026-09-07T00:30:12Z"
+      "url": "https://cryptobriefing.com/japan-july-real-wages-rise-2024/",
+      "date": "2026-09-08T00:45:21Z"
     },
     {
-      "title": "Stocks in news: Tata Motors, RVNL, Eicher Motors, Mazagon Dock and Lupin",
+      "title": "'An erosion of trust': How Trump's policies are destabilizing the economy",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b22de0bfe18c0044",
+      "date": "2026-09-08T00:42:34Z"
+    },
+    {
+      "title": "What is a coyotes cry called?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/what-is-a-coyotes-cry-called/",
+      "date": "2026-09-08T00:36:29Z"
+    },
+    {
+      "title": "ESDS blockbuster debut drives 5.19% surge in Motilal Oswal Digital India Fund",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-motors-rvnl-eicher-motors-mazagon-dock-and-lupin/articleshow/133844968.cms",
-      "date": "2026-09-07T00:30:00Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/esds-blockbuster-debut-drives-5-19-surge-in-motilal-oswal-digital-india-fund/articleshow/133901011.cms",
+      "date": "2026-09-08T00:31:22Z"
     },
     {
-      "title": "Goldman Sachs strategist maintains bullish outlook on South Korean stocks",
+      "title": "Bank of America estimates $50B rise in T-bill interest costs from Fed rate hikes",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/goldman-sachs-bullish-south-korean-stocks-kospi/",
-      "date": "2026-09-07T00:25:11Z"
+      "url": "https://cryptobriefing.com/bofa-50b-tbill-interest-costs/",
+      "date": "2026-09-08T00:30:24Z"
+    },
+    {
+      "title": "Stocks in news: Swiggy, M&M, REC, Adani Power and Bajaj Finserv",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-swiggy-mm-rec-adani-power-and-bajaj-finserv/articleshow/133890698.cms",
+      "date": "2026-09-08T00:30:00Z"
+    },
+    {
+      "title": "NETworkManager v2026.9.7.0",
+      "source": "Kitploit.com",
+      "url": "https://kitploit.com/en/posts/github-borntoberoot-networkmanager-2026970",
+      "date": "2026-09-08T00:26:53Z"
+    },
+    {
+      "title": "Will dolphins try to mate with human?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/will-dolphins-try-to-mate-with-human/",
+      "date": "2026-09-08T00:18:06Z"
     },
     {
       "title": "Pre-market action: Here's the trade setup for today's session",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133857070.cms",
-      "date": "2026-09-07T00:18:54Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133901639.cms",
+      "date": "2026-09-08T00:15:54Z"
     },
     {
-      "title": "How does styrofoam harm the ocean?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/how-does-styrofoam-harm-the-ocean/",
-      "date": "2026-09-07T00:18:36Z"
-    },
-    {
-      "title": "Japan dumps foreign securities including US Treasuries to defend the yen",
+      "title": "Tether CEO outlines strategy to expand dollar network, buy Bitcoin and gold",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/japan-sells-us-treasuries-currency-intervention/",
-      "date": "2026-09-07T00:14:50Z"
+      "url": "https://cryptobriefing.com/tether-ceo-strategy-bitcoin-gold-reserves/",
+      "date": "2026-09-08T00:08:09Z"
     },
     {
-      "title": "‘White hats’ take 4000 BTC from Liquid, ETFs see best week of 2026: Hodler’s Digest",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest",
-      "date": "2026-09-07T00:05:02Z"
-    },
-    {
-      "title": "Ultrahigh pressure phase transition in ice",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41563-026-02732-1",
-      "date": "2026-09-07T00:00:00Z"
-    },
-    {
-      "title": "Acer hedges memory price shock with local AI, diversification",
-      "source": "Digitimes",
-      "url": "https://www.digitimes.com/news/a20260904PD222/acer-taiwan-jason-chen-ceo-manufacturing.html",
-      "date": "2026-09-06T23:37:11Z"
-    },
-    {
-      "title": "3 stellar ASX dividend stocks to supplement your superannuation",
-      "source": "Motley Fool Australia",
-      "url": "https://www.fool.com.au/2026/09/07/3-stellar-asx-dividend-stocks-to-supplement-your-superannuation/",
-      "date": "2026-09-06T23:30:00Z"
-    },
-    {
-      "title": "American Airlines (AAL) Leans on its Smallest Long-Haul Jet to Chase Higher-Margin Routes",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/small-business/articles/american-airlines-aal-leans-smallest-232642341.html",
-      "date": "2026-09-06T23:26:42Z"
-    },
-    {
-      "title": "Blackstone (BX) Cashes Out Up to $1.3 Billion from its India Real Estate Bet",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/real-estate/articles/blackstone-bx-cashes-1-3-231735033.html",
-      "date": "2026-09-06T23:17:35Z"
-    },
-    {
-      "title": "Warren Buffett has a stark message for stock market investors",
+      "title": "EU regulators send early warning to Oracle ahead of earnings",
       "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/warren-buffett-investor-advice-volatility-patience",
-      "date": "2026-09-06T23:17:00Z"
+      "url": "https://www.thestreet.com/investing/stocks/eu-regulators-warn-oracle-antitrust-ahead-of-earnings",
+      "date": "2026-09-08T00:03:00Z"
     },
     {
-      "title": "Workday (WDAY)’s AI Push is Easing Investor Fears, but its Own Guidance Tells a More Cautious Story",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/technology/ai/articles/workday-wday-ai-push-easing-231129347.html",
-      "date": "2026-09-06T23:11:29Z"
+      "title": "Intestinal infections establish antigen-specific, long-lived memory CD4+ T cells in the brain and meninges",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41593-026-02428-4",
+      "date": "2026-09-08T00:00:00Z"
     },
     {
-      "title": "cpass-cli added to PyPI",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/cpass-cli/",
-      "date": "2026-09-06T23:06:02Z"
-    },
-    {
-      "title": "Solstice (SOLS) and Element Solutions (ESI) Call Off Their $14.5 Billion Combination",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/solstice-sols-element-solutions-esi-230510085.html",
-      "date": "2026-09-06T23:05:10Z"
-    },
-    {
-      "title": "Retailers are Handling Tariff Refunds in Very Different Ways: Walmart and Home Depot",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/economy/policy/articles/retailers-handling-tariff-refunds-very-225628436.html",
-      "date": "2026-09-06T22:56:28Z"
-    },
-    {
-      "title": "Apple (AAPL) Raises Apple TV and Apple One Prices Again in the U.S.",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/media-advertising/articles/apple-aapl-raises-apple-tv-224834727.html",
-      "date": "2026-09-06T22:48:34Z"
-    },
-    {
-      "title": "Goldman Sachs (GS) Partner: AI Risks Leaving the Next Generation of Bankers Unable to Think for Themselves",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-gs-partner-ai-224114353.html",
-      "date": "2026-09-06T22:41:14Z"
-    },
-    {
-      "title": "OpenAI Cuts Cursor Off from its Models Now That Musk’s SpaceX (SPCX) Owns It",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/technology/ai/articles/openai-cuts-cursor-off-models-223547147.html",
-      "date": "2026-09-06T22:35:47Z"
-    },
-    {
-      "title": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-first-ever-ahead-223147950.html",
-      "date": "2026-09-06T22:31:47Z"
-    },
-    {
-      "title": "Somerset's Scott Mitchell prevails at Jennerstown Speedway Complex",
-      "source": "TribDem.com",
-      "url": "https://www.tribdem.com/sports/local_sports/somersets-scott-mitchell-prevails-at-jennerstown-speedway-complex/article_168e1148-c59b-416f-80bb-63ec483fa4bb.html",
-      "date": "2026-09-06T22:31:00Z"
-    },
-    {
-      "title": "JD Vance Says Trump 'Cares a Lot' About Interest Rates Because He Wants Americans to Afford a Home: 'Would Be Nice' to Have Fed's Help",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/economy/policy/articles/jd-vance-says-trump-cares-223010655.html",
-      "date": "2026-09-06T22:30:10Z"
-    },
-    {
-      "title": "Can going slow on IPOs revive India’s stock market fortunes?",
+      "title": "Samsung India pays the price of costlier chips with a round of layoffs",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/prime/money-and-markets/can-going-slow-on-ipos-revive-indias-stock-market-fortunes/primearticleshow/133841363.cms",
-      "date": "2026-09-06T22:30:00Z"
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/samsung-india-pays-the-price-of-costlier-chips-with-a-round-of-layoffs/articleshow/133894023.cms",
+      "date": "2026-09-08T00:00:00Z"
     },
     {
-      "title": "Trump Dubs Mar-A-Lago the ‘Southern White House’ in Glowing Truth Social Post",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/news/trump-dubs-mar-a-lago-the-southern-white-house-in-glowing-truth-social-post/",
-      "date": "2026-09-06T22:22:46Z"
+      "title": "Darrell Duffie Optimistic On Integration Of Tokenized Finance Into Mainstream Financial Markets",
+      "source": "Substack.com",
+      "url": "https://kathleenhays.substack.com/p/duffie-optimistic-on-integration",
+      "date": "2026-09-08T00:00:00Z"
     },
     {
-      "title": "Gap Taps New Old Navy CEO to Turn Around Sluggish Sales",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gap-taps-old-navy-ceo-221935372.html",
-      "date": "2026-09-06T22:19:35Z"
+      "title": "Ionic clusters as high-connectivity secondary building units for crystalline porous organic salts",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41557-026-02248-w",
+      "date": "2026-09-08T00:00:00Z"
     },
     {
-      "title": "Apple (AAPL) Sets iPhone Launch Event. The First Under New CEO John Ternus",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/technology/articles/apple-aapl-sets-iphone-launch-221225248.html",
-      "date": "2026-09-06T22:12:25Z"
+      "title": "How countries can grow without impoverishing future generations",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/d41586-026-02807-8",
+      "date": "2026-09-08T00:00:00Z"
+    },
+    {
+      "title": "Gold steady near $4,400 as traders weigh Middle East tensions and US dollar decline",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/gold-steady-4400-middle-east-tensions-dollar/",
+      "date": "2026-09-07T23:44:42Z"
+    },
+    {
+      "title": "Wall Street Investment Firm Bernstein Thinks Bitcoin Could Hit $300,000 by 2029. Is Bitcoin Now a Buy?",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/131b96b7d2225329",
+      "date": "2026-09-07T23:33:29Z"
+    },
+    {
+      "title": "Metaplanet CEO addresses shareholder concerns over dilution, but investors aren’t satisfied",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/metaplanet-ceo-shareholder-concerns-dilution/",
+      "date": "2026-09-07T23:06:34Z"
+    },
+    {
+      "title": "Warren Buffett Told CNBC 'I Initiated It' About Berkshire's Alphabet Bet, and New Reporting Says He's Still Calling the Shots on Stocks. Here's What That Means for Reading Greg Abel's Tenure",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2f6f57e5cf9b4f19",
+      "date": "2026-09-07T23:03:13Z"
+    },
+    {
+      "title": "Five drivers secure 2026 season points championships at Watertown track",
+      "source": "Watertown Public Opinion",
+      "url": "https://www.thepublicopinion.com/story/sports/2026/09/07/weekend-racing-roundup/91485004007/",
+      "date": "2026-09-07T23:00:34Z"
+    },
+    {
+      "title": "Trump floods social media with AI images annexing two countries, renaming a state and claiming ownership of the moon",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4394614/posts",
+      "date": "2026-09-07T22:55:01Z"
+    },
+    {
+      "title": "Two Factors Could Break Bitcoin (BTC) out of Range Trading As Chances of Fed Rate Hike Next Week Hover Around 60%: CoinShares",
+      "source": "The Daily Hodl",
+      "url": "https://dailyhodl.com/2026/09/07/two-factors-could-break-bitcoin-btc-out-of-range-trading-as-chances-of-fed-rate-hike-next-week-hover-around-60-coinshares/",
+      "date": "2026-09-07T22:47:29Z"
+    },
+    {
+      "title": "Hackers steal $320M in bitcoin from Liquid Network, return most of it after patch",
+      "source": "SiliconANGLE News",
+      "url": "https://siliconangle.com/2026/09/07/hackers-steal-320m-in-bitcoin-from-liquid-network-return-most-of-it-after-patch/",
+      "date": "2026-09-07T22:36:46Z"
     }
   ]
 }

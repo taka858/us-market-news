@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-09-15T01:08:05.398647"
+      "date": "2026-09-16T01:00:04.303476"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-09-15T01:08:05.398653"
+      "date": "2026-09-16T01:00:04.303481"
     }
   ],
   "bitcoin": {
-    "price": 77820,
-    "date": "2026-09-15T01:08:05.471332"
+    "price": 75706,
+    "date": "2026-09-16T01:00:04.438559"
   },
   "news": [
     {
-      "title": "CAS set for a rework: What's up for change",
+      "title": "US Fed rate hike looms, impacting NSE IPO and global markets; 10-year yields near 5%",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cas-set-for-a-rework-whats-up-for-change/articleshow/134230014.cms",
-      "date": "2026-09-14T01:04:55Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/us-fed-rate-hike-looms-impacting-nse-ipo-and-global-markets-10-year-yields-near-5/articleshow/134249654.cms",
+      "date": "2026-09-15T00:59:54Z"
     },
     {
-      "title": "Aptos integration with Archax enables movement of 100+ regulated assets onto blockchain",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/aptos-archax-regulated-assets-integration/",
-      "date": "2026-09-14T01:03:39Z"
+      "title": "Fatal Fury: City Of The Wolves Adds Kim Kaphwan on September 24",
+      "source": "Bleeding Cool News",
+      "url": "https://bleedingcool.com/games/fatal-fury-city-of-the-wolves-adds-kim-kaphwan-on-september-24/",
+      "date": "2026-09-15T00:53:09Z"
     },
     {
-      "title": "AI agents to start spending your money with Visa, Mastercard",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/ai-agents-to-start-spending-your-money-with-visa-mastercard",
-      "date": "2026-09-14T01:03:00Z"
-    },
-    {
-      "title": "Amazon and 2 Other AI Stocks to Buy With $5,000",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/709043d13915b83c",
-      "date": "2026-09-14T01:02:44Z"
-    },
-    {
-      "title": "Real World Economics: In praise of the value of information",
-      "source": "TwinCities.com-Pioneer Press",
-      "url": "https://www.twincities.com/2026/09/13/real-world-economics-in-praise-of-the-value-of-information/",
-      "date": "2026-09-14T01:02:42Z"
-    },
-    {
-      "title": "NPS risk labels: Will PFRDA’s new framework help subscribers make better choices",
+      "title": "US 10-year yields reach 5%, highest since October 2023",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/nps-risk-labels-will-pfrdas-new-framework-help-subscribers-make-better-choices/articleshow/134107097.cms",
-      "date": "2026-09-14T01:00:00Z"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-10-year-yields-reach-5-highest-since-october-2023/articleshow/134249584.cms",
+      "date": "2026-09-15T00:50:06Z"
     },
     {
-      "title": "Global interest rates are rising: Will RBI rates, home loan EMIs and investments be affected?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/global-interest-rates-are-rising-will-rbi-rates-home-loan-emis-and-investments-be-affected/articleshow/134102511.cms",
-      "date": "2026-09-14T01:00:00Z"
-    },
-    {
-      "title": "International ETF premiums: Why some ETFs trade far above their underlying asset value",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/international-etf-premiums-why-some-etfs-trade-far-above-their-underlying-asset-value/articleshow/134100071.cms",
-      "date": "2026-09-14T01:00:00Z"
-    },
-    {
-      "title": "Market caps in 2026: Smaller companies lead as large caps lag behind",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/market-caps-in-2026-smaller-companies-lead-as-large-caps-lag-behind/articleshow/134101490.cms",
-      "date": "2026-09-14T01:00:00Z"
-    },
-    {
-      "title": "Is senior living worth the cost? Financial trade-offs seniors and families need to consider before making the move",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/plan/is-senior-living-worth-the-cost-financial-trade-offs-seniors-and-families-need-to-consider-before-making-the-move/articleshow/134107804.cms",
-      "date": "2026-09-14T01:00:00Z"
-    },
-    {
-      "title": "RBI system liquidity surplus at record high: What it means for loans, FDs and investments",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/rbi-system-liquidity-surplus-at-record-high-what-it-means-for-loans-fds-and-investments/articleshow/134106658.cms",
-      "date": "2026-09-14T01:00:00Z"
-    },
-    {
-      "title": "'Sydney Sweeney, do better': Aussie Olympians pillory sport betting ad",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-09-14/athletes-criticise-sydney-sweeney-sport-betting-ad/107149776",
-      "date": "2026-09-14T00:55:31Z"
-    },
-    {
-      "title": "Revolut attackers threaten daily customer data leaks",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/revolut-attackers-threaten-daily-customer-data-leaks",
-      "date": "2026-09-14T00:54:08Z"
-    },
-    {
-      "title": "SP Group bond yields set to tighten as Tata Sons listing improves repayment visibility",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/sp-group-bond-yields-set-to-tighten-as-tata-sons-listing-improves-repayment-visibility/articleshow/134229864.cms",
-      "date": "2026-09-14T00:50:34Z"
-    },
-    {
-      "title": "Global Market: Asian stocks retreat after AI warnings, oil advances",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-asian-stocks-retreat-after-ai-warnings-oil-advances/articleshow/134229926.cms",
-      "date": "2026-09-14T00:48:53Z"
-    },
-    {
-      "title": "RBI's Tata Sons listing push may be a lifeline for SP Group — if it comes in time",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/companies/rbi-tata-sons-ipo-listing-impact-on-shapoorji-pallonji-group-debt-11789296937772.html",
-      "date": "2026-09-14T00:45:02Z"
-    },
-    {
-      "title": "Goldman Sachs reports HY AI datacenter basket trades at 353bps spread as AI debt market shows strain",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/goldman-sachs-hy-ai-datacenter-spread/",
-      "date": "2026-09-14T00:44:48Z"
-    },
-    {
-      "title": "IPO rush continues: Rs 24,500 crore worth of issues to hit primary market this week",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-rs-24500-crore-worth-of-issues-to-hit-primary-market-this-week/articleshow/134229600.cms",
-      "date": "2026-09-14T00:43:50Z"
-    },
-    {
-      "title": "Boomerangday",
-      "source": "Searls.com",
-      "url": "https://doc.searls.com/2026/09/13/boomerangday/",
-      "date": "2026-09-14T00:37:48Z"
-    },
-    {
-      "title": "Tata Sons listing could unlock value in Tata group stocks after recent selloff",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/tata-sons-listing-could-unlock-value-in-tata-group-stocks-after-recent-selloff/articleshow/134229835.cms",
-      "date": "2026-09-14T00:33:21Z"
-    },
-    {
-      "title": "If your social circle has shrunk as you’ve grown older, research suggests it could affect far more than your happiness — but it’s never too late to reconnect",
-      "source": "Theartfulage.com",
-      "url": "https://theartfulage.com/jcb-if-your-social-circle-has-shrunk-as-youve-grown-older-research-suggests-it-could-affect-far-more-than-your-happiness-but-its-never-too-late-to-reconnect/",
-      "date": "2026-09-14T00:32:57Z"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Says $400,000 Is Within Reach for Bitcoin. Here's Why He's Right",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/32fbfa41ccd5ab45",
-      "date": "2026-09-14T00:32:42Z"
-    },
-    {
-      "title": "Zhipu AI raises $4B in follow-on share placement, then announces another $5B round weeks later",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/zhipu-ai-raises-4b-share-placement/",
-      "date": "2026-09-14T00:19:50Z"
-    },
-    {
-      "title": "Crypto’s biggest week ever? Swarm fears prompt AI slowdown: Hodler’s Digest",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/magazine/cryptos-biggest-week-ever-swarm-fears-prompt-ai-slowdown-hodlers-digest",
-      "date": "2026-09-14T00:15:37Z"
-    },
-    {
-      "title": "Bitwise CIO Matt Hougan breaks down why Strategy’s Bitcoin sales didn’t crash the market",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bitwise-hougan-strategy-bitcoin-sales-impact/",
-      "date": "2026-09-14T00:14:14Z"
-    },
-    {
-      "title": "Shapoorji Pallonji weighs options to refinance Rs 3,500 crore debt due this month",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/shapoorji-pallonji-weighs-options-to-refinance-rs-3500-crore-debt-due-this-month/articleshow/134229719.cms",
-      "date": "2026-09-14T00:13:11Z"
-    },
-    {
-      "title": "Can I get a snake at PetSmart?",
+      "title": "Do chimps mourn their loved ones?",
       "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/can-i-get-a-snake-at-petsmart/",
-      "date": "2026-09-14T00:07:18Z"
+      "url": "https://www.lifesciencesworld.com/do-chimps-mourn-their-loved-ones/",
+      "date": "2026-09-15T00:49:16Z"
     },
     {
-      "title": "Broad sell-offs push NGX weekly index down 1.60%",
+      "title": "DMG Blockchain Solutions Provides Update on its Christina Lake AI Data Center Conversion",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/dmg-blockchain-solutions-provides-update-on-its-christina-lake-ai-data-center-conversion",
+      "date": "2026-09-15T00:45:17Z"
+    },
+    {
+      "title": "How to Buy Bitcoin Safely After a Week of Hacks: What Liquid, Symbiosis, Revolut and Coldcard Got Wrong",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/e7356958c611bc6f",
+      "date": "2026-09-15T00:40:07Z"
+    },
+    {
+      "title": "‘Big Short’ trader Michael Burry slams OpenAI, Anthropic for ‘self-serving’ calls to slow AI – joining backlash - New York Post",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185653424",
+      "date": "2026-09-15T00:32:33Z"
+    },
+    {
+      "title": "Stocks in news: Tata Group stocks, HDFC Bank, Coforge, HFCL, Sun Pharma and Varun Beverages",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hdfc-bank-coforge-hfcl-sun-pharma-and-varun-beverages/articleshow/134245046.cms",
+      "date": "2026-09-15T00:30:00Z"
+    },
+    {
+      "title": "XStocks surpasses $1B in DEX trading volume as SPYx drives tokenized equity boom on Solana",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/xstocks-1b-dex-volume-spyx/",
+      "date": "2026-09-15T00:28:31Z"
+    },
+    {
+      "title": "Taylor Swift skips the Emmys after losing her nomination? Here’s where she may be instead",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/taylor-swift-skips-the-emmys-after-losing-her-nomination-heres-where-she-may-be-instead/articleshow/134249526.cms",
+      "date": "2026-09-15T00:28:29Z"
+    },
+    {
+      "title": "Lattice Semiconductor, Amkor, Himax, Teradyne, and Entegris Stocks Trade Down, What You Need To Know",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/04dd7a328f9170e0",
+      "date": "2026-09-15T00:27:15Z"
+    },
+    {
+      "title": "BofA turns bullish on Nifty, forecasts 12% upside by December",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bofa-turns-bullish-on-nifty-forecasts-12-upside-by-december/articleshow/134249495.cms",
+      "date": "2026-09-15T00:21:50Z"
+    },
+    {
+      "title": "Emmy Awards 2026: Jean Smart wins best actress in comedy series. Check full winners list from the 78th Primetime Emmy Awards",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/emmy-awards-2026-jean-smart-wins-best-actress-in-comedy-series-check-full-winners-list-from-the-78th-primetime-emmy-awards/articleshow/134249376.cms",
+      "date": "2026-09-15T00:18:07Z"
+    },
+    {
+      "title": "Applied Materials, Lam Research, Monolithic Power Systems, Marvell Technology, and MACOM Shares Are Falling, What You Need To Know",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a22cfc03933e5bd6",
+      "date": "2026-09-15T00:11:59Z"
+    },
+    {
+      "title": "Tokenized gold hits $5.1B but represents less than 0.02% of the $30.1T gold market",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/tokenized-gold-5b-onchain-30t-market/",
+      "date": "2026-09-15T00:06:55Z"
+    },
+    {
+      "title": "How do fish get to know each other?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/how-do-fish-get-to-know-each-other/",
+      "date": "2026-09-15T00:02:24Z"
+    },
+    {
+      "title": "Wall Street Delivers Verdict on AI Slowdown’s Winners and Losers",
+      "source": "The Information",
+      "url": "https://www.theinformation.com/articles/wall-street-delivers-verdict-ai-slowdowns-winners-losers",
+      "date": "2026-09-15T00:00:33Z"
+    },
+    {
+      "title": "A new XRPL upgrade could concentrate XRP ownership inside banks instead of retail wallets",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/a-new-xrpl-upgrade-could-concentrate-xrp-ownership-inside-banks-instead-of-retail-wallets/",
+      "date": "2026-09-15T00:00:22Z"
+    },
+    {
+      "title": "The Batten disease protein CLN8 is a stereospecific acyltransferase in bis(monoacylglycero)phosphate biosynthesis",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41556-026-02061-0",
+      "date": "2026-09-15T00:00:00Z"
+    },
+    {
+      "title": "Machine Learning Engineer, NLP | InsurTech, AI, Scale-up | London 5 Days in Office, Stocks & Benefits",
+      "source": "Nlppeople.com",
+      "url": "https://nlppeople.com/job/machine-learning-engineer-nlp-insurtech-ai-scale-up-london-5-days-in-office-stocks-benefits-5/",
+      "date": "2026-09-15T00:00:00Z"
+    },
+    {
+      "title": "Biosynthetic allene and alkyne formation by enzymatic prenyl demethylation",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41589-026-02323-w",
+      "date": "2026-09-15T00:00:00Z"
+    },
+    {
+      "title": "Visible light-induced oxygen atom transfer into C−CL bond of acyl chlorides for homolytic cleavage",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-77774-9.pdf",
+      "date": "2026-09-15T00:00:00Z"
+    },
+    {
+      "title": "Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Wealthy-Investors-Flock-To-Oil-Gas-Assets-Amid-Energy-Crisis.html",
+      "date": "2026-09-15T00:00:00Z"
+    },
+    {
+      "title": "Lignin-dynamic networks break the strength–toughness trade-off in thermoplastic elastomers",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-77396-1",
+      "date": "2026-09-15T00:00:00Z"
+    },
+    {
+      "title": "Treasury Department announces even bigger bond buyback; market shrugs",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4395530/posts",
+      "date": "2026-09-14T23:59:18Z"
+    },
+    {
+      "title": "Defense Contractors Stocks Q2 Highlights: Northrop Grumman (NYSE:NOC)",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c5b5369e8e0ea672",
+      "date": "2026-09-14T23:56:35Z"
+    },
+    {
+      "title": "NGX opens week bullish, market cap gains N160bn",
       "source": "The Punch",
-      "url": "https://punchng.com/broad-sell-offs-push-ngx-weekly-index-down-1-60/",
-      "date": "2026-09-14T00:04:52Z"
+      "url": "https://punchng.com/ngx-opens-week-bullish-market-cap-gains-n160bn/",
+      "date": "2026-09-14T23:51:14Z"
     },
     {
-      "title": "Why do male bears not stay with cubs?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/why-do-male-bears-not-stay-with-cubs/",
-      "date": "2026-09-14T00:04:23Z"
+      "title": "Polymarket sees 9X increase in NFL and college football volume",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/polymarket-nfl-college-football-volume-surge/",
+      "date": "2026-09-14T23:45:19Z"
     },
     {
-      "title": "Why do primates bare their teeth?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/why-do-primates-bare-their-teeth/",
-      "date": "2026-09-14T00:00:37Z"
+      "title": "Persona5: The Phantom X Adds Kotone Shiomi of Persona 3 Portable",
+      "source": "Bleeding Cool News",
+      "url": "https://bleedingcool.com/games/persona5-the-phantom-x-adds-kotone-shiomi-of-persona-3-portable/",
+      "date": "2026-09-14T23:42:08Z"
+    },
+    {
+      "title": "Industrial Distributors Stocks Q2 Highlights: Rush Enterprises (NASDAQ:RUSHA)",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/5ac410c8d231dd8a",
+      "date": "2026-09-14T23:41:41Z"
     }
   ]
 }

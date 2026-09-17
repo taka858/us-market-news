@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-09-16T01:00:04.303476"
+      "date": "2026-09-17T01:03:09.539831"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-09-16T01:00:04.303481"
+      "date": "2026-09-17T01:03:09.539867"
     }
   ],
   "bitcoin": {
-    "price": 75706,
-    "date": "2026-09-16T01:00:04.438559"
+    "price": 76217,
+    "date": "2026-09-17T01:03:09.673775"
   },
   "news": [
     {
-      "title": "US Fed rate hike looms, impacting NSE IPO and global markets; 10-year yields near 5%",
+      "title": "Korean retail investors lost $250 million from scams during stock swing",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/korean-retail-investors-lost-250-million-scams-during-stock-swing-6387621",
+      "date": "2026-09-16T01:02:45Z"
+    },
+    {
+      "title": "Global Market Today: Asian stocks steady as traders await Fed decision",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/us-fed-rate-hike-looms-impacting-nse-ipo-and-global-markets-10-year-yields-near-5/articleshow/134249654.cms",
-      "date": "2026-09-15T00:59:54Z"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-steady-as-traders-await-fed-decision/articleshow/134275845.cms",
+      "date": "2026-09-16T01:01:45Z"
     },
     {
-      "title": "Fatal Fury: City Of The Wolves Adds Kim Kaphwan on September 24",
-      "source": "Bleeding Cool News",
-      "url": "https://bleedingcool.com/games/fatal-fury-city-of-the-wolves-adds-kim-kaphwan-on-september-24/",
-      "date": "2026-09-15T00:53:09Z"
-    },
-    {
-      "title": "US 10-year yields reach 5%, highest since October 2023",
+      "title": "SP Group bonds fail to get a lift as market takes it step by step",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-10-year-yields-reach-5-highest-since-october-2023/articleshow/134249584.cms",
-      "date": "2026-09-15T00:50:06Z"
+      "url": "https://economictimes.indiatimes.com/markets/bonds/sp-group-bonds-fail-to-get-a-lift-as-market-takes-it-step-by-step/articleshow/134275814.cms",
+      "date": "2026-09-16T00:56:27Z"
     },
     {
-      "title": "Do chimps mourn their loved ones?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/do-chimps-mourn-their-loved-ones/",
-      "date": "2026-09-15T00:49:16Z"
-    },
-    {
-      "title": "DMG Blockchain Solutions Provides Update on its Christina Lake AI Data Center Conversion",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/dmg-blockchain-solutions-provides-update-on-its-christina-lake-ai-data-center-conversion",
-      "date": "2026-09-15T00:45:17Z"
-    },
-    {
-      "title": "How to Buy Bitcoin Safely After a Week of Hacks: What Liquid, Symbiosis, Revolut and Coldcard Got Wrong",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e7356958c611bc6f",
-      "date": "2026-09-15T00:40:07Z"
-    },
-    {
-      "title": "‘Big Short’ trader Michael Burry slams OpenAI, Anthropic for ‘self-serving’ calls to slow AI – joining backlash - New York Post",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185653424",
-      "date": "2026-09-15T00:32:33Z"
-    },
-    {
-      "title": "Stocks in news: Tata Group stocks, HDFC Bank, Coforge, HFCL, Sun Pharma and Varun Beverages",
+      "title": "Indian stock market value drops below $5 trillion as oil prices surge & US bond yields climb",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-hdfc-bank-coforge-hfcl-sun-pharma-and-varun-beverages/articleshow/134245046.cms",
-      "date": "2026-09-15T00:30:00Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-stock-market-value-drops-below-5-trillion-as-oil-prices-surge-us-bond-yields-climb/articleshow/134275703.cms",
+      "date": "2026-09-16T00:50:58Z"
     },
     {
-      "title": "XStocks surpasses $1B in DEX trading volume as SPYx drives tokenized equity boom on Solana",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/xstocks-1b-dex-volume-spyx/",
-      "date": "2026-09-15T00:28:31Z"
+      "title": "Lawmakers throw out 'Trojan horse' activists they say are engaged in American subversion",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/lawmakers-throw-out-trojan-horse-activists-engaged-american-subversion",
+      "date": "2026-09-16T00:50:51Z"
     },
     {
-      "title": "Taylor Swift skips the Emmys after losing her nomination? Here’s where she may be instead",
+      "title": "Tata Group stocks soar after RBI listing decision",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/taylor-swift-skips-the-emmys-after-losing-her-nomination-heres-where-she-may-be-instead/articleshow/134249526.cms",
-      "date": "2026-09-15T00:28:29Z"
+      "url": "https://timesofindia.indiatimes.com/business/india-business/tata-group-stocks-soar-after-rbi-listing-decision/articleshow/134275741.cms",
+      "date": "2026-09-16T00:49:24Z"
     },
     {
-      "title": "Lattice Semiconductor, Amkor, Himax, Teradyne, and Entegris Stocks Trade Down, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/04dd7a328f9170e0",
-      "date": "2026-09-15T00:27:15Z"
-    },
-    {
-      "title": "BofA turns bullish on Nifty, forecasts 12% upside by December",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bofa-turns-bullish-on-nifty-forecasts-12-upside-by-december/articleshow/134249495.cms",
-      "date": "2026-09-15T00:21:50Z"
-    },
-    {
-      "title": "Emmy Awards 2026: Jean Smart wins best actress in comedy series. Check full winners list from the 78th Primetime Emmy Awards",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/emmy-awards-2026-jean-smart-wins-best-actress-in-comedy-series-check-full-winners-list-from-the-78th-primetime-emmy-awards/articleshow/134249376.cms",
-      "date": "2026-09-15T00:18:07Z"
-    },
-    {
-      "title": "Applied Materials, Lam Research, Monolithic Power Systems, Marvell Technology, and MACOM Shares Are Falling, What You Need To Know",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a22cfc03933e5bd6",
-      "date": "2026-09-15T00:11:59Z"
-    },
-    {
-      "title": "Tokenized gold hits $5.1B but represents less than 0.02% of the $30.1T gold market",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/tokenized-gold-5b-onchain-30t-market/",
-      "date": "2026-09-15T00:06:55Z"
-    },
-    {
-      "title": "How do fish get to know each other?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/how-do-fish-get-to-know-each-other/",
-      "date": "2026-09-15T00:02:24Z"
-    },
-    {
-      "title": "Wall Street Delivers Verdict on AI Slowdown’s Winners and Losers",
-      "source": "The Information",
-      "url": "https://www.theinformation.com/articles/wall-street-delivers-verdict-ai-slowdowns-winners-losers",
-      "date": "2026-09-15T00:00:33Z"
-    },
-    {
-      "title": "A new XRPL upgrade could concentrate XRP ownership inside banks instead of retail wallets",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/a-new-xrpl-upgrade-could-concentrate-xrp-ownership-inside-banks-instead-of-retail-wallets/",
-      "date": "2026-09-15T00:00:22Z"
-    },
-    {
-      "title": "The Batten disease protein CLN8 is a stereospecific acyltransferase in bis(monoacylglycero)phosphate biosynthesis",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41556-026-02061-0",
-      "date": "2026-09-15T00:00:00Z"
-    },
-    {
-      "title": "Machine Learning Engineer, NLP | InsurTech, AI, Scale-up | London 5 Days in Office, Stocks & Benefits",
-      "source": "Nlppeople.com",
-      "url": "https://nlppeople.com/job/machine-learning-engineer-nlp-insurtech-ai-scale-up-london-5-days-in-office-stocks-benefits-5/",
-      "date": "2026-09-15T00:00:00Z"
-    },
-    {
-      "title": "Biosynthetic allene and alkyne formation by enzymatic prenyl demethylation",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41589-026-02323-w",
-      "date": "2026-09-15T00:00:00Z"
-    },
-    {
-      "title": "Visible light-induced oxygen atom transfer into C−CL bond of acyl chlorides for homolytic cleavage",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41467-026-77774-9.pdf",
-      "date": "2026-09-15T00:00:00Z"
-    },
-    {
-      "title": "Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Wealthy-Investors-Flock-To-Oil-Gas-Assets-Amid-Energy-Crisis.html",
-      "date": "2026-09-15T00:00:00Z"
-    },
-    {
-      "title": "Lignin-dynamic networks break the strength–toughness trade-off in thermoplastic elastomers",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41467-026-77396-1",
-      "date": "2026-09-15T00:00:00Z"
-    },
-    {
-      "title": "Treasury Department announces even bigger bond buyback; market shrugs",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4395530/posts",
-      "date": "2026-09-14T23:59:18Z"
-    },
-    {
-      "title": "Defense Contractors Stocks Q2 Highlights: Northrop Grumman (NYSE:NOC)",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c5b5369e8e0ea672",
-      "date": "2026-09-14T23:56:35Z"
-    },
-    {
-      "title": "NGX opens week bullish, market cap gains N160bn",
+      "title": "Fitch flags Nigeria’s $5bn TRS over debt, liquidity risks",
       "source": "The Punch",
-      "url": "https://punchng.com/ngx-opens-week-bullish-market-cap-gains-n160bn/",
-      "date": "2026-09-14T23:51:14Z"
+      "url": "https://punchng.com/fitch-flags-nigerias-5bn-trs-over-debt-liquidity-risks/",
+      "date": "2026-09-16T00:49:21Z"
     },
     {
-      "title": "Polymarket sees 9X increase in NFL and college football volume",
+      "title": "Treasury Rethinks AML Rules for Banks That Know Their Customers",
+      "source": "pymnts.com",
+      "url": "https://www.pymnts.com/legal/bank-regulation/2026/treasury-rethinks-aml-rules-for-banks-that-know-their-customers/",
+      "date": "2026-09-16T00:46:07Z"
+    },
+    {
+      "title": "The Tricky Business of Calculating Risks and Rewards",
+      "source": "Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/this-is-america/202609/the-tricky-business-of-calculating-risks-and-rewards",
+      "date": "2026-09-16T00:39:21Z"
+    },
+    {
+      "title": "Injective’s RWA perpetual markets generate $215M in volume over 30 days",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/polymarket-nfl-college-football-volume-surge/",
-      "date": "2026-09-14T23:45:19Z"
+      "url": "https://cryptobriefing.com/injective-rwa-perpetual-markets-215m-volume/",
+      "date": "2026-09-16T00:35:23Z"
     },
     {
-      "title": "Persona5: The Phantom X Adds Kotone Shiomi of Persona 3 Portable",
-      "source": "Bleeding Cool News",
-      "url": "https://bleedingcool.com/games/persona5-the-phantom-x-adds-kotone-shiomi-of-persona-3-portable/",
-      "date": "2026-09-14T23:42:08Z"
+      "title": "IT stocks rebound as AI disruption fears ease; Nifty IT index gains 2.19%",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-rebound-as-ai-disruption-fears-ease-nifty-it-index-gains-2-19/articleshow/134275729.cms",
+      "date": "2026-09-16T00:32:24Z"
     },
     {
-      "title": "Industrial Distributors Stocks Q2 Highlights: Rush Enterprises (NASDAQ:RUSHA)",
+      "title": "Infratil Shares Jump 5.49% as AI Data Centre Stocks Rebound and CDC's Growth Story Keeps Steadily Building",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/infratil-shares-rise-cdc-data-centres-ai-infrastructure-1875601",
+      "date": "2026-09-16T00:30:33Z"
+    },
+    {
+      "title": "Stocks in news: Yes Bank, Vedanta, Groww, BHEL, Bharat Forge and NBCC",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-yes-bank-vedanta-groww-bhel-bharat-forge-and-nbcc/articleshow/134275479.cms",
+      "date": "2026-09-16T00:30:00Z"
+    },
+    {
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134269676.cms",
+      "date": "2026-09-16T00:30:00Z"
+    },
+    {
+      "title": "43 Beloved Celebrities That Are Not That Nice In Real Life, According To People Who Met Them",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4395681/posts",
+      "date": "2026-09-16T00:22:30Z"
+    },
+    {
+      "title": "Medtronic Sees AI, Ablation and Targeted M&A Fueling Growth",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5ac410c8d231dd8a",
-      "date": "2026-09-14T23:41:41Z"
+      "url": "https://biztoc.com/x/bb61cde7c05985b7",
+      "date": "2026-09-16T00:22:16Z"
+    },
+    {
+      "title": "Congress wants to make crypto easier to use and still collect $500 million more in taxes",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/congress-wants-to-make-crypto-easier-to-use-and-still-collect-500-million-more-in-taxes/",
+      "date": "2026-09-16T00:20:34Z"
+    },
+    {
+      "title": "Bank of America makes bold chip call after AI sell-off",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/957996bb2b1a19a5",
+      "date": "2026-09-16T00:19:18Z"
+    },
+    {
+      "title": "Smart beta funds: Key benefits, risks and investment strategy",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/mf/analysis/smart-beta-funds-key-benefits-risks-and-investment-strategy/articleshow/134275682.cms",
+      "date": "2026-09-16T00:16:57Z"
+    },
+    {
+      "title": "Nepal and India: Turning an old friendship into shared future",
+      "source": "Khabarhub.com",
+      "url": "https://english.khabarhub.com/2026/16/567855/",
+      "date": "2026-09-16T00:15:46Z"
+    },
+    {
+      "title": "ASX 200 Edges Higher After 11-Week Low as Markets Await Crucial Wednesday US Fed Interest Rate Decision",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/asx-200-rebounds-after-sharp-sell-off-1875598",
+      "date": "2026-09-16T00:15:08Z"
+    },
+    {
+      "title": "2 ASX shares with dividend yields above 10%",
+      "source": "Motley Fool Australia",
+      "url": "https://www.fool.com.au/2026/09/16/2-asx-shares-with-dividend-yields-above-10-5/",
+      "date": "2026-09-16T00:07:52Z"
+    },
+    {
+      "title": "Gold Steadies Below $4,300 as Markets Await Fed Rate Decision",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-below-4-300-000015450.html",
+      "date": "2026-09-16T00:00:15Z"
+    },
+    {
+      "title": "The Burnham ‘Coup’ was a Suez Moment for Britain",
+      "source": "Hoover.org",
+      "url": "https://www.hoover.org/research/burnham-coup-was-suez-moment-britain",
+      "date": "2026-09-16T00:00:00Z"
+    },
+    {
+      "title": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Hits-an-Oil-Market-Running-Out-of-Buffers.html",
+      "date": "2026-09-16T00:00:00Z"
+    },
+    {
+      "title": "Transcriptional activation of plant immunity by salicylic acid",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41586-026-11021-5",
+      "date": "2026-09-16T00:00:00Z"
+    },
+    {
+      "title": "Democracy in Britain: The Burnham ‘Coup’ was a Suez Moment",
+      "source": "Hoover.org",
+      "url": "https://www.hoover.org/research/democracy-britain-burnham-coup-was-suez-moment",
+      "date": "2026-09-16T00:00:00Z"
+    },
+    {
+      "title": "Development of a random background to understand ligand optimization",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41586-026-11013-5",
+      "date": "2026-09-16T00:00:00Z"
+    },
+    {
+      "title": "Assessing biological degradation of non-hydrolysable synthetic polymers",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41586-026-10918-5",
+      "date": "2026-09-16T00:00:00Z"
+    },
+    {
+      "title": "Molecular-level observation of the self-assembly of a virus-like particle",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41586-026-10948-z",
+      "date": "2026-09-16T00:00:00Z"
     }
   ]
 }

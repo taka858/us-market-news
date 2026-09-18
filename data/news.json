@@ -4,198 +4,192 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-09-17T01:03:09.539831"
+      "date": "2026-09-18T00:58:01.481804"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-09-17T01:03:09.539867"
+      "date": "2026-09-18T00:58:01.481809"
     }
   ],
   "bitcoin": {
-    "price": 76217,
-    "date": "2026-09-17T01:03:09.673775"
+    "price": 76486,
+    "date": "2026-09-18T00:58:01.545456"
   },
   "news": [
     {
-      "title": "Korean retail investors lost $250 million from scams during stock swing",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/korean-retail-investors-lost-250-million-scams-during-stock-swing-6387621",
-      "date": "2026-09-16T01:02:45Z"
-    },
-    {
-      "title": "Global Market Today: Asian stocks steady as traders await Fed decision",
+      "title": "Rupee ends flat at 95.95 as RBI dollar sales offset pressure",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-steady-as-traders-await-fed-decision/articleshow/134275845.cms",
-      "date": "2026-09-16T01:01:45Z"
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-closes-unchanged-at-95-95-amid-dollar-sales-by-rbi-faces-import-pressure/articleshow/134297030.cms",
+      "date": "2026-09-17T00:53:35Z"
     },
     {
-      "title": "SP Group bonds fail to get a lift as market takes it step by step",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/sp-group-bonds-fail-to-get-a-lift-as-market-takes-it-step-by-step/articleshow/134275814.cms",
-      "date": "2026-09-16T00:56:27Z"
+      "title": "The Dolphins are building chemistry in Northern California ahead of their matchup with the 49ers",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/dolphins-building-chemistry-northern-california-004504879.html",
+      "date": "2026-09-17T00:45:04Z"
     },
     {
-      "title": "Indian stock market value drops below $5 trillion as oil prices surge & US bond yields climb",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-stock-market-value-drops-below-5-trillion-as-oil-prices-surge-us-bond-yields-climb/articleshow/134275703.cms",
-      "date": "2026-09-16T00:50:58Z"
-    },
-    {
-      "title": "Lawmakers throw out 'Trojan horse' activists they say are engaged in American subversion",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/lawmakers-throw-out-trojan-horse-activists-engaged-american-subversion",
-      "date": "2026-09-16T00:50:51Z"
-    },
-    {
-      "title": "Tata Group stocks soar after RBI listing decision",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/tata-group-stocks-soar-after-rbi-listing-decision/articleshow/134275741.cms",
-      "date": "2026-09-16T00:49:24Z"
-    },
-    {
-      "title": "Fitch flags Nigeria’s $5bn TRS over debt, liquidity risks",
+      "title": "Equities rally extends to fifth session, market gains N316bn",
       "source": "The Punch",
-      "url": "https://punchng.com/fitch-flags-nigerias-5bn-trs-over-debt-liquidity-risks/",
-      "date": "2026-09-16T00:49:21Z"
+      "url": "https://punchng.com/equities-rally-extends-to-fifth-session-market-gains-n316bn/",
+      "date": "2026-09-17T00:35:12Z"
     },
     {
-      "title": "Treasury Rethinks AML Rules for Banks That Know Their Customers",
-      "source": "pymnts.com",
-      "url": "https://www.pymnts.com/legal/bank-regulation/2026/treasury-rethinks-aml-rules-for-banks-that-know-their-customers/",
-      "date": "2026-09-16T00:46:07Z"
+      "title": "Nigeria’s mounting debt, insecurity worsen hardship — Anglican Primate",
+      "source": "The Punch",
+      "url": "https://punchng.com/nigerias-mounting-debt-insecurity-worsen-hardship-anglican-primate/",
+      "date": "2026-09-17T00:33:21Z"
     },
     {
-      "title": "The Tricky Business of Calculating Risks and Rewards",
-      "source": "Psychology Today",
-      "url": "https://www.psychologytoday.com/us/blog/this-is-america/202609/the-tricky-business-of-calculating-risks-and-rewards",
-      "date": "2026-09-16T00:39:21Z"
-    },
-    {
-      "title": "Injective’s RWA perpetual markets generate $215M in volume over 30 days",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/injective-rwa-perpetual-markets-215m-volume/",
-      "date": "2026-09-16T00:35:23Z"
-    },
-    {
-      "title": "IT stocks rebound as AI disruption fears ease; Nifty IT index gains 2.19%",
+      "title": "Stocks in news: Infosys, Mazagon Dock, Fortis Healthcare, JSW Energy and Kalpataru Projects",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-rebound-as-ai-disruption-fears-ease-nifty-it-index-gains-2-19/articleshow/134275729.cms",
-      "date": "2026-09-16T00:32:24Z"
-    },
-    {
-      "title": "Infratil Shares Jump 5.49% as AI Data Centre Stocks Rebound and CDC's Growth Story Keeps Steadily Building",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/infratil-shares-rise-cdc-data-centres-ai-infrastructure-1875601",
-      "date": "2026-09-16T00:30:33Z"
-    },
-    {
-      "title": "Stocks in news: Yes Bank, Vedanta, Groww, BHEL, Bharat Forge and NBCC",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-yes-bank-vedanta-groww-bhel-bharat-forge-and-nbcc/articleshow/134275479.cms",
-      "date": "2026-09-16T00:30:00Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-mazagon-dock-fortis-healthcare-jsw-energy-and-kalpataru-projects/articleshow/134296725.cms",
+      "date": "2026-09-17T00:30:00Z"
     },
     {
       "title": "Pre-market action: Here's the trade setup for today's session",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134269676.cms",
-      "date": "2026-09-16T00:30:00Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134296710.cms",
+      "date": "2026-09-17T00:30:00Z"
     },
     {
-      "title": "43 Beloved Celebrities That Are Not That Nice In Real Life, According To People Who Met Them",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4395681/posts",
-      "date": "2026-09-16T00:22:30Z"
+      "title": "US lawmakers advance bill to lock Trump’s Bitcoin reserve into law",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee",
+      "date": "2026-09-17T00:23:44Z"
     },
     {
-      "title": "Medtronic Sees AI, Ablation and Targeted M&A Fueling Growth",
+      "title": "Retail investors shift from secondary market to IPOs in July-August, selling Rs 5,674 crore",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-shift-from-secondary-market-to-ipos-in-july-august-selling-rs-5674-crore/articleshow/134296954.cms",
+      "date": "2026-09-17T00:21:18Z"
+    },
+    {
+      "title": "Shriram Finance plans $500 million bond buyback",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/shriram-finance-plans-500-million-bond-buyback/articleshow/134296966.cms",
+      "date": "2026-09-17T00:17:54Z"
+    },
+    {
+      "title": "What is the mating ritual of bluebirds?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/what-is-the-mating-ritual-of-bluebirds/",
+      "date": "2026-09-17T00:08:16Z"
+    },
+    {
+      "title": "Democrats block Trump’s $2.8B weapons transfer to Israel",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/democrats-block-trump-weapons-transfer-israel/",
+      "date": "2026-09-17T00:07:54Z"
+    },
+    {
+      "title": "mini-diarium v0.7.3",
+      "source": "Kitploit.com",
+      "url": "https://kitploit.com/en/posts/github-fjrevoredo-mini-diarium-v073",
+      "date": "2026-09-17T00:07:33Z"
+    },
+    {
+      "title": "US rate increase should only have short-term impact on Hong Kong stocks: CICC",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/bb61cde7c05985b7",
-      "date": "2026-09-16T00:22:16Z"
+      "url": "https://biztoc.com/x/912bcaefa13bdbba",
+      "date": "2026-09-17T00:02:16Z"
     },
     {
-      "title": "Congress wants to make crypto easier to use and still collect $500 million more in taxes",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/congress-wants-to-make-crypto-easier-to-use-and-still-collect-500-million-more-in-taxes/",
-      "date": "2026-09-16T00:20:34Z"
+      "title": "NSE anchor book draws Rs 6,746 crore from 150 plus anchor investors",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-anchor-book-draws-rs-6746-crore-from-150-plus-anchor-investors/articleshow/134296772.cms",
+      "date": "2026-09-17T00:00:33Z"
     },
     {
-      "title": "Bank of America makes bold chip call after AI sell-off",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/957996bb2b1a19a5",
-      "date": "2026-09-16T00:19:18Z"
-    },
-    {
-      "title": "Smart beta funds: Key benefits, risks and investment strategy",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/mf/analysis/smart-beta-funds-key-benefits-risks-and-investment-strategy/articleshow/134275682.cms",
-      "date": "2026-09-16T00:16:57Z"
-    },
-    {
-      "title": "Nepal and India: Turning an old friendship into shared future",
-      "source": "Khabarhub.com",
-      "url": "https://english.khabarhub.com/2026/16/567855/",
-      "date": "2026-09-16T00:15:46Z"
-    },
-    {
-      "title": "ASX 200 Edges Higher After 11-Week Low as Markets Await Crucial Wednesday US Fed Interest Rate Decision",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/asx-200-rebounds-after-sharp-sell-off-1875598",
-      "date": "2026-09-16T00:15:08Z"
-    },
-    {
-      "title": "2 ASX shares with dividend yields above 10%",
-      "source": "Motley Fool Australia",
-      "url": "https://www.fool.com.au/2026/09/16/2-asx-shares-with-dividend-yields-above-10-5/",
-      "date": "2026-09-16T00:07:52Z"
-    },
-    {
-      "title": "Gold Steadies Below $4,300 as Markets Await Fed Rate Decision",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-steadies-below-4-300-000015450.html",
-      "date": "2026-09-16T00:00:15Z"
-    },
-    {
-      "title": "The Burnham ‘Coup’ was a Suez Moment for Britain",
-      "source": "Hoover.org",
-      "url": "https://www.hoover.org/research/burnham-coup-was-suez-moment-britain",
-      "date": "2026-09-16T00:00:00Z"
-    },
-    {
-      "title": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers",
+      "title": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes",
       "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Hits-an-Oil-Market-Running-Out-of-Buffers.html",
-      "date": "2026-09-16T00:00:00Z"
+      "url": "https://oilprice.com/Energy/Crude-Oil/StanChart-Sees-Higher-Oil-Floor-as-Hormuz-Crisis-Spreads-to-Saudi-Export-Routes.html",
+      "date": "2026-09-17T00:00:00Z"
     },
     {
-      "title": "Transcriptional activation of plant immunity by salicylic acid",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41586-026-11021-5",
-      "date": "2026-09-16T00:00:00Z"
-    },
-    {
-      "title": "Democracy in Britain: The Burnham ‘Coup’ was a Suez Moment",
+      "title": "Getting Rich Slowly",
       "source": "Hoover.org",
-      "url": "https://www.hoover.org/research/democracy-britain-burnham-coup-was-suez-moment",
-      "date": "2026-09-16T00:00:00Z"
+      "url": "https://www.hoover.org/research/getting-rich-slowly",
+      "date": "2026-09-17T00:00:00Z"
     },
     {
-      "title": "Development of a random background to understand ligand optimization",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41586-026-11013-5",
-      "date": "2026-09-16T00:00:00Z"
+      "title": "LA Metro crash suspect’s haunting text hours before fatal wreck — as friend reveals troubled background",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/16/us-news/la-metro-crash-suspect-sent-chilling-text-hours-before-fatal-wreck/",
+      "date": "2026-09-16T23:58:21Z"
     },
     {
-      "title": "Assessing biological degradation of non-hydrolysable synthetic polymers",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41586-026-10918-5",
-      "date": "2026-09-16T00:00:00Z"
+      "title": "2027: Oluwo rallies North’s support for Tinubu",
+      "source": "The Punch",
+      "url": "https://punchng.com/2027-oluwo-rallies-norths-support-for-tinubu/",
+      "date": "2026-09-16T23:50:16Z"
     },
     {
-      "title": "Molecular-level observation of the self-assembly of a virus-like particle",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41586-026-10948-z",
-      "date": "2026-09-16T00:00:00Z"
+      "title": "Honda takes $400 off Kids Fun Bikes ahead of Christmas",
+      "source": "Mcnews.com.au",
+      "url": "https://www.mcnews.com.au/honda-kids-fun-bikes-400-off-christmas-2026/",
+      "date": "2026-09-16T23:46:56Z"
+    },
+    {
+      "title": "Limitless Hosting 10th Birthday: Web Hosting from ~ $3.60/Yr ($2.40 USD) + Bonus Domain & AI Monitoring on $15 USD+ Orders",
+      "source": "Ozbargain.com.au",
+      "url": "https://www.ozbargain.com.au/node/975348",
+      "date": "2026-09-16T23:10:04Z"
+    },
+    {
+      "title": "Gavin Newsom blames Trump for housing costs using chart showing massive increase under Biden",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/gavin-newsom-blames-trump-housing-costs-chart-showing-massive-increase-biden",
+      "date": "2026-09-16T23:05:49Z"
+    },
+    {
+      "title": "Fed rate hike fails to calm troubled markets as Dow falls 600 points. Expect more sharp swings in stocks and bonds",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/7beee79dbbd36100",
+      "date": "2026-09-16T23:01:50Z"
+    },
+    {
+      "title": "Mike Johnson's Ignorance: A.I. 'Can Self-Regulate'",
+      "source": "Crooksandliars.com",
+      "url": "https://crooksandliars.com/2026/09/mike-johnsons-ignorance-ai-will-self",
+      "date": "2026-09-16T22:52:22Z"
+    },
+    {
+      "title": "Top sovereign wealth fund executives warn of impending pullback in US stocks",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/521a19d43f0060e7",
+      "date": "2026-09-16T22:46:11Z"
+    },
+    {
+      "title": "CONNACHT CONFIDENTIAL: Men from west are a joy to watch... and with canny coach Lancaster's know-how these are the ingredients which make them primed for silverware once more",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/sport/rugbyunion/article-16136575/CONNACHT-CONFIDENTIAL-Men-west-joy-watch-canny-coach-Lancasters-know-ingredients-make-primed-silverware-more.html",
+      "date": "2026-09-16T22:39:55Z"
+    },
+    {
+      "title": "How rising bond yields are affecting Canadian mortgages, inflation and investing",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c9fac24e30e317cc",
+      "date": "2026-09-16T22:31:25Z"
+    },
+    {
+      "title": "Trump’s Wars, Both Real And Trade, Are Now Hiking Americans’ Borrowing Costs, Too",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/donald-trump-wars-interest-rates_n_6aaaf1d0e4b05a5eaee33013",
+      "date": "2026-09-16T22:30:09Z"
+    },
+    {
+      "title": "Jim Cramer warns that buying stocks now means 'fighting the Federal Reserve'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/16/jim-cramer-federal-reserve-rate-hike.html",
+      "date": "2026-09-16T22:26:57Z"
+    },
+    {
+      "title": "deusproof 0.2.0",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/deusproof/0.2.0/",
+      "date": "2026-09-16T22:17:14Z"
     }
   ]
 }

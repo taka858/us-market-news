@@ -4,192 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-09-21T00:47:23.601103"
+      "date": "2026-09-22T01:24:31.652420"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-09-21T00:47:23.601110"
+      "date": "2026-09-22T01:24:31.652425"
     }
   ],
   "bitcoin": {
-    "price": 81618,
-    "date": "2026-09-21T00:47:23.657796"
+    "price": 85595,
+    "date": "2026-09-22T01:24:31.713275"
   },
   "news": [
     {
-      "title": "Government crackdown on fraudulent SNAP retailers (NYC)",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4396193/posts",
-      "date": "2026-09-20T00:41:38Z"
+      "title": "FII selling returns in first half of September as financials, auto stocks face heavy outflows",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-turn-sellers-in-september-financials-auto-oil-gas-see-biggest-selling/articleshow/134377564.cms",
+      "date": "2026-09-21T01:18:52Z"
     },
     {
-      "title": "Oracle invests hundreds of billions in AI data centers, boosting Vertiv and Caterpillar",
+      "title": "Why do birds chirp in the morning?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/why-do-birds-chirp-in-the-morning/",
+      "date": "2026-09-21T01:11:36Z"
+    },
+    {
+      "title": "Standard Reserve wants to become the liquidity backbone for Robinhood’s tokenized stock market",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/oracle-ai-data-centers-vertiv-caterpillar/",
-      "date": "2026-09-20T00:06:15Z"
+      "url": "https://cryptobriefing.com/standard-reserve-robinhood-chain-liquidity-engine/",
+      "date": "2026-09-21T01:09:27Z"
     },
     {
-      "title": "Brian Armstrong Predicts $400,000 Bitcoin Price by 2030. The Forecast Requires 51% Growth Annually: Can It Hold?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/dbe56629845f5420",
-      "date": "2026-09-20T00:05:18Z"
+      "title": "Can you house guinea pigs with other animals?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/can-you-house-guinea-pigs-with-other-animals/",
+      "date": "2026-09-21T01:07:02Z"
     },
     {
-      "title": "Bitcoin ETFs now hold 6% of total Bitcoin market cap",
+      "title": "Global funds, same tech bet? The diversification trap Indian investors may miss",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/global-funds-same-tech-bet-the-diversification-trap-indian-investors-may-miss/articleshow/134347779.cms",
+      "date": "2026-09-21T01:00:00Z"
+    },
+    {
+      "title": "Equity market correction nears 2 years: What history tells investors and what should they do - hold, buy or exit",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/equity-market-correction-nears-2-years-what-history-tells-investors-and-what-should-they-do-hold-buy-or-exit/articleshow/134347994.cms",
+      "date": "2026-09-21T01:00:00Z"
+    },
+    {
+      "title": "How will MDR on UPI affect your mutual fund investments? Will AMCs and brokers pass on the costs to users?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/how-will-mdr-on-upi-affect-your-mutual-fund-investments-will-amcs-and-brokers-pass-on-the-costs-to-users/articleshow/134339817.cms",
+      "date": "2026-09-21T01:00:00Z"
+    },
+    {
+      "title": "Stock-picking vs funds: Why professional management can be better for retail investors",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/stock-picking-vs-funds-why-professional-management-can-be-better-for-retail-investors/articleshow/134347439.cms",
+      "date": "2026-09-21T01:00:00Z"
+    },
+    {
+      "title": "Wires & cables face a new challenge: How Ultravolt’s big push could reshape India’s cable market",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/wires-cables-face-a-new-challenge-how-ultravolts-big-push-could-reshape-indias-cable-market/articleshow/134347311.cms",
+      "date": "2026-09-21T01:00:00Z"
+    },
+    {
+      "title": "Neuren Pharmaceuticals vs Telix Pharmaceuticals: Which healthcare stock is best?",
+      "source": "Motley Fool Australia",
+      "url": "https://www.fool.com.au/2026/09/21/neuren-pharmaceuticals-vs-telix-pharmaceuticals-which-healthcare-stock-is-best/",
+      "date": "2026-09-21T01:00:00Z"
+    },
+    {
+      "title": "Have multiple mutual funds? Know how to measure portfolio overlap and when it can be bad",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/have-multiple-mutual-funds-know-how-to-measure-portfolio-overlap-and-when-it-can-be-bad/articleshow/134341219.cms",
+      "date": "2026-09-21T01:00:00Z"
+    },
+    {
+      "title": "youngcan-wyckoff-analysis 0.9.416",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/youngcan-wyckoff-analysis/0.9.416/",
+      "date": "2026-09-21T00:58:53Z"
+    },
+    {
+      "title": "Jane Street bets big on leveraged ETF swaps",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/jane-street-bets-big-on-leveraged-etf-swaps/articleshow/134377456.cms",
+      "date": "2026-09-21T00:56:38Z"
+    },
+    {
+      "title": "What are animal mating rituals?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/what-are-animal-mating-rituals/",
+      "date": "2026-09-21T00:54:46Z"
+    },
+    {
+      "title": "China’s rare-earth magnet exports to US drop 21% ahead of Trump-Xi summit",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bitcoin-etfs-hold-6-percent-market-cap/",
-      "date": "2026-09-19T23:56:06Z"
+      "url": "https://cryptobriefing.com/china-rare-earth-magnet-exports-us-drop/",
+      "date": "2026-09-21T00:54:43Z"
     },
     {
-      "title": "AI risk is real. Ceding the technology to the Chinese is an even bigger danger",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/19/business/ai-fears-mirror-y2k-hysteria-but-dont-dismiss-concerns/",
-      "date": "2026-09-19T23:49:13Z"
+      "title": "NaBFID plans to raise $1.5 billion via overseas bonds",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/nabfid-to-raise-500-million-in-debut-overseas-bond-market-plans-1-billion-miga-backed-bond/articleshow/134377375.cms",
+      "date": "2026-09-21T00:50:12Z"
     },
     {
-      "title": "Bitcoin ETFs Now Own 6.29% of Every Bitcoin. What Happens When They Hit 10%?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c2fc036e51a968ce",
-      "date": "2026-09-19T23:49:00Z"
+      "title": "Are bluebirds good or bad luck?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/are-bluebirds-good-or-bad-luck/",
+      "date": "2026-09-21T00:45:44Z"
     },
     {
-      "title": "NEAR Protocol’s Intents total value locked reaches $169M after 77% monthly surge",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/near-intents-tvl-169-million/",
-      "date": "2026-09-19T23:40:42Z"
+      "title": "Global Market Today: Asian stocks edge higher, oil extends losses",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-edge-higher-oil-extends-losses/articleshow/134377413.cms",
+      "date": "2026-09-21T00:43:59Z"
     },
     {
-      "title": "Bitcoin ETFs Now Own 6.29% of Every Bitcoin. What Happens When They Hit 10%?",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/19/bitcoin-etfs-now-own-6-29-of-every-bitcoin-what-happens-when-they-hit-10/",
-      "date": "2026-09-19T23:35:16Z"
+      "title": "Tech leads shares higher in Asia, oil eases",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/tech-leads-shares-higher-in-asia-oil-eases-6398351",
+      "date": "2026-09-21T00:40:28Z"
     },
     {
-      "title": "Berkshire's Energy Holdings Are Worth More Than Most Stand-Alone Utilities. Here's the Math",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d195189c4b442e01",
-      "date": "2026-09-19T23:34:28Z"
+      "title": "Tech leads shares higher in Asia as oil slips",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/tech-leads-shares-higher-in-asia-oil-slips-6398351",
+      "date": "2026-09-21T00:40:28Z"
     },
     {
-      "title": "Aave V4 Goes Live On Arc With USDC, EURC, cirBTC And WETH",
-      "source": "Bitcoinist",
-      "url": "https://bitcoinist.com/aave-v4-goes-live-on-arc-with-usdc-eurc-cirbtc-and-weth/",
-      "date": "2026-09-19T23:30:00Z"
+      "title": "What does a large gathering of crows mean?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/what-does-a-large-gathering-of-crows-mean/",
+      "date": "2026-09-21T00:37:31Z"
     },
     {
-      "title": "Solana ETFs notch 12 consecutive weeks of inflows as Bitcoin posts its quietest week on record",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/solana-etfs-inflows-bitcoin-quiet-week/",
-      "date": "2026-09-19T23:25:26Z"
+      "title": "Do rats chirp at night?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/do-rats-chirp-at-night/",
+      "date": "2026-09-21T00:33:06Z"
     },
     {
-      "title": "A 63-Year-Old Inherited $118,000 of Savings Bonds From Her Father and Owes Tax on 30 Years of Interest He Never Reported",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6f39800c880a0d21",
-      "date": "2026-09-19T23:21:25Z"
+      "title": "Kotak banker eyed for CEO role calls for shift from loans to bonds",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/news/kotak-mahindra-bank-ceo-candidates-paritosh-kashyap-11789884688915.html",
+      "date": "2026-09-21T00:30:33Z"
     },
     {
-      "title": "A Zcash ETF Launched in August Now Accounts for a Third of All Crypto ETF Trading",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/19/a-zcash-etf-launched-in-august-now-accounts-for-a-third-of-all-crypto-etf-trading/",
-      "date": "2026-09-19T23:18:45Z"
+      "title": "Stocks in news: RVNL, Lenskart, Mazagon Dock, Maruti Suzuki India and Nestle India",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-rvnl-lenskart-mazagon-dock-maruti-suzuki-india-and-nestle-india/articleshow/134372744.cms",
+      "date": "2026-09-21T00:30:00Z"
     },
     {
-      "title": "A 63-Year-Old Inherited $118,000 of Savings Bonds From Her Father and Owes Tax on 30 Years of Interest He Never Reported",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/personal-finance/2026/09/19/a-63-year-old-inherited-118000-of-savings-bonds-from-her-father-and-owes-tax-on-30-years-of-interest-he-never-reported/",
-      "date": "2026-09-19T23:12:56Z"
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134372264.cms",
+      "date": "2026-09-21T00:30:00Z"
     },
     {
-      "title": "Solana ETFs Experience 12 Consecutive Weeks of Inflows, While Bitcoin Has Its Quietest Week on Record",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/db430670386a4c90",
-      "date": "2026-09-19T23:07:11Z"
+      "title": "dtcpay Completes $25M Series A As SBI Group Joins Stablecoin Payments Push",
+      "source": "newsBTC",
+      "url": "http://www.newsbtc.com/news/dtcpay-completes-25m-series-a-as-sbi-group-joins-stablecoin-payments-push/",
+      "date": "2026-09-21T00:30:00Z"
     },
     {
-      "title": "DGRW Pays Dividends Every Month. Its Biggest Stocks Look Nothing Like a High-Yield ETF",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a5bce80ecadc606a",
-      "date": "2026-09-19T23:07:08Z"
+      "title": "Analog Devices (ADI) Bets $1.35 Billion on Chips that Let Machines Think for Themselves",
+      "source": "Wordupnews.com",
+      "url": "https://wordupnews.com/business/analog-devices-adi-bets-1-35-billion-on-chips-that-let-machines-think-for-themselves/",
+      "date": "2026-09-21T00:26:42Z"
     },
     {
-      "title": "Lidl is selling 'jack mackerel' that is not actually mackerel - what is going on?",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/jack-mackerel-vs-7165772-Sep2026/",
-      "date": "2026-09-19T23:05:31Z"
+      "title": "Banking stock rally drives 2.78% NGX weekly growth",
+      "source": "The Punch",
+      "url": "https://punchng.com/banking-stock-rally-drives-2-78-ngx-weekly-growth/",
+      "date": "2026-09-21T00:24:30Z"
     },
     {
-      "title": "Solana ETFs Experience 12 Consecutive Weeks of Inflows, While Bitcoin Has Its Quietest Week on Record",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/19/solana-etfs-experience-12-consecutive-weeks-of-inflows-while-bitcoin-has-its-quietest-week-on-record/",
-      "date": "2026-09-19T23:04:49Z"
+      "title": "Companies tap bond market amid rate hike expectations",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/companies-tap-bond-market-amid-rate-hike-expectations/articleshow/134377214.cms",
+      "date": "2026-09-21T00:19:21Z"
     },
     {
-      "title": "RTX Beats Lockheed Martin on Risk -- Here's Why It's the Better Buy Long-Term",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7886252c0d593a5f",
-      "date": "2026-09-19T23:03:53Z"
-    },
-    {
-      "title": "5 Best Characters From Final Fantasy 6",
-      "source": "Screen Rant",
-      "url": "https://screenrant.com/final-fantasy-6-best-characters/",
-      "date": "2026-09-19T23:00:15Z"
-    },
-    {
-      "title": "Bank of America survey shows semiconductors remain top crowded trade for fourth straight month",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bofa-survey-semiconductors-crowded-trade/",
-      "date": "2026-09-19T22:58:31Z"
-    },
-    {
-      "title": "DGRW Pays Dividends Every Month. Its Biggest Stocks Look Nothing Like a High-Yield ETF",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/etf/2026/09/19/dgrw-pays-dividends-every-month-its-biggest-stocks-look-nothing-like-a-high-yield-etf/",
-      "date": "2026-09-19T22:57:37Z"
-    },
-    {
-      "title": "XRP ETFs Have Been Frozen at $1.71 Billion. When Will Inflows Reach $2 Billion?",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/09/19/xrp-etfs-have-been-frozen-at-1-71-billion-when-will-inflows-reach-2-billion/",
-      "date": "2026-09-19T22:36:35Z"
-    },
-    {
-      "title": "Ethereum posts best Q3 performance ever with 60% gains and $10B in ETF inflows",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/ethereum-best-q3-performance-ever/",
-      "date": "2026-09-19T22:34:57Z"
-    },
-    {
-      "title": "Cardinal Health Targets 13%-15% EPS Growth as Specialty Momentum Builds",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e2b5402439da0612",
-      "date": "2026-09-19T22:18:43Z"
-    },
-    {
-      "title": "Show HN: Forexfin – Trading calculators, alerts and a journal in one place",
-      "source": "Forexfin.tech",
-      "url": "https://forexfin.tech/",
-      "date": "2026-09-19T22:12:18Z"
-    },
-    {
-      "title": "Assessing the 2026 WNBA expansion draft",
-      "source": "Swish Appeal",
-      "url": "https://www.swishappeal.com/wnba/87073/portland-fire-toronto-tempo-expansion-draft-analysis-picks-marina-mabrey-bridget-carleton-carla-leite-barker-engstler-allemand-team-building",
-      "date": "2026-09-19T22:10:00Z"
-    },
-    {
-      "title": "West Coast water park fans heartbroken to learn $110M project being built 1,500 miles away",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/19/lifestyle/110m-bellevue-water-park-sparks-confusion-among-washington-residents/",
-      "date": "2026-09-19T22:07:51Z"
-    },
-    {
-      "title": "Gen Z are investing like Boomers – with some surprising portfolio decisions",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/gen-z-investors-have-portfolios-boomers-would-approve-of/",
-      "date": "2026-09-19T22:05:40Z"
+      "title": "Fiscal, monetary coordination deepens as Nigeria battles inflation",
+      "source": "The Punch",
+      "url": "https://punchng.com/fiscal-monetary-coordination-deepens-as-nigeria-battles-inflation/",
+      "date": "2026-09-21T00:13:26Z"
     }
   ]
 }

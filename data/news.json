@@ -4,198 +4,192 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-09-24T01:00:22.355664"
+      "date": "2026-09-25T01:06:35.003554"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-09-24T01:00:22.355671"
+      "date": "2026-09-25T01:06:35.003560"
     }
   ],
   "bitcoin": {
-    "price": 84271,
-    "date": "2026-09-24T01:00:22.407717"
+    "price": 84648,
+    "date": "2026-09-25T01:06:35.074131"
   },
   "news": [
     {
-      "title": "Scallop fishery: Groups urge Shane Jones to keep Whangārei Harbour closed",
-      "source": "New Zealand Herald",
-      "url": "https://www.nzherald.co.nz/northern-advocate/news/scallop-fishery-groups-urge-shane-jones-to-keep-whangarei-harbour-closed/5BB37DM7IVBT7O3NSE4KVAH2OQ/",
-      "date": "2026-09-23T01:00:00Z"
+      "title": "Globe Shoes from $38, DC from $39.99, Magnum from $82.5 + Free Insoles + Free AU Delivery+Extra 25% off with Code @AU Work Boots",
+      "source": "Ozbargain.com.au",
+      "url": "https://www.ozbargain.com.au/node/976227",
+      "date": "2026-09-24T01:05:18Z"
     },
     {
-      "title": "Tax tribunal orders institute to pay N2bn tax bill",
-      "source": "The Punch",
-      "url": "https://punchng.com/tax-tribunal-orders-institute-to-pay-n2bn-tax-bill/",
-      "date": "2026-09-23T00:50:52Z"
+      "title": "Japan's 10-year bond yield hits 30-year high after US Treasury selloff",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/japans-10-year-bond-yield-hits-30-year-high-after-us-treasury-selloff-6406821",
+      "date": "2026-09-24T01:01:11Z"
     },
     {
-      "title": "Next Crypto to Explode: MemeToro’s Memecoin Launchpad Plans and Transparent Fair-Launch Rules",
-      "source": "Bitcoinfoundation.org",
-      "url": "https://bitcoinfoundation.org/news/altcoins/next-crypto-to-explode-memetoros-memecoin-launchpad-plans-and-transparent-fair-launch-rules/",
-      "date": "2026-09-23T00:50:00Z"
-    },
-    {
-      "title": "Public bond issues lose favour, companies' fundraising at 3-year low",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/industry/banking/corporate-public-bond-issue-fundraising-3-year-low-yield-bank-credit-debt-market-11790075537614.html",
-      "date": "2026-09-23T00:30:52Z"
-    },
-    {
-      "title": "Stocks in news: Adani Group, OMCs, Persistent Systems and IRB Infra",
+      "title": "Global Market Today: Asian stocks waver as oil gains fuel inflation, rate concerns",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-adani-group-omcs-persistent-systems-and-irb-infra/articleshow/134416639.cms",
-      "date": "2026-09-23T00:30:00Z"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-waver-as-oil-gains-fuel-inflation-rate-concerns/articleshow/134448968.cms",
+      "date": "2026-09-24T01:00:46Z"
+    },
+    {
+      "title": "AssetGro Fintech to file DRHP with Sebi for Rs 2,000-2,500 cr IPO",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/assetgro-fintech-plans-rs-2000-2500-crore-ipo-filing-with-sebi/articleshow/134448939.cms",
+      "date": "2026-09-24T00:58:27Z"
+    },
+    {
+      "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity",
+      "date": "2026-09-24T00:53:09Z"
+    },
+    {
+      "title": "Numbing Creams, Breastfeeding, and Faster Shots Top New Guideline to Ease Needle Pain and Fear at Every Age",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/vaccine-needle-pain-fear-guideline-2026-numbing-cream-breastfeeding-479028",
+      "date": "2026-09-24T00:45:16Z"
+    },
+    {
+      "title": "Kiev deliberately destabilizes global energy markets, Lavrov tells Rubio",
+      "source": "RT",
+      "url": "https://www.rt.com/news/646164-lavrov-rubio-kiev-energy-infrastructure/",
+      "date": "2026-09-24T00:40:55Z"
+    },
+    {
+      "title": "Stocks hit record high as market cap reaches N163tn",
+      "source": "The Punch",
+      "url": "https://punchng.com/stocks-hit-record-high-as-market-cap-reaches-n163tn/",
+      "date": "2026-09-24T00:35:38Z"
+    },
+    {
+      "title": "Stocks in news: Bharat Dynamics, NTPC, Canara Bank and Waaree Energies",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-bharat-dynamics-ntpc-canara-bank-and-waaree-energies/articleshow/134443179.cms",
+      "date": "2026-09-24T00:30:00Z"
     },
     {
       "title": "Pre-market action: Here's the trade setup for today's session",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134416943.cms",
-      "date": "2026-09-23T00:30:00Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134448502.cms",
+      "date": "2026-09-24T00:30:00Z"
     },
     {
-      "title": "Where do bald eagles go at night?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/where-do-bald-eagles-go-at-night/",
-      "date": "2026-09-23T00:26:37Z"
+      "title": "America Prayer Vigil September 24th, 2026",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4396663/posts",
+      "date": "2026-09-24T00:12:30Z"
     },
     {
-      "title": "US Cancels 760,000 ACA Health Plans Over Fraud Allegations",
-      "source": "Whalesbook.com",
-      "url": "https://www.whalesbook.com/news/English/economy/US-Cancels-760000-ACA-Health-Plans-Over-Fraud-Allegations/6ab2eb735aacb956d07d4aca",
-      "date": "2026-09-23T00:26:07Z"
+      "title": "Amazon’s New AI Offer Reflects Discounting Surge",
+      "source": "The Information",
+      "url": "https://www.theinformation.com/articles/amazons-new-ai-offer-reflects-discounting-surge",
+      "date": "2026-09-24T00:01:00Z"
     },
     {
-      "title": "Rupee strengthens to 95.59 amid drop in oil prices & RBI dollar sales",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-strengthens-to-95-59-amid-drop-in-oil-prices-rbi-dollar-sales/articleshow/134423415.cms",
-      "date": "2026-09-23T00:23:13Z"
+      "title": "What women in their 50s REALLY earn: From the cafe owner to the part-time teacher, nine workers reveal their salaries... and whether they think they're paid what they're worth. So how do YOU compare?",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/lifestyle/article-16155277/women-50s-earn-cafe-teacher-salaries-worth.html",
+      "date": "2026-09-24T00:00:56Z"
     },
     {
-      "title": "12 S&P 500 Stocks Join Trillion-Dollar Club — What Could Go Wrong?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/586eaac1b1a2f34f",
-      "date": "2026-09-23T00:14:40Z"
+      "title": "Iranian War Update: Trumpety’s Running On Empty",
+      "source": "Antiwar.com",
+      "url": "https://original.antiwar.com/david_stockman/2026/09/23/iranian-war-update-trumpetys-running-on-empty/",
+      "date": "2026-09-24T00:00:33Z"
     },
     {
-      "title": "China’s AI self-reliance presents opportunities but valuations, geopolitics are risks: BofA",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6c2a24ce66d8d5d5",
-      "date": "2026-09-23T00:14:37Z"
-    },
-    {
-      "title": "The Crypto Market Surpasses $3 Trillion. What Drove This Milestone and What Could Keep It There?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/34ec57afc5b3c111",
-      "date": "2026-09-23T00:14:31Z"
-    },
-    {
-      "title": "Bitcoin price recovery makes $100,000 target more plausible",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bitcoin-price-recovery-100000-target/",
-      "date": "2026-09-23T00:09:21Z"
-    },
-    {
-      "title": "Hamilton ETFs Announces September 2026 Monthly, Quarterly & Upcoming Semi-Monthly Cash Distributions",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/hamilton-etfs-announces-september-2026-monthly-quarterly-upcoming-semi-monthly-cash-distributions",
-      "date": "2026-09-23T00:04:59Z"
-    },
-    {
-      "title": "Nvidia's stock is flashing a warning sign",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-stock-is-flashing-a-warning-sign/articleshow/134423243.cms",
-      "date": "2026-09-23T00:00:23Z"
-    },
-    {
-      "title": "Sequence-encoded hexagonal lattices in multichannel peptide nanofibrils",
+      "title": "Multilevel molecular weaving",
       "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41586-026-11016-2",
-      "date": "2026-09-23T00:00:00Z"
+      "url": "https://www.nature.com/articles/s41563-026-02754-9",
+      "date": "2026-09-24T00:00:00Z"
     },
     {
-      "title": "Lsp2 links early-life diet to adult translation and lifespan in Drosophila",
+      "title": "Evorpacept plus trastuzumab, ramucirumab and paclitaxel in HER2-positive gastric cancer: a randomized phase 2 trial",
       "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41586-026-11031-3",
-      "date": "2026-09-23T00:00:00Z"
+      "url": "https://www.nature.com/articles/s41591-026-04700-3",
+      "date": "2026-09-24T00:00:00Z"
     },
     {
-      "title": "Interlayer hybridization promotes superconductivity in bilayer nickelates",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41563-026-02750-z",
-      "date": "2026-09-23T00:00:00Z"
+      "title": "Motilal Oswal Nasdaq Q50 ETF crashes 49% in 3 days, rings alarm bells for investors",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/mf/mf-news/a-global-etf-tumbles-and-sets-off-warning-bells-for-investors/articleshow/134448600.cms",
+      "date": "2026-09-23T23:55:39Z"
     },
     {
-      "title": "Expandable and scalable production of cellulose nanofibrils via highly efficient swelling-modification in deep eutectic solvent",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41467-026-77866-6.pdf",
-      "date": "2026-09-23T00:00:00Z"
-    },
-    {
-      "title": "Divergent ring opening and functionalization of N-alkyl aziridines via boryl radical fragmentation",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41557-026-02247-x",
-      "date": "2026-09-23T00:00:00Z"
-    },
-    {
-      "title": "Sterically gated Lewis acid and base pairs enable orthogonal defect passivation in perovskite solar cells",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41557-026-02261-z",
-      "date": "2026-09-23T00:00:00Z"
-    },
-    {
-      "title": "TRAM promotes Toll-like-receptor-free myddosome signal transduction",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41586-026-11052-y",
-      "date": "2026-09-23T00:00:00Z"
-    },
-    {
-      "title": "First Stop on California’s High-Speed Rail: The Tiki Bar!",
-      "source": "Hoover.org",
-      "url": "https://www.hoover.org/research/first-stop-californias-high-speed-rail-tiki-bar",
-      "date": "2026-09-23T00:00:00Z"
-    },
-    {
-      "title": "String-breaking dynamics in a quantum simulator",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41567-026-03422-0",
-      "date": "2026-09-23T00:00:00Z"
-    },
-    {
-      "title": "Biocompatible piezoionic eutectogel sensor for self-powered physiological monitoring",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41467-026-77390-7.pdf",
-      "date": "2026-09-23T00:00:00Z"
-    },
-    {
-      "title": "A design approach for bitopic kinase inhibitors",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41586-026-11056-8",
-      "date": "2026-09-23T00:00:00Z"
-    },
-    {
-      "title": "Agricultural liming is a carbon sink in the Mississippi River Basin",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41586-026-11040-2",
-      "date": "2026-09-23T00:00:00Z"
-    },
-    {
-      "title": "CFTC reviews unusual trading activity on Kalshi’s Ether perpetuals",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/cftc-reviews-kalshi-ether-perpetuals-trading/",
-      "date": "2026-09-22T23:48:53Z"
-    },
-    {
-      "title": "CFTC scrutinizes Kalshi after $5B in near identical ether perp trades: WSJ",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/cftc-kalshi-scrutiny-ether-volume/",
-      "date": "2026-09-22T23:47:03Z"
-    },
-    {
-      "title": "Businesses demand cheaper loans as CBN cuts rates",
+      "title": "FG pushes unified master plans for regional development",
       "source": "The Punch",
-      "url": "https://punchng.com/businesses-demand-cheaper-loans-as-cbn-cuts-rates/",
-      "date": "2026-09-22T23:39:27Z"
+      "url": "https://punchng.com/fg-pushes-unified-master-plans-for-regional-development/",
+      "date": "2026-09-23T23:52:41Z"
+    },
+    {
+      "title": "50 years of Vans: How the skate shoe became a fashion icon",
+      "source": "CNA",
+      "url": "https://cnalifestyle.channelnewsasia.com/style-beauty/vans-50-anniversary-skate-shoes-588671",
+      "date": "2026-09-23T23:49:20Z"
+    },
+    {
+      "title": "Bitcoin slips below $85,000 as 5% Treasury yield returns to haunt risk assets",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/bitcoin-slips-below-85000-as-5-treasury-yield-returns-to-haunt-risk-assets/",
+      "date": "2026-09-23T23:40:38Z"
+    },
+    {
+      "title": "UK banks make first interbank transactions using tokenised deposits",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/uk-banks-make-first-interbank-transactions-using-tokenised-deposits-11790204575492.html",
+      "date": "2026-09-23T23:02:55Z"
+    },
+    {
+      "title": "Bradesco BBI gets more bearish on Cogna Educacao, downgrades shares",
+      "source": "Thefly.com",
+      "url": "https://www.thefly.com/cogny",
+      "date": "2026-09-23T23:01:45Z"
+    },
+    {
+      "title": "NYT Connections hints and answers for Thursday, September 24 (game #1201)",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-24-september-2026",
+      "date": "2026-09-23T23:00:00Z"
+    },
+    {
+      "title": "BlackRock broadens equity exposure, retains AI focus in portfolio shakeup",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/blackrock-equity-ai-portfolio-shakeup/",
+      "date": "2026-09-23T22:49:38Z"
+    },
+    {
+      "title": "Op-Ed: No, AI control isn’t a ‘globalist hoax’ and all this babble is wasting time",
+      "source": "Digital Journal",
+      "url": "https://www.digitaljournal.com/article/no-ai-control-isnt-a-globalist-hoax-and-all-this-babble-is-wasting-time/",
+      "date": "2026-09-23T22:39:31Z"
+    },
+    {
+      "title": "Aaron Judge's wild-card absence offers a glimpse of a rapidly approaching Yankees future",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/mlb/article/aaron-judges-wild-card-absence-offers-a-glimpse-of-a-rapidly-approaching-yankees-future-223301701.html",
+      "date": "2026-09-23T22:33:01Z"
+    },
+    {
+      "title": "Love Island Winner Davide Sanclimenti’s Girlfriend Was Jailed for 18 Months",
+      "source": "Thoughtcatalog.com",
+      "url": "https://thoughtcatalog.com/january-nelson/2026/09/love-island-winner-davide-sanclimentis-girlfriend-was-jailed-for-18-months/",
+      "date": "2026-09-23T22:30:49Z"
+    },
+    {
+      "title": "Slow Horses Season 6, Episode 2 Review — ‘Daddy Issues’",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/slow-horses-season-6-episode-2-review-daddy-issues",
+      "date": "2026-09-23T22:29:26Z"
+    },
+    {
+      "title": "Is gridlock in Washington actually good for stocks? Here’s what historical market data says",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/26908b4114a0b093",
+      "date": "2026-09-23T22:21:54Z"
     }
   ]
 }

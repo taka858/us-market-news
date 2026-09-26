@@ -4,192 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-09-25T01:06:35.003554"
+      "date": "2026-09-26T01:08:02.643885"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-09-25T01:06:35.003560"
+      "date": "2026-09-26T01:08:02.643892"
     }
   ],
   "bitcoin": {
-    "price": 84648,
-    "date": "2026-09-25T01:06:35.074131"
+    "price": 83932,
+    "date": "2026-09-26T01:08:02.725620"
   },
   "news": [
     {
-      "title": "Globe Shoes from $38, DC from $39.99, Magnum from $82.5 + Free Insoles + Free AU Delivery+Extra 25% off with Code @AU Work Boots",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/976227",
-      "date": "2026-09-24T01:05:18Z"
+      "title": "Tu Libertad Financiera – Centralize your money and get AI plans to reach FIRE",
+      "source": "Betalist.com",
+      "url": "https://betalist.com/startups/tu-libertad-financiera",
+      "date": "2026-09-25T01:05:00Z"
     },
     {
-      "title": "Japan's 10-year bond yield hits 30-year high after US Treasury selloff",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/japans-10-year-bond-yield-hits-30-year-high-after-us-treasury-selloff-6406821",
-      "date": "2026-09-24T01:01:11Z"
-    },
-    {
-      "title": "Global Market Today: Asian stocks waver as oil gains fuel inflation, rate concerns",
+      "title": "Trump, Xi exchange warm words before White House state dinner: What they said",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-waver-as-oil-gains-fuel-inflation-rate-concerns/articleshow/134448968.cms",
-      "date": "2026-09-24T01:00:46Z"
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-xi-exchange-warm-words-before-white-house-state-dinner-what-they-said/articleshow/134472633.cms",
+      "date": "2026-09-25T01:02:03Z"
     },
     {
-      "title": "AssetGro Fintech to file DRHP with Sebi for Rs 2,000-2,500 cr IPO",
+      "title": "Global Market Today: Asian stocks edge up amid bond selloff, surging oil and Yen concerns",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/assetgro-fintech-plans-rs-2000-2500-crore-ipo-filing-with-sebi/articleshow/134448939.cms",
-      "date": "2026-09-24T00:58:27Z"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-edge-up-amid-bond-selloff-surging-oil-and-yen-concerns/articleshow/134472640.cms",
+      "date": "2026-09-25T00:59:58Z"
     },
     {
-      "title": "Kalshi says CFTC hasn’t contacted it over ‘unusual’ $5B trading activity",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/kalshi-says-cftc-hasnt-contacted-it-over-unusual-5b-trading-activity",
-      "date": "2026-09-24T00:53:09Z"
-    },
-    {
-      "title": "Numbing Creams, Breastfeeding, and Faster Shots Top New Guideline to Ease Needle Pain and Fear at Every Age",
-      "source": "Medical Daily",
-      "url": "https://www.medicaldaily.com/vaccine-needle-pain-fear-guideline-2026-numbing-cream-breastfeeding-479028",
-      "date": "2026-09-24T00:45:16Z"
-    },
-    {
-      "title": "Kiev deliberately destabilizes global energy markets, Lavrov tells Rubio",
-      "source": "RT",
-      "url": "https://www.rt.com/news/646164-lavrov-rubio-kiev-energy-infrastructure/",
-      "date": "2026-09-24T00:40:55Z"
-    },
-    {
-      "title": "Stocks hit record high as market cap reaches N163tn",
-      "source": "The Punch",
-      "url": "https://punchng.com/stocks-hit-record-high-as-market-cap-reaches-n163tn/",
-      "date": "2026-09-24T00:35:38Z"
-    },
-    {
-      "title": "Stocks in news: Bharat Dynamics, NTPC, Canara Bank and Waaree Energies",
+      "title": "Houthis say they attacked Riyadh and Aramco facilities in Yanbu",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-bharat-dynamics-ntpc-canara-bank-and-waaree-energies/articleshow/134443179.cms",
-      "date": "2026-09-24T00:30:00Z"
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/houthis-say-they-attacked-riyadh-and-aramco-facilities-in-yanbu/articleshow/134472598.cms",
+      "date": "2026-09-25T00:52:53Z"
+    },
+    {
+      "title": "Lightning Labs discloses critical bug marking canceled invoices paid, risking free product delivery",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/lightning-labs-discloses-critical-bug-marking-canceled-invoices-paid-risking-free-product-delivery/",
+      "date": "2026-09-25T00:40:46Z"
+    },
+    {
+      "title": "Insurance stocks crash as Irdai proposes tighter rules",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/insurance-stocks-crash-as-irdai-proposes-tighter-rules/articleshow/134472564.cms",
+      "date": "2026-09-25T00:39:32Z"
     },
     {
       "title": "Pre-market action: Here's the trade setup for today's session",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134448502.cms",
-      "date": "2026-09-24T00:30:00Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134468118.cms",
+      "date": "2026-09-25T00:30:00Z"
     },
     {
-      "title": "America Prayer Vigil September 24th, 2026",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4396663/posts",
-      "date": "2026-09-24T00:12:30Z"
+      "title": "Blockchain.com And NYSE Plan 24/7 Tokenized Stock Access",
+      "source": "newsBTC",
+      "url": "http://www.newsbtc.com/technology/blockchain-com-and-nyse-plan-24-7-tokenized-stock-access/",
+      "date": "2026-09-25T00:30:00Z"
     },
     {
-      "title": "Amazon’s New AI Offer Reflects Discounting Surge",
-      "source": "The Information",
-      "url": "https://www.theinformation.com/articles/amazons-new-ai-offer-reflects-discounting-surge",
-      "date": "2026-09-24T00:01:00Z"
+      "title": "Stocks in news: Waaree Energies, PB Fintech, Lemon Tree Hotels and Dr Lal PathLabs",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-waaree-energies-pb-fintech-lemon-tree-hotels-and-dr-lal-pathlabs/articleshow/134467817.cms",
+      "date": "2026-09-25T00:30:00Z"
     },
     {
-      "title": "What women in their 50s REALLY earn: From the cafe owner to the part-time teacher, nine workers reveal their salaries... and whether they think they're paid what they're worth. So how do YOU compare?",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/lifestyle/article-16155277/women-50s-earn-cafe-teacher-salaries-worth.html",
-      "date": "2026-09-24T00:00:56Z"
+      "title": "intangiblecapital added to PyPI",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/intangiblecapital/",
+      "date": "2026-09-25T00:28:29Z"
     },
     {
-      "title": "Iranian War Update: Trumpety’s Running On Empty",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/david_stockman/2026/09/23/iranian-war-update-trumpetys-running-on-empty/",
-      "date": "2026-09-24T00:00:33Z"
+      "title": "What is it called when birds swarm together?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/what-is-it-called-when-birds-swarm-together/",
+      "date": "2026-09-25T00:24:33Z"
     },
     {
-      "title": "Multilevel molecular weaving",
+      "title": "Dalal Street slumps on oil spike, bond rout & Irda jolt",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-slumps-on-oil-spike-bond-rout-irda-jolt/articleshow/134472498.cms",
+      "date": "2026-09-25T00:21:55Z"
+    },
+    {
+      "title": "New Yorkers Lined the Streets Against Benjamin Netanyahu’s Visit",
+      "source": "Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/09/israel-gaza-protest-netanyahu-new-york-united-nations-speech/",
+      "date": "2026-09-25T00:06:29Z"
+    },
+    {
+      "title": "Catalyst-directed vibrational frequency disparity for isotopologue sieving in CO2 electrolysis",
       "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41563-026-02754-9",
-      "date": "2026-09-24T00:00:00Z"
+      "url": "https://www.nature.com/articles/s41557-026-02257-9",
+      "date": "2026-09-25T00:00:00Z"
     },
     {
-      "title": "Evorpacept plus trastuzumab, ramucirumab and paclitaxel in HER2-positive gastric cancer: a randomized phase 2 trial",
+      "title": "Dangling-bond-free, chemically anisotropic semiconductors for ultrahigh-resolution X-ray imaging",
       "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41591-026-04700-3",
-      "date": "2026-09-24T00:00:00Z"
+      "url": "https://www.nature.com/articles/s41566-026-02013-y",
+      "date": "2026-09-25T00:00:00Z"
     },
     {
-      "title": "Motilal Oswal Nasdaq Q50 ETF crashes 49% in 3 days, rings alarm bells for investors",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/mf/mf-news/a-global-etf-tumbles-and-sets-off-warning-bells-for-investors/articleshow/134448600.cms",
-      "date": "2026-09-23T23:55:39Z"
+      "title": "5 Energy Stocks Positioned for a Prolonged Iran War",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/5-Energy-Stocks-Positioned-for-a-Prolonged-Iran-War.html",
+      "date": "2026-09-25T00:00:00Z"
     },
     {
-      "title": "FG pushes unified master plans for regional development",
+      "title": "Bitcoin whales add 113,950 BTC USD worth $9.6 billion in 10 weeks - is this crypto rally being fueled by big buyers?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/bitcoin-whales-add-113950-btc-usd-worth-9-6-billion-in-10-weeks-is-this-crypto-rally-being-fueled-by-big-buyers/articleshow/134472304.cms",
+      "date": "2026-09-24T23:58:52Z"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq trims losses as hopes of Hormuz deal offset rising bond yields - Yahoo Finance",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185855433",
+      "date": "2026-09-24T23:52:19Z"
+    },
+    {
+      "title": "NSE listing performance highlights struggles of India's recent big IPOs",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-listing-performance-highlights-struggles-of-indias-recent-big-ipos/articleshow/134472297.cms",
+      "date": "2026-09-24T23:51:26Z"
+    },
+    {
+      "title": "Inox Clean Energy set to file Rs 10,000 crore IPO with SEBI",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/inox-clean-energy-set-to-file-rs-10000-crore-ipo-with-sebi/articleshow/134472240.cms",
+      "date": "2026-09-24T23:36:20Z"
+    },
+    {
+      "title": "Global bond selloff rolls on, US 30-year yield at highest since 2004",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/economy/global-bond-selloff-rolls-on-us-30-year-yield-at-highest-since-2004",
+      "date": "2026-09-24T23:30:54Z"
+    },
+    {
+      "title": "Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express",
+      "date": "2026-09-24T23:27:17Z"
+    },
+    {
+      "title": "Critical Minerals, Briscoe lift NGX in positive session",
       "source": "The Punch",
-      "url": "https://punchng.com/fg-pushes-unified-master-plans-for-regional-development/",
-      "date": "2026-09-23T23:52:41Z"
+      "url": "https://punchng.com/critical-minerals-briscoe-lift-ngx-in-positive-session/",
+      "date": "2026-09-24T23:21:47Z"
     },
     {
-      "title": "50 years of Vans: How the skate shoe became a fashion icon",
-      "source": "CNA",
-      "url": "https://cnalifestyle.channelnewsasia.com/style-beauty/vans-50-anniversary-skate-shoes-588671",
-      "date": "2026-09-23T23:49:20Z"
+      "title": "Macron to send French troops to Saudi Arabia",
+      "source": "RT",
+      "url": "https://www.rt.com/news/646220-france-troops-saudi-arabia/",
+      "date": "2026-09-24T23:12:50Z"
     },
     {
-      "title": "Bitcoin slips below $85,000 as 5% Treasury yield returns to haunt risk assets",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/bitcoin-slips-below-85000-as-5-treasury-yield-returns-to-haunt-risk-assets/",
-      "date": "2026-09-23T23:40:38Z"
+      "title": "Soaring Freight Costs Make Japan’s Crude Imports the World’s Most Expensive",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Soaring-Freight-Costs-Make-Japans-Crude-Imports-the-Worlds-Most-Expensive.html",
+      "date": "2026-09-24T23:00:00Z"
     },
     {
-      "title": "UK banks make first interbank transactions using tokenised deposits",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/companies/uk-banks-make-first-interbank-transactions-using-tokenised-deposits-11790204575492.html",
-      "date": "2026-09-23T23:02:55Z"
+      "title": "/C O R R E C T I O N -- ARK Investment Management LLC/",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/ark-invest-launches-its-first-income-strategy-arky-targeting-17-5-income-through-its-innovation-equity-universe-302854835.html",
+      "date": "2026-09-24T22:43:00Z"
     },
     {
-      "title": "Bradesco BBI gets more bearish on Cogna Educacao, downgrades shares",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/cogny",
-      "date": "2026-09-23T23:01:45Z"
+      "title": "30-year fixed mortgage rate jumps sharply Thursday to 7.45%",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/24/30-year-fixed-mortgage-rate-spikes-thursday-to-7point45percent.html",
+      "date": "2026-09-24T22:29:19Z"
     },
     {
-      "title": "NYT Connections hints and answers for Thursday, September 24 (game #1201)",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/gaming/nyt-connections-today-answers-hints-24-september-2026",
-      "date": "2026-09-23T23:00:00Z"
+      "title": "e Loaned His Brother $30,000 to “Get on His Feet”—Then Two Years Later His Wife Demanded the Promissory Note Be Enforced",
+      "source": "Twistedsifter.com",
+      "url": "https://twistedsifter.com/2026/09/e-loaned-his-brother-30000-to-get-on-his-feet-then-two-years-later-his-wife-demanded-the-promissory-note-be-enforced/",
+      "date": "2026-09-24T22:15:06Z"
     },
     {
-      "title": "BlackRock broadens equity exposure, retains AI focus in portfolio shakeup",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/blackrock-equity-ai-portfolio-shakeup/",
-      "date": "2026-09-23T22:49:38Z"
+      "title": "Kevin Costner, 71, looks youthful as he boards private jet amid budding bonds with two blonde age-gap beauties",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16158739/kevin-costner-private-jet-santa-barbara.html",
+      "date": "2026-09-24T22:14:27Z"
     },
     {
-      "title": "Op-Ed: No, AI control isn’t a ‘globalist hoax’ and all this babble is wasting time",
-      "source": "Digital Journal",
-      "url": "https://www.digitaljournal.com/article/no-ai-control-isnt-a-globalist-hoax-and-all-this-babble-is-wasting-time/",
-      "date": "2026-09-23T22:39:31Z"
-    },
-    {
-      "title": "Aaron Judge's wild-card absence offers a glimpse of a rapidly approaching Yankees future",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/mlb/article/aaron-judges-wild-card-absence-offers-a-glimpse-of-a-rapidly-approaching-yankees-future-223301701.html",
-      "date": "2026-09-23T22:33:01Z"
-    },
-    {
-      "title": "Love Island Winner Davide Sanclimenti’s Girlfriend Was Jailed for 18 Months",
-      "source": "Thoughtcatalog.com",
-      "url": "https://thoughtcatalog.com/january-nelson/2026/09/love-island-winner-davide-sanclimentis-girlfriend-was-jailed-for-18-months/",
-      "date": "2026-09-23T22:30:49Z"
-    },
-    {
-      "title": "Slow Horses Season 6, Episode 2 Review — ‘Daddy Issues’",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/slow-horses-season-6-episode-2-review-daddy-issues",
-      "date": "2026-09-23T22:29:26Z"
-    },
-    {
-      "title": "Is gridlock in Washington actually good for stocks? Here’s what historical market data says",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/26908b4114a0b093",
-      "date": "2026-09-23T22:21:54Z"
+      "title": "Fed proposes new capital, redemption rules for stablecoin issuers",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/fed-proposes-new-capital-redemption-rules-for-stablecoin-issuers",
+      "date": "2026-09-24T22:10:09Z"
     }
   ]
 }

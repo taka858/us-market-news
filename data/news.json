@@ -4,198 +4,192 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-09-30T01:47:39.338098"
+      "date": "2026-10-01T01:46:03.456509"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-09-30T01:47:39.338104"
+      "date": "2026-10-01T01:46:03.456514"
     }
   ],
   "bitcoin": {
-    "price": 83410,
-    "date": "2026-09-30T01:47:39.531697"
+    "price": 83546,
+    "date": "2026-10-01T01:46:03.585518"
   },
   "news": [
     {
-      "title": "When is portfolio overlap acceptable in mutual funds? Experts explain when common stocks become a concentration risk",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/when-is-portfolio-overlap-acceptable-in-mutual-funds-experts-explain-when-common-stocks-become-a-concentration-risk-11790645732184.html",
-      "date": "2026-09-29T01:43:01Z"
+      "title": "NASCAR suspends 2 people indefinitely for attacking Corey Heim at Martinsville",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/nascar/2026/09/29/corey-heim-fight-martinsville-nascar-suspensions/92014342007/",
+      "date": "2026-09-30T01:43:14Z"
     },
     {
-      "title": "What month do coyotes mate?",
+      "title": "Oil climbs after Trump denies he is willing to ease sanctions on Iran",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/oil-climbs-after-trump-denies-he-willing-ease-sanctions-iran-6420121",
+      "date": "2026-09-30T01:39:32Z"
+    },
+    {
+      "title": "Oil gains after Trump denies he is willing to ease sanctions on Iran",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/oil-gains-after-trump-denies-he-willing-ease-sanctions-iran-6420121",
+      "date": "2026-09-30T01:39:32Z"
+    },
+    {
+      "title": "Why do sugar gliders hiss at me?",
       "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/what-month-do-coyotes-mate/",
-      "date": "2026-09-29T01:34:09Z"
+      "url": "https://www.lifesciencesworld.com/why-do-sugar-gliders-hiss-at-me/",
+      "date": "2026-09-30T01:35:23Z"
     },
     {
-      "title": "Bond yields push higher as investors digest global risks, higher-for-longer path for the Fed - Yahoo Finance",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185893604",
-      "date": "2026-09-29T01:32:37Z"
+      "title": "NGX loses N468bn as profit-taking drags index lower",
+      "source": "The Punch",
+      "url": "https://punchng.com/ngx-loses-n468bn-as-profit-taking-drags-index-lower/",
+      "date": "2026-09-30T01:28:20Z"
     },
     {
-      "title": "How far can a squirrel fall in love?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/how-far-can-a-squirrel-fall-in-love/",
-      "date": "2026-09-29T01:31:43Z"
-    },
-    {
-      "title": "Market lacks momentum, yet SIPs shine as a reliable investment strategy",
+      "title": "Six months after oil spiked, why are markets reacting so sharply now?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-lacks-momentum-yet-sips-shine-as-a-reliable-investment-strategy/articleshow/134553598.cms",
-      "date": "2026-09-29T01:29:26Z"
+      "url": "https://economictimes.indiatimes.com/prime/six-months-after-oil-spiked-why-are-markets-reacting-so-sharply-now/primearticleshow/134577006.cms",
+      "date": "2026-09-30T01:25:59Z"
     },
     {
-      "title": "What is special about a coyote?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/what-is-special-about-a-coyote/",
-      "date": "2026-09-29T01:21:55Z"
+      "title": "Show HN: Alter Zero – RAM-efficient agent for coding, security and automation",
+      "source": "Github.com",
+      "url": "https://github.com/linuztx/alter-zero",
+      "date": "2026-09-30T01:25:53Z"
     },
     {
-      "title": "CNBC Daily Open: From need for speed to seatbelts — AI majors focus on risk aversion",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/cnbc-daily-open-from-need-for-speed-to-seatbelts-ai-majors-focus-on-risk-aversion.html",
-      "date": "2026-09-29T01:21:12Z"
+      "title": "Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/companies-markets/robinhood-to-allow-24-hour-weekend-trading-of-us-stocks-as-industry-shifts-to-wider-access",
+      "date": "2026-09-30T01:21:47Z"
     },
     {
-      "title": "Avis Budget Deadline: CAR Investors Have Opportunity to Lead Avis Budget Group, Inc. Securities Fraud Lawsuit Against Pentwater Capital Management LP",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/avis-budget-deadline-car-investors-have-opportunity-to-lead-avis-budget-group-inc-securities-fraud-lawsuit-against-pentwater-capital-management-lp-302891133.html",
-      "date": "2026-09-29T01:16:00Z"
-    },
-    {
-      "title": "Do foxes like their ears rubbed?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/do-foxes-like-their-ears-rubbed/",
-      "date": "2026-09-29T01:15:38Z"
-    },
-    {
-      "title": "Strategy buys $370M Bitcoin in first corporate purchase since June",
-      "source": "Activistpost.com",
-      "url": "https://activistpost.com/strategy-buys-370m-bitcoin-in-first-corporate-purchase-since-june/",
-      "date": "2026-09-29T01:10:10Z"
-    },
-    {
-      "title": "A refinery is not a laptop",
+      "title": "Sensex drops over 20% in 2026 amid global market shifts and rupee depreciation",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/prime/a-refinery-is-not-a-laptop/primearticleshow/134553457.cms",
-      "date": "2026-09-29T01:09:28Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-20-in-2026-amid-global-market-shifts-and-rupee-depreciation/articleshow/134576885.cms",
+      "date": "2026-09-30T01:01:57Z"
     },
     {
-      "title": "Hardys Tintara Shiraz 2023 Dozen $179.88 + $13.99 Delivery ($0 with $300 Spend) @ Get Wines Direct",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/976886",
-      "date": "2026-09-29T01:08:39Z"
+      "title": "Do eagles remember their parents?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/do-eagles-remember-their-parents/",
+      "date": "2026-09-30T00:59:50Z"
     },
     {
-      "title": "Misfortunes of war, over 7.5 lakh crore m-cap erased",
+      "title": "Newmont Targets Per-Share Growth After Record $5.3B Free Cash Flow",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/4c1d6cf824182429",
+      "date": "2026-09-30T00:58:56Z"
+    },
+    {
+      "title": "Is there an alpha male in a wolf pack?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/is-there-an-alpha-male-in-a-wolf-pack/",
+      "date": "2026-09-30T00:54:52Z"
+    },
+    {
+      "title": "Investing in major AI stocks at Wall Street? Factors to watch out before hitting Buy option",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/misfortunes-of-war-over-7-5-lakh-crore-m-cap-erased/articleshow/134553481.cms",
-      "date": "2026-09-29T01:07:48Z"
+      "url": "https://economictimes.indiatimes.com/news/international/us/investing-in-major-ai-stocks-at-wall-street-factors-to-watch-out-before-hitting-buy-option/articleshow/134576887.cms",
+      "date": "2026-09-30T00:54:32Z"
     },
     {
-      "title": "Affluent Buyers Lift US New-Vehicle Market as Toyota, Hyundai Pass Ford, Challenge GM",
-      "source": "Theepochtimes.com",
-      "url": "https://www.theepochtimes.com/business/affluent-buyers-lift-us-new-vehicle-market-as-toyota-hyundai-pass-ford-challenge-gm-6095525",
-      "date": "2026-09-29T01:07:05Z"
-    },
-    {
-      "title": "Ram Ahluwalia favors utilities and financials over bonds as yields rise",
+      "title": "Robinhood launches 10x leveraged crypto trading for US users",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/ahluwalia-bonds-utilities-yields-rise/",
-      "date": "2026-09-29T01:05:51Z"
+      "url": "https://cryptobriefing.com/robinhood-10x-leveraged-crypto-trading/",
+      "date": "2026-09-30T00:54:19Z"
     },
     {
-      "title": "Do eagles stay with the same mate for life?",
+      "title": "Can raccoons love their owners?",
       "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/do-eagles-stay-with-the-same-mate-for-life/",
-      "date": "2026-09-29T01:00:51Z"
+      "url": "https://www.lifesciencesworld.com/can-raccoons-love-their-owners/",
+      "date": "2026-09-30T00:48:05Z"
     },
     {
-      "title": "The Premier League's stars of the future: From Liverpool's Moneyball diamond and an £8m Man United project to an 'outrageous' Spurs talent and England youth captain at Newcastle, these are the 16 best",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/football/article-16118167/Premier-League-stars-future.html",
-      "date": "2026-09-29T01:00:46Z"
+      "title": "New orders could put KPIT Tech on the road to recovery",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/new-orders-could-put-kpit-tech-on-the-road-to-recovery/articleshow/134576853.cms",
+      "date": "2026-09-30T00:47:09Z"
     },
     {
-      "title": "Nikkei Falls 0.8%, Dragged by Auto, Steel Stocks",
+      "title": "Global Market Today: Asian stocks rise as tech stocks lead, bonds in focus",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-tech-stocks-lead-bonds-in-focus/articleshow/134576850.cms",
+      "date": "2026-09-30T00:44:48Z"
+    },
+    {
+      "title": "SP Group to raise $125 million via tap issue, Rs 3,250 crore in rupee bonds",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/sp-group-to-raise-125-million-via-tap-issue-rs-3250-crore-in-rupee-bonds/articleshow/134576796.cms",
+      "date": "2026-09-30T00:39:21Z"
+    },
+    {
+      "title": "U.S bond 10-year Treasuries, 30-year yield are in historic highs but rate sensitive 2-year note slips. What does this mean for Stock Market investors, Fed Interest rate cut",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/u-s-bond-10-year-treasuries-30-year-yield-are-in-historic-highs-but-rate-sensitive-2-year-note-slips-what-does-this-mean-for-stock-market-investors-fed-interest-rate-cut/articleshow/134576803.cms",
+      "date": "2026-09-30T00:32:40Z"
+    },
+    {
+      "title": "Indian PSUs to keep tapping dollar debt despite higher costs, says HSBC's Venkatesh",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/news/hsbc-india-dollar-debt-indian-rupee-psu-overseas-borrowing-rbi-11790679263139.html",
+      "date": "2026-09-30T00:30:35Z"
+    },
+    {
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134571298.cms",
+      "date": "2026-09-30T00:30:00Z"
+    },
+    {
+      "title": "Binance Starts Moving Crypto Out Of Funding Accounts Ahead Of Stocks Rename",
+      "source": "Bitcoinist",
+      "url": "https://bitcoinist.com/binance-starts-moving-crypto-out-of-funding-accounts-ahead-of-stocks-rename/",
+      "date": "2026-09-30T00:30:00Z"
+    },
+    {
+      "title": "Stocks in news: Tata Steel, KPI Green Energy, NLC India, Poonawalla Fincorp and Cummins India",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-steel-kpi-green-energy-nlc-india-poonawalla-fincorp-and-cummins-india/articleshow/134571657.cms",
+      "date": "2026-09-30T00:30:00Z"
+    },
+    {
+      "title": "Why Perella Weinberg Partners Stock Skyrocketed Today",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e0138c43e60c3b8f",
-      "date": "2026-09-29T00:56:52Z"
+      "url": "https://biztoc.com/x/5ec47fb7b4b0fc72",
+      "date": "2026-09-30T00:28:32Z"
     },
     {
-      "title": "Global Market Today: Asian shares mixed as surging oil, Treasury yields weigh",
+      "title": "U.S. Stock Market Prediction for Wednesday, September 30: S&P 500, Dow Jones, Nasdaq, Russell 2000 look to close month on positive note, factors to watch out",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-mixed-as-surging-oil-treasury-yields-weigh/articleshow/134553458.cms",
-      "date": "2026-09-29T00:54:21Z"
+      "url": "https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-prediction-for-wednesday-september-30-sp-500-dow-jones-nasdaq-russell-2000-look-to-close-month-on-positive-note-factors-to-watch-out/articleshow/134576766.cms",
+      "date": "2026-09-30T00:20:42Z"
     },
     {
-      "title": "India’s IPO pipeline swells despite muted equity market",
+      "title": "How AI does, and does not, change the way I do math",
+      "source": "Wordpress.com",
+      "url": "https://terrytao.wordpress.com/2026/09/29/how-ai-does-and-does-not-change-the-way-i-do-math/",
+      "date": "2026-09-30T00:19:10Z"
+    },
+    {
+      "title": "Bond supply may outweigh demand, push yields higher",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/have-money-will-invest-why-ipo-party-never-stops/articleshow/134553417.cms",
-      "date": "2026-09-29T00:51:52Z"
+      "url": "https://economictimes.indiatimes.com/markets/bonds/bond-supply-may-outweigh-demand-push-yields-higher/articleshow/134576512.cms",
+      "date": "2026-09-30T00:12:16Z"
     },
     {
-      "title": "tollbooth-dpyc 0.95.0",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/tollbooth-dpyc/0.95.0/",
-      "date": "2026-09-29T00:39:32Z"
+      "title": "At least one sovereign wealth fund sells gold to buy Bitcoin, Bitwise reports",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/sovereign-wealth-funds-sell-gold-buy-bitcoin/",
+      "date": "2026-09-30T00:10:46Z"
     },
     {
-      "title": "Buzzing stocks: Tata Group, Anupam Rasayan, HCLSoftware, IRFC, NCC, Pidilite and others in focus",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/buzzing-stocks-tata-group-anupam-rasayan-hclsoftware-irfc-ncc-pidilite-and-others-in-focus/article71522304.ece",
-      "date": "2026-09-29T00:35:30Z"
-    },
-    {
-      "title": "Goldman Sachs identifies 42 Indian stocks riding AI build-out",
+      "title": "Investment banks earn Rs 2,274 crore from 81 mainboard IPOs",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-identifies-42-indian-stocks-riding-ai-build-out/articleshow/134553363.cms",
-      "date": "2026-09-29T00:30:41Z"
-    },
-    {
-      "title": "Stocks in news: Tata Group, ITC, IRFC, NCC, Zydus Lifesciences and JSW Energy",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-group-itc-irfc-ncc-zydus-lifesciences-and-jsw-energy/articleshow/134548442.cms",
-      "date": "2026-09-29T00:30:00Z"
-    },
-    {
-      "title": "Surviving The SaaSpocalypse: 3 Top Software Stocks Flipping The AI Script",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9e93ff4fba50b412",
-      "date": "2026-09-29T00:28:50Z"
-    },
-    {
-      "title": "Can squirrels imprint on humans?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/can-squirrels-imprint-on-humans/",
-      "date": "2026-09-29T00:20:09Z"
-    },
-    {
-      "title": "Bond yields move relentlessly higher, as Wall Street wonders how much more tech stocks can take - MarketWatch",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185893218",
-      "date": "2026-09-29T00:13:01Z"
-    },
-    {
-      "title": "Miliband lashes out at Israel, vows sanctions on Judea and Samaria",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/433801",
-      "date": "2026-09-29T00:12:16Z"
-    },
-    {
-      "title": "Ten-year bond yield hits 7.19%, highest in two years",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/ten-year-bond-yield-hits-7-19-highest-in-two-years/articleshow/134553130.cms",
-      "date": "2026-09-29T00:09:52Z"
-    },
-    {
-      "title": "Election 2026: Time for Champagne, Lindauer or Tui? - Treasury lifts lid on ‘yeah right’ recovery",
-      "source": "New Zealand Herald",
-      "url": "https://www.nzherald.co.nz/nz/politics/election-2026-time-for-champagne-lindauer-or-tui-treasury-lifts-lid-on-yeah-right-recovery/premium/QPNX4GDNKBESNFGPZA2WQT743E/",
-      "date": "2026-09-29T00:08:21Z"
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/investment-banks-earn-rs-2274-crore-from-81-mainboard-ipos/articleshow/134576533.cms",
+      "date": "2026-09-30T00:10:23Z"
     }
   ]
 }

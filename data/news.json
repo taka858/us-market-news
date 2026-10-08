@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-10-07T02:00:24.699380"
+      "date": "2026-10-08T02:24:48.434796"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-10-07T02:00:24.699388"
+      "date": "2026-10-08T02:24:48.434805"
     }
   ],
   "bitcoin": {
-    "price": 84705,
-    "date": "2026-10-07T02:00:24.823847"
+    "price": 83028,
+    "date": "2026-10-08T02:24:48.574426"
   },
   "news": [
     {
-      "title": "France’s debt troubles stir memories of the euro crisis",
-      "source": "POLITICO.eu",
-      "url": "https://www.politico.eu/article/france-debt-trouble-memories-euro-crisis/",
-      "date": "2026-10-06T02:00:00Z"
+      "title": "Oil prices rise as Gulf of Mexico storm, Saudi attacks raise supply risks",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/commodities/oil-prices-rise-as-gulf-of-mexico-storm-saudi-attacks-raise-supply-risks-126100700088_1.html",
+      "date": "2026-10-07T02:22:15Z"
     },
     {
-      "title": "L’Oréal turns to restructuring advisers as US lawsuits pile up",
+      "title": "Bitcoin falls nearly $2,000 in 20 minutes as $400 million in longs get liquidated",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/bitcoin-falls-2000-400m-liquidation/",
+      "date": "2026-10-07T02:12:53Z"
+    },
+    {
+      "title": "Positive Breakout: These 9 stocks cross above their 200 DMAs",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/markets/stocks/news/positive-breakout-these-9-stocks-cross-above-their-200-dmas/upside-ahead/slideshow/134753798.cms",
+      "date": "2026-10-07T02:00:42Z"
+    },
+    {
+      "title": "Dollar holds losses as markets await Fed minutes, speakers",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/business/loral-turns-to-restructuring-advisers-as-us-lawsuits-pile-up/articleshow/134720773.cms",
-      "date": "2026-10-06T01:59:06Z"
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-losses-as-markets-await-fed-minutes-speakers/articleshow/134753668.cms",
+      "date": "2026-10-07T01:55:14Z"
     },
     {
-      "title": "Can parrots imprint on humans?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/can-parrots-imprint-on-humans/",
-      "date": "2026-10-06T01:57:14Z"
-    },
-    {
-      "title": "In a Major Boost for the Right, Another Bolsonaro Nears Brazil’s Presidency - The New York Times",
+      "title": "Dow Jones Futures: S&P 500 Hits High As Astera, GE Vernova, Arista Lead Buys, But These Stocks Tumble - Investor's Business Daily",
       "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186033760",
-      "date": "2026-10-06T01:52:27Z"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186056472",
+      "date": "2026-10-07T01:52:52Z"
     },
     {
-      "title": "Why France is at the centre of a bond market storm",
+      "title": "Oil prices rise as storms and air strikes threaten supply",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/is-france-the-next-greece-threatening-the-eurozone/articleshow/134720701.cms",
-      "date": "2026-10-06T01:49:38Z"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-as-storms-and-air-strikes-threaten-supply/articleshow/134753652.cms",
+      "date": "2026-10-07T01:52:50Z"
     },
     {
-      "title": "30% off Steelcase: Leap & Gesture Medley Pepper Black (from $1,245.30) + Delivery ($0 MEL/SYD) @ Steelcase [Code: HOLIDAY2026]",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/977877",
-      "date": "2026-10-06T01:47:37Z"
-    },
-    {
-      "title": "Jane Street denies market manipulation charges, questions SEBI’s renewed investigation",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-05/jane-street-denies-market-manipulation-to-india-securities-court",
-      "date": "2026-10-06T01:44:39Z"
-    },
-    {
-      "title": "Divi's Labs, TVS Motor could replace Max Healthcare, HDFC Life in Nifty 2027 index review",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/divis-labs-tvs-motor-could-replace-max-healthcare-hdfc-life-in-nifty-2027-index-review/articleshow/134720063.cms",
-      "date": "2026-10-06T01:40:25Z"
-    },
-    {
-      "title": "Do ferrets love owners?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/do-ferrets-love-owners/",
-      "date": "2026-10-06T01:38:42Z"
-    },
-    {
-      "title": "Do pigs get attached to one person?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/do-pigs-get-attached-to-one-person/",
-      "date": "2026-10-06T01:27:55Z"
-    },
-    {
-      "title": "Brown, Edgecombe dominant, but Hukporti injury looms over Sixers’ preseason win vs. Knicks",
-      "source": "Libertyballers.com",
-      "url": "https://www.libertyballers.com/76ers-scores-results/98669/sixers-knicks-preseason-recap-jaylen-brown-vj-edgecombe-ariel-hukporti-injury",
-      "date": "2026-10-06T01:27:17Z"
-    },
-    {
-      "title": "France’s Appetite for ‘Magic Money’ Has Turned Into a Debt Bomb",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4398075/posts",
-      "date": "2026-10-06T01:21:07Z"
-    },
-    {
-      "title": "Sensex today | Stock Market Live: Stock to buy today: Aditya Infotech (₹3,989.05)",
+      "title": "Stocks to watch on October 7: Over a dozen companies, rate-sensitive sectors in focus",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-6th-october-2026/article71548292.ece",
-      "date": "2026-10-06T01:14:43Z"
+      "url": "https://www.thehindubusinessline.com/markets/stocks-to-watch-on-october-7-over-a-dozen-companies-rate-sensitive-sectors-in-focus/article71554086.ece",
+      "date": "2026-10-07T01:50:37Z"
     },
     {
-      "title": "Brazil markets' Bolsonaro rally sends stock exchange to record high - Reuters",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186033596",
-      "date": "2026-10-06T01:12:39Z"
+      "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application",
+      "date": "2026-10-07T01:48:53Z"
     },
     {
-      "title": "Trump says taxpayers will no longer pay for TV ads that praised him",
+      "title": "Argentina vs Benin: Lionel Messi retires from international career with a goal",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-taxpayers-will-no-longer-pay-for-tv-ads-that-praised-him/articleshow/134720412.cms",
-      "date": "2026-10-06T01:02:21Z"
+      "url": "https://economictimes.indiatimes.com/news/sports/football/argentina-vs-benin-lionel-messi-retires-from-international-career-with-goal/articleshow/134753540.cms",
+      "date": "2026-10-07T01:43:53Z"
     },
     {
-      "title": "Jeffrey Archer, bestselling ‘Kane & Abel’ author and former politician, dies at 86",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/jeffrey-archer-bestselling-kane-abel-author-and-former-politician-dies-at-86/articleshow/134720324.cms",
-      "date": "2026-10-06T00:45:29Z"
+      "title": "Indian stock markets likely to open flat despite positive global cues",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/indian-stock-markets-likely-to-open-flat-despite-positive-global-cues/article71554104.ece",
+      "date": "2026-10-07T01:38:23Z"
     },
     {
-      "title": "Global Market Today: Asian stocks rise after US tech rally, oil dips",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-after-us-tech-rally-oil-dips/articleshow/134720311.cms",
-      "date": "2026-10-06T00:41:02Z"
-    },
-    {
-      "title": "Banks cut CD borrowings by Rs 1.3 lakh crore in a month amid RBI liquidity boost",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/banks-cut-cd-borrowings-by-rs-1-3-lakh-crore-in-a-month-amid-rbi-liquidity-boost/articleshow/134720252.cms",
-      "date": "2026-10-06T00:34:31Z"
-    },
-    {
-      "title": "Pre-market action: Here's the trade setup for today's session",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134720150.cms",
-      "date": "2026-10-06T00:30:00Z"
-    },
-    {
-      "title": "Stocks in news: Vedanta, Kotak Mahindra Bank, Marico, Axis Bank, Trent and Zydus Lifesciences",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vedanta-kotak-mahindra-bank-marico-axis-bank-trent-and-zydus-lifesciences/articleshow/134712004.cms",
-      "date": "2026-10-06T00:30:00Z"
-    },
-    {
-      "title": "Do birds know affection?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/do-birds-know-affection/",
-      "date": "2026-10-06T00:29:13Z"
-    },
-    {
-      "title": "US Treasury yields for 10-year, 30-year hit 24-year highs, two-year Treasury yield down. What does this mean for US Fed Interest Rate, check experts predictions",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-treasury-yields-for-10-year-30-year-hit-24-year-highs-two-year-treasury-yield-down-what-does-this-mean-for-us-fed-interest-rate-check-experts-predictions/articleshow/134720261.cms",
-      "date": "2026-10-06T00:28:42Z"
-    },
-    {
-      "title": "With the budget in disrepair, bloated defence spending is an indulgence we can’t afford",
-      "source": "Crikey",
-      "url": "http://www.crikey.com.au/2026/10/06/aukus-defence-spending-2025-budget-result/",
-      "date": "2026-10-06T00:21:51Z"
-    },
-    {
-      "title": "Oil prices slip as G7 plans reserve release",
+      "title": "NGX drops below 250,300 points amid bearish sentiment",
       "source": "The Punch",
-      "url": "https://punchng.com/oil-prices-slip-as-g7-plans-reserve-release/",
-      "date": "2026-10-06T00:21:20Z"
+      "url": "https://punchng.com/ngx-drops-below-250300-points-amid-bearish-sentiment/",
+      "date": "2026-10-07T01:37:44Z"
     },
     {
-      "title": "Can pets imprint on humans?",
+      "title": "CMFC, UPDC REIT lead market’s N5tn September gain",
+      "source": "The Punch",
+      "url": "https://punchng.com/cmfc-updc-reit-lead-markets-n5tn-september-gain/",
+      "date": "2026-10-07T01:37:44Z"
+    },
+    {
+      "title": "US government moves $103M in crypto, including 833 BTC and 40,285 BNB",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-government-moves-103m-btc-bnb/",
+      "date": "2026-10-07T01:37:20Z"
+    },
+    {
+      "title": "Republican John James seeks some distance from Trump in Michigan governor debate",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/2026-election/republican-john-james-distance-trump-michigan-governor-debate-rcna601820",
+      "date": "2026-10-07T01:35:30Z"
+    },
+    {
+      "title": "Are flying squirrels intelligent?",
       "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/can-pets-imprint-on-humans/",
-      "date": "2026-10-06T00:13:11Z"
+      "url": "https://www.lifesciencesworld.com/are-flying-squirrels-intelligent/",
+      "date": "2026-10-07T01:24:58Z"
     },
     {
-      "title": "Why do Huskies and German Shepherds not get along?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/why-do-huskies-and-german-shepherds-not-get-along/",
-      "date": "2026-10-06T00:07:51Z"
+      "title": "Pimco bets on bonds as 24-year-high yields lure",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/pimco-bets-on-bonds-as-24-year-high-yields-lure/articleshow/134753343.cms",
+      "date": "2026-10-07T01:22:44Z"
     },
     {
-      "title": "Utah's 'Chip Girl' proposed after her husband put a microchip in her body. Then came the swinging scandal...",
+      "title": "Sensex today | Stock Market Live: Stock to buy today: Cyient (₹1,119.20)",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-7th-october-2026/article71552907.ece",
+      "date": "2026-10-07T01:16:58Z"
+    },
+    {
+      "title": "Dollar recoups losses as markets await Fed minutes, speakers",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/dollar-recoups-losses-markets-await-fed-minutes-speakers-6437936",
+      "date": "2026-10-07T01:16:05Z"
+    },
+    {
+      "title": "Dollar holds losses as markets await Fed minutes, speakers",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/dollar-holds-losses-markets-await-fed-minutes-speakers-6437936",
+      "date": "2026-10-07T01:16:05Z"
+    },
+    {
+      "title": "Trent shares surge nearly 13% on robust Q2 updates",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/trent-shares-surge-nearly-13-on-robust-q2-updates/articleshow/134753290.cms",
+      "date": "2026-10-07T01:13:02Z"
+    },
+    {
+      "title": "Stocks to Watch Today: Titan, Kanohar Electricals, Glass Wall Systems, Arcil, Karamtara Engineering, Apollo Tyres, Mphasis, Mahindra Lifespaces in focus on 07 October",
+      "source": "Moneycontrol",
+      "url": "https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-titan-kanohar-electricals-glass-wall-systems-arcil-karamtara-engineering-apollo-tyres-mphasis-mahindra-lifespaces-in-focus-on-07-october-14046143.html",
+      "date": "2026-10-07T01:07:35Z"
+    },
+    {
+      "title": "Student union warns France riots 'WILL intensify' if they are 'not listened to' despite days of violent clashes and 256,000 taking to the streets on Tuesday alone",
       "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/lifestyle/article-16167649/utah-chip-girl-microchip-scandal.html",
-      "date": "2026-10-06T00:01:58Z"
+      "url": "https://www.dailymail.com/news/article-16188639/Student-union-warns-France-riots-intensify.html",
+      "date": "2026-10-07T01:04:30Z"
     },
     {
-      "title": "Why America's Gulf Allies Are Rethinking Aid - And Why It Matters",
-      "source": "Hoover.org",
-      "url": "https://www.hoover.org/research/why-americas-gulf-allies-are-rethinking-aid-and-why-it-matters",
-      "date": "2026-10-06T00:00:00Z"
+      "title": "Student union warns France riots 'WILL intensify' if they are 'not listened to' despite days of violent clashes and 256,000 taking to the streets on Tuesday alone",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16188639/Student-union-warns-France-riots-intensify.html",
+      "date": "2026-10-07T01:02:43Z"
     },
     {
-      "title": "How digital breakdowns affect supply chains — and endanger the global economy",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/d41586-026-03105-z",
-      "date": "2026-10-06T00:00:00Z"
+      "title": "Do all chinchillas get along?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/do-all-chinchillas-get-along/",
+      "date": "2026-10-07T00:59:40Z"
     },
     {
-      "title": "PROP 37: The Middle-Class Homeownership Bond Initiative",
-      "source": "Hoover.org",
-      "url": "https://www.hoover.org/proposition-lab-proposition-37",
-      "date": "2026-10-06T00:00:00Z"
+      "title": "Global Market Today: Asian stocks edge lower as Korean shares lag, oil gains",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-edge-lower-as-korean-shares-lag-oil-gains/articleshow/134753210.cms",
+      "date": "2026-10-07T00:53:43Z"
+    },
+    {
+      "title": "Nifty 50 companies likely to log strong double-digit growth in Q2",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/nifty-50-companies-likely-to-log-strong-double-digit-growth-in-q2/articleshow/134753164.cms",
+      "date": "2026-10-07T00:52:55Z"
+    },
+    {
+      "title": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
+      "date": "2026-10-07T00:49:34Z"
+    },
+    {
+      "title": "Penguin Solutions Q4 Earnings Call Highlights",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1617cc2e8d3a29fd",
+      "date": "2026-10-07T00:42:28Z"
+    },
+    {
+      "title": "molfp added to PyPI",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/molfp/",
+      "date": "2026-10-07T00:40:41Z"
+    },
+    {
+      "title": "Cramer says these blue-chip stocks are among the best ways to invest in the AI boom",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/ff1f07a195889f2a",
+      "date": "2026-10-07T00:40:26Z"
     }
   ]
 }

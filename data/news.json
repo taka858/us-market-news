@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-10-16T00:58:08.329126"
+      "date": "2026-10-17T00:58:54.553877"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-10-16T00:58:08.329131"
+      "date": "2026-10-17T00:58:54.553885"
     }
   ],
   "bitcoin": {
-    "price": 82210,
-    "date": "2026-10-16T00:58:08.464738"
+    "price": 81496,
+    "date": "2026-10-17T00:58:54.639189"
   },
   "news": [
     {
-      "title": "Applied Aerospace Defense And 2 Other EV Stocks To Watch",
+      "title": "Lightning Round: Reddit is sitting at a great price, says Jim Cramer",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/386284700abb5607",
-      "date": "2026-10-15T00:56:50Z"
+      "url": "https://biztoc.com/x/39e86c8ff278f6a5",
+      "date": "2026-10-16T00:56:36Z"
     },
     {
-      "title": "SK Hynix plunges 8% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
+      "title": "New York City Comptroller Defends Decision Not to Invest in Israeli Bonds",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/65bfe05fb5ffac03",
-      "date": "2026-10-15T00:55:03Z"
+      "url": "https://biztoc.com/x/73444a8272975e33",
+      "date": "2026-10-16T00:52:34Z"
     },
     {
-      "title": "Global Market Today: Stock selloff extends to Asia as chip rout deepens",
+      "title": "Oil Prices, Fed on Bank Indonesia’s Radar Ahead of Next Meeting",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/9c25a0eace037b91",
+      "date": "2026-10-16T00:52:24Z"
+    },
+    {
+      "title": "MSCI adopts index exclusion rules that could oust Strategy",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy",
+      "date": "2026-10-16T00:48:20Z"
+    },
+    {
+      "title": "Yaadein cast Gulki Joshi and Sehaj Rajput celebrate Navratri with garba, dandiya and festive cheer on set",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-stock-selloff-extends-to-asia-as-chip-rout-deepens/articleshow/134954894.cms",
-      "date": "2026-10-15T00:54:39Z"
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/yaadein-cast-gulki-joshi-and-sehaj-rajput-celebrate-navratri-with-garba-dandiya-and-festive-cheer-on-set/articleshow/134979672.cms",
+      "date": "2026-10-16T00:47:03Z"
     },
     {
-      "title": "Rupee rises for fourth straight day, closes at 95.15",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-for-fourth-straight-day-closes-at-95-15/articleshow/134954815.cms",
-      "date": "2026-10-15T00:49:42Z"
+      "title": "Fairfax’s IDBI Bank deal puts CSB Bank’s ownership and future in focus",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/industry/banking/idbi-csb-bank-merger-after-fairfax-deal-11792055129362.html",
+      "date": "2026-10-16T00:45:57Z"
     },
     {
-      "title": "SK Hynix plunges 8% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
-      "date": "2026-10-15T00:42:30Z"
+      "title": "$20 for 2 tickets to WHISKYMOFO: 16th and 17th Oct - Brisbane Only",
+      "source": "Ozbargain.com.au",
+      "url": "https://www.ozbargain.com.au/node/979190",
+      "date": "2026-10-16T00:42:13Z"
     },
     {
-      "title": "Stocks in news: Reliance Industries, Jio Financial, Tata Tech, HDB Financial and Wipro",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-jio-financial-tata-tech-hdb-financial-and-wipro/articleshow/134954445.cms",
-      "date": "2026-10-15T00:30:00Z"
-    },
-    {
-      "title": "Pre-market action: Here's the trade setup for today's session",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134935739.cms",
-      "date": "2026-10-15T00:30:00Z"
-    },
-    {
-      "title": "Insurance, NPS equity investments plunge 45% to Rs 22,714 crore in September quarter",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/insurance-nps-flows-into-equity-almost-halve-in-the-september-quarter/articleshow/134954759.cms",
-      "date": "2026-10-15T00:23:33Z"
-    },
-    {
-      "title": "Anthropic Reveals $16.8B Revenue Amid IPO Preparations",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/anthropic-reveals-16-8b-revenue-amid-ipo-preparations-2026-10#article",
-      "date": "2026-10-15T00:19:23Z"
-    },
-    {
-      "title": "Singapore haze: PM2.5 readings elevated in all regions; air quality remains very unhealthy in west",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/haze-pm25-elevated-psi-very-unhealthy-6460876",
-      "date": "2026-10-15T00:10:11Z"
-    },
-    {
-      "title": "Sebi confirms interim curbs on Rajesh Exports, promoter over alleged fund routing",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-confirms-interim-curbs-on-rajesh-exports-promoter-over-alleged-fund-routing/articleshow/134954527.cms",
-      "date": "2026-10-15T00:08:14Z"
-    },
-    {
-      "title": "The Rockford Files Production Underway; David Boreanaz BTS Images",
-      "source": "Bleeding Cool News",
-      "url": "https://bleedingcool.com/tv/the-rockford-files-production-underway-david-boreanaz-bts-images/",
-      "date": "2026-10-15T00:07:09Z"
-    },
-    {
-      "title": "CoreWeave Co-Founders’ Stock Sales Aren’t Helping Investor Confidence",
+      "title": "The Party Is Still Going Strong for Private Tech",
       "source": "The Information",
-      "url": "https://www.theinformation.com/articles/coreweave-co-founders-stock-sales-helping-investor-confidence",
-      "date": "2026-10-15T00:01:15Z"
+      "url": "https://www.theinformation.com/articles/party-still-going-strong-private-tech",
+      "date": "2026-10-16T00:37:43Z"
     },
     {
-      "title": "Electronic tuning of dynamic imine bonds enables programmable pore gating in metal–organic frameworks",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41467-026-78657-9.pdf",
-      "date": "2026-10-15T00:00:00Z"
+      "title": "Judge refuses to let Gemini and CFTC undo $5 million settlement",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/judge-denies-gemini-cftc-vacate-penalty/",
+      "date": "2026-10-16T00:34:00Z"
     },
     {
-      "title": "An aging-sensitive secreted phospholipase confers neuroprotection and cognitive resilience",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41593-026-02465-z",
-      "date": "2026-10-15T00:00:00Z"
+      "title": "Where Jio stands among telecom peers: A look at the key numbers",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/where-jio-stands-among-telecom-peers-a-look-at-the-key-numbers/articleshow/134979570.cms",
+      "date": "2026-10-16T00:27:05Z"
     },
     {
-      "title": "Reaction–diffusion competition drives anomalous relaxation of vitrimers",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41567-026-03468-0",
-      "date": "2026-10-15T00:00:00Z"
+      "title": "Coinbase Lays Out How It Thinks Bitcoin Should Prepare for the Quantum Threat",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/coinbase-lays-out-how-it-thinks-bitcoin-should-prepare-for-the-quantum-threat-2000826041",
+      "date": "2026-10-16T00:26:40Z"
     },
     {
-      "title": "How Public Pensions Drain Local Government Services",
-      "source": "Thefreedomfrequency.org",
-      "url": "https://www.thefreedomfrequency.org/p/how-public-pensions-drain-local-government",
-      "date": "2026-10-15T00:00:00Z"
+      "title": "What socialists almost get right",
+      "source": "Ncspin.com",
+      "url": "https://www.ncspin.com/what-socialists-almost-get-right",
+      "date": "2026-10-16T00:23:00Z"
     },
     {
-      "title": "New World expects to issue $189 million of new notes after early debt exchange results",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/new-world-expects-issue-189-million-new-notes-after-early-debt-exchange-results-6460896",
-      "date": "2026-10-14T23:53:03Z"
+      "title": "Ark Invest buys 192,566 CoreWeave shares as the AI cloud stock slides",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/ark-invest-buys-coreweave-shares-2/",
+      "date": "2026-10-16T00:20:35Z"
     },
     {
-      "title": "KTR alleges ₹10,000-crore irregularities in Singareni, demands CBI probe",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/national/ktr-alleges-10000-crore-irregularities-in-singareni-demands-cbi-probe/article71585669.ece",
-      "date": "2026-10-14T23:45:59Z"
-    },
-    {
-      "title": "CoreWeave Investigation Notice: SueWallSt Notifies Investors of Pending Investigation Into CoreWeave (CRWV)",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/coreweave-investigation-notice-suewallst-notifies-investors-of-pending-investigation-into-coreweave-crwv-302909177.html",
-      "date": "2026-10-14T23:45:00Z"
-    },
-    {
-      "title": "From a record high to a 10% drop in just two months: Why small-cap stocks have unraveled so fast",
+      "title": "MicroStrategy Could Be Removed From Major Global Stock Indexes",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/28e4a9915a6b26c2",
-      "date": "2026-10-14T23:39:39Z"
+      "url": "https://biztoc.com/x/0ade5806fe7754c6",
+      "date": "2026-10-16T00:08:54Z"
     },
     {
-      "title": "CoreWeave Stock Sinks. The Credit Market Is Flashing a Warning Sign. - Barron's",
+      "title": "Grayscale Says Bitcoin’s Volatility Falls to 43%, Now Within S&P 500 Range",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/ec2cba11852d9082",
+      "date": "2026-10-16T00:08:33Z"
+    },
+    {
+      "title": "10 investment habits that build lasting wealth",
+      "source": "The Punch",
+      "url": "https://punchng.com/10-investment-habits-that-build-lasting-wealth/",
+      "date": "2026-10-16T00:07:22Z"
+    },
+    {
+      "title": "Ledger wants customers to trust its new $849 device as criminals compromise existing wallets",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/ledger-wants-customers-to-trust-its-new-849-device-as-criminals-compromise-existing-wallets/",
+      "date": "2026-10-16T00:00:02Z"
+    },
+    {
+      "title": "Hydroxy artificial water channels enable ultraselective reverse osmosis membranes for N-nitrosamine removal in water reuse",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-78721-4.pdf",
+      "date": "2026-10-16T00:00:00Z"
+    },
+    {
+      "title": "IT stocks power Dalal Street rally as global AI trade loses steam",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-power-dalal-street-rally-as-global-ai-trade-loses-steam/articleshow/134979518.cms",
+      "date": "2026-10-15T23:59:44Z"
+    },
+    {
+      "title": "[NSW] 300 Free Single Scoop Gelatos from 11am Saturday (17/10) @ MarketPlace Leichhardt",
+      "source": "Ozbargain.com.au",
+      "url": "https://www.ozbargain.com.au/node/979181",
+      "date": "2026-10-15T23:57:43Z"
+    },
+    {
+      "title": "Investor doubts over data centre push hits AI stocks, bonds",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c09b3b8e0c765d01",
+      "date": "2026-10-15T23:51:43Z"
+    },
+    {
+      "title": "Ledger supply-chain attack drains over 60 BTC from wallet tied to alleged crypto scammer",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/ledger-supply-chain-attack-crypto-scammer-btc/",
+      "date": "2026-10-15T23:37:25Z"
+    },
+    {
+      "title": "New York City Comptroller Defends Decision Not to Invest in Israeli Bonds - WSJ",
       "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186323598",
-      "date": "2026-10-14T23:32:17Z"
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186333124",
+      "date": "2026-10-15T23:32:58Z"
     },
     {
-      "title": "Quantum computing presents threat to all crypto currencies, digital assets and passwords: ‘industry is scrambling’",
+      "title": "Supreme Court rules against Yes Bank's write-off of Rs 8,415 crore AT1 bonds",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/supreme-court-rules-against-yes-banks-write-off-of-rs-8415-crore-at1-bonds/articleshow/134976512.cms",
+      "date": "2026-10-15T23:30:00Z"
+    },
+    {
+      "title": "Supreme Court rules against Yes Bank's write-off of Rs 8,415 crore AT1 bonds",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/supreme-court-rules-against-yes-banks-write-off-of-rs-8415-crore-at1-bonds/articleshow/134979517.cms",
+      "date": "2026-10-15T23:30:00Z"
+    },
+    {
+      "title": "‘Disappointing’: Fuel price surge delivers another blow to the retail sector",
+      "source": "New Zealand Herald",
+      "url": "https://www.nzherald.co.nz/business/disappointing-fuel-price-surge-delivers-another-blow-to-the-retail-sector/premium/XXKOVZNJYVARJOU6HLWTZJUJP4/",
+      "date": "2026-10-15T23:05:53Z"
+    },
+    {
+      "title": "Could #Starbucks and #Chipotle end up under the same corporate roof? #business #stocks #firsttrade",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/51a5b1f99263d819",
+      "date": "2026-10-15T23:03:08Z"
+    },
+    {
+      "title": "FTC and States Seek Contempt Finding Against Martin Shkreli Over Alleged Trading in at Least 60 Drug Stocks",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/ftc-shkreli-pharma-stock-trading-contempt-motion-480007",
+      "date": "2026-10-15T23:01:55Z"
+    },
+    {
+      "title": "A2 Milk vs Bega Cheese: Which ASX dairy stock is better for new investors?",
+      "source": "Motley Fool Australia",
+      "url": "https://www.fool.com.au/2026/10/16/a2-milk-vs-bega-cheese-which-asx-dairy-stock-is-better-for-new-investors/",
+      "date": "2026-10-15T23:00:00Z"
+    },
+    {
+      "title": "Dynasty Dodgers trying to keep last ride together going: ‘We have a lot left in the tank.’",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/10/14/tech/quantum-computing-presents-threat-to-all-crypto-currencies/",
-      "date": "2026-10-14T23:10:01Z"
-    },
-    {
-      "title": "Oil Market Tightens as Tanker Attacks and Inventory Draws Mount",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Market-Tightens-as-Tanker-Attacks-and-Inventory-Draws-Mount.html",
-      "date": "2026-10-14T23:00:00Z"
-    },
-    {
-      "title": "SF Holding just downgraded at Goldman Sachs, here's why",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/sfhoy",
-      "date": "2026-10-14T22:54:37Z"
-    },
-    {
-      "title": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/044d2ba4cb225df9",
-      "date": "2026-10-14T22:53:48Z"
-    },
-    {
-      "title": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
-      "date": "2026-10-14T22:48:06Z"
-    },
-    {
-      "title": "Inflation jumps to 3.7% as gas and diesel prices squeeze consumers ahead of the midterms - NBC News",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186323158",
-      "date": "2026-10-14T22:32:37Z"
-    },
-    {
-      "title": "Jim Cramer says don't give up on this unpredictable market. Here's why",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/28041dc043241d18",
-      "date": "2026-10-14T22:23:50Z"
-    },
-    {
-      "title": "Shares of Oracle, neoclouds drop on CoreWeave debt concerns",
-      "source": "SiliconANGLE News",
-      "url": "https://siliconangle.com/2026/10/14/shares-of-oracle-neoclouds-drop-on-coreweave-debt-concerns/",
-      "date": "2026-10-14T22:20:46Z"
+      "url": "https://nypost.com/2026/10/15/sports/dodgers-trying-to-keep-dynasty-last-ride-together-going-in-nlcs/",
+      "date": "2026-10-15T22:59:51Z"
     }
   ]
 }

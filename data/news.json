@@ -4,192 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-10-19T00:43:20.895627"
+      "date": "2026-10-20T01:28:59.636799"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-10-19T00:43:20.895634"
+      "date": "2026-10-20T01:28:59.636809"
     }
   ],
   "bitcoin": {
-    "price": 82148,
-    "date": "2026-10-19T00:43:20.969938"
+    "price": 81415,
+    "date": "2026-10-20T01:29:00.094654"
   },
   "news": [
     {
-      "title": "Crisis • Resilience • Evolution -- Building a Tourism Economy for a Shared Future: The 12th Global Tourism Economy Forum • Macao 2026 Grandly Commences",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/crisis--resilience--evolution--building-a-tourism-economy-for-a-shared-future-the-12th-global-tourism-economy-forum--macao-2026-grandly-commences-302911884.html",
-      "date": "2026-10-18T00:41:00Z"
+      "title": "NZ’s climate in ‘uncharted territory’, with more extreme weather events ahead",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/nzs-climate-in-uncharted-territory-with-more-extreme-weather-events-ahead-294037",
+      "date": "2026-10-19T01:24:57Z"
     },
     {
-      "title": "The AI bubble is about to burst — and a big market correction is coming",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/17/business/the-ai-bubble-is-about-to-burst-much-like-the-infamous-dot-com-crash/",
-      "date": "2026-10-18T00:21:17Z"
-    },
-    {
-      "title": "Larry Fink warns a data center ban would put the US in recession",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/bd35ae8136e2fb82",
-      "date": "2026-10-18T00:12:36Z"
-    },
-    {
-      "title": "Why are blue crab prices so high?",
+      "title": "Do lovebirds like to cuddle with you?",
       "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/why-are-blue-crab-prices-so-high/",
-      "date": "2026-10-18T00:01:37Z"
+      "url": "https://www.lifesciencesworld.com/do-lovebirds-like-to-cuddle-with-you/",
+      "date": "2026-10-19T01:21:31Z"
     },
     {
-      "title": "Gas company called 'rude' for not sharing decommissioning news earlier",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-10-18/secret-meetings-over-gas-network-albany/107272216",
-      "date": "2026-10-18T00:00:30Z"
-    },
-    {
-      "title": "3 British Quality Stocks With ROE Over 27%",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/004348eb60672ea3",
-      "date": "2026-10-17T23:43:31Z"
-    },
-    {
-      "title": "btclib 2026.10.17",
+      "title": "qrsig added to PyPI",
       "source": "Pypi.org",
-      "url": "https://pypi.org/project/btclib/2026.10.17/",
-      "date": "2026-10-17T23:27:56Z"
+      "url": "https://pypi.org/project/qrsig/",
+      "date": "2026-10-19T01:18:37Z"
     },
     {
-      "title": "Greg Abel Made Major Additions to Alphabet and Delta Last Quarter While Berkshire Bought Back $4.4 Billion of Its Own Stock. Is This a Buying Signal Investors Should Watch?",
+      "title": "CNBC Daily Open: A thousand drones and one strained U.S.-Ukraine alliance",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/19/cnbc-daily-open-ukraine-drones-trump-russia-war.html",
+      "date": "2026-10-19T01:16:11Z"
+    },
+    {
+      "title": "YES Bank book value may fall up to 26% after SC ruling on AT-1 bonds",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/at-1-payout-yes-banks-book-value-could-fall-up-to-26-sc-ruling-dents-banks-cushion-against-losses-in-near-term/articleshow/135037404.cms",
+      "date": "2026-10-19T01:14:57Z"
+    },
+    {
+      "title": "Asian stocks skid, Wall Street and bonds aided by oil slip",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4fa5341899bdee3f",
-      "date": "2026-10-17T23:27:40Z"
+      "url": "https://biztoc.com/x/adb9cc8f759ac31a",
+      "date": "2026-10-19T01:04:42Z"
     },
     {
-      "title": "EFCC promises probe as YouTuber exposes Abuja fraud syndicates",
-      "source": "The Punch",
-      "url": "https://punchng.com/efcc-promises-probe-as-youtuber-exposes-abuja-fraud-syndicates/",
-      "date": "2026-10-17T23:25:25Z"
-    },
-    {
-      "title": "Strive Bitcoin Holdings Reach 35,595 BTC As Wall Street Raises Price Target 27%",
-      "source": "newsBTC",
-      "url": "http://www.newsbtc.com/bitcoin-news/strive-bitcoin-holdings-reach-35-595-btc-as-wall-street-raises-price-t/",
-      "date": "2026-10-17T23:13:00Z"
-    },
-    {
-      "title": "MAIL ON SUNDAY COMMENT: BBC chiefs need to be taught a lesson on bias",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16217353/Mail-sunday-comment-BBC-chiefs-need-taught-lesson-bias.html",
-      "date": "2026-10-17T23:03:29Z"
-    },
-    {
-      "title": "tollbooth-dpyc 0.102.1",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/tollbooth-dpyc/0.102.1/",
-      "date": "2026-10-17T22:59:08Z"
-    },
-    {
-      "title": "Nvidia vs. AMD: Which Business Is More Exposed to a Data-Center Slowdown?",
+      "title": "$3,000 Split Across Nvidia, Broadcom, and TSMC Could Be Worth This Much by 2030",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/11c884942cb8a8d8",
-      "date": "2026-10-17T22:58:45Z"
+      "url": "https://biztoc.com/x/98621dc8d9537bc8",
+      "date": "2026-10-19T01:04:40Z"
     },
     {
-      "title": "Arista vs. Vertiv: Which AI Infrastructure Business Has the Bigger Profit Cushion?",
+      "title": "China’s investors flock to dividend stocks as returns double those of state bonds",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f55b088d5970d22f",
-      "date": "2026-10-17T22:58:42Z"
+      "url": "https://biztoc.com/x/1ffa87df87d34a0c",
+      "date": "2026-10-19T01:04:35Z"
     },
     {
-      "title": "Lam Research vs. Applied Materials: Which Buybacks Are Better Covered by Cash?",
+      "title": "Nextdoor Holdings Stock And 2 More Penny Stocks To Watch",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6e6deace47efb52c",
-      "date": "2026-10-17T22:43:24Z"
+      "url": "https://biztoc.com/x/b8b1f90d7fcaf1af",
+      "date": "2026-10-19T01:04:31Z"
     },
     {
-      "title": "Broadcom’s $29 Billion AI Backstop: How Much Risk Does the Cash Flow Cover?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/03fa84a3d68084ce",
-      "date": "2026-10-17T22:43:15Z"
+      "title": "America Needs 48,000 Tons of Rare Earth Magnets. It Only Makes 300",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/America-Needs-48000-Tons-of-Rare-Earth-Magnets-It-Only-Makes-300.html",
+      "date": "2026-10-19T01:00:00Z"
     },
     {
-      "title": "Micron Looks Cheap on Earnings. How Much Can Profits Fall Before That Changes?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b3e6f7971f80c0fb",
-      "date": "2026-10-17T22:42:49Z"
+      "title": "No, Climate Change Is Not ‘Gentrifying’ Seafood, New York Times",
+      "source": "Wattsupwiththat.com",
+      "url": "https://wattsupwiththat.com/2026/10/18/no-climate-change-is-not-gentrifying-seafood-new-york-times/",
+      "date": "2026-10-19T01:00:00Z"
     },
     {
-      "title": "Michael Saylor pitches Bitcoin as digital capital at ParaFi Investor Day",
+      "title": "Mid and small-cap stocks at 20-year high premium to large caps: Why investors may need to shift fresh money to large caps",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/mid-and-small-cap-stocks-at-20-year-high-premium-to-large-caps-why-investors-may-need-to-shift-fresh-money-to-large-caps/articleshow/134998220.cms",
+      "date": "2026-10-19T01:00:00Z"
+    },
+    {
+      "title": "NBFC stocks in focus: Rising funding costs threaten margins despite robust loan growth and asset quality",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/borrow/nbfc-stocks-in-focus-rising-funding-costs-threaten-margins-despite-robust-loan-growth-and-asset-quality/articleshow/135001385.cms",
+      "date": "2026-10-19T01:00:00Z"
+    },
+    {
+      "title": "Global Market Today: Asian shares fall as AI spending worries weigh on sentiment",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-fall-as-ai-spending-worries-weigh-on-sentiment/articleshow/135037337.cms",
+      "date": "2026-10-19T00:57:09Z"
+    },
+    {
+      "title": "Upbit weekly trading volume falls 15.5% to 8.35 trillion won as XRP leads activity",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/michael-saylor-pitches-bitcoin-as-digital-capital-at-parafi-investor-day/",
-      "date": "2026-10-17T22:32:10Z"
+      "url": "https://cryptobriefing.com/upbit-weekly-trading-volume-falls-xrp-leads/",
+      "date": "2026-10-19T00:54:02Z"
     },
     {
-      "title": "CoreWeave Is Projected to Have a 6.3x Gross Leverage Ratio by Year End. The Market Is Worried About the Neocloud's Balance Sheet",
+      "title": "Best of Business Standard Opinion: What sits outside the frame also exists",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/opinion/columns/best-of-business-standard-opinion-what-sits-outside-the-frame-also-exists-126101900005_1.html",
+      "date": "2026-10-19T00:45:12Z"
+    },
+    {
+      "title": "Mutual fund holdings of IT stocks sink to record low in September",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/mf/mf-news/mutual-fund-holdings-of-it-stocks-sink-to-record-low-in-september/articleshow/135037293.cms",
+      "date": "2026-10-19T00:40:18Z"
+    },
+    {
+      "title": "Asian stocks slip, Wall St and bonds benefit from oil skid",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/asian-stocks-slip-wall-st-and-bonds-benefit-oil-skid-6470601",
+      "date": "2026-10-19T00:38:00Z"
+    },
+    {
+      "title": "Can squirrels be happy in captivity?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/can-squirrels-be-happy-in-captivity/",
+      "date": "2026-10-19T00:34:53Z"
+    },
+    {
+      "title": "South Korean stocks slide as DeepSeek model stokes memory chip demand fears",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/south-korean-stocks-deepseek-chip-demand/",
+      "date": "2026-10-19T00:33:56Z"
+    },
+    {
+      "title": "Quick commerce, uncertain demand push up festive borrowing for consumer brands",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/industry/quick-commerce-uncertain-demand-push-up-festive-borrowing-for-consumer-brands-11792301381699.html",
+      "date": "2026-10-19T00:30:47Z"
+    },
+    {
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135036997.cms",
+      "date": "2026-10-19T00:30:00Z"
+    },
+    {
+      "title": "Stocks in news: Vedanta, HDFC Bank, ICICI Bank, Axis Bank, HFCL, IREDA, Zen Tech and Oil India",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vedanta-hdfc-bank-icici-bank-axis-bank-hfcl-ireda-zen-tech-and-oil-india/articleshow/135037012.cms",
+      "date": "2026-10-19T00:30:00Z"
+    },
+    {
+      "title": "Convenience stores struggle for relevance in the age of quick deliveries",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/industry/retail/convenience-stores-are-struggling-to-find-their-place-in-india-11792129522576.html",
+      "date": "2026-10-19T00:20:26Z"
+    },
+    {
+      "title": "Our Pick Of The Best British Founder Led Stocks In October 2026",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b6a36eaf855d9473",
-      "date": "2026-10-17T22:27:41Z"
+      "url": "https://biztoc.com/x/466a8bc66e7c4af1",
+      "date": "2026-10-19T00:19:16Z"
     },
     {
-      "title": "43 Things Wealthy People Considered Totally Normal That Left Their Friends Stunned",
-      "source": "Boredpanda.com",
-      "url": "https://www.boredpanda.com/shocking-things-rich-people-said/",
-      "date": "2026-10-17T22:00:04Z"
+      "title": "Indonesian Stock Exchange Plunges After Fresh MSCI Downgrade Threat",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/10/indonesian-stock-exchange-plunges-after-fresh-msci-downgrade-threat/",
+      "date": "2026-10-19T00:16:00Z"
     },
     {
-      "title": "swissbitcoinpay-checkout 0.1.0",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/swissbitcoinpay-checkout/0.1.0/",
-      "date": "2026-10-17T21:52:58Z"
+      "title": "Do convict cichlids pair for life?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/do-convict-cichlids-pair-for-life/",
+      "date": "2026-10-19T00:14:51Z"
     },
     {
-      "title": "swissbitcoinpay-checkout added to PyPI",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/swissbitcoinpay-checkout/",
-      "date": "2026-10-17T21:52:48Z"
+      "title": "Nifty gains 3% as analysts predict recovery; key resistance levels ahead",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-gains-3-as-analysts-predict-recovery-key-resistance-levels-ahead/articleshow/135037107.cms",
+      "date": "2026-10-19T00:14:32Z"
     },
     {
-      "title": "3 AI Healthcare Stocks To Own In October 2026",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b5f19f43de643d01",
-      "date": "2026-10-17T21:41:23Z"
+      "title": "Nigeria’s debt servicing trap",
+      "source": "The Punch",
+      "url": "https://punchng.com/nigerias-debt-servicing-trap/",
+      "date": "2026-10-19T00:12:25Z"
     },
     {
-      "title": "bondbyisin added to PyPI",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/bondbyisin/",
-      "date": "2026-10-17T21:13:13Z"
-    },
-    {
-      "title": "Strategy Declares Daily STRC Dividends As Saylor Targets $100 Share Price",
-      "source": "newsBTC",
-      "url": "http://www.newsbtc.com/bitcoin-news/strategy-declares-daily-strc-dividends-as-saylor-targets-100-share-pri/",
-      "date": "2026-10-17T21:13:00Z"
-    },
-    {
-      "title": "All 9 Pokémon Generations Ranked By Screen Rant Readers",
-      "source": "Screen Rant",
-      "url": "https://screenrant.com/best-pokemon-generations-vote-poll/",
-      "date": "2026-10-17T21:04:43Z"
-    },
-    {
-      "title": "Secure Satellite Stocks Retail Investors Are Watching After The Starlink Ukraine Dispute",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/775a1da977518752",
-      "date": "2026-10-17T20:55:54Z"
-    },
-    {
-      "title": "SRG Global And 2 Other Australian Penny Stocks To Watch",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/530f8cd2b1fd7657",
-      "date": "2026-10-17T20:55:47Z"
-    },
-    {
-      "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9dc2e279cb781790",
-      "date": "2026-10-17T20:55:27Z"
+      "title": "Are chinchillas okay alone?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/are-chinchillas-okay-alone/",
+      "date": "2026-10-19T00:04:02Z"
     }
   ]
 }

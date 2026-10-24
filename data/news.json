@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-10-23T01:09:11.214572"
+      "date": "2026-10-24T01:19:31.888358"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-10-23T01:09:11.214577"
+      "date": "2026-10-24T01:19:31.888364"
     }
   ],
   "bitcoin": {
-    "price": 81292,
-    "date": "2026-10-23T01:09:11.296747"
+    "price": 80748,
+    "date": "2026-10-24T01:19:31.927435"
   },
   "news": [
     {
-      "title": "Missiles strike Ukraine's Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "title": "UBS Group AG acquires 4.8% stake in 360 ONE WAM after exercising warrants",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/missiles-strike-ukraines-kyiv-after-russia-agrees-to-us-call-to-resume-ukraine-peace-talks/articleshow/135103557.cms",
-      "date": "2026-10-22T01:01:50Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ubs-group-ag-acquires-4-8-stake-in-360-one-wam-after-exercising-warrants/articleshow/135131354.cms",
+      "date": "2026-10-23T01:18:41Z"
     },
     {
-      "title": "Global Market Today: Asian stocks mixed as oil rally, AI concerns weigh on sentiment",
+      "title": "SpaceX in Talks to Access 80,000 Cell Sites for New Network - Bloomberg.com",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186421666",
+      "date": "2026-10-23T01:12:26Z"
+    },
+    {
+      "title": "Nippon AMC gets Sebi nod for settlement in Yes Bank AT1 case",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-as-oil-rally-ai-concerns-weigh-on-sentiment/articleshow/135103506.cms",
-      "date": "2026-10-22T00:57:04Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nippon-amc-gets-sebi-nod-for-settlement-in-yes-bank-at1-case/articleshow/135131314.cms",
+      "date": "2026-10-23T01:11:46Z"
+    },
+    {
+      "title": "S&P 500 best performers: Zero mag 7 stocks past 13 weeks",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/fe1715538505ffe2",
+      "date": "2026-10-23T01:10:41Z"
+    },
+    {
+      "title": "Yes Bank AT1 coupon due, bondholders seek clarity",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-at1-coupon-due-bondholders-seek-clarity/articleshow/135131245.cms",
+      "date": "2026-10-23T01:04:20Z"
+    },
+    {
+      "title": "Apex Critical Metals announces Nasdaq listing, prices $1.86M offering",
+      "source": "Thefly.com",
+      "url": "https://www.thefly.com/apxc",
+      "date": "2026-10-23T01:03:39Z"
+    },
+    {
+      "title": "Moon Ghost Coming to Steam",
+      "source": "Anime News Network",
+      "url": "https://www.animenewsnetwork.com/press-release/2026-10-22/moon-ghost-coming-to-steam/.243106",
+      "date": "2026-10-23T01:00:00Z"
+    },
+    {
+      "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors",
+      "date": "2026-10-23T00:59:35Z"
+    },
+    {
+      "title": "Banking liquidity surplus shrinks to Rs 541 crore as cash crunch increases",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/banking-liquidity-surplus-shrinks-to-rs-541-crore-as-cash-crunch-increases/articleshow/135131128.cms",
+      "date": "2026-10-23T00:57:19Z"
+    },
+    {
+      "title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+      "date": "2026-10-23T00:53:36Z"
+    },
+    {
+      "title": "How can you tell if a fledgling robin is male or female?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/how-can-you-tell-if-a-fledgling-robin-is-male-or-female/",
+      "date": "2026-10-23T00:53:36Z"
+    },
+    {
+      "title": "Global Market Today: Asian stocks slide after US tech rout",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-slide-after-us-tech-rout/articleshow/135131078.cms",
+      "date": "2026-10-23T00:52:15Z"
+    },
+    {
+      "title": "Yobe youths hail Buni for appointing new Attorney-General",
+      "source": "The Punch",
+      "url": "https://punchng.com/yobe-youths-hail-buni-for-appointing-new-attorney-general/",
+      "date": "2026-10-23T00:51:05Z"
+    },
+    {
+      "title": "Morning Brief Podcast: Yes Bank AT1 Bonds: Why the Supreme Court Reversed the ₹8,415 Cr Write-Down",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/morning-brief-podcast/morning-brief-podcast-yes-bank-at1-bonds-why-the-supreme-court-reversed-the-8415-cr-write-down/podcast/135131103.cms",
+      "date": "2026-10-23T00:50:15Z"
+    },
+    {
+      "title": "Apple launches into foldable market as iPhone Duo sales begin",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/apple-launches-into-foldable-market-as-iphone-duo-sales-begin/articleshow/135130936.cms",
+      "date": "2026-10-23T00:50:12Z"
+    },
+    {
+      "title": "Sun Pharma raises Rs 7,816 crore, misses bond target",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/sun-pharma-raises-rs-7816-crore-misses-bond-target/articleshow/135130994.cms",
+      "date": "2026-10-23T00:48:59Z"
+    },
+    {
+      "title": "Stocks making big moves yesterday: Dell, Chipotle, Amkor, Super Micro, and United Airlines",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/9127643afed04d56",
+      "date": "2026-10-23T00:41:14Z"
     },
     {
       "title": "Said on Its Q3 Earnings Call",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/45d42ec936f7dc35",
-      "date": "2026-10-22T00:55:45Z"
+      "url": "https://biztoc.com/x/f19aa8cf7be43e07",
+      "date": "2026-10-23T00:41:01Z"
     },
     {
-      "title": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions",
+      "title": "What Enova International (ENVA) Said on Its Q3 Earnings Call",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/61423bb46cae67be",
+      "date": "2026-10-23T00:40:37Z"
+    },
+    {
+      "title": "Rupee declines first time in eight sessions as Brent oil prices rise above $112",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-declines-first-time-in-eight-sessions-as-brent-oil-prices-rise-above-112/articleshow/135130676.cms",
+      "date": "2026-10-23T00:34:04Z"
+    },
+    {
+      "title": "Japan manufacturing growth slows to 7-month low in October, PMI shows",
       "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/oil-rises-us-orders-diplomats-leave-saudi-arabia-amid-escalating-tensions-6480801",
-      "date": "2026-10-22T00:46:39Z"
+      "url": "https://www.channelnewsasia.com/business/japan-manufacturing-growth-slows-7-month-low-in-october-pmi-shows-6484751",
+      "date": "2026-10-23T00:32:58Z"
     },
     {
-      "title": "Best of Opinion: India must step up to reshape WTO to benefit Global South",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/opinion/specials/best-of-opinion-satellite-broadband-road-safety-wto-rupee-rbi-126102101379_1.html",
-      "date": "2026-10-22T00:45:02Z"
-    },
-    {
-      "title": "PHP Foundation admits ‘structural failure’ delayed critical security fix",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix",
-      "date": "2026-10-22T00:44:00Z"
-    },
-    {
-      "title": "Top universities are using AI, but quiet on the fine print",
-      "source": "Crikey",
-      "url": "http://www.crikey.com.au/2026/10/22/unsw-artificial-intelligence-openai-chatgpt-energy-impact-environment/",
-      "date": "2026-10-22T00:43:51Z"
-    },
-    {
-      "title": "Has a killer whale killed a person before?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/has-a-killer-whale-killed-a-person-before/",
-      "date": "2026-10-22T00:36:21Z"
-    },
-    {
-      "title": "NGX sheds N516bn as market reverses gains",
-      "source": "The Punch",
-      "url": "https://punchng.com/ngx-sheds-n516bn-as-market-reverses-gains/",
-      "date": "2026-10-22T00:35:30Z"
-    },
-    {
-      "title": "Midcaps enter ‘correction’ as sell-off deepens",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/midcaps-enter-correction-as-sell-off-deepens/articleshow/135103421.cms",
-      "date": "2026-10-22T00:33:42Z"
-    },
-    {
-      "title": "Stocks in news: Reliance Industries, Eternal, Alkem Labs, BEL, HPCL, Swiggy and GMDC",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-eternal-alkem-labs-bel-hpcl-swiggy-and-gmdc/articleshow/135102947.cms",
-      "date": "2026-10-22T00:30:00Z"
+      "title": "I expect SIPs to disappoint investors: Shankar Sharma",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/macroeconomic-stability-gquant-investech-shankar-sharma-sips-to-yield-poor-returns-fixed-income-gold-real-estate-11792660811631.html",
+      "date": "2026-10-23T00:31:07Z"
     },
     {
       "title": "Pre-market action: Here's the trade setup for today's session",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135102916.cms",
-      "date": "2026-10-22T00:30:00Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135130077.cms",
+      "date": "2026-10-23T00:30:00Z"
     },
     {
-      "title": "Indonesia races to protect emerging market status against MSCI",
-      "source": "Antaranews.com",
-      "url": "https://en.antaranews.com/news/437161/indonesia-races-to-protect-emerging-market-status-against-msci",
-      "date": "2026-10-22T00:26:59Z"
-    },
-    {
-      "title": "Why do owls hoot 4 times?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/why-do-owls-hoot-4-times/",
-      "date": "2026-10-22T00:16:56Z"
-    },
-    {
-      "title": "Bond yield rises to 7.44% on higher oil prices, global cues",
+      "title": "Stocks in news: Swiggy, Infosys, HPCL, eMudhra, Adani Power, Shriram Finance, Tata Motors and NLC India",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/bond-yield-rises-to-7-44-on-higher-oil-prices-global-cues/articleshow/135103005.cms",
-      "date": "2026-10-22T00:15:37Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-swiggy-infosys-hpcl-emudhra-adani-power-shriram-finance-tata-motors-and-nlc-india/articleshow/135123918.cms",
+      "date": "2026-10-23T00:30:00Z"
     },
     {
-      "title": "Jefferies sees valuation upside in select IT stocks despite muted growth forecast",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-sees-valuation-upside-in-select-it-stocks-despite-muted-growth-forecast/articleshow/135103176.cms",
-      "date": "2026-10-22T00:14:24Z"
-    },
-    {
-      "title": "Rupee soars to 6-week high on Jio IPO flows, weaker dollar",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-soars-to-6-week-high-on-jio-ipo-flows-weaker-dollar/articleshow/135103368.cms",
-      "date": "2026-10-22T00:12:27Z"
-    },
-    {
-      "title": "BlackRock’s DVY Returned 58.53% Over Five Years. JEPI Returned 43.22%",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6ce85bce02cd7955",
-      "date": "2026-10-22T00:09:30Z"
-    },
-    {
-      "title": "Generation Development Group posts record inflows and funds under management",
-      "source": "Motley Fool Australia",
-      "url": "https://www.fool.com.au/2026/10/22/generation-development-group-posts-record-inflows-and-funds-under-management/",
-      "date": "2026-10-22T00:00:45Z"
-    },
-    {
-      "title": "Business and Unions in American Government: The Local Side of the Story",
-      "source": "Cambridge.org",
-      "url": "https://www.cambridge.org/core/journals/perspectives-on-politics/article/business-and-unions-in-american-government-the-local-side-of-the-story/0CA672FC5E92A35CA84E7196B8AB3C39",
-      "date": "2026-10-22T00:00:00Z"
-    },
-    {
-      "title": "Discovery of natural flavanones as potential PRMT4 inhibitors with antiproliferative activity against colorectal cancer cells",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41598-026-76002-0.pdf",
-      "date": "2026-10-22T00:00:00Z"
-    },
-    {
-      "title": "America's Favorite Cooking Oil Linked to Obesity in Mouse Study",
-      "source": "Mercola.com",
-      "url": "https://articles.mercola.com/sites/articles/archive/2026/10/22/soybean-oil-obesity-link.aspx",
-      "date": "2026-10-22T00:00:00Z"
-    },
-    {
-      "title": "GoldKey Technology posts record 3Q26 profit as industrial share rises",
-      "source": "Digitimes",
-      "url": "https://www.digitimes.com/news/a20261021PD255/memory-module-gross-margin-profit-revenue-2026.html",
-      "date": "2026-10-21T23:53:48Z"
-    },
-    {
-      "title": "Closing Bell Movers: Tesla down 3%, Meta up over 2% after results",
-      "source": "Thefly.com",
-      "url": "https://www.thefly.com/soxx",
-      "date": "2026-10-21T23:52:49Z"
-    },
-    {
-      "title": "DMO allots N2.02tn as bond yields rebound",
-      "source": "The Punch",
-      "url": "https://punchng.com/dmo-allots-n2-02tn-as-bond-yields-rebound/",
-      "date": "2026-10-21T23:35:44Z"
-    },
-    {
-      "title": "stock is up today",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3717867c7660ff80",
-      "date": "2026-10-21T23:24:47Z"
-    },
-    {
-      "title": "Micron Stocks Rise as AI-Memory Roadmap Takes Center Stage",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/0a6023d1ea4e765b",
-      "date": "2026-10-21T23:24:26Z"
-    },
-    {
-      "title": "US Treasury finalizes stablecoin rules under GENIUS Act, boosting crypto clarity",
+      "title": "Calle launches BitNotes, a multi-mint Cashu wallet that prints ecash on paper",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-treasury-finalizes-stablecoin-rules-under-genius-act-boosting-crypto-clarity/",
-      "date": "2026-10-21T23:22:54Z"
+      "url": "https://cryptobriefing.com/calle-launches-bitnotes-cashu-ecash-wallet/",
+      "date": "2026-10-23T00:29:06Z"
     },
     {
-      "title": "Quenton Nelson Addresses Future With Colts Amid Trade Rumors",
-      "source": "Heavy.com",
-      "url": "https://heavy.com/sports/nfl/indianapolis-colts/quenton-nelson-addresses-future-amid-trade-rumors/",
-      "date": "2026-10-21T23:19:57Z"
+      "title": "Why do monkeys groom humans?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/why-do-monkeys-groom-humans/",
+      "date": "2026-10-23T00:20:59Z"
     },
     {
-      "title": "Irish drug lord’s lost Bitcoin fortune comes back to life as $41 million moves to Coinbase",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/irish-drug-lords-lost-bitcoin-fortune-comes-back-to-life-as-41-million-moves-to-coinbase/",
-      "date": "2026-10-21T23:10:19Z"
+      "title": "Jio Platforms IPO subscribed 5.57 times on day 2 on strong interest",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-subscribed-5-57-times-on-day-2-on-strong-interest/articleshow/135130103.cms",
+      "date": "2026-10-23T00:18:22Z"
+    },
+    {
+      "title": "FPIs pull out Rs 8,634 crore from financials, buy IT stocks",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-out-rs-8634-crore-from-financials-buy-it-stocks/articleshow/135130464.cms",
+      "date": "2026-10-23T00:15:16Z"
+    },
+    {
+      "title": "Wall Street piles into Hong Kong’s dim sum bonds despite fading yuan funding edge: BofA",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/e00203dbf94a6d7d",
+      "date": "2026-10-23T00:09:50Z"
+    },
+    {
+      "title": "Politicians Are Turning Against AI, but Your Pension Is Riding on It",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6951126c00461cc5",
+      "date": "2026-10-23T00:09:32Z"
     }
   ]
 }

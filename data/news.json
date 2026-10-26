@@ -4,198 +4,192 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-10-25T00:45:00.466483"
+      "date": "2026-10-26T00:57:01.220846"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-10-25T00:45:00.466492"
+      "date": "2026-10-26T00:57:01.220852"
     }
   ],
   "bitcoin": {
-    "price": 80789,
-    "date": "2026-10-25T00:45:00.540025"
+    "price": 79868,
+    "date": "2026-10-26T00:57:01.264598"
   },
   "news": [
     {
-      "title": "Trump says US will 'take care of Cuba' on its way back from Iran",
+      "title": "Aritzia And 2 Other Top Canadian Quality Stocks",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f19e1a3b1ead45e2",
+      "date": "2026-10-25T00:40:40Z"
+    },
+    {
+      "title": "Italy sees fresh protests over war, cost of living as Police brace for violence",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-us-will-take-care-of-cuba-on-its-way-back-from-iran/articleshow/135159028.cms",
-      "date": "2026-10-24T00:41:20Z"
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/italy-sees-fresh-protests-over-war-cost-of-living-as-police-brace-for-violence/articleshow/135180846.cms",
+      "date": "2026-10-25T00:39:23Z"
     },
     {
-      "title": "'Cash Is A Melting Ice Cube,' Says Industry Executive as Bitcoin Adoption Poised to Surge",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5f4814fce3264d8a",
-      "date": "2026-10-24T00:30:08Z"
+      "title": "orangecheck 3.8.0",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/orangecheck/3.8.0/",
+      "date": "2026-10-25T00:35:46Z"
     },
     {
-      "title": "Class-action lawsuit filed against Canadian bitcoin firm Coinkite after $140-million hack",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7001f8c46384b0e5",
-      "date": "2026-10-24T00:27:32Z"
-    },
-    {
-      "title": "Bitcoin Usually Bottoms After Midterm Elections. What Happens if This Cycle Breaks the Pattern?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9c2bae6422ec5dd9",
-      "date": "2026-10-24T00:12:23Z"
-    },
-    {
-      "title": "What are the personality traits of a fox?",
+      "title": "How do foxes say hello?",
       "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/what-are-the-personality-traits-of-a-fox/",
-      "date": "2026-10-24T00:03:19Z"
+      "url": "https://www.lifesciencesworld.com/how-do-foxes-say-hello/",
+      "date": "2026-10-25T00:27:54Z"
     },
     {
-      "title": "3 Large Cap US Growth Stocks Facing The Next Fed Test",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3e49de40a602598b",
-      "date": "2026-10-23T23:43:31Z"
-    },
-    {
-      "title": "The bond market just sent home buyers an unexpected signal",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6a41c839c76f9876",
-      "date": "2026-10-23T23:41:54Z"
-    },
-    {
-      "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6685639739b60a6b",
-      "date": "2026-10-23T23:41:51Z"
-    },
-    {
-      "title": "Bitcoin Cash vs Litecoin: Which Payment Coin Has More Upside in 2026?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d44b99bc7bf6f0ac",
-      "date": "2026-10-23T23:41:35Z"
-    },
-    {
-      "title": "Study: Culture, Not Finances, Determines Family Size",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4400375/posts",
-      "date": "2026-10-23T23:37:19Z"
-    },
-    {
-      "title": "Update: Wall Street Caps Choppy Week Lower as Oil Prices Soar",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/fe2ddefc66643256",
-      "date": "2026-10-23T23:13:22Z"
-    },
-    {
-      "title": "Breitbart Business Digest: The Bond Vigilantes Surrender",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/economy/2026/10/23/breitbart-business-digest-the-bond-vigilantes-surrender/",
-      "date": "2026-10-23T23:12:17Z"
-    },
-    {
-      "title": "lnbot 1.1.0",
+      "title": "orangecheck 3.7.0",
       "source": "Pypi.org",
-      "url": "https://pypi.org/project/lnbot/1.1.0/",
-      "date": "2026-10-23T23:01:40Z"
+      "url": "https://pypi.org/project/orangecheck/3.7.0/",
+      "date": "2026-10-25T00:08:21Z"
     },
     {
-      "title": "WELL Health Technologies (TSX:WELL): Is Medical Technology Demand Rising?",
-      "source": "Kalkine Media",
-      "url": "https://kalkinemedia.com/ca/stocks/healthcare/well-health-technologies-tsxwell-is-medical-technology-demand-rising",
-      "date": "2026-10-23T22:46:53Z"
+      "title": "Circle Gateway Adds Bitcoin And Euro Balances With cirBTC And EURC",
+      "source": "newsBTC",
+      "url": "https://www.newsbtc.com/crypto-news/circle-gateway-cirbtc-eurc-balances/",
+      "date": "2026-10-25T00:00:00Z"
     },
     {
-      "title": "lumibot 4.6.27",
+      "title": "Daily Hacker News for 2026-10-24",
+      "source": "Daemonology.net",
+      "url": "https://www.daemonology.net/hn-daily/2026-10-24.html",
+      "date": "2026-10-25T00:00:00Z"
+    },
+    {
+      "title": "nautilus-finzdata added to PyPI",
       "source": "Pypi.org",
-      "url": "https://pypi.org/project/lumibot/4.6.27/",
-      "date": "2026-10-23T22:44:50Z"
+      "url": "https://pypi.org/project/nautilus-finzdata/",
+      "date": "2026-10-24T23:55:33Z"
     },
     {
-      "title": "Your 401(k) is probably invested in AI",
-      "source": "Marketplace.org",
-      "url": "https://www.marketplace.org/episode/2026/10/23/your-401k-is-probably-invested-in-ai",
-      "date": "2026-10-23T22:35:00Z"
-    },
-    {
-      "title": "What Is the Best Crypto to Buy With $500 Right Now?",
+      "title": "Top 3 Dividend Stocks To Watch In October 2026",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d6f5a24d4df9b242",
-      "date": "2026-10-23T22:24:17Z"
+      "url": "https://biztoc.com/x/0818faa1c2aefa97",
+      "date": "2026-10-24T23:54:28Z"
     },
     {
-      "title": "Government of Canada unveils proposed stablecoin regulations",
-      "source": "BetaKit",
-      "url": "https://betakit.com/government-of-canada-unveils-proposed-stablecoin-regulations/",
-      "date": "2026-10-23T22:08:06Z"
-    },
-    {
-      "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
-      "source": "Activistpost.com",
-      "url": "https://activistpost.com/dark-web-drug-market-operator-sentenced-to-40-years-forfeits-101-million-in-bitcoin/",
-      "date": "2026-10-23T22:03:00Z"
-    },
-    {
-      "title": "Commentary: PHP vulnerabilities - why the good guys have notched a victory in AI-cybersecurity age",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/php-cybersecurity-flaw-ai-victory-good-guys-6485776",
-      "date": "2026-10-23T22:00:00Z"
-    },
-    {
-      "title": "SpaceX Just Made Cell Towers Cool Again. Verizon, AT&T, and T-Mobile Are Paying the Price",
+      "title": "Which Cryptos Could Outperform Bitcoin Before the End of 2026?",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/da608e27a749d235",
-      "date": "2026-10-23T21:54:28Z"
+      "url": "https://biztoc.com/x/245dddf9cb11b932",
+      "date": "2026-10-24T23:53:50Z"
     },
     {
-      "title": "This TSX stock could get a 73% boost from Carney and Ford's steel aid, analyst says",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/investing/tsx-stock-boost-carney-ford-steel-aid",
-      "date": "2026-10-23T21:54:26Z"
+      "title": "C-Drama Starter Pack: 15+ Shows To Watch If You Want To Explore More C-Dramas",
+      "source": "soompi",
+      "url": "http://www.soompi.com/article/1880362wpp/c-drama-starter-pack-15-shows-to-watch-if-you-want-to-explore-more-c-dramas",
+      "date": "2026-10-24T23:00:58Z"
     },
     {
-      "title": "Hyperliquid Strategies expands stock buyback program to $100M as PURR shares fall over 30%",
+      "title": "Ball State football tops Sac State for homecoming victory | Instant takeaways",
+      "source": "The Star Press",
+      "url": "https://www.thestarpress.com/story/sports/college/ball-state/2026/10/24/ball-sac-bowl-state-football-maction-score-stats-takeaways/92282602007/",
+      "date": "2026-10-24T22:57:35Z"
+    },
+    {
+      "title": "Nvidia and 3 AI Infrastructure Stocks Backed by Hyperscaler Data Center Spending",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/0f4d6fb8fa93a4d0",
+      "date": "2026-10-24T22:38:28Z"
+    },
+    {
+      "title": "Netflix Is Down Nearly 30% in 2026. Time to Sell or Load Up?",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8d846bafc88ee85f",
+      "date": "2026-10-24T22:37:41Z"
+    },
+    {
+      "title": "Navigator steers home latest patrol ship in centuries-old ceremony",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-10-25/adelaide-built-patrol-ship-completes-freedom-ceremony/107302816",
+      "date": "2026-10-24T22:34:57Z"
+    },
+    {
+      "title": "Morgan Stanley-led credit line for TeraWulf grows to $400 million",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/hyperliquid-strategies-expands-stock-buyback-program-to-100m-as-purr-shares-fall-over-30/",
-      "date": "2026-10-23T21:52:50Z"
+      "url": "https://cryptobriefing.com/morgan-stanley-terawulf-400-million-credit-line/",
+      "date": "2026-10-24T22:34:38Z"
     },
     {
-      "title": "iPhone Duo internal display break: Are iPhone Duo displays too fragile? Users report alarming cracks near hinge",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/iphone-duo-internal-display-break-are-iphone-duo-displays-too-fragile-users-report-alarming-cracks-near-hinge/articleshow/135155585.cms",
-      "date": "2026-10-23T21:43:04Z"
+      "title": "btclib 2026.10.24",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/btclib/2026.10.24/",
+      "date": "2026-10-24T22:29:43Z"
     },
     {
-      "title": "1 safe-and-steady stock with promising prospects and 2 we brush off",
+      "title": "Top 3 Silver Stocks To Watch In October 2026",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e9c85dcde42131f4",
-      "date": "2026-10-23T21:41:03Z"
+      "url": "https://biztoc.com/x/d1d1808556fd69b7",
+      "date": "2026-10-24T22:07:38Z"
     },
     {
-      "title": "US Equity Indexes Close Mixed This Week as Investors Rotate into Treasury Bonds, Defensives as AI Trade Falters",
+      "title": "3 Gold Mining Stocks Retail Investors May Watch as Inflation Heats Up",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/feb7bdef5ffb2e55",
-      "date": "2026-10-23T21:40:54Z"
+      "url": "https://biztoc.com/x/c090573beacdf0a7",
+      "date": "2026-10-24T22:07:07Z"
     },
     {
-      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice",
-      "date": "2026-10-23T21:32:16Z"
-    },
-    {
-      "title": "Uttar Pradesh: Congress seeks over 175 Seats from Samajwadi Party",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/elections/lok-sabha/uttar-pradesh/uttar-pradesh-congress-seeks-over-175-seats-from-samajwadi-party/articleshow/135155642.cms",
-      "date": "2026-10-23T21:26:35Z"
-    },
-    {
-      "title": "Stocks, Pulled in Two Directions, Fall to End Volatile Week",
+      "title": "Bitcoin or Gold: Which Is the Better Inflation Hedge With Prices Up 3.7%?",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d1f3a828e2e8a333",
-      "date": "2026-10-23T21:19:38Z"
+      "url": "https://biztoc.com/x/2fdc535fda912279",
+      "date": "2026-10-24T21:51:18Z"
     },
     {
-      "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
-      "date": "2026-10-23T21:16:03Z"
+      "title": "Can Bitcoin Get Back Above $85,000 in November?",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b7f01549cbf8f75d",
+      "date": "2026-10-24T21:51:06Z"
+    },
+    {
+      "title": "Evernorth CEO Explains Why He Chose XRP Over Bitcoin",
+      "source": "ZyCrypto",
+      "url": "https://zycrypto.com/evernorth-ceo-explains-why-he-chose-xrp-over-bitcoin/",
+      "date": "2026-10-24T21:48:30Z"
+    },
+    {
+      "title": "Forecasting Financial Markets with Timestral",
+      "source": "Philippdubach.com",
+      "url": "https://philippdubach.com/posts/forecasting-financial-markets-with-timestral/",
+      "date": "2026-10-24T21:42:35Z"
+    },
+    {
+      "title": "5 Dividend Stocks with the Highest Yield",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f15ae1e1419f7be4",
+      "date": "2026-10-24T21:36:29Z"
+    },
+    {
+      "title": "Coca-Cola Stock Fell a Day After a 52-Week High. Here’s Why India Matters on October 27",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/0e5a9affad938000",
+      "date": "2026-10-24T21:36:09Z"
+    },
+    {
+      "title": "RIOT, MARA, IREN, and CORZ Stocks Slide as Bitcoin Miners Turn Neoclouds Face Credit Risks",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/fe096eac2b0034ee",
+      "date": "2026-10-24T21:21:01Z"
+    },
+    {
+      "title": "Man Who Called Black Monday Warns: “We Are Entering the Most Dangerous Boom in History”",
+      "source": "Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/10/man-called-black-monday/",
+      "date": "2026-10-24T21:00:18Z"
+    },
+    {
+      "title": "Kraken Parent Payward Wins In-Principle Approval For Kazakhstan Expansion",
+      "source": "newsBTC",
+      "url": "https://www.newsbtc.com/business/kraken-payward-kazakhstan-in-principle-approval/",
+      "date": "2026-10-24T21:00:00Z"
+    },
+    {
+      "title": "3 Gold Stocks With Net Margins Over 34%",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b4e1794658edab33",
+      "date": "2026-10-24T20:51:33Z"
     }
   ]
 }

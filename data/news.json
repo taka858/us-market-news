@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-11-04T02:51:47.612142"
+      "date": "2026-11-05T03:03:33.908852"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-11-04T02:51:47.612151"
+      "date": "2026-11-05T03:03:33.908860"
     }
   ],
   "bitcoin": {
-    "price": 76541,
-    "date": "2026-11-04T02:51:47.667530"
+    "price": 80499,
+    "date": "2026-11-05T03:03:34.029691"
   },
   "news": [
     {
-      "title": "Why do crows keep cawing?",
+      "title": "Coinbase Explains Multi-User Architecture as Crypto Accounts Become More Complex",
+      "source": "newsBTC",
+      "url": "https://www.newsbtc.com/news/coinbase-explains-multi-user-architecture-as-crypto-accounts-become-more-complex/",
+      "date": "2026-11-04T03:00:00Z"
+    },
+    {
+      "title": "Indian stocks poised to open lower as US midterm vote outcome looms",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-stocks-poised-to-open-lower-as-us-midterm-vote-outcome-looms/articleshow/135519801.cms",
+      "date": "2026-11-04T02:56:31Z"
+    },
+    {
+      "title": "Indian stocks poised to open lower as US midterm vote outcome looms",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-stocks-poised-to-open-lower-as-us-midterm-vote-outcome-looms/articleshow/135519825.cms",
+      "date": "2026-11-04T02:55:53Z"
+    },
+    {
+      "title": "U.S. Stocks, Dollar Set to Weaken as Blue Wave Forms",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6835ae76a1a8eb1a",
+      "date": "2026-11-04T02:55:19Z"
+    },
+    {
+      "title": "Stock futures fall on speculation Democrats to win big in midterms, slow data center buildout: Live updates - CNBC",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186581796",
+      "date": "2026-11-04T02:52:16Z"
+    },
+    {
+      "title": "What Advanced Micro Devices (AMD) Said on Its Q3 Earnings Call",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/4c060c6f41ed03dc",
+      "date": "2026-11-04T02:40:26Z"
+    },
+    {
+      "title": "Nifty's medium-term momentum improves; 24K next resistance: HDFC Securities",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/stocks-to-buy-today-nifty-s-medium-term-momentum-improves-24k-next-resistance-hdfc-securities-126110400112_1.html",
+      "date": "2026-11-04T02:40:14Z"
+    },
+    {
+      "title": "What does a fox mean in Native American culture?",
       "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/why-do-crows-keep-cawing/",
-      "date": "2026-11-03T02:43:47Z"
+      "url": "https://www.lifesciencesworld.com/what-does-a-fox-mean-in-native-american-culture/",
+      "date": "2026-11-04T02:39:47Z"
     },
     {
-      "title": "Dividend alert! Last day to buy Asian Paints, Coal India and 6 more stocks for dividend payout worth nearly Rs 31. Do you own any?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-asian-paints-coal-india-and-6-more-stocks-for-dividend-payout-worth-nearly-rs-31-do-you-own-any/articleshow/135479314.cms",
-      "date": "2026-11-03T02:37:10Z"
-    },
-    {
-      "title": "Jindal Saw, JK Tyre, Titagarh Rail: 3 stocks show technical recovery signs",
+      "title": "Stocks to watch: NSE, Bata India, Hindustan Zinc, Nykaa, ASK Automotive",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/jindal-saw-jk-tyre-titagarh-rail-3-stocks-show-technical-recovery-signs-126110300100_1.html",
-      "date": "2026-11-03T02:36:25Z"
+      "url": "https://www.business-standard.com/markets/news/stocks-to-watch-nse-bata-india-hindustan-zinc-nykaa-ask-automotive-126110400118_1.html",
+      "date": "2026-11-04T02:38:07Z"
     },
     {
-      "title": "Free Limited Edition Glass with Any Large Meal @ Hungry Jack's",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/981429",
-      "date": "2026-11-03T02:36:23Z"
-    },
-    {
-      "title": "Bonus issue alert! Last day to buy this Rakesh Jhunjhunwala-backed smallcap pharma stock for 1:1 bonus bonanza",
+      "title": "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-last-day-to-buy-this-rakesh-jhunjhunwala-backed-smallcap-pharma-stock-for-11-bonus-bonanza/articleshow/135479214.cms",
-      "date": "2026-11-03T02:36:18Z"
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge/articleshow/135519119.cms",
+      "date": "2026-11-04T02:32:59Z"
     },
     {
-      "title": "Stocks to watch: ITC, Lupin, NBCC, SBI, Dr Reddy's, Bosch, Ola Electric",
+      "title": "Supermicro and Arista Networks crush Wall Street’s expectations as AI infrastructure wins again",
+      "source": "SiliconANGLE News",
+      "url": "https://siliconangle.com/2026/11/03/supermicro-and-arista-networks-crush-wall-streets-expectations-as-ai-infrastructure-wins-again/",
+      "date": "2026-11-04T02:27:21Z"
+    },
+    {
+      "title": "Oil Price Today (November 4): Crude oil falls below $104 ahead of US midterm elections outcome. What are analysts saying?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-4-crude-oil-falls-below-104-ahead-of-us-midterm-elections-what-are-analysts-saying/articleshow/135518787.cms",
+      "date": "2026-11-04T02:24:04Z"
+    },
+    {
+      "title": "Do squirrels care about other squirrels?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/do-squirrels-care-about-other-squirrels/",
+      "date": "2026-11-04T02:22:18Z"
+    },
+    {
+      "title": "Does lemon juice dry out fish?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/does-lemon-juice-dry-out-fish/",
+      "date": "2026-11-04T02:17:51Z"
+    },
+    {
+      "title": "Oil edges down as investors await US midterm election results",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/oil-edges-down-as-investors-await-us-midterm-election-results/articleshow/135518721.cms",
+      "date": "2026-11-04T02:17:27Z"
+    },
+    {
+      "title": "Pistolo Casino: Quick-Hit Sessions for Players Who Like Fast Answers",
+      "source": "Learningjquery.com",
+      "url": "https://learningjquery.com/2026/11/pistolo-casino-quick-hit-sessions-for-players-who-like-fast-answers",
+      "date": "2026-11-04T02:13:44Z"
+    },
+    {
+      "title": "Breakout stocks: Chandan Taparia bets on Bharti Airtel, Paytm, Divi's Lab",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/stocks-to-watch-itc-lupin-nbcc-sbi-dr-reddy-s-bosch-ola-electric-126110300104_1.html",
-      "date": "2026-11-03T02:30:24Z"
+      "url": "https://www.business-standard.com/markets/news/breakout-stocks-chandan-taparia-bets-on-bharti-airtel-paytm-divi-s-lab-126110400106_1.html",
+      "date": "2026-11-04T02:13:00Z"
     },
     {
-      "title": "ORVANA PROVIDES UPDATE ON ITS BOLIVIAN SUBSIDIARY EMIPA",
-      "source": "PR Newswire UK",
-      "url": "https://www.prnewswire.co.uk/news-releases/orvana-provides-update-on-its-bolivian-subsidiary-emipa-302927165.html",
-      "date": "2026-11-03T02:30:00Z"
+      "title": "Why the Anthropic IPO 'could be the swing vote' for Wall Street bank stocks - Yahoo Finance",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186581344",
+      "date": "2026-11-04T02:12:49Z"
     },
     {
-      "title": "Gold price prediction: Will gold extend gains on Tuesday? Check outlook for November 3",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-prediction-will-gold-extend-gains-on-tuesday-check-outlook-for-november-3/articleshow/135479165.cms",
-      "date": "2026-11-03T02:27:39Z"
+      "title": "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge-6519501",
+      "date": "2026-11-04T02:12:22Z"
     },
     {
-      "title": "Anthropic revenue up 12x in Q3, commits $895 billion spending",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-revenue-up-12x-in-q3-commits-895-billion-spending/articleshow/135478994.cms",
-      "date": "2026-11-03T02:23:20Z"
+      "title": "What The Hackett Group (HCKT) Said on Its Q3 Earnings Call",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2cb2f9e0a83b13d0",
+      "date": "2026-11-04T02:10:33Z"
     },
     {
-      "title": "Positive Breakout: These 10 stocks cross above their 200 DMAs",
+      "title": "Said on Its Q3 Earnings Call",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/08d1c28bf330fe7e",
+      "date": "2026-11-04T02:10:31Z"
+    },
+    {
+      "title": "What Ramaco Resources (METC) Said on Its Q3 Earnings Call",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c8f1abb33867ad11",
+      "date": "2026-11-04T02:10:25Z"
+    },
+    {
+      "title": "Oil edges down as investors await US midterm election results",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/oil-edges-down-investors-await-us-midterm-election-results-6519506",
+      "date": "2026-11-04T02:10:18Z"
+    },
+    {
+      "title": "Positive Breakout: These 8 stocks cross above their 200 DMAs",
       "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/positive-breakout-these-10-stocks-cross-above-their-200-dmas/upside-ahead/slideshow/135479126.cms",
-      "date": "2026-11-03T02:22:58Z"
+      "url": "https://m.economictimes.com/markets/stocks/news/positive-breakout-these-8-stocks-cross-above-their-200-dmas/upside-ahead/slideshow/135518684.cms",
+      "date": "2026-11-04T02:09:24Z"
     },
     {
-      "title": "Can African elephants be tamed?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/can-african-elephants-be-tamed/",
-      "date": "2026-11-03T02:19:09Z"
+      "title": "Trump says U.S. is ready to strike Iran as negotiators struggle to reach deal",
+      "source": "Yahoo Entertainment",
+      "url": "https://uk.news.yahoo.com/irans-foreign-minister-says-talks-071254829.html",
+      "date": "2026-11-04T02:08:31Z"
     },
     {
-      "title": "Indian Navy rescues 20 crew members from hijacked fishing vessel Azini in Arabian Sea",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/indian-navy-rescues-20-crew-members-from-hijacked-fishing-vessel-azini-in-arabian-sea/articleshow/135478829.cms",
-      "date": "2026-11-03T02:14:16Z"
-    },
-    {
-      "title": "Big-ticket tech deals need to keep pace with AI boom but risks remain high, financial leaders say",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/big-ticket-tech-deals-need-keep-pace-ai-boom-risks-remain-high-financial-leaders-say-6515066",
-      "date": "2026-11-03T02:13:36Z"
-    },
-    {
-      "title": "Blackstone president says more tech sector fundraising ahead to keep up with AI industry growth",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/blackstone-president-says-more-tech-sector-fundraising-ahead-keep-up-ai-industry-growth-6515066",
-      "date": "2026-11-03T02:13:36Z"
-    },
-    {
-      "title": "Big ticket tech deals needed to keep pace with AI growth boom, financial leaders say",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/big-ticket-tech-deals-needed-keep-pace-ai-growth-boom-financial-leaders-say-6515066",
-      "date": "2026-11-03T02:13:36Z"
-    },
-    {
-      "title": "Mankind Pharma, Dr Lal: Shrikant Chouhan bullish on 2 healthcare stocks",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/stocks-to-buy-today-mankind-pharma-dr-lal-shrikant-chouhan-bullish-on-2-healthcare-stocks-126110300097_1.html",
-      "date": "2026-11-03T02:12:15Z"
-    },
-    {
-      "title": "Binance can cut a winning Bitcoin hedge even when customer assets are backed",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/binance-can-cut-a-winning-bitcoin-hedge-even-when-customer-assets-are-backed/",
-      "date": "2026-11-03T02:10:33Z"
-    },
-    {
-      "title": "SANS Stormcast Tuesday, November 3rd, 2026: Multipath TCP (MPTCP) Detection; BTCPay Server 2.4.1 Hot Wallet Thefts; Barracuda ESG Flaws (CVE-2026-116606, CVE-2026-111560); Synology DSM Ransomware",
-      "source": "Sans.edu",
-      "url": "https://isc.sans.edu/podcastdetail/10162",
-      "date": "2026-11-03T02:00:02Z"
-    },
-    {
-      "title": "Do blue jays bother other birds?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/do-blue-jays-bother-other-birds/",
-      "date": "2026-11-03T01:59:55Z"
-    },
-    {
-      "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
-      "date": "2026-11-03T01:52:28Z"
-    },
-    {
-      "title": "Indian markets likely to open higher; Gift Nifty signals 150-point gap-up",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/indian-markets-likely-to-open-higher-gift-nifty-signals-150-point-gap-up/article71659211.ece",
-      "date": "2026-11-03T01:49:11Z"
-    },
-    {
-      "title": "Sensex surges over 1,200 points, Nifty reclaims 23,400 as RIL leads rally",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-surges-over-1200-points-nifty-reclaims-23400-as-ril-leads-rally/articleshow/135478423.cms",
-      "date": "2026-11-03T01:47:06Z"
-    },
-    {
-      "title": "Mercado Bitcoin drain moved $40 million in plain transactions, pointing to stolen signing keys",
-      "source": "Techreport.com",
-      "url": "https://techreport.com/news/software/mercado-bitcoin-drain-moved-40-million-in-plain-transactions-pointing-to-stolen-signing-keys/",
-      "date": "2026-11-03T01:45:50Z"
-    },
-    {
-      "title": "Morgan Stanley issues a fresh warning about AI stocks",
+      "title": "BITO Trailed IBIT by $6,240 on $300,000 Over 12 Months. Futures Rolls Are a Big Reason Why",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e6e4a50a419be8f1",
-      "date": "2026-11-03T01:45:11Z"
+      "url": "https://biztoc.com/x/7f55540f2dbcee8b",
+      "date": "2026-11-04T02:08:23Z"
     },
     {
-      "title": "Why do dolphins like bow waves?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/why-do-dolphins-like-bow-waves/",
-      "date": "2026-11-03T01:41:24Z"
+      "title": "‘The Swamp Is The Worst It’s Ever Been’: DeSantis Tees Off On Trump Admin Corruption",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/11/03/ron-desantis-criticizes-trump-admin-kristi-noem-alina-habba-corruption-stock-trading-ban",
+      "date": "2026-11-04T02:06:52Z"
     },
     {
-      "title": "Why RH Stock Jumped 20% in October",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4f4ce5ae121b215a",
-      "date": "2026-11-03T01:31:28Z"
+      "title": "Hong Kong Launches Post-Quantum Preparation Toolkit for Banks",
+      "source": "newsBTC",
+      "url": "https://www.newsbtc.com/news/hong-kong-launches-post-quantum-preparation-toolkit-for-banks/",
+      "date": "2026-11-04T02:00:00Z"
     },
     {
-      "title": "Buzzing stocks: GRSE, Dr Reddy’s, Lupin, NBCC, HPCL, Belrise and Datakosa in focus",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/buzzing-stocks-grse-dr-reddys-lupin-nbcc-hpcl-belrise-and-datakosa-in-focus/article71659200.ece",
-      "date": "2026-11-03T01:29:07Z"
-    },
-    {
-      "title": "Sensex today | Stock Market Live: Stock to buy today: Grindwell Norton (₹1,965)",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-3-november-2026/article71657258.ece",
-      "date": "2026-11-03T01:19:40Z"
-    },
-    {
-      "title": "AustralianSuper digs down on AI 'picks and shovels' to ride out global AI upheaval",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/australiansuper-digs-down-ai-picks-and-shovels-ride-out-global-ai-upheaval-6514876",
-      "date": "2026-11-03T01:18:23Z"
-    },
-    {
-      "title": "Sebi allows REITs, InvITs to tap overseas investors through depository receipts",
+      "title": "Marico shares surge 9.4% as company lifts margin outlook",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-allows-reits-invits-to-tap-overseas-investors-through-depository-receipts/articleshow/135478239.cms",
-      "date": "2026-11-03T01:15:45Z"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/marico-shares-surge-9-4-as-company-lifts-margin-outlook/articleshow/135518090.cms",
+      "date": "2026-11-04T01:56:15Z"
+    },
+    {
+      "title": "Asian Tech Stocks to Rise on AI Rally as US Votes: Markets Wrap - Bloomberg.com",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186581130",
+      "date": "2026-11-04T01:53:31Z"
     }
   ]
 }

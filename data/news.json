@@ -4,192 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-11-11T02:28:41.489670"
+      "date": "2026-11-12T03:33:07.237806"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-11-11T02:28:41.489678"
+      "date": "2026-11-12T03:33:07.237814"
     }
   ],
   "bitcoin": {
-    "price": 73377,
-    "date": "2026-11-11T02:28:41.587439"
+    "price": 73748,
+    "date": "2026-11-12T03:33:07.387462"
   },
   "news": [
     {
-      "title": "What Definium Therapeutics (DFTX) Said on Its Q3 Earnings Call",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/8dbc0cfc0b330c38",
-      "date": "2026-11-10T02:21:57Z"
+      "title": "Traders Who Rushed to Safety of Bonds Get Rattled in Reversal - Bloomberg.com",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186684563",
+      "date": "2026-11-11T03:32:56Z"
     },
     {
-      "title": "He Watches the Nasdaq Plunge 5.5% at 63. Claiming Social Security to Avoid Selling Stocks Could Lock In a Smaller Check for Life",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3fedcbc4bcdcd12b",
-      "date": "2026-11-10T02:19:31Z"
-    },
-    {
-      "title": "Anthropic sends out, then retracts details of IPO filing, emails show",
+      "title": "RBI approves Balaji Nuthalapadi as interim CEO of Equitas SFB",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-sends-out-then-retracts-details-of-ipo-filing-emails-show/articleshow/135696816.cms",
-      "date": "2026-11-10T02:18:28Z"
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-approves-balaji-nuthalapadi-as-interim-ceo-of-equitas-sfb/articleshow/135612487.cms",
+      "date": "2026-11-11T03:32:16Z"
     },
     {
-      "title": "Stock market holiday: NSE, BSE to remain closed for Diwali-Balipratipada",
+      "title": "George leads Celtics to 123-101 win over 76ers in first battle between Jays",
+      "source": "Celtics Blog",
+      "url": "https://www.celticsblog.com/celtics-scores-results/149871/george-leads-celtics-to-123-101-win-over-76ers-in-first-battle-between-jays",
+      "date": "2026-11-11T03:31:24Z"
+    },
+    {
+      "title": "Bharat Dynamics among 5 stocks showing RSI trending up",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/markets/stocks/news/bharat-dynamics-among-5-stocks-showing-rsi-trending-up/trend-watch/slideshow/135724716.cms",
+      "date": "2026-11-11T03:31:18Z"
+    },
+    {
+      "title": "Bond yields muddy the books as banks prepare for new accounting rules",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/bond-yields-muddy-the-books-as-banks-prepare-for-new-accounting-rules/articleshow/135667760.cms",
+      "date": "2026-11-11T03:31:17Z"
+    },
+    {
+      "title": "Strategy’s STRC hit $100, but common stock still funded last week’s Bitcoin purchases",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/strategys-strc-hit-100-but-common-stock-still-funded-last-weeks-bitcoin-purchases/",
+      "date": "2026-11-11T03:30:46Z"
+    },
+    {
+      "title": "PNC Lets Corporate Clients Get Paid in USDC, and Every Token Lands as a Dollar Deposit",
+      "source": "Dcforecasts.com",
+      "url": "https://www.dcforecasts.com/blockchain-news/pnc-stablecoin-payments-usdc-coinbase-pilot/",
+      "date": "2026-11-11T03:24:03Z"
+    },
+    {
+      "title": "Oil rises from 2-month low as Hormuz shipping attacks offset truce hopes",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/stock-market-holiday-today-nse-bse-to-remain-closed-for-diwali-balipratipada-126111000071_1.html",
-      "date": "2026-11-10T02:17:22Z"
+      "url": "https://www.business-standard.com/markets/commodities/oil-rises-from-2-month-low-as-hormuz-shipping-attacks-offset-truce-hopes-126111100088_1.html",
+      "date": "2026-11-11T03:22:24Z"
     },
     {
-      "title": "James Bond Reinvented Itself as a Franchise on This Day and Made the Continuity Way More Complicated",
-      "source": "ComicBook.com",
-      "url": "http://comicbook.com/movies/feature/james-bond-reinvented-itself-as-a-franchise-on-this-day-and-made-the-continuity-way-more-complicated/",
-      "date": "2026-11-10T02:16:43Z"
+      "title": "Hidden pain! Why did investors lose money in 750 smallcaps when Nifty rallied 2500 points?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hidden-pain-why-did-investors-lose-money-in-750-smallcaps-when-nifty-rallied-2500-points/articleshow/135724408.cms",
+      "date": "2026-11-11T03:22:04Z"
     },
     {
-      "title": "MARA Holdings posts $632.1 million Q3 profit as Bitcoin gains offset revenue drop",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/mara-holdings-q3-profit-bitcoin-sale-debt/",
-      "date": "2026-11-10T02:13:09Z"
-    },
-    {
-      "title": "How long do doves sit on their eggs?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/how-long-do-doves-sit-on-their-eggs/",
-      "date": "2026-11-10T02:13:01Z"
-    },
-    {
-      "title": "OKLO Stock Is On Track To Reverse 6 Weeks Of Losses, But This Analyst Warns Nuclear Euphoria Is Fading",
+      "title": "Jim Cramer has a new warning for investors watching Anthropic",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3f0cb40ecdba4057",
-      "date": "2026-11-10T02:07:05Z"
+      "url": "https://biztoc.com/x/c10cf7b3015056d1",
+      "date": "2026-11-11T03:21:41Z"
     },
     {
-      "title": "Anthropic IPO’s moment of truth nears as waiting period ends",
+      "title": "Asian stocks fluctuate as US rate worries temper tech bounce",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/62294c6bfac6de6b",
-      "date": "2026-11-10T02:04:19Z"
+      "url": "https://biztoc.com/x/83cb4103d2d13da2",
+      "date": "2026-11-11T03:21:37Z"
     },
     {
-      "title": "RBI said to query bank valuations of some bond derivative trades",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/rbi-said-to-query-bank-valuations-of-some-bond-derivative-trades/articleshow/135696624.cms",
-      "date": "2026-11-10T02:02:12Z"
+      "title": "Inovio Pharmaceuticals Q3 Earnings Call Highlights",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d3af52b25a1dabee",
+      "date": "2026-11-11T03:20:55Z"
     },
     {
-      "title": "HIVE, MARA mine more Bitcoin but bring in less revenue as prices slide",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/hive-mara-more-bitcoin-lower-revenue/",
-      "date": "2026-11-10T01:55:31Z"
+      "title": "California’s billionaire tax is dead – but the state’s paid a staggering price",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/10/opinion/californias-billionaire-tax-is-dead-but-the-states-paid-a-staggering-price/",
+      "date": "2026-11-11T03:20:36Z"
     },
     {
-      "title": "Nvidia CEO scandal casts uncertainty over future of the AI industry he helped define",
-      "source": "The Globe And Mail",
-      "url": "https://www.theglobeandmail.com/business/article-nvidia-ceo-scandal-casts-uncertainty-over-future-of-the-ai-industry-he/",
-      "date": "2026-11-10T01:52:52Z"
+      "title": "Loose Lips Sink Chips: Silicon Valley Reacts to the (Alleged) Spy Who Shagged Jensen Huang",
+      "source": "Vanity Fair",
+      "url": "https://www.vanityfair.com/story/nvidia-scandal-jensen-huang",
+      "date": "2026-11-11T03:17:58Z"
     },
     {
-      "title": "Rupee among Asia's top performing currencies as AI trade cools",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-among-asias-top-3-as-india-turns-ai-hedge/articleshow/135696371.cms",
-      "date": "2026-11-10T01:36:44Z"
+      "title": "PM Balen Shah calls for stronger sibling bonds on Bhai Tika",
+      "source": "Khabarhub.com",
+      "url": "https://english.khabarhub.com/2026/11/575230/",
+      "date": "2026-11-11T03:11:08Z"
     },
     {
-      "title": "Can my dog tell I’m grieving?",
+      "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+      "date": "2026-11-11T03:08:17Z"
+    },
+    {
+      "title": "Does frying an egg destroy the protein?",
       "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/can-my-dog-tell-im-grieving/",
-      "date": "2026-11-10T01:19:53Z"
+      "url": "https://www.lifesciencesworld.com/does-frying-an-egg-destroy-the-protein/",
+      "date": "2026-11-11T03:07:37Z"
     },
     {
-      "title": "Trump Media posts $409.7 million Q3 profit as Bitcoin gains carry the quarter",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-media-q3-net-income-bitcoin-gains/",
-      "date": "2026-11-10T01:19:47Z"
+      "title": "3 US Bank Stocks Built for Higher Interest Rates",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/293369e957b79acc",
+      "date": "2026-11-11T03:06:19Z"
     },
     {
-      "title": "Q2 Earnings Scorecard: Which sectors outperformed and which fell behind?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/corporate-india-keeps-bottom-line-strong-with-price-hikes-and-premiumisation-as-costs-rise/articleshow/135696251.cms",
-      "date": "2026-11-10T01:15:16Z"
+      "title": "3 Australian Undervalued Stocks Trading Up To 49% Below Cash Flow Value",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1b3d053e8c582891",
+      "date": "2026-11-11T03:06:08Z"
     },
     {
-      "title": "Olive Young Accelerates U.S. Expansion With 5 New California Stores by H1 2027",
-      "source": "WWD",
-      "url": "http://wwd.com/beauty-industry-news/beauty-features/olive-young-usa-expansion-five-new-california-stores-1239408131/",
-      "date": "2026-11-10T01:09:24Z"
+      "title": "Mainland Chinese overseas funds find winners in oil, US stocks as Hong Kong bets struggle",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/666065862585d983",
+      "date": "2026-11-11T03:03:39Z"
     },
     {
-      "title": "SP Group arm to tap bond pipeline to raise Rs 1,500 crore",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/sp-group-arm-to-tap-bond-pipeline-to-raise-rs-1500-crore/articleshow/135696197.cms",
-      "date": "2026-11-10T01:05:03Z"
+      "title": "Are bald eagles loyal?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/are-bald-eagles-loyal/",
+      "date": "2026-11-11T03:03:01Z"
     },
     {
-      "title": "Schroders Emerging-Market Bond Strategy Moves Onto Solana Through Centrifuge",
+      "title": "Coinbase, Kalshi and Other Firms Back CFTC in Fight Over Stock Perpetuals",
       "source": "newsBTC",
-      "url": "https://www.newsbtc.com/news/schroders-emerging-market-bond-strategy-moves-onto-solana-through-centrifuge/",
-      "date": "2026-11-10T01:00:00Z"
+      "url": "https://www.newsbtc.com/regulation/coinbase-kalshi-cftc-single-stock-perpetuals-lawsuit/",
+      "date": "2026-11-11T03:00:00Z"
     },
     {
-      "title": "U.S. Traders Weigh the Cost of Taking Trump’s Russian Diesel",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/US-Traders-Weigh-the-Cost-of-Taking-Trumps-Russian-Diesel.html",
-      "date": "2026-11-10T01:00:00Z"
-    },
-    {
-      "title": "The fraudster paid £350,000 to do FIVE jobs across the Civil Service... and no one noticed because he was working from home (at his £2.1million east London house!)",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/lifestyle/article-16279487/The-fraudster-paid-350-000-FIVE-jobs-Civil-Service-no-one-noticed-working-home-2-1million-east-London-house.html",
-      "date": "2026-11-10T00:59:52Z"
-    },
-    {
-      "title": "Hakeem Jeffries demands full Nvidia briefing as China chip fight heats up",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/hakeem-jeffries-nvidia-briefing-china-chips/",
-      "date": "2026-11-10T00:53:29Z"
-    },
-    {
-      "title": "Foreign investors keep faith in 83 stocks despite prolonged India selloff",
+      "title": "All about Patrick Mahomes' three children, Sterling, Bronze and Golden, as he and Brittany prepare to welcome baby No. 4",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-keep-faith-in-83-stocks-despite-28-billion-selloff/articleshow/135696068.cms",
-      "date": "2026-11-10T00:51:53Z"
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/all-about-patrick-mahomes-three-children-sterling-bronze-and-golden-as-he-and-brittany-prepare-to-welcome-baby-no-4/articleshow/135723564.cms",
+      "date": "2026-11-11T02:55:31Z"
     },
     {
-      "title": "Dollar sellers hit pause for US inflation data",
+      "title": "What are the life cycles of a bird?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/what-are-the-life-cycles-of-a-bird/",
+      "date": "2026-11-11T02:50:57Z"
+    },
+    {
+      "title": "A Venezuelan Billionaire Just Shared The Details Behind Trump’s “Biggest Oil Deal In World History.” Here’s What It Means For A 68 Year Old With A $2.4M Portfolio Heavily Invested In Energy Stocks",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/73748866a0fb32dd",
+      "date": "2026-11-11T02:48:04Z"
+    },
+    {
+      "title": "CoreWeave beats quarterly revenue estimates as AI demand defies growing doubts",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-sellers-hit-pause-for-us-inflation-data/articleshow/135696077.cms",
-      "date": "2026-11-10T00:51:32Z"
+      "url": "https://economictimes.indiatimes.com/tech/technology/coreweave-beats-quarterly-revenue-estimates-as-ai-demand-defies-growing-doubts/articleshow/135723447.cms",
+      "date": "2026-11-11T02:48:03Z"
     },
     {
-      "title": "Better Home & Finance Q3 Earnings Call Highlights",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/0de5fe62afc807aa",
-      "date": "2026-11-10T00:51:32Z"
+      "title": "Bullish and 21shares Help Stacks’ Third Bitcoin Staking Bond Sell Out at 1,005 BTC",
+      "source": "Dcforecasts.com",
+      "url": "https://www.dcforecasts.com/bitcoin-news/bitcoin-staking-stacks-bond-3-1005-btc-bullish-21shares/",
+      "date": "2026-11-11T02:46:53Z"
     },
     {
-      "title": "3 Canadian Growth Stocks To Own In November 2026",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/43665b717cf4e2ae",
-      "date": "2026-11-10T00:51:27Z"
+      "title": "How do you get a chinchilla to like you?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/how-do-you-get-a-chinchilla-to-like-you/",
+      "date": "2026-11-11T02:44:38Z"
     },
     {
-      "title": "What Mesa Laboratories (MLAB) Said on Its Q2 Earnings Call",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/eb3a06814094462e",
-      "date": "2026-11-10T00:51:24Z"
+      "title": "Do apes have hierarchies?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/do-apes-have-hierarchies/",
+      "date": "2026-11-11T02:37:17Z"
     },
     {
-      "title": "Amaero Q3 Earnings Call Highlights",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/dd33a209c3e01fb8",
-      "date": "2026-11-10T00:51:07Z"
-    },
-    {
-      "title": "Digital Turbine Q2 Earnings Call Highlights",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d7f1eee75f8b157f",
-      "date": "2026-11-10T00:50:59Z"
+      "title": "Stocks to watch: Kalyan Jewellers, MTNL, Dabur, IIFL Finance, MRF, NBCC",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/stocks-to-watch-kalyan-jewellers-mtnl-dabur-iifl-finance-mrf-nbcc-126111100092_1.html",
+      "date": "2026-11-11T02:36:38Z"
     }
   ]
 }

@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-11-13T03:05:31.089174"
+      "date": "2026-11-14T02:52:38.983355"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-11-13T03:05:31.089183"
+      "date": "2026-11-14T02:52:38.983366"
     }
   ],
   "bitcoin": {
-    "price": 70203,
-    "date": "2026-11-13T03:05:31.244732"
+    "price": 67691,
+    "date": "2026-11-14T02:52:39.068685"
   },
   "news": [
     {
-      "title": "Are dolphins lovable?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/are-dolphins-lovable/",
-      "date": "2026-11-12T03:05:05Z"
+      "title": "Stout hockey ready to defend historic season",
+      "source": "Leader-Telegram",
+      "url": "https://www.leadertelegram.com/sports/stout-hockey-ready-to-defend-historic-season/article_04955545-6f9b-48bc-8a87-2c29ef27e959.html",
+      "date": "2026-11-13T02:46:00Z"
     },
     {
-      "title": "Positive Breakout: These 5 stocks close above their 200 DMA",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/positive-breakout-these-5-stocks-close-above-their-200-dma/trend-watch/slideshow/135753555.cms",
-      "date": "2026-11-12T03:03:46Z"
+      "title": "India equity surge brightens outlook for exchanges, brokerages",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-equity-surge-brightens-outlook-for-exchanges-brokerages/articleshow/135786787.cms",
+      "date": "2026-11-13T02:43:10Z"
     },
     {
-      "title": "Can crows get attached to humans?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/can-crows-get-attached-to-humans/",
-      "date": "2026-11-12T03:02:39Z"
+      "title": "Will inflation, higher bond yields spook markets? Here's what analysts say",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/nifty-bank-nifty-outlook-will-inflation-higher-bond-yields-spook-markets-here-s-what-analysts-say-126111300077_1.html",
+      "date": "2026-11-13T02:31:20Z"
     },
     {
-      "title": "Arkham labels VanEck Bitcoin ETN wallets holding $507 million in BTC",
+      "title": "Stocks to watch: ZEEL, Ola Electric, Vi, IHCL, Manappuram Finance, RPower",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/stocks-to-watch-zeel-ola-electric-vi-ihcl-manappuram-finance-rpower-126111300072_1.html",
+      "date": "2026-11-13T02:29:46Z"
+    },
+    {
+      "title": "SGB 2018-19 Series III final redemption today: Investors to earn up to 348% return; check RBI fixed price, interest rate",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/sgb-2018-19-series-iii-final-redemption-today-investors-to-earn-up-to-348-return-check-rbi-fixed-price-interest-rate-11794529119186.html",
+      "date": "2026-11-13T02:27:28Z"
+    },
+    {
+      "title": "Hong Kong’s New World Development suspends trading as financial rescue speculation mounts",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/0c7b1fff5423f3f7",
+      "date": "2026-11-13T02:24:07Z"
+    },
+    {
+      "title": "Trump Teams Up With Bukele & Topples London’s Empire In Haiti (INCLUDES MY NOTES on this 22 minute video contrasting British System with American System)",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4402861/posts",
+      "date": "2026-11-13T02:10:42Z"
+    },
+    {
+      "title": "Zach Herbert explains Foundation’s QuantumLink, a post-quantum Bluetooth bet for hardware wallets",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/arkham-labels-vaneck-bitcoin-etn-wallets/",
-      "date": "2026-11-12T03:01:53Z"
+      "url": "https://cryptobriefing.com/zach-herbert-foundation-quantumlink-post-quantum/",
+      "date": "2026-11-13T02:08:04Z"
     },
     {
-      "title": "Focused funds have 30-stock limit, but these active equity mutual funds also follow concentrated approach: Here's list",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/focused-funds-have-30-stock-limit-but-these-active-equity-mutual-funds-also-follow-concentrated-approach-heres-list-11794449457356.html",
-      "date": "2026-11-12T02:58:23Z"
+      "title": "Fintech deepens cross-border payment push",
+      "source": "The Punch",
+      "url": "https://punchng.com/fintech-deepens-cross-border-payment-push/",
+      "date": "2026-11-13T02:07:30Z"
     },
     {
-      "title": "Anthropic IPO draws multiple times the available orders: Why Wall Street sees it as a test of the AI boom",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/companies/news/anthropic-ipo-draws-multiple-times-the-available-orders-why-wall-street-sees-it-as-a-test-of-the-ai-boom-11794451339447.html",
-      "date": "2026-11-12T02:51:11Z"
-    },
-    {
-      "title": "Asian stocks fragile, Nvidia plummets as board to decide CEO's fate",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/asian-stocks-fragile-nvidia-plummets-as-board-to-decide-ceo-s-fate-126111200065_1.html",
-      "date": "2026-11-12T02:50:54Z"
-    },
-    {
-      "title": "2 top ASX shares to buy and hold for the next decade",
-      "source": "Motley Fool Australia",
-      "url": "https://www.fool.com.au/2026/11/12/2-top-asx-shares-to-buy-and-hold-for-the-next-decade-28/",
-      "date": "2026-11-12T02:50:43Z"
-    },
-    {
-      "title": "Oil prices drop as hopes for Iran, Ukraine peace talks pressure markets",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/commodities/oil-prices-drop-as-hopes-for-iran-ukraine-peace-talks-pressure-markets-126111200061_1.html",
-      "date": "2026-11-12T02:50:07Z"
-    },
-    {
-      "title": "India bonds to stay hemmed in by oil, Treasury moves ahead of inflation data",
+      "title": "Dollar near 19-month high on Fed hike bets, yen tests 160",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-to-stay-hemmed-in-by-oil-treasury-moves-ahead-of-inflation-data/articleshow/135752937.cms",
-      "date": "2026-11-12T02:48:53Z"
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160/articleshow/135786354.cms",
+      "date": "2026-11-13T02:03:28Z"
     },
     {
-      "title": "Index Provider MSCI Removes Strategy From Equity Benchmark",
+      "title": "Just Hit a New Record Low",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5d99d737720697c6",
-      "date": "2026-11-12T02:45:57Z"
+      "url": "https://biztoc.com/x/ff12779808f28469",
+      "date": "2026-11-13T01:57:48Z"
     },
     {
-      "title": "Stocks to watch: Bajaj Finance, GRSE, LIC, Meesho, ITC, Tata Investment",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/stocks-to-watch-bajaj-finance-grse-lic-meesho-itc-tata-investment-126111200073_1.html",
-      "date": "2026-11-12T02:44:41Z"
-    },
-    {
-      "title": "sccp added to PyPI",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/sccp/",
-      "date": "2026-11-12T02:43:31Z"
-    },
-    {
-      "title": "MSCI Nov rejig: LIC, Adani Green, Meesho among 4 additions; PI Inds exits",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/msci-november-2026-rejig-lic-adani-green-meesho-among-4-additions-pi-inds-exits-126111200074_1.html",
-      "date": "2026-11-12T02:41:03Z"
-    },
-    {
-      "title": "HSBC weighs greater Singapore autonomy to lessen China reliance",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/business/hsbc-weighs-greater-singapore-autonomy-to-lessen-china-reliance/articleshow/135752769.cms",
-      "date": "2026-11-12T02:35:01Z"
-    },
-    {
-      "title": "Oil prices fall over 1% as hopes of Iran, Russia-Ukraine peace talks weigh on market",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/oil-prices-fall-over-1-as-hopes-of-iran-russia-ukraine-peace-talks-weigh-on-market/articleshow/135752567.cms",
-      "date": "2026-11-12T02:29:28Z"
-    },
-    {
-      "title": "Israel Discount Bank Puts Bitcoin in Its App on Nov. 26, but the Coins Can’t Leave",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/bitcoin-news/israel-discount-bank-bitcoin-trading-app-november-26/",
-      "date": "2026-11-12T02:21:26Z"
-    },
-    {
-      "title": "Flattish opening seen for Indian stocks; markets to eye release of inflation data",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/flattish-opening-seen-for-indian-stocks-markets-to-eye-release-of-inflation-data/article71692174.ece",
-      "date": "2026-11-12T02:21:23Z"
-    },
-    {
-      "title": "3 UK Dividend Stocks Built For Sticky Inflation",
+      "title": "Falls This Much Following 2 Analyst Ratings",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4a8872fd66995437",
-      "date": "2026-11-12T02:17:15Z"
+      "url": "https://biztoc.com/x/93073240a7b2a247",
+      "date": "2026-11-13T01:57:44Z"
     },
     {
-      "title": "Nifty could move to 25,500-25,750; Paytm among 3 stock ideas: Ajit Mishra",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/stocks-to-buy-today-nifty-could-move-to-25-500-25-750-paytm-among-3-stock-ideas-ajit-mishra-126111200062_1.html",
-      "date": "2026-11-12T02:13:01Z"
+      "title": "One Nation leader gave no straight answers, and yet walked away unscathed",
+      "source": "Crikey",
+      "url": "http://www.crikey.com.au/2026/11/13/warren-pickering-one-nation-victorian-election-press-club/",
+      "date": "2026-11-13T01:48:39Z"
     },
     {
-      "title": "KYC and KYB: Pidilite's margin keeps finding its way back, though costlier raw materials can knock it off",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/prime/kyc-and-kyb-pidilites-margin-keeps-finding-its-way-back-though-costlier-raw-materials-can-knock-it-off-course-part-2-of-3/primearticleshow/135752117.cms",
-      "date": "2026-11-12T02:07:51Z"
-    },
-    {
-      "title": "Buzzing stocks: Bajaj Finance, Tata Power, Adani Enterprises, Sandur Manganese, Alivus Life, Aurobindo Pharma",
+      "title": "Buzzing stocks: Meesho, Clean Max, Lupin, IOC, NBCC, NCL Ind, Zee, Edelweiss, Jujhar Logistics, Ola",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/buzzing-stocks-bajaj-finance-tata-power-adani-enterprises-sandur-manganese-alivus-life-aurobindo-pharma/article71692162.ece",
-      "date": "2026-11-12T02:03:14Z"
+      "url": "https://www.thehindubusinessline.com/markets/buzzing-stocks-meesho-clean-max-lupin-ioc-nbcc-ncl-ind-zee-edelweiss-jujhar-logistics-ola/article71696388.ece",
+      "date": "2026-11-13T01:47:33Z"
     },
     {
-      "title": "Nvidia has lost $450 billion since Jensen Huang admitted to an affair. Millions of 401(k)s are exposed",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/11/11/nvidia-jensen-huang-board-401k-retirement-exposure/",
-      "date": "2026-11-12T02:01:21Z"
+      "title": "Falls Harder Than Wall Street",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/ee7ed6f47a149461",
+      "date": "2026-11-13T01:43:44Z"
     },
     {
-      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a muted start; Asian shares trade mixed",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-power-cupid-share-price-12-november-2026/liveblog/135752335.cms",
-      "date": "2026-11-12T01:56:51Z"
+      "title": "Takes Another Hit as Fresh Probe Weighs on Shares",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/0f5b86ad72d6f96d",
+      "date": "2026-11-13T01:43:42Z"
     },
     {
-      "title": "Oil prices drop more than $1 as hopes for Iran, Ukraine peace talks pressure markets",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-drop-more-than-1-as-hopes-for-iran-ukraine-peace-talks-pressure-markets/articleshow/135752159.cms",
-      "date": "2026-11-12T01:54:50Z"
+      "title": "Gets Beaten for Bidding Billions for This Company",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/9e6900492f2de96c",
+      "date": "2026-11-13T01:43:33Z"
     },
     {
-      "title": "Wall Street gains as CoreWeave calms AI jitters",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-gains-as-coreweave-calms-ai-jitters/articleshow/135752112.cms",
-      "date": "2026-11-12T01:52:23Z"
+      "title": "U.S. stock futures rise after Nvidia CEO exit spooks Wall St",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/26e403aac617d03e",
+      "date": "2026-11-13T01:43:32Z"
     },
     {
-      "title": "Adani Group, Codelco sign pact for copper exploration project",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/adani-group-codelco-sign-pact-for-copper-exploration-project/articleshow/135752065.cms",
-      "date": "2026-11-12T01:46:53Z"
+      "title": "Takes a Beating — This Tech Giant Is to Blame",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6438d4e0f861bb0a",
+      "date": "2026-11-13T01:43:29Z"
     },
     {
-      "title": "Why do coyotes cry at night?",
+      "title": "Sheds Double Digits. These 2 Firms May Hold the Reason",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/e40aa97d7530e29f",
+      "date": "2026-11-13T01:43:17Z"
+    },
+    {
+      "title": "Chipotle Mexican Grill vs. Coca-Cola: Which Stock Is a Buy After the Nvidia Sell-Off?",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d833c5ceb4c6b6cf",
+      "date": "2026-11-13T01:43:16Z"
+    },
+    {
+      "title": "Said on Its Q3 Earnings Call",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/ef6c475047a29681",
+      "date": "2026-11-13T01:43:13Z"
+    },
+    {
+      "title": "Bank of America’s Matthew O’Neill Is Positive on Block (XYZ) for Early 2027. One Question Remains",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2c2bbe8c69947fff",
+      "date": "2026-11-13T01:43:02Z"
+    },
+    {
+      "title": "LNbits Ships Urgent 1.7.0 Patch After Attacks Drain Self-Hosted Wallets",
+      "source": "Techreport.com",
+      "url": "https://techreport.com/news/software/lnbits-1-7-0-security-update-self-hosted-hot-wallets/",
+      "date": "2026-11-13T01:40:31Z"
+    },
+    {
+      "title": "Cubs' Crow-Armstrong, Astros' Alvarez earn MLB MVP awards",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/cubs-crow-armstrong-astros-alvarez-013425393.html",
+      "date": "2026-11-13T01:34:25Z"
+    },
+    {
+      "title": "The Nvidia scandal has wiped away $1T in value. What that means for your investments",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/business/nvidia-jensen-huang-ceo-selloff-investments-retirement-9.7420093",
+      "date": "2026-11-13T01:25:54Z"
+    },
+    {
+      "title": "Stocks Fall as Huang Resigns, Nvidia Turns to CFO",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b962f54416927251",
+      "date": "2026-11-13T01:21:22Z"
+    },
+    {
+      "title": "Now with an MVP, Pete Crow-Armstrong is on the path for an all-time great career. Where could he stack up?",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/mlb/news/pete-crow-armstrong-mvp-2026-historical-comparisons/",
+      "date": "2026-11-13T01:05:34Z"
+    },
+    {
+      "title": "Pete Crow-Armstrong, Yordan Alvarez unanimously claim MVP Awards",
+      "source": "Brew Crew Ball",
+      "url": "https://www.brewcrewball.com/milwaukee-brewers-news/92783/pete-crow-armstrong-yordan-alvarez-unanimously-claim-mvp-awards",
+      "date": "2026-11-13T01:02:16Z"
+    },
+    {
+      "title": "Can you bond with a bat?",
       "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/why-do-coyotes-cry-at-night/",
-      "date": "2026-11-12T01:41:20Z"
-    },
-    {
-      "title": "Global Market Today: Asian stocks mixed as Nvidia turmoil hits AI-linked shares",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-us-stock-futures-fall-as-nvidia-turmoil-deepens/articleshow/135751953.cms",
-      "date": "2026-11-12T01:33:51Z"
-    },
-    {
-      "title": "Shares Skyrocket 21.8% on This Catalyst",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7131d972c4ec9df2",
-      "date": "2026-11-12T01:32:27Z"
+      "url": "https://www.lifesciencesworld.com/can-you-bond-with-a-bat/",
+      "date": "2026-11-13T01:01:32Z"
     }
   ]
 }

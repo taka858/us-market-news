@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-11-15T02:20:20.470315"
+      "date": "2026-11-16T02:31:57.258453"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-11-15T02:20:20.470320"
+      "date": "2026-11-16T02:31:57.258460"
     }
   ],
   "bitcoin": {
-    "price": 64419,
-    "date": "2026-11-15T02:20:20.520571"
+    "price": 65180,
+    "date": "2026-11-16T02:31:57.295497"
   },
   "news": [
     {
-      "title": "AI relief fails to lift legacy IT stocks as earnings worries weigh",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ai-relief-fails-to-lift-legacy-it-stocks-as-earnings-worries-weigh/articleshow/135820139.cms",
-      "date": "2026-11-14T02:13:30Z"
-    },
-    {
-      "title": "US Transportation Department says air traffic system gave inconsistent data prompting shutdown",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-transportation-department-says-air-traffic-system-gave-inconsistent-data-prompting-shutdown/articleshow/135820364.cms",
-      "date": "2026-11-14T02:12:32Z"
-    },
-    {
-      "title": "C.H. Robinson Worldwide Targets $300 Million in RXO Savings as Freight Costs Rise",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/0b24ed3ff8c23ab6",
-      "date": "2026-11-14T02:11:25Z"
-    },
-    {
-      "title": "3 Oil And Gas Stocks Retail Investors Are Watching As Supply Risk Grows",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ac85232826db924b",
-      "date": "2026-11-14T02:11:13Z"
-    },
-    {
-      "title": "Stablecoins Jumped 131% in Western Europe’s $2.08 Trillion Crypto Economy While the UK Shrank",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/bitcoin-news/western-europe-crypto-economy-mica-crypto-stablecoins-131/",
-      "date": "2026-11-14T02:05:40Z"
-    },
-    {
-      "title": "Jim Simons’ firm dumps Nvidia, reveals $2.24 billion in 2 tech stocks",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e56718f234324e2e",
-      "date": "2026-11-14T01:39:52Z"
-    },
-    {
-      "title": "Hydro-Québec may suspend power deliveries to U.S. as it faces pressure on water reservoirs",
-      "source": "The Globe And Mail",
-      "url": "https://www.theglobeandmail.com/business/article-hydro-quebec-suspend-power-deliveries-us-water-reservoirs/",
-      "date": "2026-11-14T01:33:08Z"
-    },
-    {
-      "title": "Boston Fed’s Collins Says Tighter Policy Is Worth the Housing Hit as Mortgage Rates Top 7%",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/bitcoin-news/boston-fed-collins-housing-higher-rates-mortgage-7-percent/",
-      "date": "2026-11-14T01:22:07Z"
-    },
-    {
-      "title": "Anthropic CEO sells investors on safety, 'no jerks' culture",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/business/anthropic-ceo-sells-investors-on-safety-no-jerks-culture/articleshow/135819955.cms",
-      "date": "2026-11-14T01:15:26Z"
-    },
-    {
-      "title": "xStocks Broadens Suite of Tokenized Assets, Bringing Hundreds of UK and EU-Listed Equities Onchain",
-      "source": "Antaranews.com",
-      "url": "https://en.antaranews.com/news/442531/xstocks-broadens-suite-of-tokenized-assets-bringing-hundreds-of-uk-and-eu-listed-equities-onchain",
-      "date": "2026-11-14T01:10:47Z"
-    },
-    {
-      "title": "Bitcoin Gained 213% While the Fed Drained $2.38 Trillion. Now the Fed Is Growing Again",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/analysis/quantitative-tightening-ended-fed-balance-sheet-bitcoin/",
-      "date": "2026-11-14T00:45:28Z"
-    },
-    {
-      "title": "lumibot 4.6.55",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/lumibot/4.6.55/",
-      "date": "2026-11-14T00:35:57Z"
-    },
-    {
-      "title": "Do sugar gliders need a companion?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/do-sugar-gliders-need-a-companion/",
-      "date": "2026-11-14T00:33:57Z"
-    },
-    {
-      "title": "Catholic Caucus: Daily Mass Readings 13-November-2026",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4402983/posts",
-      "date": "2026-11-14T00:29:56Z"
-    },
-    {
-      "title": "Over 35% of Bitcoin Supply Faces Potential Quantum Risk, New Data Shows",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5f2983adf1210577",
-      "date": "2026-11-14T00:25:25Z"
-    },
-    {
-      "title": "Philip Roth and David Remnick Getting Personal",
-      "source": "Skidmore.edu",
-      "url": "https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
-      "date": "2026-11-14T00:21:26Z"
-    },
-    {
-      "title": "US stocks tumble as Nvidia slides 4.3%, triggering fresh selloff in technology shares",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/us-stocks-tumble-as-nvidia-slides-43-triggering-fresh-selloff-in-technology-shares/article71700678.ece",
-      "date": "2026-11-14T00:17:52Z"
-    },
-    {
-      "title": "James Uthmeier AG Opinion regarding section 790.222, Bump-fire stocks",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4402982/posts",
-      "date": "2026-11-14T00:15:00Z"
-    },
-    {
-      "title": "James Uthmeier AG Opinion regarding section 790.222, Bump-fire stocks",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4402982/posts",
-      "date": "2026-11-14T00:15:00Z"
-    },
-    {
-      "title": "Wall Street stocks mostly lower as Nvidia extends slump",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6bd5e797e91120d4",
-      "date": "2026-11-14T00:09:30Z"
-    },
-    {
-      "title": "Paraguay Expects $350 Million From Bitcoin Miners This Year, Then Their Power Contracts Run Out",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/bitcoin-news/paraguay-crypto-mining-350-million-ande-2027-deadline/",
-      "date": "2026-11-14T00:05:16Z"
-    },
-    {
-      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo",
-      "date": "2026-11-14T00:03:56Z"
-    },
-    {
-      "title": "7 Classic Food Experiences to Try in Marseille",
-      "source": "National Geographic",
-      "url": "https://www.nationalgeographic.com/travel/article/classic-food-experiences-to-try-in-marseille",
-      "date": "2026-11-14T00:00:00Z"
-    },
-    {
-      "title": "Photocatalytic radical hydrogenation of unactivated alkenes via an intermolecular hydrogen-atom-transfer relay",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41467-026-79704-1.pdf",
-      "date": "2026-11-14T00:00:00Z"
-    },
-    {
-      "title": "バリーボンズ「50本超え、一回しかないですw」ワイ「うおw」",
-      "source": "Livedoor.jp",
-      "url": "http://blog.livedoor.jp/nanjstu/archives/63605127.html",
-      "date": "2026-11-13T23:55:33Z"
-    },
-    {
-      "title": "When love meets genetics: The importance of genotype testing",
-      "source": "The Punch",
-      "url": "https://punchng.com/when-love-meets-genetics-the-importance-of-genotype-testing/",
-      "date": "2026-11-13T23:52:20Z"
-    },
-    {
-      "title": "Nvidia stock slips as investors digest CEO exit, broader chip sell-off accelerates - Yahoo Finance",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186716361",
-      "date": "2026-11-13T23:52:18Z"
-    },
-    {
-      "title": "US grounds all flights nationwide after air traffic control communication outage",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/us-grounds-all-flights-nationwide-after-air-traffic-control-communication-outage/article71700537.ece",
-      "date": "2026-11-13T23:51:11Z"
-    },
-    {
-      "title": "Coinbase Institutional says Fed rate expectations, not the Binance hack, sank Bitcoin",
+      "title": "BitMine chairman Tom Lee links AI selloff and Anthropic IPO to crypto pressure",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/coinbase-institutional-fed-rates-bitcoin-decline/",
-      "date": "2026-11-13T23:48:00Z"
+      "url": "https://cryptobriefing.com/tom-lee-ai-selloff-anthropic-ipo-crypto/",
+      "date": "2026-11-15T02:12:32Z"
     },
     {
-      "title": "The Chateaugay Way: Bulldogs’ volleyball team builds success through bonds",
-      "source": "Pressrepublican.com",
-      "url": "https://www.pressrepublican.com/sports/the-chateaugay-way-bulldogs-volleyball-team-builds-success-through-bonds/article_e44335c4-543a-4bb0-b7a1-3f4ff9a29382.html",
-      "date": "2026-11-13T23:39:00Z"
+      "title": "Top 3 Canadian Undervalued Stocks To Watch In November 2026",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6b90517157e0bc3b",
+      "date": "2026-11-15T02:02:36Z"
+    },
+    {
+      "title": "What The Hell Is Happening w/ Charlie Robinson",
+      "source": "Activistpost.com",
+      "url": "https://activistpost.com/what-the-hell-is-happening-w-charlie-robinson-7/",
+      "date": "2026-11-15T02:00:00Z"
+    },
+    {
+      "title": "Bitcoin’s oil relief has a catch: more oil at sea, less on land",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/bitcoins-oil-relief-has-a-catch-more-oil-at-sea-less-on-land/",
+      "date": "2026-11-15T01:40:52Z"
+    },
+    {
+      "title": "Bitcoin Miners Are Earning 18% Less Than Their Yearly Average as the Puell Multiple Hits 0.82",
+      "source": "Dcforecasts.com",
+      "url": "https://www.dcforecasts.com/analysis/puell-multiple-bitcoin-miners-0-82/",
+      "date": "2026-11-15T01:34:33Z"
+    },
+    {
+      "title": "economics-finance-ai999x 1.6.3",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/economics-finance-ai999x/1.6.3/",
+      "date": "2026-11-15T01:34:03Z"
+    },
+    {
+      "title": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone' - CoinDesk",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186726038",
+      "date": "2026-11-15T01:32:41Z"
+    },
+    {
+      "title": "What makes crows happy?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/what-makes-crows-happy/",
+      "date": "2026-11-15T01:29:20Z"
+    },
+    {
+      "title": "Consider Nvidia’s Jensen Huang-led implosion a massive win for short sellers",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/14/business/consider-nvidias-jensen-huang-led-implosion-a-massive-win-for-short-stock-sellers/",
+      "date": "2026-11-15T01:25:40Z"
+    },
+    {
+      "title": "lumibot 4.6.66",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/lumibot/4.6.66/",
+      "date": "2026-11-15T01:07:34Z"
+    },
+    {
+      "title": "SEC Filed Just 235 New Cases in Fiscal 2026 but Nearly Tripled What It Returned to Investors",
+      "source": "Dcforecasts.com",
+      "url": "https://www.dcforecasts.com/regulation/sec-enforcement-actions-fiscal-2026-crypto/",
+      "date": "2026-11-15T01:04:17Z"
+    },
+    {
+      "title": "SCSS investment rules: 5 mistakes retirees must avoid before investing the maximum ₹30 lakh in the scheme",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/scss-investment-rules-5-mistakes-retirees-must-avoid-before-investing-the-maximum-30-lakh-in-the-scheme-11794680496752.html",
+      "date": "2026-11-15T01:00:34Z"
+    },
+    {
+      "title": "tollbooth-dpyc 0.120.1",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/tollbooth-dpyc/0.120.1/",
+      "date": "2026-11-15T00:56:14Z"
+    },
+    {
+      "title": "How long do cardinals stay around?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/how-long-do-cardinals-stay-around/",
+      "date": "2026-11-15T00:55:28Z"
+    },
+    {
+      "title": "Bitcoin Plummets 24% in 46 Days as Crypto Falls on Rising Inflation",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/story/26/11/15/0050236/bitcoin-plummets-24-in-46-days-as-crypto-falls-on-rising-inflation",
+      "date": "2026-11-15T00:52:00Z"
+    },
+    {
+      "title": "seed-scan added to PyPI",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/seed-scan/",
+      "date": "2026-11-15T00:44:46Z"
+    },
+    {
+      "title": "Why is a coyote not a wolf?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/why-is-a-coyote-not-a-wolf/",
+      "date": "2026-11-15T00:39:00Z"
+    },
+    {
+      "title": "Strive Raises SATA Dividend to 13.25% After a Month Below Its $99 Floor",
+      "source": "Dcforecasts.com",
+      "url": "https://www.dcforecasts.com/bitcoin-news/strive-sata-stock-dividend-13-25/",
+      "date": "2026-11-15T00:34:07Z"
+    },
+    {
+      "title": "Crypto liquidations surge past $1.9 billion as Bitcoin nears $63,000",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/crypto-market-liquidations-bitcoin-slide/",
+      "date": "2026-11-15T00:17:26Z"
+    },
+    {
+      "title": "Top 3 British Biotech Stocks To Watch In November 2026",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/ba24d04cfda8e431",
+      "date": "2026-11-15T00:15:36Z"
+    },
+    {
+      "title": "Bitcoin’s Realized Price Sits at $53,762, and the Average Coin Is Still in Profit",
+      "source": "Dcforecasts.com",
+      "url": "https://www.dcforecasts.com/analysis/bitcoin-realized-price-mvrv-53762/",
+      "date": "2026-11-15T00:04:17Z"
+    },
+    {
+      "title": "Ava Labs says its NYSE deal cost nothing and opened doors with institutions",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/ava-labs-nyse-avalanche-tokenized-settlement/",
+      "date": "2026-11-15T00:04:09Z"
+    },
+    {
+      "title": "5 AI Infrastructure Stocks to Watch After CoreWeave’s Earnings",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/7ec87b180a888807",
+      "date": "2026-11-15T00:00:09Z"
+    },
+    {
+      "title": "How Canadian stocks could be big winners of U.S. midterms",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/eac52f8323610a93",
+      "date": "2026-11-14T23:45:23Z"
+    },
+    {
+      "title": "Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/bitcoin-drops-below-66000-as-bullish-bets-get-wiped-out/",
+      "date": "2026-11-14T23:40:35Z"
+    },
+    {
+      "title": "Bitcoin’s Five Straight Weekly Losses Have Only Two Precedents Since 2015",
+      "source": "Dcforecasts.com",
+      "url": "https://www.dcforecasts.com/bitcoin-news/why-is-bitcoin-down-five-week-losing-streak/",
+      "date": "2026-11-14T23:39:27Z"
+    },
+    {
+      "title": "The FAA’s Issued a Halt to Air Travel at 3.54. Six Minutes Before Closure of Stock Market",
+      "source": "Globalresearch.ca",
+      "url": "https://www.globalresearch.ca/the-faas-issued-a-halt-to-air-travel-at-3-54-six-minutes-before-closure-of-stock-market/5945855",
+      "date": "2026-11-14T23:33:13Z"
+    },
+    {
+      "title": "‘Terrifies me’: Economists reveal what Trump may do in coming tech meltdown",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/paul-krugman-2678404812/",
+      "date": "2026-11-14T23:21:57Z"
+    },
+    {
+      "title": "20% Upsized Cashback @ Bonds via TopCashback",
+      "source": "Ozbargain.com.au",
+      "url": "https://www.ozbargain.com.au/node/983213",
+      "date": "2026-11-14T23:14:44Z"
+    },
+    {
+      "title": "Only 2022 Started November Worse for Bitcoin, and That Month Marked the Cycle Low",
+      "source": "Dcforecasts.com",
+      "url": "https://www.dcforecasts.com/analysis/bitcoin-monthly-returns-november-second-worst-start/",
+      "date": "2026-11-14T23:09:31Z"
     }
   ]
 }

@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-11-16T02:31:57.258453"
+      "date": "2026-11-17T04:55:41.409377"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-11-16T02:31:57.258460"
+      "date": "2026-11-17T04:55:41.409383"
     }
   ],
   "bitcoin": {
-    "price": 65180,
-    "date": "2026-11-16T02:31:57.295497"
+    "price": 64963,
+    "date": "2026-11-17T04:55:41.478698"
   },
   "news": [
     {
-      "title": "BitMine chairman Tom Lee links AI selloff and Anthropic IPO to crypto pressure",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/tom-lee-ai-selloff-anthropic-ipo-crypto/",
-      "date": "2026-11-15T02:12:32Z"
+      "title": "Practical cooperation in digital domain, AI can unlock opportunities for ASEAN, China: PM Wong",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/singapore/asean-china-summit-lawrence-wong-6553926",
+      "date": "2026-11-16T04:51:12Z"
     },
     {
-      "title": "Top 3 Canadian Undervalued Stocks To Watch In November 2026",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6b90517157e0bc3b",
-      "date": "2026-11-15T02:02:36Z"
-    },
-    {
-      "title": "What The Hell Is Happening w/ Charlie Robinson",
-      "source": "Activistpost.com",
-      "url": "https://activistpost.com/what-the-hell-is-happening-w-charlie-robinson-7/",
-      "date": "2026-11-15T02:00:00Z"
-    },
-    {
-      "title": "Bitcoin’s oil relief has a catch: more oil at sea, less on land",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/bitcoins-oil-relief-has-a-catch-more-oil-at-sea-less-on-land/",
-      "date": "2026-11-15T01:40:52Z"
-    },
-    {
-      "title": "Bitcoin Miners Are Earning 18% Less Than Their Yearly Average as the Puell Multiple Hits 0.82",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/analysis/puell-multiple-bitcoin-miners-0-82/",
-      "date": "2026-11-15T01:34:33Z"
-    },
-    {
-      "title": "economics-finance-ai999x 1.6.3",
+      "title": "economics-finance-ai999x 1.6.4",
       "source": "Pypi.org",
-      "url": "https://pypi.org/project/economics-finance-ai999x/1.6.3/",
-      "date": "2026-11-15T01:34:03Z"
+      "url": "https://pypi.org/project/economics-finance-ai999x/1.6.4/",
+      "date": "2026-11-16T04:50:41Z"
     },
     {
-      "title": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone' - CoinDesk",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186726038",
-      "date": "2026-11-15T01:32:41Z"
+      "title": "Nvidia shares steady after report on Jensen Huang comeback talks",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/info-tech/nvidia-shares-steady-after-report-on-jensen-huang-comeback-talks/article71706771.ece",
+      "date": "2026-11-16T04:49:53Z"
     },
     {
-      "title": "What makes crows happy?",
+      "title": "nciplot-rs-python 0.1.0",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/nciplot-rs-python/",
+      "date": "2026-11-16T04:44:13Z"
+    },
+    {
+      "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings",
+      "date": "2026-11-16T04:42:07Z"
+    },
+    {
+      "title": "Kaynes Technology share price crashes 15% after Q2 shocker. Here’s what spooked investors",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-technology-crashes-15-after-q2-shocker-heres-what-spooked-investors/articleshow/135872866.cms",
+      "date": "2026-11-16T04:34:00Z"
+    },
+    {
+      "title": "Airbus, Boeing supply-chain shift boosts India’s aerospace stocks",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/airbus-boeing-supply-chain-shift-boosts-indias-aerospace-stocks/article71706736.ece",
+      "date": "2026-11-16T04:29:01Z"
+    },
+    {
+      "title": "3 Penny Stocks With Earnings Growth Up To 58%",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8d8c46e51898a7a5",
+      "date": "2026-11-16T04:28:03Z"
+    },
+    {
+      "title": "Nvidia: Now What?",
+      "source": "Awealthofcommonsense.com",
+      "url": "https://awealthofcommonsense.com/2026/11/nvidia-now-what/",
+      "date": "2026-11-16T04:27:46Z"
+    },
+    {
+      "title": "Technical picks: ABB India among 5 stocks to buy this week for healthy returns",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/markets/stocks/news/tech-picks-abb-india-among-5-stocks-to-buy-this-week-for-healthy-returns/add-to-cart/slideshow/135872688.cms",
+      "date": "2026-11-16T04:13:24Z"
+    },
+    {
+      "title": "Stocks extend losses as traders digest Nvidia fallout",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/80feae9971a180b5",
+      "date": "2026-11-16T04:12:38Z"
+    },
+    {
+      "title": "Super Micro Computer (SMCI) Faces Growing Pressure as AI Server Margins Shrink",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/e4bba36722797178",
+      "date": "2026-11-16T04:12:28Z"
+    },
+    {
+      "title": "Retail investors caught the falling knife with Rs 15,000 crore investment. 5 stock bets are already bouncing back",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-caught-the-falling-knife-with-rs-15000-crore-investment-5-stock-bets-are-already-bouncing-back/articleshow/135872391.cms",
+      "date": "2026-11-16T04:07:49Z"
+    },
+    {
+      "title": "4 Birth Months That Wear A Perfect Poker Face",
+      "source": "Thoughtcatalog.com",
+      "url": "https://thoughtcatalog.com/grace-turney/2026/11/4-birth-months-that-wear-a-perfect-poker-face/",
+      "date": "2026-11-16T04:00:00Z"
+    },
+    {
+      "title": "Asian chip stocks slide ahead of Nvidia earnings",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8db7547ca23e08a7",
+      "date": "2026-11-16T03:57:49Z"
+    },
+    {
+      "title": "Barclays Upgrades Cleveland-Cliffs (CLF) From Underweight. What Changed?",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/bf736997e7fbdc8a",
+      "date": "2026-11-16T03:57:19Z"
+    },
+    {
+      "title": "Sell Alert: 5 Stocks Analysts Downgraded on Thursday",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/5b884a44aaeea938",
+      "date": "2026-11-16T03:57:12Z"
+    },
+    {
+      "title": "Tata Motors PV shares crack 9% as Motilal Oswal cuts earnings estimates, stays bearish after Q2 results",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-shares-in-focus-as-motilal-oswal-cuts-earnings-estimates-stays-bearish-after-q2-results/articleshow/135871690.cms",
+      "date": "2026-11-16T03:46:03Z"
+    },
+    {
+      "title": "ASX 200 Slips for Third Straight Session as Miners Sink and Nvidia Turmoil Keeps Australian Investors on Edge",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/asx-200-falls-mining-stocks-ai-jitters-1878631",
+      "date": "2026-11-16T03:44:07Z"
+    },
+    {
+      "title": "PM Modi begins Philippines visit to attend Asean, East Asia summits",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/external-affairs-defence-security/news/pm-modi-begins-philippines-visit-to-attend-asean-east-asia-summits-126111600081_1.html",
+      "date": "2026-11-16T03:41:42Z"
+    },
+    {
+      "title": "Eicher Motors shares jump 4% as Q2 profit rises 15% YoY. Why CLSA hiked target but cut earnings estimates",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/eicher-motors-shares-in-focus-as-q2-profit-rises-15-yoy-why-clsa-hiked-target-but-cut-earnings-estimates/articleshow/135871640.cms",
+      "date": "2026-11-16T03:39:32Z"
+    },
+    {
+      "title": "Buy Alert: 5 Stocks Analysts Upgraded on Thursday",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2b376e7ab39be183",
+      "date": "2026-11-16T03:27:04Z"
+    },
+    {
+      "title": "Western Digital Corp. (WDC) Faces Growing AI Spending Concerns After 17% Selloff",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/ae19de9e09a0770d",
+      "date": "2026-11-16T03:27:03Z"
+    },
+    {
+      "title": "Piper Sandler Flags a Risk at General Mills (GIS)",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a4f9082fa41b6c8e",
+      "date": "2026-11-16T03:26:47Z"
+    },
+    {
+      "title": "India's ties with ASEAN at heart of Act East Policy: PM Modi",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/indias-ties-with-asean-at-heart-of-act-east-policy-pm-modi/article71706666.ece",
+      "date": "2026-11-16T03:20:19Z"
+    },
+    {
+      "title": "Should you only have 1 pet rat?",
       "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/what-makes-crows-happy/",
-      "date": "2026-11-15T01:29:20Z"
+      "url": "https://www.lifesciencesworld.com/should-you-only-have-1-pet-rat/",
+      "date": "2026-11-16T03:14:01Z"
     },
     {
-      "title": "Consider Nvidia’s Jensen Huang-led implosion a massive win for short sellers",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/14/business/consider-nvidias-jensen-huang-led-implosion-a-massive-win-for-short-stock-sellers/",
-      "date": "2026-11-15T01:25:40Z"
-    },
-    {
-      "title": "lumibot 4.6.66",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/lumibot/4.6.66/",
-      "date": "2026-11-15T01:07:34Z"
-    },
-    {
-      "title": "SEC Filed Just 235 New Cases in Fiscal 2026 but Nearly Tripled What It Returned to Investors",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/regulation/sec-enforcement-actions-fiscal-2026-crypto/",
-      "date": "2026-11-15T01:04:17Z"
-    },
-    {
-      "title": "SCSS investment rules: 5 mistakes retirees must avoid before investing the maximum ₹30 lakh in the scheme",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/scss-investment-rules-5-mistakes-retirees-must-avoid-before-investing-the-maximum-30-lakh-in-the-scheme-11794680496752.html",
-      "date": "2026-11-15T01:00:34Z"
-    },
-    {
-      "title": "tollbooth-dpyc 0.120.1",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/tollbooth-dpyc/0.120.1/",
-      "date": "2026-11-15T00:56:14Z"
-    },
-    {
-      "title": "How long do cardinals stay around?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/how-long-do-cardinals-stay-around/",
-      "date": "2026-11-15T00:55:28Z"
-    },
-    {
-      "title": "Bitcoin Plummets 24% in 46 Days as Crypto Falls on Rising Inflation",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/story/26/11/15/0050236/bitcoin-plummets-24-in-46-days-as-crypto-falls-on-rising-inflation",
-      "date": "2026-11-15T00:52:00Z"
-    },
-    {
-      "title": "seed-scan added to PyPI",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/seed-scan/",
-      "date": "2026-11-15T00:44:46Z"
-    },
-    {
-      "title": "Why is a coyote not a wolf?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/why-is-a-coyote-not-a-wolf/",
-      "date": "2026-11-15T00:39:00Z"
-    },
-    {
-      "title": "Strive Raises SATA Dividend to 13.25% After a Month Below Its $99 Floor",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/bitcoin-news/strive-sata-stock-dividend-13-25/",
-      "date": "2026-11-15T00:34:07Z"
-    },
-    {
-      "title": "Crypto liquidations surge past $1.9 billion as Bitcoin nears $63,000",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/crypto-market-liquidations-bitcoin-slide/",
-      "date": "2026-11-15T00:17:26Z"
-    },
-    {
-      "title": "Top 3 British Biotech Stocks To Watch In November 2026",
+      "title": "Outgrow the Market in 2027? Barclays Weighs In",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ba24d04cfda8e431",
-      "date": "2026-11-15T00:15:36Z"
+      "url": "https://biztoc.com/x/a4e235aa2caf0f49",
+      "date": "2026-11-16T03:11:51Z"
     },
     {
-      "title": "Bitcoin’s Realized Price Sits at $53,762, and the Average Coin Is Still in Profit",
+      "title": "Priced in Turkish Lira, Bitcoin Is 36% Off Its Peak, Not 47%, and Up 146% Since 2024",
       "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/analysis/bitcoin-realized-price-mvrv-53762/",
-      "date": "2026-11-15T00:04:17Z"
+      "url": "https://www.dcforecasts.com/analysis/bitcoin-turkish-lira-drawdown-up-146-since-2024/",
+      "date": "2026-11-16T03:05:11Z"
     },
     {
-      "title": "Ava Labs says its NYSE deal cost nothing and opened doors with institutions",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/ava-labs-nyse-avalanche-tokenized-settlement/",
-      "date": "2026-11-15T00:04:09Z"
+      "title": "Steady Start Seen For Malaysia Stock Market",
+      "source": "Rttnews.com",
+      "url": "https://www.rttnews.com/3714750/steady-start-seen-for-malaysia-stock-market.aspx",
+      "date": "2026-11-16T03:04:08Z"
     },
     {
-      "title": "5 AI Infrastructure Stocks to Watch After CoreWeave’s Earnings",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7ec87b180a888807",
-      "date": "2026-11-15T00:00:09Z"
-    },
-    {
-      "title": "How Canadian stocks could be big winners of U.S. midterms",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/eac52f8323610a93",
-      "date": "2026-11-14T23:45:23Z"
-    },
-    {
-      "title": "Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/bitcoin-drops-below-66000-as-bullish-bets-get-wiped-out/",
-      "date": "2026-11-14T23:40:35Z"
-    },
-    {
-      "title": "Bitcoin’s Five Straight Weekly Losses Have Only Two Precedents Since 2015",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/bitcoin-news/why-is-bitcoin-down-five-week-losing-streak/",
-      "date": "2026-11-14T23:39:27Z"
-    },
-    {
-      "title": "The FAA’s Issued a Halt to Air Travel at 3.54. Six Minutes Before Closure of Stock Market",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/the-faas-issued-a-halt-to-air-travel-at-3-54-six-minutes-before-closure-of-stock-market/5945855",
-      "date": "2026-11-14T23:33:13Z"
-    },
-    {
-      "title": "‘Terrifies me’: Economists reveal what Trump may do in coming tech meltdown",
-      "source": "Raw Story",
-      "url": "https://www.rawstory.com/paul-krugman-2678404812/",
-      "date": "2026-11-14T23:21:57Z"
-    },
-    {
-      "title": "20% Upsized Cashback @ Bonds via TopCashback",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/983213",
-      "date": "2026-11-14T23:14:44Z"
-    },
-    {
-      "title": "Only 2022 Started November Worse for Bitcoin, and That Month Marked the Cycle Low",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/analysis/bitcoin-monthly-returns-november-second-worst-start/",
-      "date": "2026-11-14T23:09:31Z"
+      "title": "JPMorgan Filing Shows Bigger Strategy Stake and $540 Million in Bitcoin ETF Shares",
+      "source": "newsBTC",
+      "url": "https://www.newsbtc.com/bitcoin-news/jpmorgan-13f-strategy-ibit-holdings-q3-2026/",
+      "date": "2026-11-16T03:00:00Z"
     }
   ]
 }

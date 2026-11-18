@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-11-17T04:55:41.409377"
+      "date": "2026-11-18T03:59:41.173197"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-11-17T04:55:41.409383"
+      "date": "2026-11-18T03:59:41.173206"
     }
   ],
   "bitcoin": {
-    "price": 64963,
-    "date": "2026-11-17T04:55:41.478698"
+    "price": 64437,
+    "date": "2026-11-18T03:59:41.461980"
   },
   "news": [
     {
-      "title": "Practical cooperation in digital domain, AI can unlock opportunities for ASEAN, China: PM Wong",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/asean-china-summit-lawrence-wong-6553926",
-      "date": "2026-11-16T04:51:12Z"
-    },
-    {
-      "title": "economics-finance-ai999x 1.6.4",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/economics-finance-ai999x/1.6.4/",
-      "date": "2026-11-16T04:50:41Z"
-    },
-    {
-      "title": "Nvidia shares steady after report on Jensen Huang comeback talks",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/info-tech/nvidia-shares-steady-after-report-on-jensen-huang-comeback-talks/article71706771.ece",
-      "date": "2026-11-16T04:49:53Z"
-    },
-    {
-      "title": "nciplot-rs-python 0.1.0",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/nciplot-rs-python/",
-      "date": "2026-11-16T04:44:13Z"
-    },
-    {
-      "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings",
-      "date": "2026-11-16T04:42:07Z"
-    },
-    {
-      "title": "Kaynes Technology share price crashes 15% after Q2 shocker. Here’s what spooked investors",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-technology-crashes-15-after-q2-shocker-heres-what-spooked-investors/articleshow/135872866.cms",
-      "date": "2026-11-16T04:34:00Z"
-    },
-    {
-      "title": "Airbus, Boeing supply-chain shift boosts India’s aerospace stocks",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/airbus-boeing-supply-chain-shift-boosts-indias-aerospace-stocks/article71706736.ece",
-      "date": "2026-11-16T04:29:01Z"
-    },
-    {
-      "title": "3 Penny Stocks With Earnings Growth Up To 58%",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/8d8c46e51898a7a5",
-      "date": "2026-11-16T04:28:03Z"
-    },
-    {
-      "title": "Nvidia: Now What?",
-      "source": "Awealthofcommonsense.com",
-      "url": "https://awealthofcommonsense.com/2026/11/nvidia-now-what/",
-      "date": "2026-11-16T04:27:46Z"
-    },
-    {
-      "title": "Technical picks: ABB India among 5 stocks to buy this week for healthy returns",
+      "title": "Blue Star among 4 stocks closing above VWAP",
       "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/tech-picks-abb-india-among-5-stocks-to-buy-this-week-for-healthy-returns/add-to-cart/slideshow/135872688.cms",
-      "date": "2026-11-16T04:13:24Z"
+      "url": "https://m.economictimes.com/markets/stocks/news/blue-star-among-4-stocks-closing-above-vwap/vwap-signal/slideshow/135909667.cms",
+      "date": "2026-11-17T03:56:28Z"
     },
     {
-      "title": "Stocks extend losses as traders digest Nvidia fallout",
+      "title": "How Robert Pattinson stacks up against the past James Bonds",
+      "source": "CNA",
+      "url": "https://cnalifestyle.channelnewsasia.com/entertainment/robert-pattinson-james-bond-compare-previous-bonds-daniel-craig-591846",
+      "date": "2026-11-17T03:56:00Z"
+    },
+    {
+      "title": "Asian stocks sink as scandal-hit Nvidia prepares for earnings",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/80feae9971a180b5",
-      "date": "2026-11-16T04:12:38Z"
+      "url": "https://biztoc.com/x/fb02c7929c1d8aa1",
+      "date": "2026-11-17T03:52:33Z"
     },
     {
-      "title": "Super Micro Computer (SMCI) Faces Growing Pressure as AI Server Margins Shrink",
+      "title": "Is NVIDIA’s Turmoil Advanced Micro Devices’ (AMD) Biggest Opening Yet?",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e4bba36722797178",
-      "date": "2026-11-16T04:12:28Z"
+      "url": "https://biztoc.com/x/2bcfc0bdff3ec505",
+      "date": "2026-11-17T03:52:20Z"
     },
     {
-      "title": "Retail investors caught the falling knife with Rs 15,000 crore investment. 5 stock bets are already bouncing back",
+      "title": "Gets a Reality Check From Wall Street. Shares Slide",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6954b672d7ac12cc",
+      "date": "2026-11-17T03:52:09Z"
+    },
+    {
+      "title": "Investors return to JGBs as rate outlook shifts, SMBC Nikko says",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/51105bc28182b10f",
+      "date": "2026-11-17T03:51:12Z"
+    },
+    {
+      "title": "ITC among 6 stocks showing White Marubozu pattern",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/markets/stocks/news/itc-among-6-stocks-showing-white-marubozu-pattern/trend-watch/slideshow/135909511.cms",
+      "date": "2026-11-17T03:50:24Z"
+    },
+    {
+      "title": "IndiGo flight to Bengaluru aborts take-off at Mangaluru Airport",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-caught-the-falling-knife-with-rs-15000-crore-investment-5-stock-bets-are-already-bouncing-back/articleshow/135872391.cms",
-      "date": "2026-11-16T04:07:49Z"
+      "url": "https://timesofindia.indiatimes.com/india/indigo-flight-to-bengaluru-aborts-take-off-at-mangaluru-airport/articleshow/135908981.cms",
+      "date": "2026-11-17T03:50:15Z"
     },
     {
-      "title": "4 Birth Months That Wear A Perfect Poker Face",
-      "source": "Thoughtcatalog.com",
-      "url": "https://thoughtcatalog.com/grace-turney/2026/11/4-birth-months-that-wear-a-perfect-poker-face/",
-      "date": "2026-11-16T04:00:00Z"
+      "title": "BSE shares rise 2% as Bankex becomes first Indian sectoral index futures to be approved for US market",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/markets/stocks/news/bse-shares-in-focus-as-bankex-becomes-first-indian-sectoral-index-futures-contract-to-get-us-approval/articleshow/135909269.cms",
+      "date": "2026-11-17T03:48:46Z"
     },
     {
-      "title": "Asian chip stocks slide ahead of Nvidia earnings",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/8db7547ca23e08a7",
-      "date": "2026-11-16T03:57:49Z"
+      "title": "Twenty One Capital buys the Bitcoin dip after weekend selloff",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/twenty-one-capital-buys-bitcoin-dip-november-2026/",
+      "date": "2026-11-17T03:46:35Z"
     },
     {
-      "title": "Barclays Upgrades Cleveland-Cliffs (CLF) From Underweight. What Changed?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/bf736997e7fbdc8a",
-      "date": "2026-11-16T03:57:19Z"
-    },
-    {
-      "title": "Sell Alert: 5 Stocks Analysts Downgraded on Thursday",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5b884a44aaeea938",
-      "date": "2026-11-16T03:57:12Z"
-    },
-    {
-      "title": "Tata Motors PV shares crack 9% as Motilal Oswal cuts earnings estimates, stays bearish after Q2 results",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-shares-in-focus-as-motilal-oswal-cuts-earnings-estimates-stays-bearish-after-q2-results/articleshow/135871690.cms",
-      "date": "2026-11-16T03:46:03Z"
-    },
-    {
-      "title": "ASX 200 Slips for Third Straight Session as Miners Sink and Nvidia Turmoil Keeps Australian Investors on Edge",
+      "title": "Taiwan's TAIEX Drops Another 1.7% to 40,335 After Monday's 6% Crash as TSMC Selloff Rattles Chip-Heavy Market",
       "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/asx-200-falls-mining-stocks-ai-jitters-1878631",
-      "date": "2026-11-16T03:44:07Z"
+      "url": "https://www.ibtimes.com.au/taiwan-stocks-fall-ahead-nvidia-earnings-1878746",
+      "date": "2026-11-17T03:44:25Z"
     },
     {
-      "title": "PM Modi begins Philippines visit to attend Asean, East Asia summits",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/external-affairs-defence-security/news/pm-modi-begins-philippines-visit-to-attend-asean-east-asia-summits-126111600081_1.html",
-      "date": "2026-11-16T03:41:42Z"
-    },
-    {
-      "title": "Eicher Motors shares jump 4% as Q2 profit rises 15% YoY. Why CLSA hiked target but cut earnings estimates",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/eicher-motors-shares-in-focus-as-q2-profit-rises-15-yoy-why-clsa-hiked-target-but-cut-earnings-estimates/articleshow/135871640.cms",
-      "date": "2026-11-16T03:39:32Z"
-    },
-    {
-      "title": "Buy Alert: 5 Stocks Analysts Upgraded on Thursday",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/2b376e7ab39be183",
-      "date": "2026-11-16T03:27:04Z"
-    },
-    {
-      "title": "Western Digital Corp. (WDC) Faces Growing AI Spending Concerns After 17% Selloff",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ae19de9e09a0770d",
-      "date": "2026-11-16T03:27:03Z"
-    },
-    {
-      "title": "Piper Sandler Flags a Risk at General Mills (GIS)",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a4f9082fa41b6c8e",
-      "date": "2026-11-16T03:26:47Z"
-    },
-    {
-      "title": "India's ties with ASEAN at heart of Act East Policy: PM Modi",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/indias-ties-with-asean-at-heart-of-act-east-policy-pm-modi/article71706666.ece",
-      "date": "2026-11-16T03:20:19Z"
-    },
-    {
-      "title": "Should you only have 1 pet rat?",
+      "title": "At what age do eagles mate?",
       "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/should-you-only-have-1-pet-rat/",
-      "date": "2026-11-16T03:14:01Z"
+      "url": "https://www.lifesciencesworld.com/at-what-age-do-eagles-mate/",
+      "date": "2026-11-17T03:43:48Z"
     },
     {
-      "title": "Outgrow the Market in 2027? Barclays Weighs In",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a4e235aa2caf0f49",
-      "date": "2026-11-16T03:11:51Z"
+      "title": "Yes Bank among 4 stocks showing RSI Trending Up",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/markets/stocks/news/yes-bank-among-4-stocks-showing-rsi-trending-up/trend-tracker/slideshow/135909214.cms",
+      "date": "2026-11-17T03:40:39Z"
     },
     {
-      "title": "Priced in Turkish Lira, Bitcoin Is 36% Off Its Peak, Not 47%, and Up 146% Since 2024",
+      "title": "Lighter leaked API key incident: the protocol was fine, the keys were not",
+      "source": "Techreport.com",
+      "url": "https://techreport.com/news/software/lighter-leaked-api-key-incident-the-protocol-was-fine-the-keys-were-not/",
+      "date": "2026-11-17T03:40:27Z"
+    },
+    {
+      "title": "Pokemon cards turn childhood hobby into lucrative investment business",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/pokemon-cards-turn-childhood-hobby-into-lucrative-investment-business-126111700131_1.html",
+      "date": "2026-11-17T03:36:56Z"
+    },
+    {
+      "title": "Positive Breakout: 6 stocks close above their 200 DMAs",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/markets/stocks/news/positive-breakout-6-stocks-close-above-their-200-dmas/trend-watch/slideshow/135909082.cms",
+      "date": "2026-11-17T03:30:12Z"
+    },
+    {
+      "title": "Bitcoin Hashrate Rebounds 15% After the Difficulty Cut, Putting a 7.8% Increase in Sight",
       "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/analysis/bitcoin-turkish-lira-drawdown-up-146-since-2024/",
-      "date": "2026-11-16T03:05:11Z"
+      "url": "https://www.dcforecasts.com/analysis/bitcoin-hashrate-rebound-difficulty-increase-november-2026/",
+      "date": "2026-11-17T03:29:17Z"
     },
     {
-      "title": "Steady Start Seen For Malaysia Stock Market",
-      "source": "Rttnews.com",
-      "url": "https://www.rttnews.com/3714750/steady-start-seen-for-malaysia-stock-market.aspx",
-      "date": "2026-11-16T03:04:08Z"
+      "title": "Amitabh Bachchan wishes granddaughter Aaradhya Bachchan 'good fortune' in heartfelt note for her 15th birthday",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-wishes-granddaughter-aaradhya-bachchan-good-fortune-in-heartfelt-note-for-her-15th-birthday/articleshow/135908851.cms",
+      "date": "2026-11-17T03:25:25Z"
     },
     {
-      "title": "JPMorgan Filing Shows Bigger Strategy Stake and $540 Million in Bitcoin ETF Shares",
+      "title": "VEON Targets Up to $9 Billion in Revenue by 2030 as Fintech and AI Drive Growth",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c56340b5a04b3119",
+      "date": "2026-11-17T03:22:33Z"
+    },
+    {
+      "title": "Nikkei 225 Sinks Below 59,000 as Japan GDP Contraction, Weak Yen Near 160 and Tech Rout Pile Pressure on Tokyo",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/nikkei-falls-below-59000-tech-selloff-japan-economy-1878744",
+      "date": "2026-11-17T03:20:42Z"
+    },
+    {
+      "title": "Hang Seng Falls 1.1% Below 23,500 as Hong Kong Tech Stocks Slump on New U.S. Curbs on China's AI Chip Access",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/hong-kong-stocks-fall-us-ai-chip-curbs-1878748",
+      "date": "2026-11-17T03:20:03Z"
+    },
+    {
+      "title": "KOSPI Slides Toward 5,000 as Chip Selloff Extends Into Second Day Before Nvidia's First Post-Huang Earnings",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/south-korean-stocks-fall-ahead-nvidia-earnings-1878750",
+      "date": "2026-11-17T03:19:24Z"
+    },
+    {
+      "title": "Sensex Bucks Asian Rout, Jumps 512 Points to 82,104 as ITC, Banks and FMCG Stocks Lead Indian Market Rebound",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/indian-stocks-rise-asia-selloff-deepens-1878742",
+      "date": "2026-11-17T03:18:49Z"
+    },
+    {
+      "title": "Can monkeys be nice to humans?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/can-monkeys-be-nice-to-humans/",
+      "date": "2026-11-17T03:07:47Z"
+    },
+    {
+      "title": "PowerCompute Orders 600 New Bitcoin Miners as Higher Output Meets Lower Revenue",
       "source": "newsBTC",
-      "url": "https://www.newsbtc.com/bitcoin-news/jpmorgan-13f-strategy-ibit-holdings-q3-2026/",
-      "date": "2026-11-16T03:00:00Z"
+      "url": "https://www.newsbtc.com/bitcoin-news/powercompute-q3-2026-bitcoin-miner-upgrade-revenue/",
+      "date": "2026-11-17T03:00:00Z"
+    },
+    {
+      "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal",
+      "date": "2026-11-17T02:52:56Z"
+    },
+    {
+      "title": "Strive Buys 251 Bitcoin at Its Cheapest Weekly Price Since August, Taking Its Stack to 43,404",
+      "source": "Dcforecasts.com",
+      "url": "https://www.dcforecasts.com/bitcoin-news/asst-stock-strive-bitcoin-251-btc-43404/",
+      "date": "2026-11-17T02:51:36Z"
+    },
+    {
+      "title": "Stocks to watch: Urban Company, BSE, Tata group, HZL, YES Bank, IHCL",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/stocks-to-watch-urban-company-bse-tata-group-hzl-yes-bank-ihcl-126111700078_1.html",
+      "date": "2026-11-17T02:41:19Z"
+    },
+    {
+      "title": "Asian stocks sink as scandal-hit Nvidia prepares for earnings",
+      "source": "Digital Journal",
+      "url": "https://www.digitaljournal.com/article/asian-stocks-sink-as-scandal-hit-nvidia-prepares-for-earnings/",
+      "date": "2026-11-17T02:40:11Z"
+    },
+    {
+      "title": "Markets likely to consolidate as Nifty tests hurdle at 25,300: Analysts",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/markets-likely-to-consolidate-as-nifty-tests-hurdle-at-25-300-analysts-126111700076_1.html",
+      "date": "2026-11-17T02:38:07Z"
     }
   ]
 }

@@ -4,198 +4,198 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-11-21T03:43:13.180757"
+      "date": "2026-11-22T02:46:58.583853"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-11-21T03:43:13.180766"
+      "date": "2026-11-22T02:46:58.583860"
     }
   ],
   "bitcoin": {
-    "price": 57158,
-    "date": "2026-11-21T03:43:13.264505"
+    "price": 59509,
+    "date": "2026-11-22T02:46:58.662563"
   },
   "news": [
     {
-      "title": "MoonPay Trust Bank Filing Makes It the 17th Crypto Charter Bid Pending at the OCC",
+      "title": "As Governments Around The World Urge Their Citizens To Prepare, Here Are 3 Key Things To Watch This Week",
+      "source": "Activistpost.com",
+      "url": "https://activistpost.com/as-governments-around-the-world-urge-their-citizens-to-prepare-here-are-3-key-things-to-watch-this-week/",
+      "date": "2026-11-21T02:34:00Z"
+    },
+    {
+      "title": "How do you register and make a first deposit at 21betcasinong?",
+      "source": "Learningjquery.com",
+      "url": "https://learningjquery.com/2026/11/how-do-you-register-and-make-a-first-deposit-at-21betcasinong",
+      "date": "2026-11-21T02:32:46Z"
+    },
+    {
+      "title": "Is it OK to give your crush a nickname?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/is-it-ok-to-give-your-crush-a-nickname/",
+      "date": "2026-11-21T02:30:57Z"
+    },
+    {
+      "title": "Billionaire Bill Ackman’s Top 5 Stocks After Selling Stakes to Open a Brand-New Position",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/3cc9fbcb0a40b69b",
+      "date": "2026-11-21T02:30:27Z"
+    },
+    {
+      "title": "Anthropic IPO Sparks Stock Sell-Off in Japan",
+      "source": "Newsonjapan.com",
+      "url": "https://newsonjapan.com/article/151476.php",
+      "date": "2026-11-21T02:29:44Z"
+    },
+    {
+      "title": "George Soros Raised His Meta (META) Stake by 596%. Then the Stock Fell",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6d0dcf9ead85bb86",
+      "date": "2026-11-21T02:15:34Z"
+    },
+    {
+      "title": "'Miserable 7' Stocks Shed Whopping $4 Trillion In Value Overnight",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f86e3ba0a7ebc637",
+      "date": "2026-11-21T02:13:54Z"
+    },
+    {
+      "title": "Fear Erupts, AI Stocks Tank, but so Do Gold, Silver, Cryptos, Nearly Everything but Treasuries",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/9af1d25e095c3b6f",
+      "date": "2026-11-21T02:13:53Z"
+    },
+    {
+      "title": "Kalshi Lawsuit Goes Back to New York State Court After 112 Days in Federal Court",
       "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/regulation/moonpay-trust-bank-occ-charter-application/",
-      "date": "2026-11-20T03:42:15Z"
+      "url": "https://www.dcforecasts.com/regulation/kalshi-lawsuit-new-york-state-court-remand/",
+      "date": "2026-11-21T02:08:36Z"
     },
     {
-      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1bbaae75f5048e7f",
-      "date": "2026-11-20T03:42:09Z"
-    },
-    {
-      "title": "IndiGo, Tata Motors PV among 10 Nifty stocks facing earnings downgrades",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/indigo-tata-motors-pv-among-10-nifty-stocks-facing-earnings-downgrades/downgrade-watch/slideshow/136012225.cms",
-      "date": "2026-11-20T03:41:57Z"
-    },
-    {
-      "title": "Nikkei 225 Falls 4.5% and SoftBank Plunges 15% as Wall Street’s AI Selloff Puts Asian Stocks on Track for Their Worst Week Since 2020",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6633e1496d60b8ff",
-      "date": "2026-11-20T03:41:57Z"
-    },
-    {
-      "title": "Indian rice export prices hit 19-month high as rupee strengthens, African demand rises",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/indian-rice-export-prices-hit-19-month-high-as-rupee-strengthens-african-demand-rises/article71722963.ece",
-      "date": "2026-11-20T03:38:31Z"
-    },
-    {
-      "title": "Do birds mate before each egg is laid?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/do-birds-mate-before-each-egg-is-laid/",
-      "date": "2026-11-20T03:38:26Z"
-    },
-    {
-      "title": "Asia shares drop on AI worries, echoing Wall Street's decline despite the strong Anthropic debut",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Business/wireStory/asia-shares-drop-ai-worries-echoing-wall-streets-138309523",
-      "date": "2026-11-20T03:36:37Z"
-    },
-    {
-      "title": "Asia shares drop on AI worries, echoing Wall Street's decline despite the strong Anthropic debut",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/US/wireStory/asia-shares-drop-ai-worries-echoing-wall-streets-138309522",
-      "date": "2026-11-20T03:36:32Z"
-    },
-    {
-      "title": "ASX 200 Falls for Seventh Straight Day, Sheds More Than 5% This Week as AI Sell-Off Hits Tech and Gold Miners",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/asx-200-falls-ai-selloff-seven-session-losing-streak-1878977",
-      "date": "2026-11-20T03:34:50Z"
-    },
-    {
-      "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak",
-      "date": "2026-11-20T03:33:22Z"
-    },
-    {
-      "title": "Axis Direct names 35 top stocks to buy; ICICI Bank, HUL and Maruti Suzuki feature in list",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/axis-direct-names-35-top-stocks-to-buy-icici-bank-hul-and-maruti-suzuki-feature-in-list/add-to-cart/slideshow/136011903.cms",
-      "date": "2026-11-20T03:31:23Z"
-    },
-    {
-      "title": "Bonds vs equities: India’s stock market rally faces valuation test",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/india-s-stock-rally-faces-valuation-test-as-bond-allure-grows",
-      "date": "2026-11-20T03:30:45Z"
-    },
-    {
-      "title": "Stick to flexicap or multi-cap funds for your core portfolio: Mahindra Manulife MF CEO",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/mahindra-manulife-ceo-on-large-cap-funds-sip-flows-market-outlook-11795003311423.html",
-      "date": "2026-11-20T03:30:21Z"
-    },
-    {
-      "title": "Magna International Targets Above-Market Growth Through 2030, With China and New Industries in Focus",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/fc2d563738303a37",
-      "date": "2026-11-20T03:28:41Z"
-    },
-    {
-      "title": "Do sibling deer stay together?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/do-sibling-deer-stay-together/",
-      "date": "2026-11-20T03:26:44Z"
-    },
-    {
-      "title": "'Like Old Bread': Navy Chief Discloses That 'Expired' Missiles Were Used Against Iran",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ca5b1afe48cdba03",
-      "date": "2026-11-20T03:26:44Z"
-    },
-    {
-      "title": "[Black Friday] Priceline Pharmacy – up to 50% off Maybelline, Boost LAB, Real Techniques & More",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/984442",
-      "date": "2026-11-20T03:16:15Z"
-    },
-    {
-      "title": "TVS Motor Company among 4 stocks that close above VWAP",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/tvs-motor-company-among-4-stocks-that-close-above-vwap/technical-picks/slideshow/136011430.cms",
-      "date": "2026-11-20T03:16:04Z"
-    },
-    {
-      "title": "Is Making a Big Move. Here’s What’s Happening",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/dc4190843c645ce6",
-      "date": "2026-11-20T03:13:51Z"
-    },
-    {
-      "title": "Shares Are Taking Off. Here’s What’s Coming",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/18cc657a2ad07e38",
-      "date": "2026-11-20T03:13:32Z"
-    },
-    {
-      "title": "Top stocks to buy today: Stock market recommendations for November 20, 2026; check list",
+      "title": "Anthropic shares plunge 13% a day after debut, retail investors face losses",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-november-20-2026-shree-cement-hyundai-motor-india-adani-power-stocks-to-buy-today/articleshow/136011005.cms",
-      "date": "2026-11-20T03:13:08Z"
+      "url": "https://timesofindia.indiatimes.com/business/international-business/anthropic-shares-crash-13-a-day-after-record-ipo-as-retail-investors-face-losses/articleshow/136042864.cms",
+      "date": "2026-11-21T02:06:34Z"
     },
     {
-      "title": "finlab 2.3.12",
+      "title": "Synchrony Financial Puts Lending Discipline First, Sees Walmart as Growth Opportunity",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d1dee1c1c6766ea8",
+      "date": "2026-11-21T02:00:07Z"
+    },
+    {
+      "title": "Bill Ackman’s Top 10 Stocks After Selling Stakes to Open a Brand-New Position",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/18446772e5eacfff",
+      "date": "2026-11-21T01:59:59Z"
+    },
+    {
+      "title": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment — ANT, NVDA, TTWO, ZS, CRWD In Focus",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/bd5167d94a111fd6",
+      "date": "2026-11-21T01:59:58Z"
+    },
+    {
+      "title": "Can American Electric Power (AEP) Keep Growing Earnings at 22%?",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8a2ef3d987925dff",
+      "date": "2026-11-21T01:59:42Z"
+    },
+    {
+      "title": "Michael Burry Says He Tried to Warn You About Nebius. The Stock Just Crashed 16% and Is 72% Below Its Record",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/85c499edc0bc806a",
+      "date": "2026-11-21T01:58:43Z"
+    },
+    {
+      "title": "Record November foreign inflows lift rupee, sensex rises 13%",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/record-november-foreign-inflows-lift-rupee-sensex-rises-13/articleshow/136042761.cms",
+      "date": "2026-11-21T01:50:34Z"
+    },
+    {
+      "title": "Wall Street suffers historic losses as Dow, S&P 500 plunge into correction territory",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/31594f8e882d753d",
+      "date": "2026-11-21T01:43:32Z"
+    },
+    {
+      "title": "Ark Invest acquires 705,982 shares of Anthropic as Cathie Wood leans into AI",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/ark-invest-buys-anthropic-shares/",
+      "date": "2026-11-21T01:34:53Z"
+    },
+    {
+      "title": "Bitcoin Dominance Hides a One-Year High Against the Biggest Altcoins",
+      "source": "Dcforecasts.com",
+      "url": "https://www.dcforecasts.com/analysis/bitcoin-dominance-one-year-high-altcoins-stablecoins/",
+      "date": "2026-11-21T01:30:05Z"
+    },
+    {
+      "title": "Why do birds scream in the morning?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/why-do-birds-scream-in-the-morning/",
+      "date": "2026-11-21T01:22:05Z"
+    },
+    {
+      "title": "In-House Reviews #184: Paper Tiger, Tender Loving Care, Elsinore, Madden & More | We Live Entertainment",
+      "source": "Weliveentertainment.com",
+      "url": "https://weliveentertainment.com/welivefilm/house-reviews-184-paper-tiger-tender-loving-care-elsinore-madden/",
+      "date": "2026-11-21T01:19:42Z"
+    },
+    {
+      "title": "Alset Inc trading halted, news pending",
+      "source": "Thefly.com",
+      "url": "https://www.thefly.com/aei",
+      "date": "2026-11-21T00:50:05Z"
+    },
+    {
+      "title": "Binance Hack Launderers Have Mixed 2,310 BTC, Most of It Since Tuesday",
+      "source": "Dcforecasts.com",
+      "url": "https://www.dcforecasts.com/binance-news/binance-hack-coinjoins-2310-btc-kruw/",
+      "date": "2026-11-21T00:47:36Z"
+    },
+    {
+      "title": "Can a ferret live with a dog?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/can-a-ferret-live-with-a-dog/",
+      "date": "2026-11-21T00:44:14Z"
+    },
+    {
+      "title": "S&P 500 and Dow Face Historic Correction, Nasdaq Wipes Out 2026 Gains After Worst Week Since 2020",
+      "source": "Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/sp-500-dow-face-historic-correction-nasdaq-wipes/",
+      "date": "2026-11-21T00:40:20Z"
+    },
+    {
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "source": "Krebs on Security",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "date": "2026-11-21T00:36:39Z"
+    },
+    {
+      "title": "lumibot 4.6.93",
       "source": "Pypi.org",
-      "url": "https://pypi.org/project/finlab/2.3.12/",
-      "date": "2026-11-20T03:11:56Z"
+      "url": "https://pypi.org/project/lumibot/4.6.93/",
+      "date": "2026-11-21T00:32:15Z"
     },
     {
-      "title": "Tata Technologies among 4 stocks showing RSI trending up",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/tata-technologies-among-4-stocks-showing-rsi-trending-up/momentum-watch/slideshow/136011353.cms",
-      "date": "2026-11-20T03:10:26Z"
+      "title": "Do squirrels cry?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/do-squirrels-cry/",
+      "date": "2026-11-21T00:29:57Z"
     },
     {
-      "title": "Stock market today: Will Sensex, Nifty sustain rally after scaling nine-month highs?",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-20-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/136011501.cms",
-      "date": "2026-11-20T03:10:04Z"
+      "title": "How smart is a lemur?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/how-smart-is-a-lemur/",
+      "date": "2026-11-21T00:28:12Z"
     },
     {
-      "title": "Maruti Suzuki among 6 stocks flashing White Marubozu pattern",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/maruti-suzuki-among-6-stocks-flashing-white-marubozu-pattern/trend-watch/slideshow/136011413.cms",
-      "date": "2026-11-20T03:09:49Z"
-    },
-    {
-      "title": "Chris Wood hikes exposure to Indian equities as AI trade falters",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/chris-wood-hikes-exposure-to-indian-equities-as-ai-trade-falters-126112000145_1.html",
-      "date": "2026-11-20T03:09:39Z"
-    },
-    {
-      "title": "Bitcoin’s December Has Followed November’s Direction in 10 of the Last 12 Years",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/analysis/bitcoin-december-returns-after-red-november/",
-      "date": "2026-11-20T03:07:48Z"
-    },
-    {
-      "title": "Asian stocks plunge as Anthropic fails to dispel AI fears",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/asian-stocks-nikkei-kospi-fall-anthropic-ipo-6568101",
-      "date": "2026-11-20T03:04:13Z"
-    },
-    {
-      "title": "Nikkei Falls 2.9%, Dragged by Chip, Metals Stocks",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/06486ad1f390d658",
-      "date": "2026-11-20T02:56:40Z"
-    },
-    {
-      "title": "Hong Kong stocks head for 19-month low as Anthropic’s debut fails to reinvigorate AI trade",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/29cd0f2f856bd08f",
-      "date": "2026-11-20T02:56:33Z"
+      "title": "NBFC borrowing costs stay elevated even after retreat in sovereign bond yields",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/industry/banking/nbfc-borrowing-costs-elevated-sovereign-bond-yields-retreat-11795170548269.html",
+      "date": "2026-11-21T00:20:06Z"
     }
   ]
 }

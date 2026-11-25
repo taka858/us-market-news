@@ -4,198 +4,192 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-11-24T06:41:53.661739"
+      "date": "2026-11-25T05:11:36.804278"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-11-24T06:41:53.661748"
+      "date": "2026-11-25T05:11:36.804284"
     }
   ],
   "bitcoin": {
-    "price": 60374,
-    "date": "2026-11-24T06:41:53.729732"
+    "price": 59155,
+    "date": "2026-11-25T05:11:36.837504"
   },
   "news": [
     {
-      "title": "Can birds recognize you?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/can-birds-recognize-you/",
-      "date": "2026-11-23T06:40:57Z"
-    },
-    {
-      "title": "Stocks to buy: What's the outlook for Nifty, Bank Nifty this week?",
+      "title": "Shakti Kapoor touches Mithun Chakraborty's feet, poses with Poonam Dhillon and Padmini Kolhapure",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/stocks-to-buy-whats-the-outlook-for-nifty-for-november-23-november-27-week-check-list-of-top-stock-recommendations-pnb-housing-finance-rbl-bank/articleshow/136092234.cms",
-      "date": "2026-11-23T06:39:56Z"
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shakti-kapoor-touches-mithun-chakrabortys-feet-poses-with-poonam-dhillon-and-padmini-kolhapure/articleshow/136118918.cms",
+      "date": "2026-11-24T05:10:23Z"
     },
     {
-      "title": "The great Indian stock market comeback. Can the rally sustain and what should investors do?",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/the-great-indian-stock-market-comeback-can-the-rally-sustain-and-what-should-investors-do/articleshow/136092236.cms",
-      "date": "2026-11-23T06:39:55Z"
+      "title": "Asia Markets Jump as Nvidia Boss Jensen Huang Reinstated After Spy Scandal, Taiwan Soars 9% on TSMC Rally",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/asian-stocks-rally-nvidia-reinstates-jensen-huang-1879278",
+      "date": "2026-11-24T05:09:19Z"
     },
     {
-      "title": "Qualitas And 2 Other Australian Value Stocks To Watch",
+      "title": "‘Too Big to Fail’: The Industry Reacts to Jensen Huang’s Return to Nvidia",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7b181307463f267f",
-      "date": "2026-11-23T06:35:47Z"
+      "url": "https://biztoc.com/x/7b9294e2454a2ee9",
+      "date": "2026-11-24T05:08:18Z"
     },
     {
-      "title": "BSE Realty index soars 17% in November; what's driving real estate stocks?",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/bse-realty-index-soars-17-in-november-what-s-driving-real-estate-stocks-126112300352_1.html",
-      "date": "2026-11-23T06:35:21Z"
+      "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip",
+      "date": "2026-11-24T05:07:30Z"
     },
     {
-      "title": "Solana ETFs post $4.38 million weekly inflow as Bitcoin, Ether and XRP funds bleed",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/solana-etfs-inflow-bitcoin-ether-xrp-outflows/",
-      "date": "2026-11-23T06:35:17Z"
+      "title": "Did Ro Khanna lose big after his mysteriously well-timed sale of his Nvidia shares?",
+      "source": "Americanthinker.com",
+      "url": "https://www.americanthinker.com/blog/2026/11/did-ro-khanna-lose-big-after-his-mysteriously-well-timed-sale-of-his-nvidia-shares/",
+      "date": "2026-11-24T05:00:00Z"
     },
     {
-      "title": "IGO Shares Rise Nearly 5% as Battered Lithium Miner Rebounds After Mining Rout, but Yearly Losses Still Deep",
+      "title": "Elon Musk Warns AI Firms Could Face a Cash Crisis in 2027 as Data Center Delays Threaten Hundreds of Billions",
       "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/igo-shares-rebound-lithium-strategy-1879185",
-      "date": "2026-11-23T06:35:12Z"
+      "url": "https://www.ibtimes.com.au/elon-musk-ai-cash-shortage-2027-1879276",
+      "date": "2026-11-24T04:57:41Z"
     },
     {
-      "title": "Potato acreage likely to remain stable at 2.4 million hectares in rabi season, production seen near last year's levels",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/industry/agriculture/potato-acreage-stable-2-4-million-hectares-rabi-season-production-11795410252227.html",
-      "date": "2026-11-23T06:33:06Z"
+      "title": "Trump had 4 reasons to ‘convince’ Nvidia to rehire Jensen Huang. Here’s why it matters globally",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/trump-had-4-reasons-to-convince-nvidia-to-rehire-jensen-huang-heres-why-it-matters-globally-297377",
+      "date": "2026-11-24T04:57:18Z"
     },
     {
-      "title": "Bitcoin Treasury Company Boyaa Puts 3,000 of Its 4,471 BTC to Work in Its Own Networks",
+      "title": "UAE SME AI Spending Rises Fivefold in a Year",
+      "source": "Dubaichronicle.com",
+      "url": "https://www.dubaichronicle.com/2026/11/24/uae-sme-ai-spending-rises-fivefold-in-a-year/",
+      "date": "2026-11-24T04:55:07Z"
+    },
+    {
+      "title": "NatWest Group CFO Sees Strong Returns Ahead as Lending Grows and Hedge Income Climbs",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/20e10d34a8631073",
+      "date": "2026-11-24T04:54:45Z"
+    },
+    {
+      "title": "South Korea Crypto Firms Went 28 for 28 on Filings as Owner Vetting Begins",
       "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/bitcoin-news/bitcoin-treasury-company-boyaa-3000-btc-staked/",
-      "date": "2026-11-23T06:31:50Z"
+      "url": "https://www.dcforecasts.com/regulation/south-korea-crypto-firms-28-filings-owner-vetting/",
+      "date": "2026-11-24T04:50:19Z"
     },
     {
-      "title": "Greatland Resources Shares Climb Nearly 5% as Gold Miners Bounce Back After Brutal Week for ASX Resources",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/greatland-resources-shares-rebound-australian-miners-1879187",
-      "date": "2026-11-23T06:31:08Z"
-    },
-    {
-      "title": "Spain Stops NoName057(16) From Getting a Physical Foothold",
-      "source": "Securityaffairs.com",
-      "url": "https://securityaffairs.com/203756/hacktivism/spain-stops-noname05716-from-getting-a-physical-foothold.html",
-      "date": "2026-11-23T06:30:26Z"
-    },
-    {
-      "title": "Electro Optic Systems Shares Jump Over 5% as Counter-Drone Demand Lifts Defence Stock Amid Volatile Market",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/eos-shares-rise-counter-drone-orders-1879189",
-      "date": "2026-11-23T06:30:26Z"
-    },
-    {
-      "title": "Sims Shares Soar Nearly 10% as AI Data Centre Boom Supercharges Recycler, Topping ASX 200 Gainers Monday",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/sims-shares-jump-ai-data-centre-profit-upgrade-1879191",
-      "date": "2026-11-23T06:23:17Z"
-    },
-    {
-      "title": "PLS Group Shares Gain Over 4% on Heavy Volume as Lithium Stocks Bounce, Yet Remain Nearly 30% Down for Year",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/pls-shares-rise-lithium-stocks-rebound-1879183",
-      "date": "2026-11-23T06:19:24Z"
-    },
-    {
-      "title": "Low P/E investing alone is a bad strategy: Harini Dedhia explains why",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/low-p-e-investing-alone-is-a-bad-strategy-harini-dedhia-explains-why-126112300319_1.html",
-      "date": "2026-11-23T06:18:19Z"
-    },
-    {
-      "title": "Fed may expand balance sheet amid money market stress: FT",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/fed-may-expand-balance-sheet-amid-money-market-stress-ft/",
-      "date": "2026-11-23T06:15:50Z"
-    },
-    {
-      "title": "Taiwan tightens short-selling rules amid AI stock decline",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/taiwan-tightens-short-selling-rules-amid-ai-stock-decline/",
-      "date": "2026-11-23T06:15:41Z"
-    },
-    {
-      "title": "Quantitative Tightening Ended a Year Ago, and Fed Liquidity Is Up $228 Billion",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/analysis/quantitative-tightening-ended-fed-liquidity-bitcoin/",
-      "date": "2026-11-23T06:15:10Z"
-    },
-    {
-      "title": "HDFC Bank shares, Bank Nifty retreat sharply from record highs",
+      "title": "RBI gives approval to SBI MF to acquire up to 9.99% of South Indian Bank’s paid-up share capital",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-shares-bank-nifty-retreat-sharply-from-record-highs/article71733624.ece",
-      "date": "2026-11-23T06:14:34Z"
+      "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-gives-approval-to-sbi-mf-to-acquire-up-to-999-of-south-indian-banks-paid-up-share-capital/article71737202.ece",
+      "date": "2026-11-24T04:47:44Z"
     },
     {
-      "title": "Magnitude 3.3 earthquake strikes off Los Angeles coast near Manhattan Beach",
+      "title": "GQG Partners Shares Surge 10% on Track for Record Gain as AI Trade Revival Lifts Rajiv Jain Fund Manager",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/gqg-partners-shares-ai-rebound-1879264",
+      "date": "2026-11-24T04:45:49Z"
+    },
+    {
+      "title": "Lovisa Shares Jump 9% as Jewellery Retailer Reports 15.5% Sales Growth and Brokers Upgrade Stock at AGM",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/lovisa-shares-jump-after-sales-update-broker-upgrades-1879262",
+      "date": "2026-11-24T04:44:27Z"
+    },
+    {
+      "title": "“I want to make sure I can give back to them in any shape..”: How Patrick and Brittany Mahomes are giving people with intellectual disabilities a chance to find their sporting dreams",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/3-3-magnitude-earthquake-strikes-off-los-angeles-coast-near-manhattan-beach/articleshow/136091122.cms",
-      "date": "2026-11-23T06:08:42Z"
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/i-want-to-make-sure-i-can-give-back-to-them-in-any-shape-how-patrick-and-brittany-mahomes-are-giving-people-with-intellectual-disabilities-a-chance-to-find-their-sporting-dreams/articleshow/136119660.cms",
+      "date": "2026-11-24T04:43:25Z"
     },
     {
-      "title": "Computacenter Heads These 3 British Value Stocks To Watch",
+      "title": "ASX 200 Jumps 1.6% to Snap Eight-Day Losing Streak as Nvidia Huang Return Sparks Tech Rally in Sydney Today",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/asx-200-rally-nvidia-rebound-eight-day-losing-streak-1879268",
+      "date": "2026-11-24T04:40:51Z"
+    },
+    {
+      "title": "Tasmea Shares Rally Nearly 9% as Industrial Services Stock Rebounds With Broad ASX Rally After Pullback",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/tasmea-shares-rebound-asx-rally-1879260",
+      "date": "2026-11-24T04:40:36Z"
+    },
+    {
+      "title": "Bitcoin fails to hold Nvidia bump with crypto headwinds in focus",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/markets/cryptocurrency/bitcoin-fails-to-hold-nvidia-bump-with-crypto-headwinds-in-focus/articleshow/136119619.cms",
+      "date": "2026-11-24T04:40:09Z"
+    },
+    {
+      "title": "Zip Co Shares Rise Nearly 7% as Buy Now Pay Later Stock Trades Under ZIPDC After Five-for-One Consolidation",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/zip-shares-rise-after-share-consolidation-1879258",
+      "date": "2026-11-24T04:39:57Z"
+    },
+    {
+      "title": "Coming of age in a polycrisis: Why young adults are faring worse than their parents in India",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/coming-of-age-in-a-polycrisis-why-young-adults-are-faring-worse-than-their-parents-in-india/articleshow/136119418.cms",
+      "date": "2026-11-24T04:29:34Z"
+    },
+    {
+      "title": "Jensen Huang's return to Nvidia is bad news for Anthropic. Here's why",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6f77864ca846b28c",
-      "date": "2026-11-23T06:05:21Z"
+      "url": "https://biztoc.com/x/54f5fe5c6d0d420b",
+      "date": "2026-11-24T04:22:37Z"
     },
     {
-      "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
+      "title": "Japanese bonds rally across curve as domestic stocks surge",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/468c63adabb60e2d",
-      "date": "2026-11-23T06:05:21Z"
+      "url": "https://biztoc.com/x/f20719ef304c7fe4",
+      "date": "2026-11-24T04:22:14Z"
     },
     {
-      "title": "Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d67a010d7f5600cd",
-      "date": "2026-11-23T06:05:16Z"
+      "title": "5 things you need to know about the vivo V80 in Malaysia",
+      "source": "SoyaCincau.com",
+      "url": "https://soyacincau.com/2026/11/24/5-things-to-know-vivo-v80-malaysia/",
+      "date": "2026-11-24T04:21:51Z"
     },
     {
-      "title": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ca743be4046ab371",
-      "date": "2026-11-23T06:04:55Z"
+      "title": "Japanese Bond Yields Climbed to 1996 Levels, but the Yen Is Weaker Than a Year Ago",
+      "source": "Dcforecasts.com",
+      "url": "https://www.dcforecasts.com/analysis/japanese-bond-yields-1996-levels-yen-carry-trade/",
+      "date": "2026-11-24T04:20:27Z"
     },
     {
-      "title": "The 5 best sneakers of November 2026",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/11/23/5-best-sneakers-november-2026/",
-      "date": "2026-11-23T06:04:00Z"
+      "title": "Why is my sugar glider clicking?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/why-is-my-sugar-glider-clicking/",
+      "date": "2026-11-24T04:19:38Z"
     },
     {
-      "title": "SEC Aims to Directly Oversee Database Loathed by Wall Street",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/national/2026/11/23/893402.htm",
-      "date": "2026-11-23T06:03:43Z"
+      "title": "SEBI warns investors against fraudsters impersonating registered intermediaries on WhatsApp groups",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sebi-warns-investors-against-fraudsters-impersonating-registered-intermediaries-on-whatsapp-groups/article71737121.ece",
+      "date": "2026-11-24T04:16:13Z"
     },
     {
-      "title": "The AI data center boom is driving billions into private infrastructure",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/23/infrastructure-assets-inflation-investors-ai.html",
-      "date": "2026-11-23T06:00:01Z"
-    },
-    {
-      "title": "Was Jensen Huang worth $570bn? Nvidia’s fall offers clues",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/your-money/2026/11/23/was-jensen-huang-worth-570bn-nvidias-fall-offers-clues/",
-      "date": "2026-11-23T06:00:00Z"
-    },
-    {
-      "title": "After 60 Years, Chemists Finally Isolate Elusive Molecules Thought Too Unstable to Survive",
-      "source": "ScienceAlert",
-      "url": "https://www.sciencealert.com/after-60-years-chemists-finally-isolate-elusive-molecules-thought-too-unstable-to-survive",
-      "date": "2026-11-23T06:00:00Z"
-    },
-    {
-      "title": "Gold rebounds after biggest weekly drop in eight months as buyers return",
+      "title": "Nvidia's board was no match for Trump or powerful backers of Jensen Huang",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/commodities/gold-rebounds-after-biggest-weekly-drop-in-eight-months-as-buyers-return-126112300323_1.html",
-      "date": "2026-11-23T06:00:00Z"
+      "url": "https://www.business-standard.com/technology/tech-news/nvidia-s-board-was-no-match-for-trump-or-powerful-backers-of-jensen-huang-126112400184_1.html",
+      "date": "2026-11-24T04:12:28Z"
+    },
+    {
+      "title": "Just Exploded 24%. Here’s What Sent Shares Flying",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c66204cb3562a878",
+      "date": "2026-11-24T04:09:44Z"
+    },
+    {
+      "title": "Just Made a Stunning Comeback",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8646c456bbde3c15",
+      "date": "2026-11-24T04:09:27Z"
+    },
+    {
+      "title": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia’s CEO",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1d8a55cba2fb96bc",
+      "date": "2026-11-24T04:09:24Z"
     }
   ]
 }

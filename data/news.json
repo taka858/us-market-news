@@ -4,198 +4,192 @@
     {
       "name": "10Y Treasury",
       "yield": 4.25,
-      "date": "2026-11-26T04:39:50.862248"
+      "date": "2026-11-27T04:43:52.556612"
     },
     {
       "name": "2Y Treasury",
       "yield": 4.75,
-      "date": "2026-11-26T04:39:50.862256"
+      "date": "2026-11-27T04:43:52.556618"
     }
   ],
   "bitcoin": {
-    "price": 60926,
-    "date": "2026-11-26T04:39:50.949288"
+    "price": 61495,
+    "date": "2026-11-27T04:43:52.620554"
   },
   "news": [
     {
-      "title": "Berkshire Hathaway Market Cap Is Only $35 Billion Above Bitcoin’s",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/analysis/berkshire-hathaway-market-cap-bitcoin-35-billion/",
-      "date": "2026-11-25T04:35:52Z"
+      "title": "Timberwolves Player Ratings: Jaden McDaniels 32-Point Double-Double Leads Minnesota Past Thunder",
+      "source": "Fadeaway World",
+      "url": "https://fadeawayworld.net/nba/minnesota-timberwolves/timberwolves-player-ratings-jaden-mcdaniels-32-point-double-double-leads-minnesota-past-thunder",
+      "date": "2026-11-26T04:39:26Z"
     },
     {
-      "title": "pyhood 0.23.0",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/pyhood/0.23.0/",
-      "date": "2026-11-25T04:35:36Z"
-    },
-    {
-      "title": "Said on Its Q3 Earnings Call",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6c75833c4366efae",
-      "date": "2026-11-25T04:33:04Z"
-    },
-    {
-      "title": "Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1d5bb6cc70186236",
-      "date": "2026-11-25T04:31:22Z"
-    },
-    {
-      "title": "APL Apollo crashes 29% since Tata Steel deal; SG Mart, SG Finserve hit lows",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/apl-apollo-crashes-29-since-tata-steel-deal-sg-mart-sg-finserve-hit-lows-126112500175_1.html",
-      "date": "2026-11-25T04:26:52Z"
-    },
-    {
-      "title": "Crude oil futures fall despite attacks on vessels in Strait of Hormuz",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-fall-despite-attacks-on-vessels-in-strait-of-hormuz/article71741053.ece",
-      "date": "2026-11-25T04:24:59Z"
-    },
-    {
-      "title": "Hyundai Motor India shares fall over 2% as carmaker hikes prices across select models",
+      "title": "Eternal, Adani Enterprises among 10 stocks with highest FII buying in Q2. How many do you have?",
       "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/hyundai-motor-india-shares-in-focus-as-carmaker-hikes-prices-across-select-models/articleshow/136147819.cms",
-      "date": "2026-11-25T04:20:54Z"
+      "url": "https://m.economictimes.com/markets/stocks/news/eternal-adani-enterprises-among-10-stocks-with-highest-fii-buying-in-q2-how-many-do-you-have/taking-stock/slideshow/136178864.cms",
+      "date": "2026-11-26T04:36:47Z"
     },
     {
-      "title": "US banks want access to Fed funding on holidays as Wall Street prepares for longer settlement hours",
-      "source": "CryptoSlate",
-      "url": "https://cryptoslate.com/feds-survey-finds-demand-for-a-holiday-cash-backstop/",
-      "date": "2026-11-25T04:20:06Z"
-    },
-    {
-      "title": "Nifty Prediction Today – November 25, 2026: Nifty futures: Uptrend resumes",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-november-25-2026-nifty-futures-uptrend-resumes/article71741055.ece",
-      "date": "2026-11-25T04:19:39Z"
-    },
-    {
-      "title": "Three-Point Shooting Goes Cold in Mizzou’s Narrow Win Over Evansville",
-      "source": "Rockmnation.com",
-      "url": "https://www.rockmnation.com/missouri-tigers-basketball/165128/three-point-shooting-goes-cold-in-mizzous-narrow-win-over-evansville",
-      "date": "2026-11-25T04:16:57Z"
-    },
-    {
-      "title": "Markets snap two-day losing streak with sharp gap-up; Banks, IT lead recovery",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/markets-snap-two-day-losing-streak-with-sharp-gap-up-banks-it-lead-recovery/article71741028.ece",
-      "date": "2026-11-25T04:09:59Z"
-    },
-    {
-      "title": "AILET 2027 admit card released at nationallawuniversitydelhi.in: Direct link to download hall ticket here",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/education/news/ailet-2027-admit-card-released-at-nationallawuniversitydelhi-in-direct-link-to-download-hall-ticket-here/articleshow/136147604.cms",
-      "date": "2026-11-25T04:06:52Z"
-    },
-    {
-      "title": "NM United opens roster spots for next season",
-      "source": "Albuquerque Journal",
-      "url": "https://www.abqjournal.com/sports/nm-united-opens-roster-spots-for-next-season/3169031",
-      "date": "2026-11-25T04:06:00Z"
-    },
-    {
-      "title": "High MTF revenue exposure brokerages face earnings impact: Prakash Kacholia",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/high-mtf-revenue-exposure-brokerages-face-earnings-impact-prakash-kacholia-126112500149_1.html",
-      "date": "2026-11-25T04:05:26Z"
-    },
-    {
-      "title": "What do gorillas like the most?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/what-do-gorillas-like-the-most/",
-      "date": "2026-11-25T04:04:56Z"
-    },
-    {
-      "title": "Bulls return to D-St! Sensex zooms 1,500 points intraday; key factors here",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/bulls-return-to-d-st-sensex-zooms-1-500-points-intraday-key-factors-here-126112500139_1.html",
-      "date": "2026-11-25T04:02:13Z"
-    },
-    {
-      "title": "Oontz Solo by Cambridge Soundworks Bluetooth Speaker $20 Delivered (RRP $39.99) @ Gizmoo",
-      "source": "Ozbargain.com.au",
-      "url": "https://www.ozbargain.com.au/node/985407",
-      "date": "2026-11-25T04:01:05Z"
-    },
-    {
-      "title": "Can you touch sandhill cranes?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/can-you-touch-sandhill-cranes/",
-      "date": "2026-11-25T03:58:46Z"
-    },
-    {
-      "title": "APL Apollo Tubes among 4 Nifty500 stocks closing below VWAP",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/apl-apollo-tubes-among-4-nifty500-stocks-closing-below-vwap/trend-watch/slideshow/136147553.cms",
-      "date": "2026-11-25T03:56:10Z"
-    },
-    {
-      "title": "CleanSpark posts $987 million fiscal 2026 loss, holds 11,720 Bitcoin",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/cleanspark-fiscal-2026-loss-btc-holdings/",
-      "date": "2026-11-25T03:55:42Z"
-    },
-    {
-      "title": "Why is a sparrow constantly chirping?",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/why-is-a-sparrow-constantly-chirping/",
-      "date": "2026-11-25T03:53:38Z"
-    },
-    {
-      "title": "Gold, silver prices today 25 November, Wed: Latest 24K, 22K gold, 999 silver rates in Delhi, Mumbai, Kolkata and others",
+      "title": "Gold sinks to 1-year low despite inflation: Why are investors dumping bullion?",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-25-november-wed-latest-24k-22k-gold-999-silver-rates-in-delhi-mumbai-kolkata-and-others-11795576136181.html",
-      "date": "2026-11-25T03:52:47Z"
+      "url": "https://www.livemint.com/money/personal-finance/gold-sinks-to-1-year-low-despite-inflation-why-are-investors-dumping-bullion-11795665217240.html",
+      "date": "2026-11-26T04:35:59Z"
     },
     {
-      "title": "USBC Stock Rests on 600 Pledged Bitcoin and a 15% Margin-Call Cushion",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/bitcoin-news/usbc-stock-600-bitcoin-pledged-payward-loan/",
-      "date": "2026-11-25T03:48:48Z"
+      "title": "Bitcoin is down 50 per cent. Gold has crashed. What's an investor to do? An expert lays out challenge for worried Aussies: 'Future worth test'",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16316781/Bitcoin-Trading-212-Gold.html",
+      "date": "2026-11-26T04:32:16Z"
     },
     {
-      "title": "A ₹43,000 crore bet on banks and financial stocks: What changed in FIIs’ November flows?",
+      "title": "SBI brings Japanese stocks to Solana but investors face a five-day wait to cash out",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/sbi-brings-japanese-stocks-to-solana-but-investors-face-a-five-day-wait-to-cash-out/",
+      "date": "2026-11-26T04:30:59Z"
+    },
+    {
+      "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions",
+      "date": "2026-11-26T04:24:45Z"
+    },
+    {
+      "title": "Is Hum Aapke Hain Koun..! Your Favorite Barjatya Film?",
+      "source": "Rediff.com",
+      "url": "https://www.rediff.com/movies/special/sooraj-barjatyas-films-ranked-ahead-of-yeh-prem-moh-liya/20261126.htm",
+      "date": "2026-11-26T04:24:23Z"
+    },
+    {
+      "title": "SC sets aside HC stay on Cong MLA’s conviction in 2016 murder, cancels bail",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/sc-sets-aside-hc-stay-on-cong-mlas-conviction-in-2016-murder-cancels-bail/articleshow/136172270.cms",
+      "date": "2026-11-26T04:24:00Z"
+    },
+    {
+      "title": "Why is Alphabet stock sliding? Key factors behind the sell-off",
       "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/a-43000-crore-bet-on-banks-and-financial-stocks-what-changed-in-fiis-november-flows/articleshow/136147360.cms",
-      "date": "2026-11-25T03:47:34Z"
+      "url": "https://m.economictimes.com/markets/us-stocks/news/why-is-alphabet-stock-sliding-key-factors-behind-the-sell-off/alphabet-shares-tumble/slideshow/136178516.cms",
+      "date": "2026-11-26T04:22:51Z"
     },
     {
-      "title": "ASX 200 Slips as Inflation Jumps to Three-Year High of 4.9%, Miners and Gold Stocks Drag Australian Shares",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/asx-200-falls-australia-inflation-three-year-high-1879318",
-      "date": "2026-11-25T03:47:21Z"
+      "title": "Ice Bath Pro + Sauna Pro + Smart Steamer Bundle $239 Delivered @ Recovry Zone",
+      "source": "Ozbargain.com.au",
+      "url": "https://www.ozbargain.com.au/node/985652",
+      "date": "2026-11-26T04:21:03Z"
     },
     {
-      "title": "3 Stocks Investors Are Watching For Corporate Governance And Litigation Demand",
+      "title": "How close is a fox to a dog?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/how-close-is-a-fox-to-a-dog/",
+      "date": "2026-11-26T04:15:27Z"
+    },
+    {
+      "title": "Delhi Police issues public notice ahead of proposed SKM march to Jantar Mantar",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/delhi-police-issues-public-notice-ahead-of-proposed-skm-march-to-jantar-mantar/articleshow/136178248.cms",
+      "date": "2026-11-26T04:11:56Z"
+    },
+    {
+      "title": "Mumbai's Dharavi redevelopment to hit 210 trees, 67 marked for felling and 143 for transplantation; developer proposes planting 3,078 trees across 18 hectares in Palghar",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbais-dharavi-redevelopment-to-hit-210-trees-67-marked-for-felling-and-143-for-transplantation-developer-proposes-planting-3078-trees-across-18-hectares-in-palghar/articleshow/136178038.cms",
+      "date": "2026-11-26T04:09:06Z"
+    },
+    {
+      "title": "Vanda Pharmaceuticals Targets $1 Billion in Revenue as BYSANTI Launch Nears",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/17be2d14e4daa2b8",
-      "date": "2026-11-25T03:46:53Z"
+      "url": "https://biztoc.com/x/85790d4041e26f70",
+      "date": "2026-11-26T04:03:04Z"
     },
     {
-      "title": "Abercrombie & Fitch (ANF) Has Investors Rushing Back. Here’s Why",
+      "title": "Asian tech stocks jump as bargain buyers boost battered AI trade",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/dc063725c3fe18cb",
-      "date": "2026-11-25T03:46:46Z"
+      "url": "https://biztoc.com/x/1746c594bf9f2d52",
+      "date": "2026-11-26T04:02:48Z"
     },
     {
-      "title": "is Making a Monster Move After This Milestone",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/690cb5869beee9b5",
-      "date": "2026-11-25T03:46:42Z"
+      "title": "Nifty, Sensex open higher as FII buying extends; IT stocks lead, NBFCs slip",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/nifty-sensex-open-higher-as-fii-buying-extends-it-stocks-lead-nbfcs-slip/article71745153.ece",
+      "date": "2026-11-26T04:02:25Z"
     },
     {
-      "title": "Stages a Monster 14% Rally",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/12049ac83f5a87f0",
-      "date": "2026-11-25T03:46:17Z"
+      "title": "Why do we celebrate first period?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/why-do-we-celebrate-first-period/",
+      "date": "2026-11-26T04:02:00Z"
     },
     {
-      "title": "is Turning Heads With This Massive Surge",
+      "title": "Why were fish hatcheries created?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/why-were-fish-hatcheries-created/",
+      "date": "2026-11-26T03:59:46Z"
+    },
+    {
+      "title": "A 75-year-old man from Mandi lost his wife, left home and began living in forest before being rescued and brought to old-age home; years later, he found love and married a 63-year-old woman he met the",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/dehradun/a-75-year-old-man-from-mandi-lost-his-wife-left-home-and-began-living-in-forest-before-being-rescued-and-brought-to-old-age-home-years-later-he-found-love-and-married-a-63-year-old-woman-he-met-there/articleshow/136177676.cms",
+      "date": "2026-11-26T03:52:01Z"
+    },
+    {
+      "title": "Jupiter Wagons among 8 stocks showing White Marubozu pattern",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/markets/stocks/news/jupiter-wagons-among-8-stocks-showing-white-marubozu-pattern/bullish-signals/slideshow/136177975.cms",
+      "date": "2026-11-26T03:50:59Z"
+    },
+    {
+      "title": "Bloodbath at Rohtak dhaba: 4 men shot dead, diners flee for cover as gunmen storm eatery",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/bloodbath-at-rohtak-dhaba-4-men-shot-dead-diners-flee-for-cover-as-gunmen-storm-eatery/articleshow/136177530.cms",
+      "date": "2026-11-26T03:46:15Z"
+    },
+    {
+      "title": "Buy 1 Drink, Get a Free Picnic Pack including x2 Fresh Donuts",
+      "source": "Ozbargain.com.au",
+      "url": "https://www.ozbargain.com.au/node/985645",
+      "date": "2026-11-26T03:45:48Z"
+    },
+    {
+      "title": "Britannia Industries among 4 stocks closing above VWAP",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/markets/stocks/news/britannia-industries-among-4-stocks-closing-above-vwap/trend-watch/slideshow/136177856.cms",
+      "date": "2026-11-26T03:45:17Z"
+    },
+    {
+      "title": "Avenue Supermarts among 3 stocks showing RSI trending up",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/markets/stocks/news/avenue-supermarts-among-3-stocks-showing-rsi-trending-up/trend-watch/slideshow/136177712.cms",
+      "date": "2026-11-26T03:41:43Z"
+    },
+    {
+      "title": "How do you know if a wolf is happy?",
+      "source": "Lifesciencesworld.com",
+      "url": "https://www.lifesciencesworld.com/how-do-you-know-if-a-wolf-is-happy/",
+      "date": "2026-11-26T03:40:54Z"
+    },
+    {
+      "title": "tollbooth-dpyc 0.131.0",
+      "source": "Pypi.org",
+      "url": "https://pypi.org/project/tollbooth-dpyc/0.131.0/",
+      "date": "2026-11-26T03:39:30Z"
+    },
+    {
+      "title": "Oil prices rise on supply concerns as Iran claims mine strikes on ships",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/commodities/oil-prices-rise-on-supply-concerns-as-iran-claims-mine-strikes-on-ships-126112600085_1.html",
+      "date": "2026-11-26T03:38:36Z"
+    },
+    {
+      "title": "OKC Thunder drops NBA Cup group play finale to LaMelo Ball, Minnesota Timberwolves",
+      "source": "Oklahoman.com",
+      "url": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/25/okc-thunder-score-vs-timberwolves-nba-cub-standings-sga-ajay-mitchell-lamelo-ball-stats/92965451007/",
+      "date": "2026-11-26T03:32:56Z"
+    },
+    {
+      "title": "is Surging From All-Time Lows. Here’s What’s Happening",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d727dce9799ec58d",
-      "date": "2026-11-25T03:46:17Z"
+      "url": "https://biztoc.com/x/3a0c1a234b5f260a",
+      "date": "2026-11-26T03:32:37Z"
     }
   ]
 }
